@@ -1,0 +1,31 @@
+{
+  "name": "App Idea Machine",
+  "mode": "apps",
+  "badge": "App Idea Machine",
+  "colors": {
+    "accent": "#22C55E",
+    "accentLight": "#4ADE80",
+    "accentDark": "#16A34A",
+    "bg": "#0B0F19",
+    "text": "#FFFFFF",
+    "textSoft": "#C8D0E0",
+    "termBg": "#0D1117",
+    "termBorder": "#21262D"
+  },
+  "fonts": {
+    "heading": "Segoe UI",
+    "body": "Segoe UI",
+    "mono": "Cascadia Code"
+  },
+  "captions": {
+    "fontSize": 62,
+    "activeFontSize": 78,
+    "top": 1420
+  },
+  "voice": {
+    "id": "en-US-AndrewNeural",
+    "rate": "+15%",
+    "pitch": "+0Hz"
+  },
+  "animation": "slamBottom"
+}

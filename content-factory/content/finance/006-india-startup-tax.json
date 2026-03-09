@@ -1,0 +1,40 @@
+{
+  "id": "finance-006",
+  "mode": "finance",
+  "title": "AI Compared 5 Countries For Freelancers",
+  "hook": "I asked AI to find the best country for a freelancer earning $8,000 a month. The winner surprised me.",
+  "voiceoverScript": "I asked AI to find the best country for a freelancer earning eight thousand dollars a month. The winner surprised me. I gave Claude five options. United States, Dubai, Portugal, Thailand, and Georgia. Not the state, the country. AI ran total cost of living, taxes, visa requirements, and internet speed for each one. The US takes thirty percent in taxes. You keep fifty six hundred. Dubai has zero tax but cost of living eats forty two hundred a month. You keep thirty eight hundred. Portugal's digital nomad visa taxes you at twenty percent flat. You keep forty eight hundred after living costs. Thailand costs seventeen hundred a month to live well. You keep fifty nine hundred. But Georgia was the surprise. Flat one percent tax for freelancers. Cost of living twelve hundred a month. Internet faster than most US cities. You keep sixty six hundred. That's a thousand more than staying in America. AI checked twenty three data points per country. Georgia won on sixteen of them. The best financial move might be one you've never even considered.",
+  "scenes": [
+    {
+      "id": "data",
+      "label": "5-Country Freelancer Showdown",
+      "text": "At $8K/mo income — who lets you keep the most? AI ranked all 5.",
+      "data": { "amount": 6600, "prefix": "$", "suffix": "/mo kept", "demographic": "If you're a remote freelancer earning $5K+ per month..." }
+    },
+    {
+      "id": "geo",
+      "label": "Georgia",
+      "text": "1% flat tax. $1,200/mo living. Faster internet than most US cities.",
+      "data": {
+        "location": "GEORGIA",
+        "stat1": "Freelancer Tax|1% flat",
+        "stat2": "Cost of Living|$1,200/mo",
+        "stat3": "You Keep|$6,600/mo",
+        "stat4": "vs USA|+$1,000/mo"
+      }
+    },
+    {
+      "id": "ai",
+      "label": "AI Country Ranker",
+      "text": "23 data points per country. Georgia won on 16 of them.",
+      "data": {
+        "prompt": "Rank US, Dubai, Portugal, Thailand, Georgia for $8K/mo freelancer — total take-home after tax + living costs",
+        "result": "Georgia wins: 1% tax + $1,200 COL = $6,600 kept. $1K more than staying in America."
+      }
+    }
+  ],
+  "cta": {
+    "line1": "The best move",
+    "line2": "you never considered"
+  }
+}

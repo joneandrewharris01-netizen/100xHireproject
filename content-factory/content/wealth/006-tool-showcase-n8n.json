@@ -1,0 +1,61 @@
+{
+  "id": "wealth-006",
+  "mode": "wealth",
+  "title": "5 Automation Tools That Replace Employees",
+  "hook": "These 5 tools replaced a $4,000 a month employee. And most of them are free.",
+  "voiceoverScript": "These five tools replaced a four thousand dollar a month employee. And most of them are free. First, n8n. Open source workflow builder. Connect any API, automate any process. I use it for every client. Second, Make dot com. Visual automations that non-technical people can actually understand. Perfect for small teams. Third, Zapier. The gateway drug of automation. Five minute setup, instant results. Fourth, Claude. Not just a chatbot. It writes proposals, analyzes data, and builds entire workflows from a single prompt. Fifth, Airtable. Your spreadsheet on steroids. Combine it with any of these tools and you have a full business operating system. Save this list. You'll need it.",
+  "scenes": [
+    {
+      "id": "tool-n8n",
+      "label": "n8n",
+      "text": "Open source. Self-hosted. Connect any API. Free forever.",
+      "data": {
+        "toolVideo": "tools/n8n-ai-broll.mp4",
+        "toolImage": "tools/n8n-screenshot.png",
+        "toolBrand": "Workflow Builder"
+      }
+    },
+    {
+      "id": "tool-make",
+      "label": "Make.com",
+      "text": "Drag. Drop. Automate. Non-technical teams love this.",
+      "data": {
+        "toolVideo": "tools/make-demo-trimmed.mp4",
+        "toolImage": "tools/make-screenshot.png",
+        "toolBrand": "Visual Automation"
+      }
+    },
+    {
+      "id": "tool-zapier",
+      "label": "Zapier",
+      "text": "Five minute setup. Instant results. The gateway drug.",
+      "data": {
+        "toolVideo": "tools/zapier-ai-broll.mp4",
+        "toolBrand": "Instant Automation"
+      }
+    },
+    {
+      "id": "tool-claude",
+      "label": "Claude",
+      "text": "Writes proposals. Analyzes data. Builds entire workflows.",
+      "data": {
+        "toolVideo": "tools/claude-demo-trimmed.mp4",
+        "toolBrand": "AI Assistant"
+      }
+    },
+    {
+      "id": "tool-airtable",
+      "label": "Airtable",
+      "text": "Spreadsheet on steroids. Your full business operating system.",
+      "data": {
+        "toolVideo": "tools/airtable-demo-trimmed.mp4",
+        "toolBrand": "Data Platform"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "Save this",
+    "line2": "list",
+    "button": "Follow for more"
+  }
+}

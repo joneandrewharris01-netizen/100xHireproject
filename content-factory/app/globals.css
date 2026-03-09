@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --wealth: #00D4FF;
+  --apps: #22C55E;
+  --finance: #D4A843;
+  --custom: #8B5CF6;
+  --surface: #0B0F19;
+  --surface-light: #131825;
+  --surface-lighter: #1A2035;
+  --surface-border: #2A3050;
+}
+
+body {
+  background: var(--surface);
+  color: #fff;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--surface);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--surface-border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3A4070;
+}
+
+/* JSON editor textarea */
+.json-editor {
+  font-family: "Cascadia Code", Consolas, monospace;
+  font-size: 13px;
+  line-height: 1.5;
+  tab-size: 2;
+}
+
+/* Form inputs */
+.field-input {
+  @apply w-full bg-surface-light border border-surface-border rounded-md px-3 py-2 text-white text-sm
+    focus:outline-none focus:border-gray-500 placeholder-gray-600 resize-y;
+}
+
+/* Line clamp utility */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

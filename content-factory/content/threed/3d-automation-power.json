@@ -1,0 +1,34 @@
+{
+  "id": "3d-automation-power",
+  "mode": "threed",
+  "title": "The Automation Stack That Replaced 3 Employees",
+  "hook": "This automation stack replaced 3 full-time employees.",
+  "voiceoverScript": "This automation stack replaced 3 full-time employees. I'm not exaggerating. A small agency was paying $12,000 a month for people to do work that machines now handle in seconds. Here's the stack. n8n handles the workflow orchestration. Claude API does the thinking — drafting proposals, scoring leads, writing summaries. Calendly auto-books everything. The result? Proposals go out in 90 seconds instead of 25 minutes. Leads get responded to at 2am. Reports generate themselves every Monday. Total cost to build? Under $2,000. Total monthly running cost? About $15. If you're still doing this stuff manually, you're leaving money on the table. Follow for more automation breakdowns.",
+  "scenes": [
+    {
+      "id": "the-stack",
+      "label": "The Stack",
+      "text": "n8n + Claude API + Calendly",
+      "data": {
+        "Setup Cost": "$2,000",
+        "Monthly": "$15",
+        "Replaced": "3 roles"
+      }
+    },
+    {
+      "id": "the-results",
+      "label": "The Results",
+      "text": "From 25 minutes to 90 seconds per proposal",
+      "data": {
+        "Proposals": "90sec",
+        "Leads": "24/7",
+        "Reports": "Auto"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "Still doing this manually?",
+    "line2": "Follow for the blueprint",
+    "button": "Follow"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "finance-003",
+  "mode": "finance",
+  "title": "7 Tax Deductions Freelancers Miss",
+  "hook": "Freelancers: you're probably paying too much tax. AI found 7 deductions you're missing.",
+  "voiceoverScript": "Freelancers. You're probably paying too much tax. I asked Claude to audit a typical freelancer's expenses and find missed deductions. It found seven. Home office deduction. Most freelancers skip it because it seems complicated. It's not. Health insurance premiums. Fully deductible if you're self-employed. Software subscriptions. Every tool you use for work counts. Internet and phone. The business percentage is deductible. Professional development. Courses, books, conferences. Equipment depreciation. That laptop? Deductible. Retirement contributions. SEP IRA lets you shelter up to twenty percent. Total potential savings for someone earning eighty thousand? Four thousand two hundred dollars a year. That's money you're giving away. AI found this in five minutes.",
+  "scenes": [
+    {
+      "id": "data",
+      "label": "Missed Deductions",
+      "text": "7 deductions most freelancers skip. AI found them in 5 minutes.",
+      "data": { "amount": 4200, "prefix": "$", "suffix": "/yr saved", "demographic": "Freelancers earning over $50K..." }
+    },
+    {
+      "id": "geo",
+      "label": "Your Tax Bill",
+      "text": "Home office, health insurance, software, internet, education, equipment, retirement.",
+      "data": {
+        "location": "TAX SEASON",
+        "stat1": "Deductions Found|7",
+        "stat2": "Analysis Time|5 min",
+        "stat3": "Annual Savings|$4,200",
+        "stat4": "Income Level|$80K+"
+      }
+    },
+    {
+      "id": "ai",
+      "label": "AI Tax Audit",
+      "text": "Claude analyzed typical freelancer expenses for missed deductions",
+      "data": {
+        "prompt": "Audit a freelancer earning $80K for missed tax deductions",
+        "result": "7 commonly missed deductions worth $4,200/year in savings"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "AI found this",
+    "line2": "What else should I ask?"
+  }
+}

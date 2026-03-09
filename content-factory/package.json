@@ -1,0 +1,45 @@
+{
+  "name": "content-factory",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx remotion studio src/index.ts",
+    "dashboard": "next dev -p 3000",
+    "dashboard:build": "next build",
+    "render:wealth": "npx ts-node --project tsconfig.scripts.json scripts/render.ts --mode wealth",
+    "render:apps": "npx ts-node --project tsconfig.scripts.json scripts/render.ts --mode apps",
+    "render:finance": "npx ts-node --project tsconfig.scripts.json scripts/render.ts --mode finance",
+    "render:custom": "npx ts-node --project tsconfig.scripts.json scripts/render.ts --mode custom",
+    "render:threed": "npx ts-node --project tsconfig.scripts.json scripts/render.ts --mode threed",
+    "daily:all": "npm run render:wealth && npm run render:apps && npm run render:finance"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
+    "@google/generative-ai": "^0.24.1",
+    "@react-three/fiber": "^8.17.10",
+    "@remotion/bundler": "4.0.242",
+    "@remotion/cli": "4.0.242",
+    "@remotion/lottie": "4.0.242",
+    "@remotion/media-utils": "4.0.242",
+    "@remotion/player": "4.0.242",
+    "@remotion/renderer": "4.0.242",
+    "@remotion/three": "^4.0.242",
+    "@remotion/transitions": "^4.0.242",
+    "lottie-web": "^5.13.0",
+    "next": "^14.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "4.0.242",
+    "three": "^0.183.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/three": "^0.183.1",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}

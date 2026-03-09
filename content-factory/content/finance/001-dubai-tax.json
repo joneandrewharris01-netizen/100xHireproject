@@ -1,0 +1,40 @@
+{
+  "id": "finance-001",
+  "mode": "finance",
+  "title": "Dubai 0% Tax Breakdown",
+  "hook": "Dubai founders pay 0% income tax. AI ran the full numbers.",
+  "voiceoverScript": "Dubai founders pay zero percent income tax. AI ran the full numbers. I asked Claude to compare the total tax burden for a freelancer earning a hundred thousand dollars in the US versus Dubai. In the US, you're looking at roughly thirty thousand in federal and state taxes. In Dubai, zero income tax. But there's a catch. Cost of living is twenty percent higher. Health insurance runs about five thousand a year. And you need a trade license at two thousand. Net savings after everything? About twenty thousand dollars per year. That's real money. But only if your income is above eighty thousand. Below that, the cost of living eats your savings. The numbers don't lie.",
+  "scenes": [
+    {
+      "id": "data",
+      "label": "Tax Comparison",
+      "text": "US: ~$30K in taxes. Dubai: $0 income tax. But there's a catch.",
+      "data": { "amount": 30000, "prefix": "$", "suffix": " saved", "demographic": "If you're a freelancer earning over $80K..." }
+    },
+    {
+      "id": "geo",
+      "label": "Dubai",
+      "text": "Zero income tax, but 20% higher cost of living and $7K in fees.",
+      "data": {
+        "location": "DUBAI",
+        "stat1": "Income Tax|0%",
+        "stat2": "COL Premium|+20%",
+        "stat3": "Health Ins.|$5K/yr",
+        "stat4": "Net Savings|$20K/yr"
+      }
+    },
+    {
+      "id": "ai",
+      "label": "I Asked AI...",
+      "text": "Compare total tax burden: US vs Dubai for $100K freelancer",
+      "data": {
+        "prompt": "Compare tax burden: US vs Dubai at $100K income",
+        "result": "Net savings $20K/yr — but only above $80K income threshold"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "The numbers",
+    "line2": "don't lie"
+  }
+}

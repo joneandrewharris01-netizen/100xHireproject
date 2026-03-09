@@ -1,0 +1,26 @@
+{
+  "id": "wealth-003",
+  "mode": "wealth",
+  "title": "The Lead Gen Machine",
+  "hook": "This workflow replaced a full-time employee. No joke.",
+  "voiceoverScript": "This workflow replaced a full-time employee. No joke. A real estate agency was paying someone three thousand a month just to follow up with leads. I built a Make automation that captures leads from their website, sends a personalized email within two minutes, and follows up three times over the next week. All automatic. The result? Their response rate went up forty percent. And they fired the follow-up person. Not because they wanted to. Because the bot was better. Three thousand dollars a month saved. I built it in four hours. Would you use this? Save this for later and follow for tomorrow's automation.",
+  "scenes": [
+    {
+      "id": "story",
+      "label": "Automated Lead Follow-up",
+      "text": "Real estate agency paying $3K/mo for lead follow-up. Built a Make workflow instead.",
+      "data": { "result": "40% higher response rate", "savings": "$3,000/month" }
+    },
+    {
+      "id": "money",
+      "label": "Saved Monthly",
+      "text": "Better results. Zero salary. The bot never takes a sick day.",
+      "data": { "amount": 3000, "period": "/month" }
+    }
+  ],
+  "cta": {
+    "line1": "Save this",
+    "line2": "for later",
+    "button": "Follow for more"
+  }
+}

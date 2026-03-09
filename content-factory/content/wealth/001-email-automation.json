@@ -1,0 +1,26 @@
+{
+  "id": "wealth-001",
+  "mode": "wealth",
+  "title": "The $4,000 Email Automation",
+  "hook": "I built this automation in 2 hours. Client saves $4,000 every month.",
+  "voiceoverScript": "I built this automation in 2 hours. Client saves four thousand dollars every month. A small business owner was paying a full-time employee just to copy data from emails into spreadsheets. I set up an n8n workflow that reads incoming emails, extracts the data, and pushes it straight into their Google Sheets. No more manual entry. No more errors. No more salary for a task a robot does better. The total savings? Four thousand dollars a month. And I charge five hundred to maintain it. Would you use something like this? DM me AUTOMATE and I'll show you how.",
+  "scenes": [
+    {
+      "id": "story",
+      "label": "Email-to-Sheet Automation",
+      "text": "Client was paying $4K/mo for manual data entry from emails to spreadsheets.",
+      "data": { "result": "Fully automated with n8n", "savings": "$4,000/month" }
+    },
+    {
+      "id": "money",
+      "label": "Monthly Savings",
+      "text": "Same accuracy. Zero salary. That's money back in your pocket.",
+      "data": { "amount": 4000, "period": "/month" }
+    }
+  ],
+  "cta": {
+    "line1": "DM me",
+    "line2": "AUTOMATE",
+    "button": "Follow + DM"
+  }
+}

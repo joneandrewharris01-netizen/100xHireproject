@@ -1,0 +1,26 @@
+{
+  "id": "wealth-002",
+  "mode": "wealth",
+  "title": "The Invoice Bot",
+  "hook": "I charge $2,500 for something that takes me 3 hours to build.",
+  "voiceoverScript": "I charge twenty five hundred dollars for something that takes me three hours to build. A client came to me spending ten hours a week creating invoices manually. I built a Claude-powered bot that reads their project data, generates invoices, and sends them automatically. Three hours of my time. Twenty five hundred dollars. And the client saves ten hours every single week. The math is simple. They were paying someone fifteen hundred a month to do invoicing. Now it costs zero. Would you try this? Comment invoice and I'll DM you the breakdown.",
+  "scenes": [
+    {
+      "id": "story",
+      "label": "AI Invoice Generator",
+      "text": "Client spent 10hrs/week on manual invoicing. Built a Claude bot to handle it all.",
+      "data": { "result": "10 hours saved weekly", "savings": "$1,500/month" }
+    },
+    {
+      "id": "money",
+      "label": "My Fee vs Their Savings",
+      "text": "I charged $2,500 once. They save $1,500 every month. Forever.",
+      "data": { "amount": 2500, "period": " one-time" }
+    }
+  ],
+  "cta": {
+    "line1": "Comment",
+    "line2": "INVOICE",
+    "button": "Follow + Comment"
+  }
+}

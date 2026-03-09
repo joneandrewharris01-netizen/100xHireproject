@@ -1,0 +1,614 @@
+{
+  "script": {
+    "id": "wealth-006",
+    "mode": "wealth",
+    "title": "5 Automation Tools That Replace Employees",
+    "hook": "These 5 tools replaced a $4,000 a month employee. And most of them are free.",
+    "voiceoverScript": "These five tools replaced a four thousand dollar a month employee. And most of them are free. First, n8n. Open source workflow builder. Connect any API, automate any process. I use it for every client. Second, Make dot com. Visual automations that non-technical people can actually understand. Perfect for small teams. Third, Zapier. The gateway drug of automation. Five minute setup, instant results. Fourth, Claude. Not just a chatbot. It writes proposals, analyzes data, and builds entire workflows from a single prompt. Fifth, Airtable. Your spreadsheet on steroids. Combine it with any of these tools and you have a full business operating system. Save this list. You'll need it.",
+    "scenes": [
+      {
+        "id": "tool-n8n",
+        "label": "n8n",
+        "text": "Open source. Self-hosted. Connect any API. Free forever.",
+        "data": {
+          "toolVideo": "tools/n8n-ai-broll.mp4",
+          "toolImage": "tools/n8n-screenshot.png",
+          "toolBrand": "Workflow Builder"
+        }
+      },
+      {
+        "id": "tool-make",
+        "label": "Make.com",
+        "text": "Drag. Drop. Automate. Non-technical teams love this.",
+        "data": {
+          "toolVideo": "tools/make-demo-trimmed.mp4",
+          "toolImage": "tools/make-screenshot.png",
+          "toolBrand": "Visual Automation"
+        }
+      },
+      {
+        "id": "tool-zapier",
+        "label": "Zapier",
+        "text": "Five minute setup. Instant results. The gateway drug.",
+        "data": {
+          "toolVideo": "tools/zapier-ai-broll.mp4",
+          "toolBrand": "Instant Automation"
+        }
+      },
+      {
+        "id": "tool-claude",
+        "label": "Claude",
+        "text": "Writes proposals. Analyzes data. Builds entire workflows.",
+        "data": {
+          "toolVideo": "tools/claude-demo-trimmed.mp4",
+          "toolBrand": "AI Assistant"
+        }
+      },
+      {
+        "id": "tool-airtable",
+        "label": "Airtable",
+        "text": "Spreadsheet on steroids. Your full business operating system.",
+        "data": {
+          "toolVideo": "tools/airtable-demo-trimmed.mp4",
+          "toolBrand": "Data Platform"
+        }
+      }
+    ],
+    "cta": {
+      "line1": "Save this",
+      "line2": "list",
+      "button": "Follow for more"
+    }
+  },
+  "audio": {
+    "audioFile": "audio/voiceover.mp3",
+    "durationSeconds": 48.65,
+    "words": [
+      {
+        "word": "These",
+        "start": 0.0,
+        "end": 0.3
+      },
+      {
+        "word": "five",
+        "start": 0.3,
+        "end": 0.52
+      },
+      {
+        "word": "tools",
+        "start": 0.52,
+        "end": 0.78
+      },
+      {
+        "word": "replaced",
+        "start": 0.78,
+        "end": 1.16
+      },
+      {
+        "word": "a",
+        "start": 1.16,
+        "end": 1.34
+      },
+      {
+        "word": "$4",
+        "start": 1.34,
+        "end": 1.6
+      },
+      {
+        "word": ",000",
+        "start": 1.6,
+        "end": 2.0
+      },
+      {
+        "word": "a",
+        "start": 2.0,
+        "end": 2.28
+      },
+      {
+        "word": "month",
+        "start": 2.28,
+        "end": 2.42
+      },
+      {
+        "word": "employee.",
+        "start": 2.42,
+        "end": 2.86
+      },
+      {
+        "word": "And",
+        "start": 3.54,
+        "end": 3.92
+      },
+      {
+        "word": "most",
+        "start": 3.92,
+        "end": 4.12
+      },
+      {
+        "word": "of",
+        "start": 4.12,
+        "end": 4.3
+      },
+      {
+        "word": "them",
+        "start": 4.3,
+        "end": 4.42
+      },
+      {
+        "word": "are",
+        "start": 4.42,
+        "end": 4.54
+      },
+      {
+        "word": "free.",
+        "start": 4.54,
+        "end": 4.84
+      },
+      {
+        "word": "First,",
+        "start": 5.84,
+        "end": 6.02
+      },
+      {
+        "word": "N8N.",
+        "start": 6.4,
+        "end": 6.96
+      },
+      {
+        "word": "Open",
+        "start": 7.82,
+        "end": 8.02
+      },
+      {
+        "word": "Source",
+        "start": 8.02,
+        "end": 8.32
+      },
+      {
+        "word": "Workflow",
+        "start": 8.32,
+        "end": 8.78
+      },
+      {
+        "word": "Builder.",
+        "start": 8.78,
+        "end": 9.3
+      },
+      {
+        "word": "Connect",
+        "start": 9.94,
+        "end": 10.2
+      },
+      {
+        "word": "any",
+        "start": 10.2,
+        "end": 10.5
+      },
+      {
+        "word": "API,",
+        "start": 10.5,
+        "end": 10.9
+      },
+      {
+        "word": "automate",
+        "start": 11.28,
+        "end": 11.54
+      },
+      {
+        "word": "any",
+        "start": 11.54,
+        "end": 11.76
+      },
+      {
+        "word": "process.",
+        "start": 11.76,
+        "end": 12.14
+      },
+      {
+        "word": "I",
+        "start": 12.94,
+        "end": 13.24
+      },
+      {
+        "word": "use",
+        "start": 13.24,
+        "end": 13.42
+      },
+      {
+        "word": "it",
+        "start": 13.42,
+        "end": 13.56
+      },
+      {
+        "word": "for",
+        "start": 13.56,
+        "end": 13.68
+      },
+      {
+        "word": "every",
+        "start": 13.68,
+        "end": 13.94
+      },
+      {
+        "word": "client.",
+        "start": 13.94,
+        "end": 14.26
+      },
+      {
+        "word": "Second,",
+        "start": 15.22,
+        "end": 15.52
+      },
+      {
+        "word": "make",
+        "start": 15.82,
+        "end": 15.88
+      },
+      {
+        "word": ".com",
+        "start": 15.88,
+        "end": 16.3
+      },
+      {
+        "word": "a",
+        "start": 16.3,
+        "end": 16.46
+      },
+      {
+        "word": "visual",
+        "start": 16.46,
+        "end": 16.72
+      },
+      {
+        "word": "automations",
+        "start": 16.72,
+        "end": 17.24
+      },
+      {
+        "word": "that",
+        "start": 17.24,
+        "end": 17.5
+      },
+      {
+        "word": "non",
+        "start": 17.5,
+        "end": 17.7
+      },
+      {
+        "word": "-technical",
+        "start": 17.7,
+        "end": 18.14
+      },
+      {
+        "word": "people",
+        "start": 18.14,
+        "end": 18.4
+      },
+      {
+        "word": "can",
+        "start": 18.4,
+        "end": 18.6
+      },
+      {
+        "word": "actually",
+        "start": 18.6,
+        "end": 18.92
+      },
+      {
+        "word": "understand.",
+        "start": 18.92,
+        "end": 19.46
+      },
+      {
+        "word": "Perfect",
+        "start": 20.36,
+        "end": 20.66
+      },
+      {
+        "word": "for",
+        "start": 20.66,
+        "end": 20.9
+      },
+      {
+        "word": "small",
+        "start": 20.9,
+        "end": 21.14
+      },
+      {
+        "word": "teams.",
+        "start": 21.14,
+        "end": 21.44
+      },
+      {
+        "word": "Third,",
+        "start": 22.5,
+        "end": 22.68
+      },
+      {
+        "word": "Zapier.",
+        "start": 23.08,
+        "end": 23.44
+      },
+      {
+        "word": "The",
+        "start": 24.26,
+        "end": 24.46
+      },
+      {
+        "word": "Gateway",
+        "start": 24.46,
+        "end": 24.7
+      },
+      {
+        "word": "Drug",
+        "start": 24.7,
+        "end": 25.04
+      },
+      {
+        "word": "of",
+        "start": 25.04,
+        "end": 25.24
+      },
+      {
+        "word": "Automation.",
+        "start": 25.24,
+        "end": 25.74
+      },
+      {
+        "word": "Five",
+        "start": 26.52,
+        "end": 26.82
+      },
+      {
+        "word": "-minute",
+        "start": 26.82,
+        "end": 27.06
+      },
+      {
+        "word": "setup,",
+        "start": 27.06,
+        "end": 27.4
+      },
+      {
+        "word": "Instant",
+        "start": 27.66,
+        "end": 27.9
+      },
+      {
+        "word": "Results.",
+        "start": 27.9,
+        "end": 28.3
+      },
+      {
+        "word": "Fourth,",
+        "start": 29.08,
+        "end": 29.64
+      },
+      {
+        "word": "Claude.",
+        "start": 29.9,
+        "end": 30.24
+      },
+      {
+        "word": "Not",
+        "start": 30.9,
+        "end": 31.2
+      },
+      {
+        "word": "just",
+        "start": 31.2,
+        "end": 31.4
+      },
+      {
+        "word": "a",
+        "start": 31.4,
+        "end": 31.56
+      },
+      {
+        "word": "chatbot.",
+        "start": 31.56,
+        "end": 31.98
+      },
+      {
+        "word": "It",
+        "start": 32.68,
+        "end": 33.0
+      },
+      {
+        "word": "writes",
+        "start": 33.0,
+        "end": 33.14
+      },
+      {
+        "word": "proposals,",
+        "start": 33.14,
+        "end": 33.62
+      },
+      {
+        "word": "analyzes",
+        "start": 33.88,
+        "end": 34.26
+      },
+      {
+        "word": "data,",
+        "start": 34.26,
+        "end": 34.54
+      },
+      {
+        "word": "and",
+        "start": 34.84,
+        "end": 34.96
+      },
+      {
+        "word": "builds",
+        "start": 34.96,
+        "end": 35.12
+      },
+      {
+        "word": "entire",
+        "start": 35.12,
+        "end": 35.52
+      },
+      {
+        "word": "workflows",
+        "start": 35.52,
+        "end": 35.9
+      },
+      {
+        "word": "from",
+        "start": 35.9,
+        "end": 36.18
+      },
+      {
+        "word": "a",
+        "start": 36.18,
+        "end": 36.3
+      },
+      {
+        "word": "single",
+        "start": 36.3,
+        "end": 36.52
+      },
+      {
+        "word": "prompt.",
+        "start": 36.52,
+        "end": 36.86
+      },
+      {
+        "word": "Fifth,",
+        "start": 37.82,
+        "end": 37.94
+      },
+      {
+        "word": "Airtable.",
+        "start": 38.22,
+        "end": 38.52
+      },
+      {
+        "word": "Your",
+        "start": 39.0,
+        "end": 39.54
+      },
+      {
+        "word": "spreadsheet",
+        "start": 39.54,
+        "end": 39.92
+      },
+      {
+        "word": "on",
+        "start": 39.92,
+        "end": 40.16
+      },
+      {
+        "word": "steroids.",
+        "start": 40.16,
+        "end": 40.52
+      },
+      {
+        "word": "Combine",
+        "start": 41.42,
+        "end": 41.86
+      },
+      {
+        "word": "it",
+        "start": 41.86,
+        "end": 41.94
+      },
+      {
+        "word": "with",
+        "start": 41.94,
+        "end": 42.06
+      },
+      {
+        "word": "any",
+        "start": 42.06,
+        "end": 42.28
+      },
+      {
+        "word": "of",
+        "start": 42.28,
+        "end": 42.4
+      },
+      {
+        "word": "these",
+        "start": 42.4,
+        "end": 42.56
+      },
+      {
+        "word": "tools",
+        "start": 42.56,
+        "end": 42.8
+      },
+      {
+        "word": "and",
+        "start": 42.8,
+        "end": 43.0
+      },
+      {
+        "word": "you",
+        "start": 43.0,
+        "end": 43.12
+      },
+      {
+        "word": "have",
+        "start": 43.12,
+        "end": 43.24
+      },
+      {
+        "word": "a",
+        "start": 43.24,
+        "end": 43.34
+      },
+      {
+        "word": "full",
+        "start": 43.34,
+        "end": 43.48
+      },
+      {
+        "word": "business",
+        "start": 43.48,
+        "end": 43.8
+      },
+      {
+        "word": "operating",
+        "start": 43.8,
+        "end": 44.24
+      },
+      {
+        "word": "system.",
+        "start": 44.24,
+        "end": 44.7
+      },
+      {
+        "word": "Save",
+        "start": 45.48,
+        "end": 45.8
+      },
+      {
+        "word": "this",
+        "start": 45.8,
+        "end": 46.02
+      },
+      {
+        "word": "list.",
+        "start": 46.02,
+        "end": 46.28
+      },
+      {
+        "word": "You'll",
+        "start": 47.0,
+        "end": 47.5
+      },
+      {
+        "word": "need",
+        "start": 47.5,
+        "end": 47.66
+      },
+      {
+        "word": "it.",
+        "start": 47.66,
+        "end": 47.88
+      }
+    ]
+  }
+}

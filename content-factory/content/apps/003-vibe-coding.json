@@ -1,0 +1,37 @@
+{
+  "id": "apps-003",
+  "mode": "apps",
+  "title": "Vibe Coded in 45 Minutes",
+  "hook": "From Claude Code prompt to deployed app. 45 minutes.",
+  "voiceoverScript": "From Claude Code prompt to deployed app. Forty-five minutes. I wanted to build a habit tracker that actually works. So I opened Claude Code and said build me a habit tracker with streaks, daily reminders, and a dashboard. Forty-five minutes later, it was live on Vercel. Full stack. Database. Auth. Mobile responsive. This is vibe coding. You describe what you want, AI builds it, you ship it. No boilerplate. No tutorials. No stack overflow. The fastest way to build an app in twenty twenty-six is to just describe it. Would you try this? Save this for later.",
+  "scenes": [
+    {
+      "id": "reveal",
+      "label": "AI Habit Tracker",
+      "text": "Full stack app built in 45 minutes with Claude Code.",
+      "data": { "revenue": "Side project", "builder": "1 prompt" }
+    },
+    {
+      "id": "build",
+      "label": "Vibe Coding Session",
+      "text": "Describe → Build → Ship. No boilerplate needed.",
+      "data": { "buildTime": "45 minutes" }
+    },
+    {
+      "id": "research",
+      "label": "The Stack",
+      "text": "Everything AI handled",
+      "data": {
+        "stat1": "Build Time|45 min",
+        "stat2": "Lines of Code|2,400",
+        "stat3": "Manual Code|0",
+        "stat4": "Deploy|Vercel"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "Save this",
+    "line2": "for later",
+    "button": "Follow for more"
+  }
+}

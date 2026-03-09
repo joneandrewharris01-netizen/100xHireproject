@@ -1,0 +1,31 @@
+{
+  "name": "AI Finance Guy",
+  "mode": "finance",
+  "badge": "AI Finance Guy",
+  "colors": {
+    "accent": "#D4A843",
+    "accentLight": "#E0BD6A",
+    "accentDark": "#B8922E",
+    "bg": "#0A1628",
+    "text": "#FFFFFF",
+    "textSoft": "#C8D0E0",
+    "termBg": "#0A0E16",
+    "termBorder": "#1E2A3A"
+  },
+  "fonts": {
+    "heading": "Segoe UI",
+    "body": "Segoe UI",
+    "mono": "Cascadia Code"
+  },
+  "captions": {
+    "fontSize": 62,
+    "activeFontSize": 78,
+    "top": 1420
+  },
+  "voice": {
+    "id": "en-US-BrianNeural",
+    "rate": "+10%",
+    "pitch": "+0Hz"
+  },
+  "animation": "slamBottom"
+}

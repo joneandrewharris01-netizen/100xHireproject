@@ -1,0 +1,40 @@
+{
+  "id": "finance-004",
+  "mode": "finance",
+  "title": "Portugal Digital Nomad Visa",
+  "hook": "The country where $3K a month makes you upper class. AI ran the numbers.",
+  "voiceoverScript": "The country where three thousand dollars a month makes you upper class. AI ran the numbers. Portugal's digital nomad visa lets you live in Europe for a flat twenty percent tax rate. I asked Claude to compare a remote worker earning five thousand a month in the US versus Portugal. In the US, after taxes, rent, and living costs, you keep about twenty-two hundred. In Portugal, you keep thirty-one hundred. Same income. Nine hundred more in your pocket every month. That's ten thousand eight hundred a year. Plus you get EU healthcare, Schengen travel, and a path to permanent residency. The catch? You need to prove three thousand two hundred in monthly income and apply through the consulate. But for remote workers earning in dollars and spending in euros, the math is undeniable. Save this before it's gone.",
+  "scenes": [
+    {
+      "id": "data",
+      "label": "Monthly Savings",
+      "text": "Same $5K income. $900 more per month in Portugal vs US.",
+      "data": { "amount": 10800, "prefix": "$", "suffix": "/yr extra", "demographic": "Remote workers earning $5K+/month..." }
+    },
+    {
+      "id": "geo",
+      "label": "Portugal",
+      "text": "20% flat tax, EU healthcare, Schengen travel, path to residency.",
+      "data": {
+        "location": "PORTUGAL",
+        "stat1": "Tax Rate|20% flat",
+        "stat2": "Monthly Savings|$900",
+        "stat3": "Min Income|$3,200/mo",
+        "stat4": "Annual Gain|$10,800"
+      }
+    },
+    {
+      "id": "ai",
+      "label": "I Asked AI...",
+      "text": "Compare take-home: US vs Portugal at $5K/mo remote income",
+      "data": {
+        "prompt": "Compare net income after all costs: US vs Portugal at $5K/mo",
+        "result": "Portugal wins by $900/mo — plus EU healthcare and travel benefits"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "Save this",
+    "line2": "before it's gone"
+  }
+}

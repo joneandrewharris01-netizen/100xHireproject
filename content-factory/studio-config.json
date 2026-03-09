@@ -1,0 +1,8 @@
+{
+  "aiProvider": "gemini",
+  "apiKey": "AIzaSyC6zvfDqevutqsMxxCEyxfONQHdjnaaW0c",
+  "model": "gemini-2.0-flash",
+  "defaultVoice": "en-US-GuyNeural",
+  "defaultRate": "+15%",
+  "defaultPitch": "+0Hz"
+}

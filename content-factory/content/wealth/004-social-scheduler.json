@@ -1,0 +1,26 @@
+{
+  "id": "wealth-004",
+  "mode": "wealth",
+  "title": "The Social Media Autopilot",
+  "hook": "$10K a month freelancing with just n8n and Claude.",
+  "voiceoverScript": "Ten thousand dollars a month freelancing with just n8n and Claude. Here's one of the automations I sell. A coaching business was spending twenty hours a week on social media. Writing captions, scheduling posts, responding to comments. I built an n8n workflow that uses Claude to generate captions from their content calendar, creates image descriptions, schedules everything to Buffer, and even drafts comment replies. Twenty hours down to two. They pay me a thousand a month to maintain it. I have eight clients like this. Do the math. Would you try this? DM me AUTOMATE.",
+  "scenes": [
+    {
+      "id": "story",
+      "label": "Social Media Automation",
+      "text": "Coaching business spending 20hrs/week on social. n8n + Claude handles it now.",
+      "data": { "result": "20 hours → 2 hours", "savings": "$2,000/month" }
+    },
+    {
+      "id": "money",
+      "label": "Monthly Retainer",
+      "text": "8 clients at $1,000/month. That's the automation freelancer math.",
+      "data": { "amount": 10000, "period": "/month" }
+    }
+  ],
+  "cta": {
+    "line1": "DM me",
+    "line2": "AUTOMATE",
+    "button": "Follow + DM"
+  }
+}

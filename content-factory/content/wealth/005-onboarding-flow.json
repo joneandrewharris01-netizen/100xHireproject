@@ -1,0 +1,26 @@
+{
+  "id": "wealth-005",
+  "mode": "wealth",
+  "title": "The Client Onboarding Flow",
+  "hook": "I automated a client's entire onboarding. Saved them $4,000 a month.",
+  "voiceoverScript": "I automated a client's entire onboarding. Saved them four thousand dollars a month. Here's what their process looked like before. New client signs up. Someone manually sends a welcome email. Then creates a project folder. Then adds them to the CRM. Then schedules a kickoff call. Four people touching one workflow. I replaced all of it with Zapier and Notion. New client signs up, everything happens automatically. Welcome email. Folder created. CRM updated. Calendar invite sent. Four thousand dollars in labor costs, gone. I built it in one afternoon. Would you use this? Comment onboarding and I'll break it down.",
+  "scenes": [
+    {
+      "id": "story",
+      "label": "Client Onboarding Automation",
+      "text": "4 people touching one workflow. Replaced it all with Zapier + Notion.",
+      "data": { "result": "100% automated onboarding", "savings": "$4,000/month" }
+    },
+    {
+      "id": "money",
+      "label": "Labor Costs Eliminated",
+      "text": "Welcome email, CRM, folder, calendar — all automatic. Zero manual steps.",
+      "data": { "amount": 4000, "period": "/month" }
+    }
+  ],
+  "cta": {
+    "line1": "Comment",
+    "line2": "ONBOARDING",
+    "button": "Follow + Comment"
+  }
+}

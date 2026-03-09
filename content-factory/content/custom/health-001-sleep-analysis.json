@@ -1,0 +1,44 @@
+{
+  "id": "health-001",
+  "mode": "custom",
+  "title": "AI Cross-Referenced Gut Health and Mood",
+  "hook": "I fed AI 12 studies on gut bacteria. It found a direct link between what you eat and how anxious you feel.",
+  "voiceoverScript": "I fed AI twelve studies on gut bacteria. It found a direct link between what you eat and how anxious you feel. I asked Claude to cross-reference gut microbiome research with mental health data. First connection. People who eat less than fifteen grams of fiber daily have thirty eight percent higher anxiety scores. Your gut bacteria literally produce ninety percent of your serotonin. Starve them and your mood tanks. Second connection. Ultra processed food doesn't just make you gain weight. AI found that three or more servings per day reduced gut bacteria diversity by twenty six percent within two weeks. Less diversity means less serotonin. Third connection. A simple swap. Replacing one processed snack with fermented food like yogurt or kimchi improved mood scores by twenty two percent in just thirty days across four different studies. AI's conclusion? Your brain doesn't start in your head. It starts in your gut. Fix your fiber. Cut one processed food. Add one fermented food. Three changes. That's it.",
+  "scenes": [
+    {
+      "id": "gut-brain",
+      "label": "The Gut-Brain Connection",
+      "text": "90% of serotonin made in the gut. Low fiber = 38% higher anxiety.",
+      "data": {
+        "stat1": "Serotonin|90% from gut",
+        "stat2": "Low Fiber|+38% anxiety",
+        "stat3": "Processed Food|−26% bacteria",
+        "stat4": "Fermented Fix|+22% mood"
+      }
+    },
+    {
+      "id": "three-swaps",
+      "label": "3 Changes. That's It.",
+      "text": "More fiber. Less processed. One fermented food daily.",
+      "data": {
+        "stat1": "Fiber Target|25g+ daily",
+        "stat2": "Cut|1 processed snack",
+        "stat3": "Add|1 fermented food",
+        "stat4": "Timeline|30 days"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "Your brain starts",
+    "line2": "in your gut",
+    "button": "Follow for more"
+  },
+  "themeOverrides": {
+    "badge": "AI HEALTH",
+    "colors": {
+      "accent": "#10B981",
+      "accentLight": "#34D399",
+      "accentDark": "#059669"
+    }
+  }
+}

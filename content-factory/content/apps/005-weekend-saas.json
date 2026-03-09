@@ -1,0 +1,37 @@
+{
+  "id": "apps-005",
+  "mode": "apps",
+  "title": "Weekend SaaS Challenge",
+  "hook": "I built a SaaS in one weekend. It's already making money.",
+  "voiceoverScript": "I built a SaaS in one weekend. It's already making money. The idea? A simple tool that turns meeting notes into action items. Friday night, I scaffolded with Claude Code. Saturday, I added Whisper transcription and Claude summarization. Sunday morning, I deployed on Vercel with Stripe payments. Sunday afternoon, I posted on Reddit. By Monday, four people had paid ten dollars each. It's not a million-dollar business. But it proves you can go from zero to revenue in forty-eight hours. The tools exist. The playbook works. You just have to start. Would you try this? Drop a comment if you'd build this.",
+  "scenes": [
+    {
+      "id": "reveal",
+      "label": "Meeting Notes → Action Items",
+      "text": "AI-powered meeting summarizer built in one weekend.",
+      "data": { "revenue": "$40 Day 1", "builder": "1 person" }
+    },
+    {
+      "id": "build",
+      "label": "48-Hour Build",
+      "text": "Friday scaffold → Saturday AI → Sunday deploy + payments",
+      "data": { "buildTime": "48 hours" }
+    },
+    {
+      "id": "research",
+      "label": "Weekend Results",
+      "text": "From zero to paying users",
+      "data": {
+        "stat1": "Build Time|48 hours",
+        "stat2": "Day 1 Revenue|$40",
+        "stat3": "Paying Users|4",
+        "stat4": "Stack|Claude + Vercel"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "Would you",
+    "line2": "try this?",
+    "button": "Save + Follow"
+  }
+}

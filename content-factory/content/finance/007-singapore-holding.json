@@ -1,0 +1,40 @@
+{
+  "id": "finance-007",
+  "mode": "finance",
+  "title": "AI Found The Real Cost of Being Broke in Your 20s",
+  "hook": "Not investing $200 a month in your 20s costs you $600,000 by retirement. AI did the math.",
+  "voiceoverScript": "Not investing two hundred dollars a month in your twenties costs you six hundred thousand dollars by retirement. AI did the math. I asked Claude to calculate the exact cost of waiting ten years to start investing. Scenario one. You start at twenty five. Two hundred dollars a month into an index fund averaging ten percent. By sixty five you have one point two million dollars. Scenario two. You start at thirty five. Same two hundred dollars a month. Same returns. By sixty five you have four hundred and fifty thousand. The ten year delay cost you seven hundred and fifty thousand dollars. But here's what made my jaw drop. Even if you doubled your contribution to four hundred a month starting at thirty five, you still can't catch up. You'd only reach nine hundred thousand. The person who started earlier with half the money still wins. AI calculated that every single dollar you invest at twenty five is worth eleven dollars at sixty five. At thirty five that same dollar is only worth four dollars and fifty cents. Time is literally a money multiplier and you can't buy it back.",
+  "scenes": [
+    {
+      "id": "data",
+      "label": "The $750K Delay Tax",
+      "text": "Start at 25: $1.2M. Start at 35: $450K. Same $200/mo. Same returns.",
+      "data": { "amount": 750000, "prefix": "$", "suffix": " lost by waiting", "demographic": "If you're in your 20s and not investing yet..." }
+    },
+    {
+      "id": "geo",
+      "label": "Compound Math",
+      "text": "$1 at 25 becomes $11 at 65. $1 at 35 only becomes $4.50.",
+      "data": {
+        "location": "YOUR FUTURE",
+        "stat1": "Start at 25|$1.2M",
+        "stat2": "Start at 35|$450K",
+        "stat3": "$1 at 25|Worth $11",
+        "stat4": "$1 at 35|Worth $4.50"
+      }
+    },
+    {
+      "id": "ai",
+      "label": "AI Compound Calculator",
+      "text": "Even doubling to $400/mo at 35 can't catch $200/mo started at 25.",
+      "data": {
+        "prompt": "Calculate compound growth: $200/mo at 10% starting at 25 vs 35 vs $400/mo at 35",
+        "result": "$200/mo at 25 → $1.2M. $400/mo at 35 → $900K. Starting early wins even at half the amount."
+      }
+    }
+  ],
+  "cta": {
+    "line1": "Time is a",
+    "line2": "money multiplier"
+  }
+}

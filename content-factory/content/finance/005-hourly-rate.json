@@ -1,0 +1,40 @@
+{
+  "id": "finance-005",
+  "mode": "finance",
+  "title": "Your Real Hourly Rate",
+  "hook": "AI calculated my real hourly rate. I'm embarrassed.",
+  "voiceoverScript": "AI calculated my real hourly rate. I'm embarrassed. I told Claude my annual income and asked it to calculate my true hourly rate. Not the number on my invoice. The real one. It counted everything. Hours working. Hours commuting. Hours doing admin. Hours thinking about work. Hours answering emails on weekends. My invoice says a hundred and fifty an hour. My real rate? Forty-seven dollars. Claude then calculated what I'd need to charge to actually earn a hundred and fifty real dollars per hour. The answer? Four hundred and twelve dollars per hour on my invoice. Most freelancers have no idea how much free work they're doing. The math doesn't care about your feelings. What would you ask AI about your money?",
+  "scenes": [
+    {
+      "id": "data",
+      "label": "Your Real Rate",
+      "text": "Invoice says $150/hr. Real rate after all hours? $47/hr.",
+      "data": { "amount": 47, "prefix": "$", "suffix": "/hr real", "demographic": "If you're a freelancer charging hourly..." }
+    },
+    {
+      "id": "geo",
+      "label": "The Gap",
+      "text": "To truly earn $150/hr, you'd need to invoice $412/hr.",
+      "data": {
+        "location": "REALITY CHECK",
+        "stat1": "Invoice Rate|$150/hr",
+        "stat2": "Real Rate|$47/hr",
+        "stat3": "Hidden Hours|68%",
+        "stat4": "Target Invoice|$412/hr"
+      }
+    },
+    {
+      "id": "ai",
+      "label": "AI Math",
+      "text": "Calculate true hourly rate including all work-related time",
+      "data": {
+        "prompt": "Calculate my REAL hourly rate including admin, email, commute, thinking time",
+        "result": "Your $150/hr invoice rate is actually $47/hr when you count all hours"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "What would you",
+    "line2": "ask AI about money?"
+  }
+}

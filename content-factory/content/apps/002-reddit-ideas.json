@@ -1,0 +1,37 @@
+{
+  "id": "apps-002",
+  "mode": "apps",
+  "title": "5 App Ideas from Reddit",
+  "hook": "I found 5 app ideas nobody is building yet. Reddit told me everything.",
+  "voiceoverScript": "I found five app ideas nobody is building yet. Reddit told me everything. I used Claude Code to scrape thousands of Reddit posts where people complained about specific problems. Pattern number one. Freelancers can't track which clients owe them money. Pattern two. Small teams waste hours on status update meetings. Pattern three. Renters can't get their security deposits back. Pattern four. Content creators don't know which ideas to post next. Pattern five. Parents need a shared calendar that actually works. Each of these has thousands of upvotes and zero good solutions. The playbook? Find the pain, build the MVP, charge ten bucks a month. Would you build any of these? Drop a comment.",
+  "scenes": [
+    {
+      "id": "reveal",
+      "label": "Reddit Pain Point Scanner",
+      "text": "Scraped thousands of complaints. Found 5 unsolved problems.",
+      "data": { "revenue": "$10K+ potential", "builder": "You" }
+    },
+    {
+      "id": "build",
+      "label": "The Build Playbook",
+      "text": "Find pain → Build MVP → Charge $10/mo",
+      "data": { "buildTime": "1 weekend" }
+    },
+    {
+      "id": "research",
+      "label": "5 Ideas Found",
+      "text": "All validated by Reddit engagement",
+      "data": {
+        "stat1": "Posts Analyzed|5,000+",
+        "stat2": "Ideas Found|5",
+        "stat3": "Avg Upvotes|2,400",
+        "stat4": "Solutions|0"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "Drop a comment",
+    "line2": "if you'd build this",
+    "button": "Comment below"
+  }
+}

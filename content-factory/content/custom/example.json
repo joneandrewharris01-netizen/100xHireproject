@@ -1,0 +1,33 @@
+{
+  "id": "custom-001",
+  "mode": "custom",
+  "title": "Custom Video Example",
+  "hook": "This is a fully customizable video template. Change anything.",
+  "voiceoverScript": "This is a fully customizable video template. You can change the colors, the fonts, the voice, and every single scene. Just edit the JSON file and run the render command. The theme overrides let you set any accent color, any background, any caption style. Perfect for testing new content formats before committing to a full mode. Save this and try it yourself.",
+  "scenes": [
+    {
+      "id": "main",
+      "label": "Fully Customizable",
+      "text": "Change colors, fonts, voice, and scenes by editing JSON.",
+      "data": {
+        "stat1": "Colors|Any hex",
+        "stat2": "Voice|Any Edge-TTS",
+        "stat3": "Scenes|1-10",
+        "stat4": "Duration|Flexible"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "Try it",
+    "line2": "yourself",
+    "button": "Edit the JSON"
+  },
+  "themeOverrides": {
+    "badge": "Custom Mode",
+    "colors": {
+      "accent": "#8B5CF6",
+      "accentLight": "#A78BFA",
+      "accentDark": "#7C3AED"
+    }
+  }
+}

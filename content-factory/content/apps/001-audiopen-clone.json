@@ -1,0 +1,37 @@
+{
+  "id": "apps-001",
+  "mode": "apps",
+  "title": "AudioPen Made $30K/Month",
+  "hook": "This app makes $30K a month. Built by one person. In 12 hours.",
+  "voiceoverScript": "This app makes thirty thousand dollars a month. Built by one person. In twelve hours. AudioPen turns your messy voice notes into polished text. One solo founder built the MVP in half a day. Today it has thousands of paying users at eight bucks a month. The pattern? Simple problem. Specific audience. AI does the heavy lifting. You get voice input, instant transcription, and clean formatting. No team. No funding. No complex stack. Just one person, Claude Code, and a weekend. Here's what I'd build based on this. A voice-to-proposal tool for freelancers. Same pattern, different niche. Save this. I'll show you how to build it next.",
+  "scenes": [
+    {
+      "id": "reveal",
+      "label": "AudioPen",
+      "text": "Voice notes → polished text. Solo founder, 12-hour MVP, $30K/mo.",
+      "data": { "revenue": "$30K/mo", "builder": "1 person" }
+    },
+    {
+      "id": "build",
+      "label": "Speed Build Pattern",
+      "text": "Simple problem + specific audience + AI = profit",
+      "data": { "buildTime": "12 hours" }
+    },
+    {
+      "id": "research",
+      "label": "The Numbers",
+      "text": "Data from Starter Story analysis",
+      "data": {
+        "stat1": "MRR|$30,000",
+        "stat2": "Build Time|12 hours",
+        "stat3": "Team Size|1 person",
+        "stat4": "Price|$8/mo"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "Save this",
+    "line2": "for later",
+    "button": "Follow for more"
+  }
+}

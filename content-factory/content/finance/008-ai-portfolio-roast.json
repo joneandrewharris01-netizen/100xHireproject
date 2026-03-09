@@ -1,0 +1,40 @@
+{
+  "id": "finance-008",
+  "mode": "finance",
+  "title": "AI Exposed The Subscription Economy Trap",
+  "hook": "The average person spends $219 a month on subscriptions. AI tracked where it actually goes.",
+  "voiceoverScript": "The average person spends two hundred and nineteen dollars a month on subscriptions. AI tracked where it actually goes. I asked Claude to analyze subscription spending data across fifty thousand consumers. The biggest leak isn't Netflix. It's overlapping services. Forty three percent of people pay for two or more streaming services but only actively use one. Twenty seven percent have a gym membership they haven't used in over ninety days. And here's the brutal one. Eighteen percent are still paying for apps they deleted months ago. AI calculated that if you took the average wasted subscription money, eighty six dollars a month, and put it in an index fund instead, you'd have sixty three thousand dollars in twenty years. But the real trap is how these companies design pricing. Free trial converts to paid. Annual billing auto renews. Price increases hidden in emails nobody reads. AI found that the average subscription cost increased nineteen percent in the last two years while usage dropped eleven percent. You're paying more for things you use less. That's not convenience. That's a leak.",
+  "scenes": [
+    {
+      "id": "data",
+      "label": "The Subscription Leak",
+      "text": "$219/mo average. 43% pay for services they barely use. $86/mo wasted.",
+      "data": { "amount": 63000, "prefix": "$", "suffix": " lost in 20 yrs", "demographic": "If you have more than 5 active subscriptions..." }
+    },
+    {
+      "id": "geo",
+      "label": "Where It Leaks",
+      "text": "Duplicate streaming. Ghost gym memberships. Deleted app charges.",
+      "data": {
+        "location": "YOUR WALLET",
+        "stat1": "Overlap|43% streaming",
+        "stat2": "Ghost Gym|27% unused 90d",
+        "stat3": "Deleted Apps|18% still paying",
+        "stat4": "Price Hikes|+19% in 2 yrs"
+      }
+    },
+    {
+      "id": "ai",
+      "label": "AI Subscription Audit",
+      "text": "$86/mo wasted → $63K lost in 20 years if invested instead.",
+      "data": {
+        "prompt": "Analyze subscription spending patterns across 50K consumers — waste, overlap, and hidden cost increases",
+        "result": "$86/mo average waste. Prices up 19%, usage down 11%. Investing the waste = $63K in 20 years."
+      }
+    }
+  ],
+  "cta": {
+    "line1": "That's not convenience",
+    "line2": "that's a leak"
+  }
+}

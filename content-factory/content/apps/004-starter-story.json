@@ -1,0 +1,37 @@
+{
+  "id": "apps-004",
+  "mode": "apps",
+  "title": "Starter Story Top 50 Pattern",
+  "hook": "I analyzed Starter Story's top 50 apps. Here's the pattern.",
+  "voiceoverScript": "I analyzed Starter Story's top fifty apps. Here's the pattern. Seventy eight percent were built by solo founders. Average revenue twelve thousand a month. Forty two percent used AI as a core feature. And the most common niche? Productivity tools for specific professions. Not general productivity. Specific. A CRM for dentists. A scheduler for dog walkers. An invoice tool for freelance designers. The pattern is narrow niche plus simple tool plus subscription pricing. If I were starting today, I'd pick a profession, find their biggest spreadsheet headache, and build a ten dollar a month solution. Full breakdown in comments.",
+  "scenes": [
+    {
+      "id": "reveal",
+      "label": "The Starter Story Pattern",
+      "text": "50 apps analyzed. One clear pattern emerged.",
+      "data": { "revenue": "$12K/mo avg", "builder": "78% solo" }
+    },
+    {
+      "id": "build",
+      "label": "The Playbook",
+      "text": "Narrow niche + simple tool + subscription = money",
+      "data": { "buildTime": "1 weekend" }
+    },
+    {
+      "id": "research",
+      "label": "The Data",
+      "text": "50 apps from Starter Story",
+      "data": {
+        "stat1": "Solo Founders|78%",
+        "stat2": "Avg Revenue|$12K/mo",
+        "stat3": "AI-Powered|42%",
+        "stat4": "Top Niche|Productivity"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "Full breakdown",
+    "line2": "in comments",
+    "button": "Follow for more"
+  }
+}

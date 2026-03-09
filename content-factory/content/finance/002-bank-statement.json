@@ -1,0 +1,40 @@
+{
+  "id": "finance-002",
+  "mode": "finance",
+  "title": "AI Roasted My Bank Statement",
+  "hook": "I gave ChatGPT my bank statement. It roasted me.",
+  "voiceoverScript": "I gave ChatGPT my bank statement. It roasted me. I pasted three months of transactions and asked for an honest analysis. First thing it found? I spent four hundred and twenty dollars on subscriptions I forgot about. Then it pointed out my food delivery habit was costing me six hundred a month. More than my car payment. Then the real hit. I was earning enough to save fifteen percent of my income. But I was saving three. Its recommendation? Cancel seven subscriptions. Cook three more days a week. Auto-transfer the difference to an index fund. Total potential savings? Eight hundred and forty dollars a month. Ten thousand a year. Just from looking at what I was already spending. What would AI find in your bank statement?",
+  "scenes": [
+    {
+      "id": "data",
+      "label": "Hidden Spending",
+      "text": "$420 in forgotten subscriptions. $600/mo on food delivery.",
+      "data": { "amount": 840, "prefix": "$", "suffix": "/mo savings", "demographic": "If you haven't looked at your bank statement lately..." }
+    },
+    {
+      "id": "geo",
+      "label": "Your Money",
+      "text": "Earning enough to save 15%. Actually saving 3%.",
+      "data": {
+        "location": "YOUR WALLET",
+        "stat1": "Subscriptions|$420 wasted",
+        "stat2": "Food Delivery|$600/mo",
+        "stat3": "Should Save|15%",
+        "stat4": "Actually Save|3%"
+      }
+    },
+    {
+      "id": "ai",
+      "label": "AI's Verdict",
+      "text": "Cancel 7 subs. Cook 3x more. Auto-invest the rest.",
+      "data": {
+        "prompt": "Analyze 3 months of bank transactions honestly",
+        "result": "Potential savings: $840/mo ($10K/year) from spending you don't notice"
+      }
+    }
+  ],
+  "cta": {
+    "line1": "What would AI find",
+    "line2": "in your bank statement?"
+  }
+}
