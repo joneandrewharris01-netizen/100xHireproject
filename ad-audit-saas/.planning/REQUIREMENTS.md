@@ -91,45 +91,45 @@ Deferred to future release. Tracked but not in current roadmap.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| UPLD-01 | TBD | Pending |
-| UPLD-02 | TBD | Pending |
-| UPLD-03 | TBD | Pending |
-| UPLD-04 | TBD | Pending |
-| UPLD-05 | TBD | Pending |
-| UPLD-06 | TBD | Pending |
-| UPLD-07 | TBD | Pending |
-| UPLD-08 | TBD | Pending |
-| AUDT-01 | TBD | Pending |
-| AUDT-02 | TBD | Pending |
-| AUDT-03 | TBD | Pending |
-| AUDT-04 | TBD | Pending |
-| AUDT-05 | TBD | Pending |
-| AUDT-06 | TBD | Pending |
-| AUDT-07 | TBD | Pending |
-| AUDT-08 | TBD | Pending |
-| AUDT-09 | TBD | Pending |
-| AUDT-10 | TBD | Pending |
-| DASH-01 | TBD | Pending |
-| DASH-02 | TBD | Pending |
-| DASH-03 | TBD | Pending |
-| DASH-04 | TBD | Pending |
-| DASH-05 | TBD | Pending |
-| AUTH-01 | TBD | Pending |
-| AUTH-02 | TBD | Pending |
-| AUTH-03 | TBD | Pending |
-| AUTH-04 | TBD | Pending |
-| PAY-01 | TBD | Pending |
-| PAY-02 | TBD | Pending |
-| PAY-03 | TBD | Pending |
-| PAY-04 | TBD | Pending |
-| PAY-05 | TBD | Pending |
-| NOTF-01 | TBD | Pending |
+| AUTH-01 | Phase 1 | Pending |
+| AUTH-02 | Phase 1 | Pending |
+| AUTH-03 | Phase 1 | Pending |
+| AUTH-04 | Phase 1 | Pending |
+| UPLD-01 | Phase 2 | Pending |
+| UPLD-02 | Phase 2 | Pending |
+| UPLD-03 | Phase 2 | Pending |
+| UPLD-04 | Phase 2 | Pending |
+| UPLD-05 | Phase 2 | Pending |
+| UPLD-06 | Phase 2 | Pending |
+| UPLD-07 | Phase 2 | Pending |
+| UPLD-08 | Phase 2 | Pending |
+| AUDT-01 | Phase 2 | Pending |
+| AUDT-02 | Phase 2 | Pending |
+| AUDT-03 | Phase 2 | Pending |
+| AUDT-04 | Phase 2 | Pending |
+| AUDT-05 | Phase 2 | Pending |
+| AUDT-06 | Phase 2 | Pending |
+| AUDT-07 | Phase 2 | Pending |
+| AUDT-08 | Phase 2 | Pending |
+| AUDT-09 | Phase 2 | Pending |
+| AUDT-10 | Phase 2 | Pending |
+| DASH-01 | Phase 3 | Pending |
+| DASH-02 | Phase 3 | Pending |
+| DASH-03 | Phase 3 | Pending |
+| DASH-04 | Phase 3 | Pending |
+| DASH-05 | Phase 3 | Pending |
+| PAY-01 | Phase 4 | Pending |
+| PAY-02 | Phase 4 | Pending |
+| PAY-03 | Phase 4 | Pending |
+| PAY-04 | Phase 4 | Pending |
+| PAY-05 | Phase 4 | Pending |
+| NOTF-01 | Phase 4 | Pending |
 
 **Coverage:**
 - v1 requirements: 33 total
-- Mapped to phases: 0
-- Unmapped: 33
+- Mapped to phases: 33
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-17*
-*Last updated: 2026-03-17 after initial definition*
+*Last updated: 2026-03-17 — traceability mapped after roadmap creation*
