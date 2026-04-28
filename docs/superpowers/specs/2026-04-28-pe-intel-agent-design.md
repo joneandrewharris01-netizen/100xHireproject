@@ -124,7 +124,9 @@ agents/pe_intel/
 **Caps:**
 - Max 100 posts/subreddit/run = 500 posts/day ceiling.
 - Max 500 comments/post (Reddit's `MoreComments` collapses past that; v1 doesn't expand them).
-- Initial backfill: process oldest-first, stop at 90-day cutoff.
+- Initial backfill: paginate `/new.json` via the `after=` cursor and supplement with `/top.json?t=year` filtered to ≤90 days. Process oldest-first, stop at 90-day cutoff.
+
+**Fetcher abstraction:** `scrape.py` defines a `RedditFetcher` interface with two implementations: `UrllibFetcher` (default, unauthenticated) and `PrawFetcher` (fallback when rate-limited, uses creds from `agents/reddit_bot.env`). The fallback is wired in from day one, not bolted on later.
 
 **Errors:**
 - Network error on a single post → log + continue.
@@ -208,13 +210,17 @@ CREATE TABLE processed_leads (
 
 **Hot threshold:** score ≥ 70.
 
-**Re-score:** Every post on first scrape, plus on every re-scrape (engagement signals can bump it).
+**Re-score:** Every post on first scrape, plus on every re-scrape (engagement signals can bump it). `lead_scores` rows are upserted by `post_id` — one row per post, always reflects the latest score.
 
 **Why heuristic, not Claude:** runs in milliseconds for 500 posts; Claude is reserved for the deep read on the survivors. Tunable later as `processed_leads.outcome` data accumulates.
 
 ### 4. Knowledge base (JSON files)
 
 Four files, all in `knowledge_base/`. Append-only growth — entries can be updated but never deleted.
+
+**Write invariant:** KB JSON files are written **only** by `/pe-process`. `scrape.py` and `score.py` never touch them. This eliminates concurrency concerns between cron and interactive sessions.
+
+**`mention_count` semantics:** increments only on first encounter per `post_id`. If the same tool is mentioned in 5 different comments on the same post, that's still +1. This makes `mention_count = 1` a reliable hallucination signal during monthly KB review.
 
 **`tools.json`** — schema per entry:
 ```json
