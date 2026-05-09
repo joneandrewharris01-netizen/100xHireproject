@@ -13,6 +13,7 @@ _PIPELINE_DIRS = {
     "revops": Path("agents/revops_intel"),
     "pe": Path("agents/pe_intel"),
     "reddit_mine": Path("agents/reddit_mine"),
+    "vc_pain_analysis": Path("agents/vc_pain_analysis"),
 }
 
 

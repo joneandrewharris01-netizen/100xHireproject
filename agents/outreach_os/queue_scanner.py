@@ -10,6 +10,7 @@ _SOURCES = {
     "revops": Path("agents/revops_intel/queue"),
     "pe": Path("agents/pe_intel/queue"),
     "reddit_mine": Path("agents/reddit_mine/queue"),
+    "vc_pain_analysis": Path("agents/vc_pain_analysis/queue"),
 }
 
 

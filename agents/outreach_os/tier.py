@@ -22,8 +22,10 @@ def score_to_tier(score: int, thresholds: dict | None = None) -> str | None:
 
 def derive(source: str, frontmatter: dict, thresholds: dict | None = None) -> str | None:
     """Derive the unified tier for a queue file based on its source."""
-    if source == "reddit_mine":
+    # Pipelines that already classify in their queue frontmatter use it directly.
+    if source in {"reddit_mine", "vc_pain_analysis"}:
         return frontmatter.get("tier")
+    # DB-scored pipelines (revops, pe) provide a numeric score; map to tier.
     if source in {"revops", "pe"}:
         return score_to_tier(int(frontmatter.get("score", 0)), thresholds)
     raise ValueError(f"unknown source: {source}")
