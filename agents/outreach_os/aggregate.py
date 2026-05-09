@@ -20,8 +20,12 @@ def _read_linkedin(today: date) -> list[dict]:
     import json as _json
     import re
     items: list[dict] = []
-    for m in re.finditer(r"<!--LEAD\n(.*?)\n-->", p.read_text(), re.DOTALL):
-        items.append(_json.loads(m.group(1)))
+    for m in re.finditer(r"<!--LEAD\n(.*?)\n-->", p.read_text(encoding="utf-8"), re.DOTALL):
+        item = _json.loads(m.group(1))
+        # Normalize Phantombuster-style keys so brief renderer can use plain `name`.
+        if "name" not in item:
+            item["name"] = item.get("author/name") or item.get("author/firstname") or ""
+        items.append(item)
     return items
 
 
