@@ -45,11 +45,22 @@ def _render_linkedin(items: list[dict]) -> str:
         return ""
     lines = [f"## LinkedIn {len(items)} (~60 min)"]
     for item in items:
-        name = item.get("name", "")
-        title = item.get("title", "")
-        company = item.get("company", "")
+        name = item.get("name") or item.get("author/name") or "(unknown)"
+        title = (item.get("title") or "").strip()
+        company = (item.get("company") or "").strip()
         opener = item.get("opener", "")
-        lines.append(f'- [ ] **{name}** . {title} @ {company} . "{opener}"')
+        # Build the role/company suffix only if data exists
+        if title and company:
+            role = f"{title} @ {company}"
+        elif title:
+            role = title
+        elif company:
+            role = f"@ {company}"
+        else:
+            role = "(role unknown, click profile to verify)"
+        profile = item.get("author/profileurl") or item.get("author/profileUrl") or item.get("profile_url") or ""
+        profile_md = f" [profile]({profile})" if profile else ""
+        lines.append(f'- [ ] **{name}** . {role}{profile_md} . "{opener}"')
     return "\n".join(lines) + "\n"
 
 
