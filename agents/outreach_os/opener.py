@@ -1,8 +1,8 @@
-"""Generate one LinkedIn opener via Gemini 2.0 Flash.
+"""Generate one LinkedIn opener via Groq Llama 3.3 70B.
 
-Uses the free Google AI Studio API. Reads GEMINI_API_KEY from process env or
-the project root .env file. The previous Anthropic Haiku implementation was
-swapped to Gemini because the user has no Anthropic API key.
+Uses the free Groq API (~14k req/day on Llama 3.3 70B). Reads GROQ_API_KEY
+from process env or the project root .env file. Switched from Gemini after
+hitting Gemini's 20-req/day free-tier cap on a single LinkedIn rotator run.
 """
 from __future__ import annotations
 
@@ -10,9 +10,9 @@ import os
 from pathlib import Path
 
 from dotenv import load_dotenv
-from google import genai
+from groq import Groq
 
-_MODEL = "gemini-2.5-flash-lite"
+_MODEL = "llama-3.3-70b-versatile"
 _SYSTEM = (
     "You write one-line LinkedIn DM openers that sound like a peer, not a guru. "
     "The sender is Jone Andrew Harris, an automation freelancer who builds outbound systems "
@@ -22,32 +22,29 @@ _SYSTEM = (
     "person's role, write a brief connection-request opener that grounds itself in Jone's "
     "offer (helping B2B SaaS founders / RevOps teams ship outbound that actually replies) "
     "WITHOUT pretending to know their role. "
-    "Output exactly one sentence under 25 words. Sound like a peer."
+    "Output exactly one sentence under 25 words. Sound like a peer. "
+    "Output ONLY the opener sentence, no preamble, no quotation marks, no labels."
 )
 
-# Walk up from this file to find the project root .env (adjacent to pytest.ini /
-# .git). Loading at import time is fine because dotenv is a no-op if no file
-# exists, and tests monkeypatch _client() directly so this never blocks them.
 _PROJECT_ROOT = Path(__file__).resolve().parents[2]
 load_dotenv(_PROJECT_ROOT / ".env")
 
-_CACHED_CLIENT: genai.Client | None = None
+_CACHED_CLIENT: Groq | None = None
 
 
-def _client() -> genai.Client:
-    """Cached Client. The genai SDK's internal httpx pool closes if the client
-    instance is garbage-collected mid-request, so we hold a single reference."""
+def _client() -> Groq:
     global _CACHED_CLIENT
     if _CACHED_CLIENT is None:
-        _CACHED_CLIENT = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+        _CACHED_CLIENT = Groq(api_key=os.environ.get("GROQ_API_KEY"))
     return _CACHED_CLIENT
 
 
 def generate(lead: dict) -> str:
     """Generate an opener using whatever fields the lead has.
 
-    Recognized keys (any subset): name, first_name, title, company, headline, profile_url.
-    Empty / missing fields are omitted from the prompt so Gemini never inserts placeholders.
+    Recognized keys (any subset): name, first_name, title, company, headline.
+    Empty / missing fields are omitted from the prompt so the model never
+    inserts placeholder tokens like [Title].
     """
     name = lead.get("name") or lead.get("first_name") or "the person"
     fields = [f"Name: {name}"]
@@ -59,10 +56,17 @@ def generate(lead: dict) -> str:
     user_msg = "\n".join(fields)
 
     client = _client()
-    resp = client.models.generate_content(
+    resp = client.chat.completions.create(
         model=_MODEL,
-        contents=user_msg,
-        config={"system_instruction": _SYSTEM, "max_output_tokens": 80, "temperature": 0.7},
+        max_tokens=80,
+        temperature=0.7,
+        messages=[
+            {"role": "system", "content": _SYSTEM},
+            {"role": "user", "content": user_msg},
+        ],
     )
-    text = (resp.text or "").strip()
+    text = (resp.choices[0].message.content or "").strip()
+    # Strip outer quotes if the model wrapped its answer
+    if (text.startswith('"') and text.endswith('"')) or (text.startswith("'") and text.endswith("'")):
+        text = text[1:-1].strip()
     return text.replace("—", ",").replace("--", ",")
