@@ -26,10 +26,12 @@ Run the daily revenue routine without:
 
 ### In scope (MVP)
 - Orchestration of three existing Reddit pipelines: `revops_intel`, `pe_intel`, `reddit_mine`
+- A `last_run.json` marker added to each upstream pipeline on clean exit (small additive change to the three existing scripts; queue/DB layouts untouched)
 - LinkedIn 20/day queue generation from `B2B AI Agents.xlsx` (352 rows)
 - Daily Brief MD aggregating all queued items
 - Dashboard MD with 30-day stats by source
 - Outcome flush mechanism (Option C from brainstorm)
+- New `/reddit-mine-outcome` slash command (closes the reddit_mine outcome gap)
 - Scheduled daily execution via Claude Code `/schedule`
 
 ### Out of scope
@@ -72,8 +74,19 @@ Run the daily revenue routine without:
 
 /outreach-flush-outcomes  (end-of-day companion)
   └─ Scans today's Daily Brief for ticked outcome checkboxes
-     For each ticked box, runs the appropriate `/revops-outcome` or
-     `/pe-outcome` slash command. Reports which leads were updated.
+     For each ticked box, runs the appropriate outcome update:
+       revops → /revops-outcome
+       pe     → /pe-outcome
+       reddit → /reddit-mine-outcome (new, see below)
+     Reports updated / unchanged / conflicts.
+
+/reddit-mine-outcome  (new — fills the reddit_mine gap)
+  └─ Writes outcome state to agents/reddit_mine/outcomes.json.
+     Same outcome vocabulary as /revops-outcome.
+     Without this, the Reddit row in the dashboard stays N/A forever.
+
+Each upstream pipeline writes agents/<pipeline>/last_run.json on clean exit.
+/outreach-os reads these markers to decide skip-if-run-today.
 
 /outreach-status  (mid-day cheap check)
   └─ Re-runs aggregate.py + dashboard.py only (no scrape, no LLM calls).
@@ -86,7 +99,7 @@ Run the daily revenue routine without:
 - **Input:** none (today's date implicit)
 - **Output:** Daily Brief MD + refreshed Dashboard + summary table
 - **Side effects:** runs three existing slash commands; writes to `outreach-os/` and `agents/outreach_os/`
-- **Skip-if-run-today:** for each upstream pipeline, check most recent queue file's `generated_at` frontmatter. If today, skip the scrape/score, just re-aggregate.
+- **Skip-if-run-today:** each upstream pipeline writes `agents/<pipeline>/last_run.json` ONLY on clean completion. `/outreach-os` reads each marker and skips pipelines whose `last_run.date == today`. Marker schema: `{date: "YYYY-MM-DD", finished_at: "<iso8601>", new_leads: <int>, errors: <int>}`. Crashed runs leave no marker, so the next morning re-runs them.
 - **Failure mode:** any pipeline failure logged to brief frontmatter as `pipelines_failed: [...]`; remaining pipelines continue. Brief always writes.
 
 ### `agents/outreach_os/linkedin_rotator.py`
@@ -104,15 +117,28 @@ Run the daily revenue routine without:
 - **Cost:** ~20 Haiku calls/day × ~200 tokens each ≈ $0.05/day = $1.50/mo
 
 ### `agents/outreach_os/aggregate.py`
-- **Input:** all `agents/{revops_intel,pe_intel,reddit_mine}/queue/*.md`, today's LinkedIn MD, per-pipeline pending-outcome lists
+- **Input:** all `agents/{revops_intel,pe_intel,reddit_mine}/queue/*.md`, today's LinkedIn MD, per-pipeline pending-outcome state
 - **Output:** `outreach-os/daily/YYYY-MM-DD.md`
 - **Logic:** Pure read + filter + format. No LLM calls.
   1. Glob queue files across 3 pipelines, parse YAML frontmatter
   2. Filter to today's run (frontmatter `generated_at` matches today)
-  3. Sort by tier: HOT > WARM > AUTHORITY > LinkedIn
-  4. Pull pending-outcome list from `processed_leads` table (revops, pe) and `insights.md` outcome state (reddit_mine)
+  3. Derive a unified `tier` per lead (see Tier derivation below) and sort: HOT > WARM > AUTHORITY > LinkedIn
+  4. Pull pending-outcome list from each source:
+     - revops: `SELECT * FROM processed_leads WHERE outcome IS NULL`
+     - pe: same shape (parallel pipeline)
+     - reddit_mine: `agents/reddit_mine/outcomes.json` (see new component below) — pending = posted_at set, outcome null
   5. Render as Daily Brief MD per the format defined below
 - **Failure mode:** if a pipeline's queue dir is missing, skip with a warning; brief still writes for the others.
+
+#### Tier derivation rules
+
+| Source | Rule |
+|---|---|
+| reddit_mine | use `tier` field from queue frontmatter directly (HOT / WARM / AUTHORITY) |
+| revops, pe | score ≥ 80 → HOT; 60-79 → WARM; 40-59 → AUTHORITY (public reply, no DM if `offer_match: none`); <40 → excluded from brief |
+| linkedin | always rendered in its own dedicated section, not tier-sorted |
+
+Score thresholds are tunable in `agents/outreach_os/config.json` so they can be calibrated after 30 days of dashboard data without code changes.
 
 ### `agents/outreach_os/dashboard.py`
 - **Input:** per-pipeline outcome state (DB rows for revops/pe; YAML in queue files for reddit_mine), Daily Brief frontmatter from last 7 days
@@ -131,9 +157,16 @@ Run the daily revenue routine without:
 - **Logic:**
   1. Read today's Daily Brief
   2. Parse the "Pending outcomes" section
-  3. For each lead with a ticked outcome checkbox, identify the pipeline (`revops` / `pe`) and run the appropriate outcome slash command
-  4. Print summary: `N updated, M unchanged`
-- **Idempotency:** if a lead has already been marked, the underlying outcome command is a no-op (existing behavior of `/revops-outcome` and `/pe-outcome`)
+  3. For each lead with a ticked outcome checkbox, identify the pipeline (`revops` / `pe` / `reddit_mine`) and run the appropriate outcome update (`/revops-outcome`, `/pe-outcome`, or write to `agents/reddit_mine/outcomes.json`)
+  4. Print summary: `N updated, M unchanged, K conflicts (more than one box ticked)`
+- **Idempotency:** Verify during plan phase that `db.update_outcome` (revops, pe) is idempotent on second-write of the same value. If not, `/outreach-flush-outcomes` skips leads whose `outcome` field is already set.
+- **Conflict handling:** if a lead has more than one outcome box ticked (user error), skip the lead and report it in the conflicts count — never silently pick one.
+
+### `/reddit-mine-outcome` (slash command, new)
+- **Input:** `<post_id> <outcome>` matching the same outcome vocabulary as `/revops-outcome` (`responded`, `dmd_back`, `ghosted`, `client`, `unsubscribed`)
+- **Output:** writes/updates an entry in `agents/reddit_mine/outcomes.json`
+- **State file shape:** `{<post_id>: {posted_at: <iso8601>, outcome: <string>, outcome_logged_at: <iso8601>}}`
+- **Why this exists:** reddit_mine has no DB and no outcome tracking today; without this command the dashboard's Reddit row stays at N/A forever. Trivial to implement (~30 lines).
 
 ### `/outreach-status` (slash command)
 - **Input:** none
@@ -268,11 +301,13 @@ last_run_per_pipeline:
 
 ## Testing
 
-- **Unit tests** for `aggregate.py` (queue file fixtures → expected brief sections)
-- **Unit tests** for `dashboard.py` (DB row fixtures → expected markdown table)
+- **Unit tests** for `aggregate.py` (queue file fixtures → expected brief sections), including the tier derivation rule for revops/pe scores
+- **Unit tests** for `dashboard.py` (DB row + outcomes.json fixtures → expected markdown table)
 - **Unit tests** for `linkedin_rotator.py`: mock Anthropic API, fixture xlsx of 10 rows, assert rotation + ICP-bump logic
+- **Unit tests** for `/reddit-mine-outcome` writer (assert outcomes.json shape; test that re-running with same args is idempotent)
 - **E2E smoke test:** run `/outreach-os` once on a copy of today's data, assert brief + dashboard files exist + parse cleanly
-- **E2E smoke test:** run `/outreach-flush-outcomes` against a brief with hand-ticked checkboxes, assert outcomes update in DB
+- **E2E smoke test:** run `/outreach-flush-outcomes` against a brief with hand-ticked checkboxes (one per pipeline source), assert outcomes update in the right places (revops DB, pe DB, reddit outcomes.json)
+- **E2E smoke test:** verify skip-if-run-today behavior — write a stub `last_run.json` with today's date, run `/outreach-os`, assert that pipeline was skipped
 - **No tests for slash commands themselves** — they're tested by their own usage
 
 ## Phasing
