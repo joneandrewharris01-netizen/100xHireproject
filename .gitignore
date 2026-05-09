@@ -1,0 +1,13 @@
+.env
+.env.*
+*.env
+*.key
+secrets/
+agents/seen_emailed.json
+agents/email_outbox/
+agents/pe_intel/pe_intel.db
+agents/pe_intel/queue/
+agents/pe_intel/logs/
+__pycache__/
+*.pyc
+.worktrees/
