@@ -1,0 +1,25 @@
+{
+  "tier_thresholds": {
+    "hot_min_score": 80,
+    "warm_min_score": 60,
+    "authority_min_score": 40
+  },
+  "daily_caps": {
+    "revops": 5,
+    "pe": 5,
+    "reddit_mine": 5,
+    "linkedin": 20
+  },
+  "outcome_stale_days": 7,
+  "schedule_time": "07:30",
+  "icp_title_keywords": [
+    "vp revops",
+    "head of sales ops",
+    "head of revenue operations",
+    "director of revenue operations",
+    "director of sales operations",
+    "sales operations manager",
+    "revenue operations",
+    "revops"
+  ]
+}
