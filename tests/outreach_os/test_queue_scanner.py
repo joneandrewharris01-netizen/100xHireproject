@@ -43,3 +43,40 @@ def test_scan_attaches_source_and_path(tmp_repo_root, fixtures_dir):
 def test_scan_returns_empty_when_dirs_missing(tmp_repo_root):
     leads = queue_scanner.scan_today_all(today=date(2026, 5, 9))
     assert leads == []
+
+
+def test_scan_skips_files_with_status_skipped(tmp_repo_root, fixtures_dir):
+    _seed_fixtures(tmp_repo_root, fixtures_dir)
+    skip_path = tmp_repo_root / "agents/revops_intel/queue/2026-05-09_SKIPPED_jobseeker.md"
+    skip_path.write_text(
+        "---\n"
+        "post_id: skip1\n"
+        "author: u/seeker\n"
+        "subreddit: sales\n"
+        "score: 75\n"
+        "generated_at: 2026-05-09T07:00:00\n"
+        "status: SKIPPED\n"
+        "skip_reason: not a buyer\n"
+        "---\nbody"
+    )
+    leads = queue_scanner.scan_today_all(today=date(2026, 5, 9))
+    ids = {l["frontmatter"].get("post_id") for l in leads}
+    assert "skip1" not in ids
+
+
+def test_scan_skips_files_with_skipped_in_filename(tmp_repo_root, fixtures_dir):
+    _seed_fixtures(tmp_repo_root, fixtures_dir)
+    # Filename convention: ..._SKIPPED_*.md (legacy queue pattern, no frontmatter status)
+    skip_path = tmp_repo_root / "agents/revops_intel/queue/2026-05-09_SKIPPED_legacy.md"
+    skip_path.write_text(
+        "---\n"
+        "post_id: legacy_skip\n"
+        "author: u/whatever\n"
+        "subreddit: sales\n"
+        "score: 75\n"
+        "generated_at: 2026-05-09T07:00:00\n"
+        "---\nbody"
+    )
+    leads = queue_scanner.scan_today_all(today=date(2026, 5, 9))
+    ids = {l["frontmatter"].get("post_id") for l in leads}
+    assert "legacy_skip" not in ids

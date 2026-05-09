@@ -30,5 +30,11 @@ def scan_today_all(today: date) -> list[dict]:
                 continue
             if not _is_today(fm, today):
                 continue
+            # Filter SKIPPED queue files (they're audit trail, not action items).
+            # status: SKIPPED is the explicit signal; some pipelines also use a
+            # filename prefix convention (e.g. revops_intel/queue/*_SKIPPED_*.md).
+            status = str(fm.get("status", "")).strip().upper()
+            if status == "SKIPPED" or "_SKIPPED_" in path.name.upper():
+                continue
             out.append({"source": source, "path": str(path), "frontmatter": fm})
     return out
