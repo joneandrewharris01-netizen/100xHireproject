@@ -1341,7 +1341,7 @@ import shutil
 from datetime import date
 from pathlib import Path
 
-from agents.outreach_os import aggregate
+from agents.outreach_os import aggregate, last_run
 
 
 def _seed(repo, fixtures):
@@ -1369,6 +1369,19 @@ def test_brief_contains_all_4_leads(tmp_repo_root, fixtures_dir):
     md = (tmp_repo_root / "outreach-os/daily/2026-05-09.md").read_text()
     for pid in ("post1", "post2", "post3", "post4"):
         assert pid in md
+
+
+def test_pipelines_run_inferred_from_last_run_markers(tmp_repo_root, fixtures_dir):
+    """aggregate must derive pipelines_run from last_run.json markers, not from []."""
+    _seed(tmp_repo_root, fixtures_dir)
+    last_run.write("revops", new_leads=2, errors=0)
+    last_run.write("reddit_mine", new_leads=1, errors=0)
+    # pe deliberately not marked — should show as failed-or-skipped, not run
+    aggregate.run(today=date(2026, 5, 9))
+    md = (tmp_repo_root / "outreach-os/daily/2026-05-09.md").read_text()
+    # frontmatter should list revops and reddit_mine in pipelines_run
+    assert "revops" in md.split("---")[1]
+    assert "reddit_mine" in md.split("---")[1]
 ```
 
 - [ ] **Step 2: Run, verify fail**
@@ -1394,8 +1407,8 @@ import argparse
 from datetime import date
 from pathlib import Path
 
-from . import brief as brief_mod
-from . import pending_outcomes, queue_scanner
+from . import PIPELINES, brief as brief_mod
+from . import last_run, pending_outcomes, queue_scanner
 
 
 def _read_linkedin(today: date) -> list[dict]:
@@ -1410,20 +1423,41 @@ def _read_linkedin(today: date) -> list[dict]:
     return items
 
 
+def _infer_pipeline_status() -> tuple[list[str], list[str]]:
+    """Return (pipelines_run_today, pipelines_not_run_today) based on last_run markers.
+
+    'Not run' means either failed or never started. The orchestrator slash
+    command writes a separate failure log if it wants to distinguish; this
+    function only reads the markers.
+    """
+    run_today: list[str] = []
+    not_run: list[str] = []
+    for p in PIPELINES:
+        if last_run.ran_today(p):
+            run_today.append(p)
+        else:
+            not_run.append(p)
+    return run_today, not_run
+
+
 def run(*, today: date | None = None) -> Path:
     today = today or date.today()
     leads = queue_scanner.scan_today_all(today=today)
     linkedin = _read_linkedin(today)
     pending = pending_outcomes.fetch_all(stale_days=7)
+    pipelines_run, pipelines_not_run = _infer_pipeline_status()
+    # If the linkedin file for today exists, count linkedin as "run"
+    if (Path(f"agents/outreach_os/linkedin/{today.isoformat()}.md")).exists():
+        pipelines_run.append("linkedin")
 
     md = brief_mod.render(
         today=today,
         leads=leads,
         linkedin=linkedin,
         pending=pending,
-        pipelines_run=[],
+        pipelines_run=pipelines_run,
         pipelines_skipped=[],
-        pipelines_failed=[],
+        pipelines_failed=pipelines_not_run,
     )
 
     out = Path(f"outreach-os/daily/{today.isoformat()}.md")
