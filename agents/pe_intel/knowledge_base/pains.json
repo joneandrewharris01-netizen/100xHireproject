@@ -1,0 +1,64 @@
+{
+  "ai_infrastructure_setup_no_playbook": {
+    "frequency": 1,
+    "personas_affected": ["ai_lead_at_small_pe"],
+    "current_workarounds": [
+      "trial and error inside Claude Team plan",
+      "asking peers in subreddits"
+    ],
+    "automation_opportunity": "90-day rollout map: NDA redline workflow + target/market primer templates in Claude Projects + LOI playbook + IC pre-read assembly. Stop trying to automate end-to-end before nailing the data layer.",
+    "example_quotes": [
+      {
+        "author": "u/Strong-Buy-6466",
+        "post_id": "1rzqon1",
+        "snippet": "automating as much as possible across our workflow - NDA review, target primers, market primers, financial modeling, LOI drafting, reporting, etc"
+      }
+    ]
+  },
+  "manual_lp_doc_extraction": {
+    "frequency": 1,
+    "personas_affected": ["research_analyst_at_small_pe"],
+    "current_workarounds": [
+      "two data engineering hires (taking forever)",
+      "outsourced extraction to analysts in India (expensive, unreliable)",
+      "alerts on LP repositories + manual review"
+    ],
+    "automation_opportunity": "Don't hire a data engineer. Build a parsing pipeline: Docling/Unstructured.io for PDF → LLM for normalization with structured output → confidence scoring → human review for the 20-30% flagged. A research analyst with n8n + Claude can outpace a 2-person DE team for the first 18 months.",
+    "example_quotes": [
+      {
+        "author": "u/Away-Lengthiness-831",
+        "post_id": "1sc731b",
+        "snippet": "We had already identified repositories where LP documents are stored... someone reviews it and extracts the key metrics. Since the workload kept growing, we also outsourced part of it to analysts in India"
+      }
+    ]
+  },
+  "gpt_chat_vs_api_gap": {
+    "frequency": 1,
+    "personas_affected": ["research_analyst_at_small_pe", "ai_lead_at_small_pe"],
+    "current_workarounds": ["disappointment, missed deadlines, two data engineers struggling"],
+    "automation_opportunity": "Stop demoing in chat. Prototype on the API from day one with a structured output schema, retries, and a confidence score. Build a tiny eval harness so you can swap models without re-checking everything by hand.",
+    "example_quotes": [
+      {
+        "author": "u/Away-Lengthiness-831",
+        "post_id": "1sc731b",
+        "snippet": "ChatGPT in the chat interface is not the same as ChatGPT through the API when you are trying to run a real production workflow"
+      }
+    ]
+  },
+  "in_house_data_pipeline_drift": {
+    "frequency": 1,
+    "personas_affected": ["research_analyst_at_small_pe"],
+    "current_workarounds": [
+      "throw more headcount at it",
+      "outsource to lower-cost analysts"
+    ],
+    "automation_opportunity": "Narrow before you scale: nail extraction for the top 30 funds, prove accuracy, then expand. End-to-end automation before clean data layer = stuck in the mud at 70% accuracy forever.",
+    "example_quotes": [
+      {
+        "author": "u/Away-Lengthiness-831",
+        "post_id": "1sc731b",
+        "snippet": "now we're stuck in this awkward middle ground: too deep into the process to stop, but still far away from having something we can fully trust"
+      }
+    ]
+  }
+}

@@ -26,7 +26,7 @@ def _fetch_db(source: str, stale_days: int) -> list[dict]:
     conn.row_factory = sqlite3.Row
     rows = conn.execute(
         """
-        SELECT post_id, queue_file, posted_at, processed_at, offer_match
+        SELECT post_id, queue_file, posted_at, processed_at
         FROM processed_leads
         WHERE outcome IS NULL
           AND COALESCE(posted_at, processed_at) <= ?

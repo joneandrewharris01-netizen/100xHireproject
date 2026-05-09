@@ -1,0 +1,137 @@
+{
+  "Claude Team": {
+    "category": "ai_assistant",
+    "first_seen": "2026-04-28",
+    "mention_count": 1,
+    "sentiment_summary": "Adopted as default LLM stack at small PE firms building AI-first infrastructure. Used as the foundation for NDA review, memo drafting, modeling support.",
+    "common_complaints": [],
+    "common_praise": [
+      "team plan unlocks Claude Projects which give context isolation per workflow"
+    ],
+    "example_quotes": [
+      {
+        "author": "u/Strong-Buy-6466",
+        "post_id": "1rzqon1",
+        "snippet": "tasked with building / setting up an AI-first infrastructure using Claude (Team plan), with the goal of automating as much as possible across our workflow"
+      }
+    ]
+  },
+  "ChatGPT (chat vs API)": {
+    "category": "ai_assistant",
+    "first_seen": "2026-04-28",
+    "mention_count": 1,
+    "sentiment_summary": "Heavy gap between chat UX and API behavior. Chat has retrieval, system prompts, and guardrails baked in; teams who try to rebuild a production workflow on the API underestimate the rebuild cost by months.",
+    "common_complaints": [
+      "chat interface flatters you — feels capable, but the API drops all the scaffolding",
+      "production workflow on raw API takes way longer than the chat demo suggests"
+    ],
+    "common_praise": [],
+    "example_quotes": [
+      {
+        "author": "u/Away-Lengthiness-831",
+        "post_id": "1sc731b",
+        "snippet": "ChatGPT in the chat interface is not the same as ChatGPT through the API when you are trying to run a real production workflow"
+      },
+      {
+        "author": "u/NecessaryPapaya51",
+        "post_id": "1sc731b",
+        "snippet": "The ChatGPT chat vs API thing is one of the most common traps right now... When you go to build it for real, you're essentially rebuilding all of that yourself"
+      }
+    ]
+  },
+  "Docling": {
+    "category": "data_extraction",
+    "first_seen": "2026-04-28",
+    "mention_count": 1,
+    "sentiment_summary": "Recommended as a parsing/OCR layer for messy LP documents before any LLM step. The community view: extraction is the bottleneck, not the LLM.",
+    "common_complaints": [],
+    "common_praise": ["good for structural parsing of PDFs"],
+    "example_quotes": [
+      {
+        "author": "u/NecessaryPapaya51",
+        "post_id": "1sc731b",
+        "snippet": "Look at Docling, Unstructured.io, or AWS Textract for the OCR and structural piece"
+      }
+    ]
+  },
+  "Unstructured.io": {
+    "category": "data_extraction",
+    "first_seen": "2026-04-28",
+    "mention_count": 1,
+    "sentiment_summary": "Same use case as Docling — parse PDFs into clean structured text before LLM normalization.",
+    "common_complaints": [],
+    "common_praise": [],
+    "example_quotes": [
+      {
+        "author": "u/NecessaryPapaya51",
+        "post_id": "1sc731b",
+        "snippet": "Look at Docling, Unstructured.io, or AWS Textract"
+      }
+    ]
+  },
+  "AWS Textract": {
+    "category": "data_extraction",
+    "first_seen": "2026-04-28",
+    "mention_count": 1,
+    "sentiment_summary": "Enterprise-friendly OCR option. Mentioned alongside Docling and Unstructured.io as the parsing layer that should sit before the LLM.",
+    "common_complaints": [],
+    "common_praise": [],
+    "example_quotes": [
+      {
+        "author": "u/NecessaryPapaya51",
+        "post_id": "1sc731b",
+        "snippet": "Look at Docling, Unstructured.io, or AWS Textract for the OCR and structural piece"
+      }
+    ]
+  },
+  "Preqin": {
+    "category": "data",
+    "first_seen": "2026-04-28",
+    "mention_count": 1,
+    "sentiment_summary": "Standard PE peer-fund benchmarking source. Coverage is weak for smaller funds — consistent complaint across firms doing in-house benchmarking. Useful as a validation layer (cross-check) even when coverage gaps force in-house builds.",
+    "common_complaints": [
+      "data outdated for smaller funds",
+      "coverage gaps force firms to build in-house"
+    ],
+    "common_praise": [
+      "good as a cross-check / validation layer for funds it does cover"
+    ],
+    "example_quotes": [
+      {
+        "author": "u/Away-Lengthiness-831",
+        "post_id": "1sc731b",
+        "snippet": "We do have access to Preqin and Bloomberg, but we kept finding that the data is often outdated, especially for smaller funds"
+      }
+    ]
+  },
+  "Bloomberg": {
+    "category": "data",
+    "first_seen": "2026-04-28",
+    "mention_count": 1,
+    "sentiment_summary": "Same role as Preqin in PE benchmarking. Same coverage gaps for smaller funds.",
+    "common_complaints": ["weak coverage for smaller funds"],
+    "common_praise": [],
+    "example_quotes": [
+      {
+        "author": "u/Away-Lengthiness-831",
+        "post_id": "1sc731b",
+        "snippet": "We do have access to Preqin and Bloomberg, but we kept finding that the data is often outdated"
+      }
+    ]
+  },
+  "Perplexity": {
+    "category": "ai_assistant",
+    "first_seen": "2026-04-28",
+    "mention_count": 1,
+    "sentiment_summary": "Used alongside Claude for data extraction with confidence scoring. Some users have churned the subscription.",
+    "common_complaints": ["enough overlap with Claude that some users drop it"],
+    "common_praise": ["confidence % output helps validate extracted data"],
+    "example_quotes": [
+      {
+        "author": "u/thepookienextdoor",
+        "post_id": "1sc731b",
+        "snippet": "since I've been using Claude and perplexity, adding a layer of confidence % in data extraction is what has helped me"
+      }
+    ]
+  }
+}

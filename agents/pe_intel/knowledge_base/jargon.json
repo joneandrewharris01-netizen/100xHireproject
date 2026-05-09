@@ -1,0 +1,38 @@
+{
+  "target primer": {
+    "def": "pre-IC briefing document on a potential acquisition target — company background, market position, financial snapshot. Standard PE associate output before each Investment Committee meeting.",
+    "use_in_outreach": true
+  },
+  "market primer": {
+    "def": "background brief on an industry sector before a deal — competitive landscape, key players, M&A activity, regulatory environment.",
+    "use_in_outreach": true
+  },
+  "LOI": {
+    "def": "Letter of Intent — non-binding offer document sent to a target after preliminary diligence, before exclusivity.",
+    "use_in_outreach": true
+  },
+  "NDA review": {
+    "def": "redline pass on a non-disclosure agreement received from a deal target or banker. Standard junior workflow that's repetitive and rules-based.",
+    "use_in_outreach": true
+  },
+  "IC": {
+    "def": "Investment Committee — internal decision-making body at a PE fund that approves deals.",
+    "use_in_outreach": true
+  },
+  "LP documents": {
+    "def": "Limited Partner reporting documents — quarterly statements, capital account statements, fund performance reports that LPs receive from GPs. Key source for peer-fund benchmarking when scraped.",
+    "use_in_outreach": true
+  },
+  "peer funds": {
+    "def": "competing PE funds in the same strategy/vintage that a firm tracks for benchmarking purposes.",
+    "use_in_outreach": true
+  },
+  "real assets": {
+    "def": "PE strategy focused on physical/tangible assets — infrastructure, real estate, natural resources. Differentiates from buyout/venture/credit.",
+    "use_in_outreach": true
+  },
+  "ontologies": {
+    "def": "structured knowledge graphs that encode domain concepts and relationships, used to give LLMs context beyond their flat training data. Mentioned by some practitioners as the missing layer for finance-specific extraction.",
+    "use_in_outreach": false
+  }
+}

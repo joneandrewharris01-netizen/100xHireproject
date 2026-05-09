@@ -1,0 +1,54 @@
+{
+  "ai_lead_at_small_pe": {
+    "title_variants": [
+      "AI lead",
+      "person tasked with AI infra",
+      "associate/VP wearing the AI hat"
+    ],
+    "firm_size_signals": [
+      "small PE firm",
+      "Claude Team plan (not Enterprise)",
+      "first AI build at the firm"
+    ],
+    "buying_authority": "high — they own the AI/automation budget for the whole firm at this size",
+    "language_markers": [
+      "AI-first infrastructure",
+      "Claude (Team plan)",
+      "NDA review",
+      "target primers",
+      "market primers",
+      "LOI drafting",
+      "automating across our workflow"
+    ],
+    "common_pains": ["ai_infrastructure_setup_no_playbook"]
+  },
+  "research_analyst_at_small_pe": {
+    "title_variants": [
+      "research analyst",
+      "associate doing benchmarking",
+      "fund-of-funds analyst"
+    ],
+    "firm_size_signals": [
+      "small PE firm",
+      "monitors peer funds for benchmarking",
+      "has Preqin and Bloomberg but not enough",
+      "real assets / fund-of-funds focus"
+    ],
+    "buying_authority": "medium — usually proposes, management approves. Influential because they are stuck doing the manual work and management trusts the pain.",
+    "language_markers": [
+      "peer funds",
+      "LP documents",
+      "fund database",
+      "benchmarking",
+      "performance data",
+      "real assets",
+      "in-house data",
+      "outsourced to India"
+    ],
+    "common_pains": [
+      "manual_lp_doc_extraction",
+      "gpt_chat_vs_api_gap",
+      "in_house_data_pipeline_drift"
+    ]
+  }
+}
