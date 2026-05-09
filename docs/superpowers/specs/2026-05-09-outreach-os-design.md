@@ -35,7 +35,8 @@ Run the daily revenue routine without:
 - Scheduled daily execution via Claude Code `/schedule`
 
 ### Out of scope
-- Uncharted 173-rig automation (deferred per user — handled manually wks 1-3)
+- Auto-sending any email to the Uncharted/PitchBook database (see Send guardrails below — drafts and analysis only, ever)
+- SMB email sending pipeline (deferred to Phase 2; see Phasing)
 - Automated LinkedIn DM/connect sending (LinkedIn ToS violation; queue is review-only)
 - Web dashboard / SaaS productization (deferred to >day 180)
 - New Reddit pipelines beyond the three named above
@@ -315,7 +316,8 @@ last_run_per_pipeline:
 Phase 1 (MVP, the body of this spec) ships everything above. No phased rollout within MVP.
 
 Phase 2 candidates (deferred, not part of this spec):
-- Uncharted 173-rig integration (when wks 1-3 of 90-day plan rotate to wk 4+)
+- **SMB email sending pipeline.** Source list + Gmail SMTP (or equivalent) sender + daily cap + bounce handling + reply detection + deliverability stack (SPF/DKIM/DMARC, warm-up). Per locked feedback in MEMORY.md, the Gmail sender is constrained to local SMB targets. Will get its own design spec before any code ships.
+- **Uncharted as a draft-only source.** Read the Uncharted entity/deal dataset, generate personalized draft emails, surface them in the Daily Brief for human review and manual sending. Reaffirms guardrail #1: no auto-send code path ever exists for this source.
 - Auto-detection of LinkedIn replies via LinkedIn export (still no automated sending)
 - Streak / consistency tracking ("you've run /outreach-os 14 days in a row")
 - Per-channel daily-cap auto-tuning based on win rate
@@ -325,6 +327,17 @@ Phase 2 candidates (deferred, not part of this spec):
 - `B2B AI Agents.xlsx` must exist at `D:/Projects/my-project/linkedin-content/B2B AI Agents.xlsx` (per MEMORY.md). Verify path during plan phase.
 - `/schedule` skill must support firing slash commands daily at fixed local time. Verify during plan phase.
 - The `Task` tool inside `/outreach-os` must be able to invoke other slash commands. If not directly possible, the orchestrator falls back to writing a "run these commands in order" prompt for the user. Verify during plan phase.
+
+## Send guardrails (hard rules)
+
+These are non-negotiable. The plan, code, and tests must enforce them.
+
+1. **Uncharted/PitchBook database is never an auto-send target.** The OS may read the Uncharted dataset for analysis or to generate draft emails for human review, but no code path may invoke an email-sending API, SMTP client, or third-party sender (Smartlead, Instantly, Apollo, Lemlist, Outreach, etc.) with an Uncharted contact as the recipient. Drafts only.
+2. **No automated send to LinkedIn.** Queue is review-only; user posts manually.
+3. **No automated send to Reddit.** Queue is review-only; user posts manually.
+4. **No automated send for SMB email outreach in Phase 1.** Even if SMB email is added in Phase 2, the Phase 2 spec must define explicit deliverability guardrails (SPF/DKIM/DMARC, warm-up, daily caps, bounce handling) before any sending code ships.
+5. **The only outbound API the MVP calls is the Anthropic API** (Haiku for openers + Opus orchestration). No SMTP, no LinkedIn API, no Reddit API for posting. Reddit/LinkedIn lookup APIs are fine; they are read-only.
+6. **Test coverage for guardrail #1:** the test suite includes a regression test that fails if any module imports `smtplib`, `aiosmtplib`, `yagmail`, or any sender SDK while also importing the Uncharted dataset reader. Belt-and-braces.
 
 ## Voice + style requirements (hard rules)
 
