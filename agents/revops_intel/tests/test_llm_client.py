@@ -80,9 +80,18 @@ def test_enforce_voice_strips_cta_trailer():
 def test_enforce_voice_ensures_terminal_punct_after_cta_strip():
     """After stripping a trailing CTA, output must still end in . / ! / ?
     so downstream truncation checks don't false-positive."""
-    raw = "Useful insight is here. DM me anytime"
+    raw = "Useful insight is here. DM me anytime."
     out, _ = llm_client._enforce_voice(raw)
     assert out.rstrip()[-1] in ".!?"
+
+
+def test_enforce_voice_strips_mid_text_cta():
+    """Mid-paragraph 'DM me' must be stripped, not just end-of-string."""
+    raw = "Useful insight here. DM me if you want more. Also check this other tool."
+    out, _ = llm_client._enforce_voice(raw)
+    assert "DM me" not in out
+    assert "Useful insight here" in out
+    assert "check this other tool" in out
 
 
 @pytest.mark.parametrize("raw,banned", [

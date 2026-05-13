@@ -68,11 +68,11 @@ _TYPOGRAPHIC = [
 ]
 
 _CTA_TRAILERS = [
-    r"\bDM me\b[^.!?]*[.!?]?\s*$",
-    r"\bHit me up\b[^.!?]*[.!?]?\s*$",
-    r"\bFeel free to reach out\b[^.!?]*[.!?]?\s*$",
-    r"\bReach out anytime\b[^.!?]*[.!?]?\s*$",
-    r"\bShoot me a message\b[^.!?]*[.!?]?\s*$",
+    r"\bDM me\b[^.!?]*[.!?]",
+    r"\bHit me up\b[^.!?]*[.!?]",
+    r"\bFeel free to reach out\b[^.!?]*[.!?]",
+    r"\bReach out anytime\b[^.!?]*[.!?]",
+    r"\bShoot me a message\b[^.!?]*[.!?]",
 ]
 _CTA_RE = re.compile("|".join(_CTA_TRAILERS), re.IGNORECASE)
 

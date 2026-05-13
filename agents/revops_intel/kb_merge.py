@@ -71,5 +71,7 @@ def merge_atomic(diff: dict) -> None:
         path = _KB_DIR / f"{key}.json"
         current = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
         for entry_key, entry_diff in section.items():
+            if not isinstance(entry_diff, dict):
+                continue  # ignore malformed LLM output for this entry
             current[entry_key] = _merge_entry(current.get(entry_key, {}), entry_diff)
         _atomic_write(path, current)

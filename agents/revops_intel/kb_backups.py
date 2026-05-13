@@ -13,7 +13,7 @@ from pathlib import Path
 _KB_DIR = Path(__file__).parent / "knowledge_base"
 _BACKUP_DIR = _KB_DIR / ".backups"
 _RETENTION = 7
-_FILES = ("tools", "pains", "personas", "jargon")
+_FILES = ("tools", "pains", "personas", "jargon", "offers")
 
 
 def _TIMESTAMP_FN() -> str:

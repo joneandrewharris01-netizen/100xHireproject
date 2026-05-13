@@ -56,3 +56,14 @@ def test_merge_ignores_unknown_top_level_keys(tmp_kb):
     kb_merge.merge_atomic(diff)
     assert (tmp_kb / "tools.json").exists()
     assert not (tmp_kb / "garbage.json").exists()
+
+
+def test_merge_skips_non_dict_entry_values(tmp_kb):
+    """If LLM returns a malformed entry (e.g., string instead of dict), skip not crash."""
+    diff = {"tools": {"smartlead": "this should be a dict but isn't",
+                       "apollo": {"category": "outbound", "mention_count": 1}}}
+    kb_merge.merge_atomic(diff)
+
+    data = json.loads((tmp_kb / "tools.json").read_text(encoding="utf-8"))
+    assert "smartlead" not in data
+    assert "apollo" in data

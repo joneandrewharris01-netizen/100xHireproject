@@ -83,6 +83,7 @@ def main(limit: int = 20, dry_run: bool = False) -> int:
 
     conn = db.connect()
     try:
+        db.init_schema(conn)  # idempotent — safe on first run with empty DB
         hot = db.fetch_hot_unprocessed(conn, limit=limit)
 
         if not hot:
