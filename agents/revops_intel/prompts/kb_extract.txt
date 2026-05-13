@@ -1,0 +1,25 @@
+You are extracting knowledge-base updates from a Reddit thread about B2B SaaS RevOps, outbound sales, or bookkeeping/finance automation. Your output drives outreach generation for downstream tasks.
+
+REDDIT POST
+Title: {lead_title}
+
+Body:
+{lead_body}
+
+TOP COMMENTS
+{comments_block}
+
+YOUR TASK
+Extract structured knowledge from this thread. Return a SINGLE JSON object with up to 4 top-level keys: "tools", "pains", "personas", "jargon". Omit any key with no new entries. Be conservative — only add entries if the thread genuinely teaches something new.
+
+SCHEMAS (match shapes exactly)
+tools: {{ "<tool_name_lowercase>": {{ "category": "outbound|crm|automation|finance|other", "first_seen": "<post_id>", "mention_count": 1, "sentiment_summary": "...", "common_complaints": ["..."], "common_praise": ["..."], "example_quotes": ["..."] }} }}
+pains: {{ "<pain_slug_snake_case>": {{ "frequency": 1, "personas_affected": ["..."], "current_workarounds": ["..."], "automation_opportunity": "...", "example_quotes": ["..."] }} }}
+personas: {{ "<persona_slug>": {{ "title_variants": ["..."], "firm_size_signals": ["..."], "buying_authority": "...", "language_markers": ["..."], "common_pains": ["..."] }} }}
+jargon: {{ "<term_lowercase>": {{ "def": "...", "use_in_outreach": true|false }} }}
+
+RULES
+- Return ONLY the JSON object. No prose before or after. No markdown fences.
+- example_quotes must be verbatim from the thread, 1-2 short snippets.
+- use_in_outreach=true only for natural identifiers (Apollo, Smartlead, ICP). false for consultant-speak.
+- If nothing new, return {{}}.
