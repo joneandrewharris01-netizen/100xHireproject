@@ -41,3 +41,95 @@ def _load_api_key() -> str:
             "from https://console.groq.com/keys"
         )
     return key
+
+
+import re
+
+
+# Em-dash + en-dash. Heuristic: if next non-space char is uppercase OR end-of-string,
+# replace with ". "; otherwise replace with ", ".
+_EM_DASH_RE = re.compile(r"\s*[—–]\s*")
+
+# Emoji + symbol blocks Llama 3.3 is known to emit.
+_EMOJI_RE = re.compile(
+    "[\U0001F000-\U0001FFFF\U00002600-\U000027BF\U0001F3FB-\U0001F3FF‍]"
+)
+
+_TYPOGRAPHIC = [
+    ("…", "..."),
+    ("→", " to "),
+    ("•", "-"),
+    ("“", '"'),  # left double quote
+    ("”", '"'),  # right double quote
+    ("‘", "'"),  # left single quote
+    ("’", "'"),  # right single quote
+]
+
+_CTA_TRAILERS = [
+    r"\bDM me\b[^.!?]*[.!?]?\s*$",
+    r"\bHit me up\b[^.!?]*[.!?]?\s*$",
+    r"\bFeel free to reach out\b[^.!?]*[.!?]?\s*$",
+    r"\bReach out anytime\b[^.!?]*[.!?]?\s*$",
+    r"\bShoot me a message\b[^.!?]*[.!?]?\s*$",
+]
+_CTA_RE = re.compile("|".join(_CTA_TRAILERS), re.IGNORECASE)
+
+
+def _replace_em_dash(match: re.Match) -> str:
+    end = match.end()
+    src = match.string
+    nxt = ""
+    i = end
+    while i < len(src) and src[i].isspace():
+        i += 1
+    if i < len(src):
+        nxt = src[i]
+    if nxt == "" or nxt.isupper():
+        return ". "
+    return ", "
+
+
+def _enforce_voice(text: str) -> tuple[str, list[dict]]:
+    """Apply voice cleanup. Returns (cleaned_text, violations).
+
+    violations is a list of {rule, before, after} dicts for logging.
+    """
+    violations: list[dict] = []
+
+    new_text, n = _EM_DASH_RE.subn(_replace_em_dash, text)
+    if n:
+        violations.append({"rule": "em_dash", "before": text, "after": new_text})
+    text = new_text
+
+    new_text, n = _EMOJI_RE.subn("", text)
+    if n:
+        violations.append({"rule": "emoji", "before": text, "after": new_text})
+    text = new_text
+
+    for raw, replacement in _TYPOGRAPHIC:
+        if raw in text:
+            new_text = text.replace(raw, replacement)
+            violations.append({"rule": "typographic", "before": text, "after": new_text})
+            text = new_text
+
+    new_text, n = _CTA_RE.subn("", text)
+    if n:
+        cleaned = new_text.rstrip()
+        # After stripping a trailing CTA sentence, ensure terminal punctuation
+        # remains so downstream truncation checks don't false-positive.
+        if cleaned and cleaned[-1] not in ".!?":
+            cleaned += "."
+        violations.append({"rule": "cta_trailer", "before": text, "after": cleaned})
+        text = cleaned
+
+    for phrase, replacement in GURU_REPLACEMENTS.items():
+        # Word boundaries prevent "10x" from mangling "210x growth" or "100x".
+        pattern = re.compile(r"\b" + re.escape(phrase) + r"\b", re.IGNORECASE)
+        new_text, n = pattern.subn(replacement, text)
+        if n:
+            violations.append({"rule": "guru", "before": text, "after": new_text})
+            text = new_text
+
+    # Collapse double-spaces created by substitutions
+    text = re.sub(r"  +", " ", text).strip()
+    return text, violations
