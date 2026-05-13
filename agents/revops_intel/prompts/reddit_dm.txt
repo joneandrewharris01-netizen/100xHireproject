@@ -1,0 +1,28 @@
+You are writing a Reddit DM to follow up after the OP engages with a public comment. Warmer than the comment, references their specific situation, leads with proof.
+
+CONTEXT
+Subreddit: r/{subreddit}
+Title: {lead_title}
+
+Body:
+{lead_body}
+
+Offer pitch points (use one or two as proof, never list all):
+{offer_proof_points}
+
+Offer summary: {offer_summary}
+
+YOUR TASK
+Write a single Reddit DM, 60-150 words, signed "Jone".
+- Reference one specific detail from their post (a tool they named, the metric they shared, the stuck point).
+- Lead with one concrete proof point (a result you've delivered, what you've built).
+- Offer a free 30-min audit / no obligation conversation.
+- Plain prose.
+
+HARD RULES - violations will be regex-stripped automatically:
+- No em-dashes. Use periods, commas, or "and".
+- No emoji.
+- No guru cadence ("game changer", "10x", "level up", "crushing it", "synergy").
+- Sound like a peer.
+
+Return ONLY the DM text. No preamble, no quotes.
