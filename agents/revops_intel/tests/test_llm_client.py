@@ -211,3 +211,62 @@ def test_complete_writes_violations_to_log(mock_groq, tmp_path, monkeypatch):
     # Each line is valid JSON
     for line in lines:
         json.loads(line)
+
+
+def test_complete_raises_llm_error_on_empty_choices(mock_groq, tmp_path, monkeypatch):
+    calls, responses = mock_groq
+    empty_resp = type("R", (), {"choices": []})()
+    responses.append(empty_resp)
+    monkeypatch.setattr(llm_client, "_VIOLATIONS_LOG", str(tmp_path / "v.jsonl"))
+    with pytest.raises(llm_client.LLMError, match="empty choices"):
+        llm_client.complete("hello")
+
+
+def test_complete_retries_on_5xx(mock_groq, tmp_path, monkeypatch):
+    from groq import APIStatusError
+
+    calls, responses = mock_groq
+    # Build a faux 503 — APIStatusError needs (message, response, body)
+    fake_resp = type("R", (), {"status_code": 503, "headers": {}, "request": None})()
+    fake_err = APIStatusError(message="upstream 503", response=fake_resp, body=None)
+    responses.append(fake_err)
+    responses.append(_FakeGroqResponse("recovered after 503"))
+    monkeypatch.setattr(llm_client, "_VIOLATIONS_LOG", str(tmp_path / "v.jsonl"))
+    monkeypatch.setattr(llm_client, "_BACKOFF_BASE", 0.01)
+
+    out = llm_client.complete("hello")
+    assert out == "recovered after 503"
+    assert len(calls) == 2
+
+
+def test_complete_raises_on_4xx_without_retry(mock_groq, tmp_path, monkeypatch):
+    from groq import APIStatusError
+
+    calls, responses = mock_groq
+    fake_resp = type("R", (), {"status_code": 400, "headers": {}, "request": None})()
+    fake_err = APIStatusError(message="bad request", response=fake_resp, body=None)
+    responses.append(fake_err)
+    monkeypatch.setattr(llm_client, "_VIOLATIONS_LOG", str(tmp_path / "v.jsonl"))
+
+    with pytest.raises(llm_client.LLMError, match="400"):
+        llm_client.complete("hello")
+    assert len(calls) == 1  # no retry on 4xx
+
+
+def test_complete_retries_on_connection_error(mock_groq, tmp_path, monkeypatch):
+    from groq import APIConnectionError
+
+    calls, responses = mock_groq
+    # APIConnectionError signature varies by SDK version. Try the common form.
+    try:
+        fake_err = APIConnectionError(request=type("Req", (), {})())
+    except TypeError:
+        fake_err = APIConnectionError(message="network")
+    responses.append(fake_err)
+    responses.append(_FakeGroqResponse("recovered after network blip"))
+    monkeypatch.setattr(llm_client, "_VIOLATIONS_LOG", str(tmp_path / "v.jsonl"))
+    monkeypatch.setattr(llm_client, "_BACKOFF_BASE", 0.01)
+
+    out = llm_client.complete("hello")
+    assert out == "recovered after network blip"
+    assert len(calls) == 2

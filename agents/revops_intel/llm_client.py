@@ -5,10 +5,15 @@ This is the single file that knows Groq exists. All other modules call
 """
 from __future__ import annotations
 
+import json
 import os
+import re
+import time
+from datetime import datetime, timezone
 from pathlib import Path
 
 from dotenv import load_dotenv
+from groq import Groq, APIStatusError, APIConnectionError, RateLimitError
 
 
 _DOTENV_PATH = str(Path(__file__).parent / ".env")
@@ -41,9 +46,6 @@ def _load_api_key() -> str:
             "from https://console.groq.com/keys"
         )
     return key
-
-
-import re
 
 
 # Em-dash + en-dash. Heuristic: if next non-space char is uppercase OR end-of-string,
@@ -135,13 +137,6 @@ def _enforce_voice(text: str) -> tuple[str, list[dict]]:
     return text, violations
 
 
-import json
-import time
-from datetime import datetime, timezone
-
-from groq import Groq, APIStatusError, APIConnectionError, RateLimitError
-
-
 # Retry sleeps: between 3 attempts, we wait 1s then 4s (5s total wait budget).
 # Spec mentioned "(1s, 4s, 16s)" — that was the earlier 4-attempt design.
 # We ship 3 attempts because Groq RPM is generous enough that a 3rd retry
@@ -224,7 +219,9 @@ def complete(
                 max_tokens=max_tokens,
                 temperature=temperature,
             )
-            raw = resp.choices[0].message.content or ""
+            if not resp.choices:
+                raise LLMError("Groq returned response with empty choices list")
+            raw = (resp.choices[0].message.content or "")
             cleaned, violations = _enforce_voice(raw)
             _log_violations(violations, lead_id)
             _log_call(
@@ -253,4 +250,4 @@ def complete(
 
     raise LLMError(
         f"Groq rate limit not recoverable after {attempts} attempts: {last_exc}"
-    )
+    ) from last_exc
