@@ -1,0 +1,17 @@
+{
+  "post_id": "fixture_001",
+  "subreddit": "sales",
+  "author": "burned_out_sdr",
+  "title": "Outbound is dead, what's actually working in 2026?",
+  "selftext": "Series B SaaS. Tried Apollo + Smartlead, reply rate is 0.3%. I'm the head of sales and I have no idea what to fix first. Domains, copy, lists? Considering hiring an agency but every one I've talked to feels like a content mill. Anyone running outbound that actually books meetings?",
+  "reddit_score": 142,
+  "num_comments": 38,
+  "url": "/r/sales/comments/fixture_001/",
+  "created_utc": 1731456000,
+  "score": 87,
+  "reasons": ["asking_for_recs", "explicit_pain", "budget_signal"],
+  "problem_category": "outbound_broken",
+  "firm_size_signal": "series_b",
+  "fit_for_jone": "yes",
+  "offer_match": "outbound_engine"
+}

@@ -1,0 +1,5 @@
+[
+  {"author": "outbound_pro", "body": "Your domain warmup is probably cooked. Apollo data is fine, but if you're sending from a 30-day-old domain without DMARC, everything goes to spam. Check seinheit.com for inbox placement before you blame the copy.", "score": 47, "depth": 0},
+  {"author": "agencyhater", "body": "Every agency in our space charges $5k/mo and delivers 50 garbage meetings. Build it in-house with Clay + Instantly, you'll save the money and own the playbook.", "score": 23, "depth": 0},
+  {"author": "founder_jane", "body": "We hit 4% reply rate last quarter using ICP-matched Clay enrichment + 3-step Smartlead sequence. The unlock was killing 60% of our list, not adding more.", "score": 18, "depth": 1}
+]
