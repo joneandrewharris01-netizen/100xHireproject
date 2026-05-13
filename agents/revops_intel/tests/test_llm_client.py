@@ -112,3 +112,102 @@ def test_enforce_voice_returns_violations_for_logging():
     assert "guru" in rules
     assert "em_dash" in rules
     assert all("before" in v and "after" in v for v in violations)
+
+
+# --- complete() tests (Groq SDK mocked) ---
+
+
+class _FakeGroqResponse:
+    def __init__(self, content: str):
+        self.choices = [type("C", (), {"message": type("M", (), {"content": content})()})()]
+
+
+@pytest.fixture
+def mock_groq(monkeypatch):
+    """Patch llm_client._get_client() to return a controllable mock."""
+    calls = []
+    responses: list = []
+
+    class _MockClient:
+        class chat:
+            class completions:
+                @staticmethod
+                def create(**kwargs):
+                    calls.append(kwargs)
+                    r = responses.pop(0)
+                    if isinstance(r, Exception):
+                        raise r
+                    return r
+
+    monkeypatch.setattr(llm_client, "_get_client", lambda: _MockClient())
+    monkeypatch.setattr(llm_client, "_CLIENT", None)  # belt-and-suspenders isolation
+    return calls, responses
+
+
+def test_complete_returns_voice_clean_text(mock_groq, tmp_path, monkeypatch):
+    calls, responses = mock_groq
+    responses.append(_FakeGroqResponse("This is a game changer — really."))
+    monkeypatch.setattr(llm_client, "_VIOLATIONS_LOG", str(tmp_path / "voice.jsonl"))
+
+    out = llm_client.complete("hello")
+
+    assert "game changer" not in out.lower()
+    assert "—" not in out
+    assert len(calls) == 1
+
+
+def test_complete_retries_on_429(mock_groq, tmp_path, monkeypatch):
+    from groq import RateLimitError
+
+    calls, responses = mock_groq
+
+    fake_err = RateLimitError(
+        message="rate limited",
+        response=type("R", (), {"status_code": 429, "headers": {}, "request": None})(),
+        body=None,
+    )
+    responses.append(fake_err)
+    responses.append(_FakeGroqResponse("recovered"))
+    monkeypatch.setattr(llm_client, "_VIOLATIONS_LOG", str(tmp_path / "voice.jsonl"))
+    monkeypatch.setattr(llm_client, "_BACKOFF_BASE", 0.01)  # speed up test
+
+    out = llm_client.complete("hello")
+    assert out == "recovered"
+    assert len(calls) == 2
+
+
+def test_complete_raises_llm_error_after_max_retries(mock_groq, tmp_path, monkeypatch):
+    from groq import RateLimitError
+
+    calls, responses = mock_groq
+    fake_err = RateLimitError(
+        message="rate limited",
+        response=type("R", (), {"status_code": 429, "headers": {}, "request": None})(),
+        body=None,
+    )
+    for _ in range(4):
+        responses.append(fake_err)
+    monkeypatch.setattr(llm_client, "_VIOLATIONS_LOG", str(tmp_path / "voice.jsonl"))
+    monkeypatch.setattr(llm_client, "_BACKOFF_BASE", 0.01)
+
+    with pytest.raises(llm_client.LLMError, match="rate limit"):
+        llm_client.complete("hello")
+    assert len(calls) == 3  # 3 attempts, then give up
+
+
+def test_complete_writes_violations_to_log(mock_groq, tmp_path, monkeypatch):
+    import json
+
+    calls, responses = mock_groq
+    responses.append(_FakeGroqResponse("Total synergy across teams."))
+    log_path = tmp_path / "voice.jsonl"
+    monkeypatch.setattr(llm_client, "_VIOLATIONS_LOG", str(log_path))
+
+    llm_client.complete("hello", lead_id="post_xyz")
+
+    assert log_path.exists()
+    lines = log_path.read_text(encoding="utf-8").strip().splitlines()
+    assert any("post_xyz" in line and "guru" in line for line in lines)
+    # Each line is valid JSON
+    for line in lines:
+        json.loads(line)

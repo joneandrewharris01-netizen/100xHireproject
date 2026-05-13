@@ -133,3 +133,124 @@ def _enforce_voice(text: str) -> tuple[str, list[dict]]:
     # Collapse double-spaces created by substitutions
     text = re.sub(r"  +", " ", text).strip()
     return text, violations
+
+
+import json
+import time
+from datetime import datetime, timezone
+
+from groq import Groq, APIStatusError, APIConnectionError, RateLimitError
+
+
+# Retry sleeps: between 3 attempts, we wait 1s then 4s (5s total wait budget).
+# Spec mentioned "(1s, 4s, 16s)" — that was the earlier 4-attempt design.
+# We ship 3 attempts because Groq RPM is generous enough that a 3rd retry
+# rarely helps; cleaner to give up and log to failed_leads.jsonl.
+_BACKOFF_BASE = 1.0  # seconds. Tests patch this to 0.01.
+_MAX_RETRIES = 3     # 429: 3 attempts total; 5xx: 2 attempts total
+_VIOLATIONS_LOG = str(
+    Path(__file__).parent / "logs" / "voice_violations.jsonl"
+)
+_CALLS_LOG = str(
+    Path(__file__).parent / "logs" / "llm_calls.jsonl"
+)
+
+
+_CLIENT: Groq | None = None
+
+
+def _get_client() -> Groq:
+    global _CLIENT
+    if _CLIENT is None:
+        _CLIENT = Groq(api_key=_load_api_key())
+    return _CLIENT
+
+
+def _log_violations(violations: list[dict], lead_id: str | None) -> None:
+    if not violations:
+        return
+    log_path = Path(_VIOLATIONS_LOG)
+    log_path.parent.mkdir(parents=True, exist_ok=True)
+    with log_path.open("a", encoding="utf-8") as f:
+        for v in violations:
+            entry = {
+                "ts": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                "lead_id": lead_id,
+                **v,
+            }
+            f.write(json.dumps(entry) + "\n")
+
+
+def _log_call(
+    model: str, prompt_chars: int, output_chars: int,
+    attempts: int, latency_ms: int,
+) -> None:
+    log_path = Path(_CALLS_LOG)
+    log_path.parent.mkdir(parents=True, exist_ok=True)
+    entry = {
+        "ts": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "model": model, "prompt_chars": prompt_chars,
+        "output_chars": output_chars, "attempts": attempts,
+        "latency_ms": latency_ms,
+    }
+    with log_path.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(entry) + "\n")
+
+
+def complete(
+    prompt: str,
+    *,
+    max_tokens: int = 800,
+    model: str = "llama-3.3-70b-versatile",
+    temperature: float = 0.7,
+    lead_id: str | None = None,
+) -> str:
+    """Single Groq call with retry, voice cleanup, and logging.
+
+    Raises LLMError on unrecoverable failure (auth, 3x 429, 2x 5xx, network).
+    Returns voice-clean text.
+    """
+    client = _get_client()
+    attempts = 0
+    last_exc: Exception | None = None
+    started = time.time()
+
+    while attempts < _MAX_RETRIES:
+        attempts += 1
+        try:
+            resp = client.chat.completions.create(
+                model=model,
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=max_tokens,
+                temperature=temperature,
+            )
+            raw = resp.choices[0].message.content or ""
+            cleaned, violations = _enforce_voice(raw)
+            _log_violations(violations, lead_id)
+            _log_call(
+                model, len(prompt), len(cleaned),
+                attempts, int((time.time() - started) * 1000),
+            )
+            return cleaned
+        except RateLimitError as e:
+            last_exc = e
+            if attempts >= _MAX_RETRIES:
+                break
+            time.sleep(_BACKOFF_BASE * (4 ** (attempts - 1)))
+        except APIStatusError as e:
+            last_exc = e
+            status = getattr(e, "status_code", 0)
+            if 500 <= status < 600 and attempts < 2:
+                time.sleep(_BACKOFF_BASE * 4)
+                continue
+            raise LLMError(f"Groq API status error {status}: {e}") from e
+        except APIConnectionError as e:
+            last_exc = e
+            if attempts < 2:
+                time.sleep(_BACKOFF_BASE * 4)
+                continue
+            raise LLMError(f"Groq connection error: {e}") from e
+
+    raise LLMError(
+        f"Groq rate limit not recoverable after {attempts} attempts: {last_exc}"
+    )
