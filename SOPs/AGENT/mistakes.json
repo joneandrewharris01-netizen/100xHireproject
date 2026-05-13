@@ -1,0 +1,172 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-04-25",
+  "format": "append-only",
+  "mistakes": [
+    {
+      "id": "anthropic-039-httpx-mismatch",
+      "title": "Anthropic SDK 0.39.0 incompatible with modern httpx",
+      "category": "dependency",
+      "severity": "high",
+      "first_seen": "2026-04-24",
+      "what": "anthropic==0.39.0 in requirements.txt crashed with TypeError: Client.__init__() got unexpected kwarg 'proxies'",
+      "why": "httpx 0.28.x removed the proxies kwarg; old anthropic SDK still passes it",
+      "avoid": "use anthropic>=0.50.0; don't pin SDK majors when transitive deps move; test imports in fresh venv",
+      "fixed_in": "deal-sourcer/requirements.txt"
+    },
+    {
+      "id": "claude-bare-mode-rejects-oauth",
+      "title": "Claude Code --bare mode rejects subscription auth",
+      "category": "cli",
+      "severity": "medium",
+      "first_seen": "2026-04-24",
+      "what": "claude.exe -p with --bare flag returns 'Not logged in' even though Claude Code subscription is authenticated",
+      "why": "--bare mode requires ANTHROPIC_API_KEY; OAuth/keychain explicitly skipped",
+      "avoid": "do not use --bare for subscription-based usage; use normal mode with --no-session-persistence"
+    },
+    {
+      "id": "claude-cmd-mangles-special-chars",
+      "title": "Windows .cmd wrapper mangles JSON braces / quotes in arguments",
+      "category": "cli",
+      "severity": "high",
+      "first_seen": "2026-04-24",
+      "what": "claude.cmd from Python subprocess fails with 'is not recognized as an internal or external command' when prompts contain {}, <>, or quotes",
+      "why": "cmd.exe re-evaluates argument special chars; %* in .cmd wrapper passes them re-interpreted",
+      "avoid": "use claude.exe directly (not .cmd); for prompts with special chars, write to temp file and use --append-system-prompt-file"
+    },
+    {
+      "id": "fpdf2-multicell-no-horizontal-space",
+      "title": "fpdf2 multi_cell 'Not enough horizontal space' error",
+      "category": "pdf-generation",
+      "severity": "medium",
+      "first_seen": "2026-04-24",
+      "what": "PDF generation crashed mid-document on multi_cell call",
+      "why": "cursor x position not reset to left margin after preceding cell calls",
+      "avoid": "always pdf.set_x(pdf.l_margin) before multi_cell when state uncertain"
+    },
+    {
+      "id": "linkedin-agent-needs-api-key",
+      "title": "LinkedIn agent requires Anthropic API key (not zero-cost)",
+      "category": "agent",
+      "severity": "medium",
+      "first_seen": "2026-04-25",
+      "what": "linkedin_agent.py crashed when run for zero-cost guide generation",
+      "why": "Built before Claude Code subprocess pattern; uses Anthropic API directly",
+      "avoid": "use deal-sourcer/core/claude_client.py subprocess pattern for new agents; refactor opportunity for linkedin_agent.py"
+    },
+    {
+      "id": "google-blocking-linkedin-scraper",
+      "title": "Google blocking LinkedIn lead scraper",
+      "category": "scraping",
+      "severity": "high",
+      "first_seen": "2026-04-21",
+      "what": "linkedin_lead_finder.py returned 0 results for 31 consecutive Google queries",
+      "why": "Google detected scraping pattern, served blank results to non-browser UAs",
+      "avoid": "use WebSearch tool via Claude Code; or Brave Search API; or authenticated Playwright session"
+    },
+    {
+      "id": "ralph-story-too-big",
+      "title": "Ralph story exceeds context window",
+      "category": "ralph",
+      "severity": "high",
+      "first_seen": "2026-03",
+      "what": "Ralph iteration runs out of context, produces broken code",
+      "why": "user stories sized for human reading, not one-shot AI implementation",
+      "avoid": "stories must fit one context window; if can't describe in 2-3 sentences, split it"
+    },
+    {
+      "id": "ralph-wrong-dep-order",
+      "title": "Ralph PRD has wrong dependency order",
+      "category": "ralph",
+      "severity": "high",
+      "first_seen": "2026-03",
+      "what": "Ralph fails because UI story runs before schema story",
+      "why": "stories execute in priority order; UI depends on schema",
+      "avoid": "always order: 1) schema/DB, 2) backend/actions, 3) UI, 4) aggregation"
+    },
+    {
+      "id": "ralph-vague-criteria",
+      "title": "Ralph criteria too vague to verify",
+      "category": "ralph",
+      "severity": "medium",
+      "first_seen": "2026-03",
+      "what": "Stories with criteria like 'works correctly' or 'good UX' get skipped or guessed",
+      "why": "machine-verification needs binary checkable criteria",
+      "avoid": "every criterion must be binary checkable e.g. 'Button shows confirmation dialog before deleting'"
+    },
+    {
+      "id": "ralph-missing-typecheck",
+      "title": "Ralph commits broken code due to missing typecheck criterion",
+      "category": "ralph",
+      "severity": "high",
+      "first_seen": "2026-03",
+      "what": "Code committed that didn't compile",
+      "why": "'Typecheck passes' wasn't in story criteria",
+      "avoid": "always include 'Typecheck passes' as final criterion on every story"
+    },
+    {
+      "id": "em-dashes-leaking",
+      "title": "Em dashes in outputs despite forbidden-character rule",
+      "category": "voice",
+      "severity": "medium",
+      "first_seen": "2026-03",
+      "what": "Drafts containing em dashes shipped despite explicit user rule",
+      "why": "em dashes pattern-match as polished writing for LLMs",
+      "avoid": "treat em dash as forbidden char; substitute with comma or split; pre-deliver grep check"
+    },
+    {
+      "id": "upwork-tld-rejection",
+      "title": "Upwork profile rejects strings with .com/.io/.ai",
+      "category": "platform",
+      "severity": "medium",
+      "first_seen": "2026-03",
+      "what": "Profile overview rejected when containing 'Make.com', 'claude.ai'",
+      "why": "Upwork anti-gaming heuristic blocks these substrings",
+      "avoid": "use bare tool names: 'Make' not 'Make.com'"
+    },
+    {
+      "id": "linkedin-format-violation",
+      "title": "Saving HTML/MD as LinkedIn deliverable",
+      "category": "platform",
+      "severity": "medium",
+      "first_seen": "2026-03",
+      "what": "Generated HTML mockup of carousel instead of PNG/PDF",
+      "why": "forgot platform format rule",
+      "avoid": "LinkedIn captions=.txt, carousels=.png/.pdf, lead magnets=.pdf; never HTML or MD"
+    },
+    {
+      "id": "josh-ncn-circumvention-risk",
+      "title": "Almost replied to AI Tool Hub client without involving Josh",
+      "category": "partnership",
+      "severity": "high",
+      "first_seen": "2026-04-24",
+      "what": "Almost engaged client originating from Josh's catalog without loop-in",
+      "why": "Josh's NCN is permanent until contract specifies cooldown",
+      "avoid": "before any DM with client name, check 06-PARTNERSHIPS and AI Tool Hub catalog; loop Josh in or use 90-day cooldown release per signed contract"
+    },
+    {
+      "id": "em_dash_leakage_llama_33",
+      "system": "revops_intel_standalone",
+      "discovered": "2026-05-13",
+      "mistake": "Llama 3.3 70B emits em-dashes in ~10% of outputs despite explicit prompt rules",
+      "mitigation": "Regex post-cleanup in llm_client._enforce_voice is mandatory; do not rely on prompt alone",
+      "files": ["agents/revops_intel/llm_client.py"]
+    },
+    {
+      "id": "kb_write_race",
+      "system": "revops_intel_standalone",
+      "discovered": "2026-05-13",
+      "mistake": "Concurrent KB JSON mutations clobber each other",
+      "mitigation": "Always read fresh from disk per lead; never batch in memory; serial only, never thread",
+      "files": ["agents/revops_intel/kb_merge.py", "agents/revops_intel/run.py"]
+    },
+    {
+      "id": "prompt_drift_over_time",
+      "system": "revops_intel_standalone",
+      "discovered": "2026-05-13",
+      "mistake": "Voice rules in prompts degrade as model versions drift; outputs slowly turn guru",
+      "mitigation": "Weekly review of agents/revops_intel/logs/voice_violations.jsonl; tighten prompts if guru substitutions trend up",
+      "files": ["agents/revops_intel/prompts/*.txt"]
+    }
+  ]
+}

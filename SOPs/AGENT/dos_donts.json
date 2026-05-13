@@ -1,0 +1,120 @@
+{
+  "version": "1.1",
+  "last_updated": "2026-05-08",
+  "format": "append-only",
+  "rules": [
+    {
+      "id": "use-sdk-directly-when-claude-code-subprocess-works",
+      "type": "dont",
+      "rule": "Use SDK directly when Claude Code subprocess works",
+      "why": "Costs API money and breaks zero-cost policy",
+      "category": "cost",
+      "first_seen": "2026-04-25"
+    },
+    {
+      "id": "linkedin-no-html-or-markdown-deliverable",
+      "type": "dont",
+      "rule": "Deliver .html or .md as a LinkedIn output",
+      "why": "LinkedIn only accepts PNG/JPG, PDF, video. HTML and markdown cannot be uploaded. Always render to PNG via Playwright or PDF via FPDF.",
+      "category": "format",
+      "first_seen": "2026-05-08"
+    },
+    {
+      "id": "linkedin-no-bricolage-yellow",
+      "type": "dont",
+      "rule": "Use Bricolage Grotesque + Caveat + yellow accents for LinkedIn hero",
+      "why": "Rejected by operator. Does not match Jone's established brand. Use Archivo Black + Inter + JetBrains Mono with cyan or orange accents instead.",
+      "category": "brand",
+      "first_seen": "2026-05-08"
+    },
+    {
+      "id": "linkedin-tori-means-our-brand",
+      "type": "do",
+      "rule": "Interpret 'Tori style' or 'Michael Tori style' as Jone's existing LinkedIn brand, not a person",
+      "why": "Operator used the phrase loosely. The actual references are linkedin-content/automation-reality-post.png (terminal aesthetic) and linkedin-content/claude-b2b-guide-cover.png (Archivo Black playbook).",
+      "category": "brand",
+      "first_seen": "2026-05-08"
+    },
+    {
+      "id": "linkedin-hero-square-1080",
+      "type": "do",
+      "rule": "Render LinkedIn hero images at 1080 x 1080 square, not 1080 x 1350 portrait",
+      "why": "Brand references are square. LinkedIn renders single hero images best at 1:1. Update render_hero_image.py default if it drifts back to portrait.",
+      "category": "format",
+      "first_seen": "2026-05-08"
+    },
+    {
+      "id": "linkedin-guide-must-be-non-tech-friendly",
+      "type": "do",
+      "rule": "Write LinkedIn lead-magnet guides for the non-technical reader (RevOps, founder, growth lead). Code is reference, not the main course.",
+      "why": "First version of ScrapeGraphAI guide read like dev docs and was rejected. Required structure: name audience by job title in section 1, lead with 'what this gets you' in business language, no-code path before code path, glossary section, weekend action plan.",
+      "category": "content",
+      "first_seen": "2026-05-08"
+    },
+    {
+      "id": "linkedin-guide-dual-path",
+      "type": "do",
+      "rule": "Every workflow in a LinkedIn guide PDF must have both a no-code path and a code path",
+      "why": "Half the audience does not write Python. The no-code path uses ScrapeGraphAI hosted API (or equivalent SaaS for the topic) called from n8n's HTTP Request node. The code path is for the developer the operator hands the guide to.",
+      "category": "content",
+      "first_seen": "2026-05-08"
+    },
+    {
+      "id": "no-em-dashes-in-rendered-pdfs",
+      "type": "dont",
+      "rule": "Use em-dashes (U+2014) in any text that flows into FPDF",
+      "why": "FPDF latin-1 encoding fails on U+2014. Use comma, colon, period, or split sentence. Same applies to smart quotes (U+2018-U+201D). Voice rule already forbids em-dashes; this is the technical reason it is hard-enforced.",
+      "category": "voice",
+      "first_seen": "2026-05-08"
+    },
+    {
+      "id": "fpdf-fence-aware-content-split",
+      "type": "do",
+      "rule": "Split section content into paragraphs in a fence-aware way, not on raw split('\\n\\n')",
+      "why": "Naive split breaks any fenced code block that contains a blank line. linkedin_agent.py now uses _split_keep_code() which tracks ``` boundaries. Any new content renderer must do the same.",
+      "category": "tooling",
+      "first_seen": "2026-05-08"
+    },
+    {
+      "id": "fpdf-language-tag-must-be-alphanumeric",
+      "type": "do",
+      "rule": "Only strip the first line of a code block as a language tag if it is alphanumeric (letters/digits/underscore only)",
+      "why": "Old heuristic was 'first line short and no spaces' which incorrectly stripped the opening '{' of JSON blocks. Patched in linkedin_agent.py with first_line.replace('_','').isalnum().",
+      "category": "tooling",
+      "first_seen": "2026-05-08"
+    },
+    {
+      "id": "linkedin-default-hero-template",
+      "type": "do",
+      "rule": "Default to hero-stack.html (white bg, big rounded brand icon, integration row) when style is not specified",
+      "why": "Closest match to leadgen-cover.png and claude-b2b-guide-cover.png, both already validated by operator. Other variants (terminal, receipt, editorial, codeshot) are angle-specific.",
+      "category": "brand",
+      "first_seen": "2026-05-08"
+    },
+    {
+      "id": "produce-multiple-hero-variants-when-style-uncertain",
+      "type": "do",
+      "rule": "When the operator says 'find other formats' or rejects a hero, produce 3 to 4 distinct format variants in one shot rather than iterating one at a time",
+      "why": "Faster convergence. Operator picks the closest match, then we polish. One variant at a time wastes turns.",
+      "category": "workflow",
+      "first_seen": "2026-05-08"
+    },
+    {
+      "id": "verify-pdf-with-text-extract-before-claiming-done",
+      "type": "do",
+      "rule": "Before claiming a guide PDF is done, run a pypdf text extract and confirm: page count > 12, em-dashes = 0, stray triple-backticks = 0",
+      "why": "Per 00-CONSTITUTION rule 5, no success claims without evidence. PDF rendering can silently mangle content (em-dash, stripped first lines, broken code blocks). Quote the actual numbers in the completion message.",
+      "category": "verification",
+      "first_seen": "2026-05-08"
+    },
+    {
+      "id": "revops-intel-kb-fresh-read-per-lead",
+      "type": "do",
+      "rule": "Read KB JSON files fresh from disk for each lead in revops_intel pipeline",
+      "why": "Lead-N's diff overwrites Lead-N-1's if both held in memory; atomic per-file write is the only safe pattern. Do not batch KB mutations across leads in memory.",
+      "category": "tooling",
+      "first_seen": "2026-05-13",
+      "files": ["agents/revops_intel/kb_merge.py"]
+    }
+  ]
+}
