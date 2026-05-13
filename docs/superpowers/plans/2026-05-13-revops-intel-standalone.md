@@ -510,6 +510,14 @@ def test_enforce_voice_strips_cta_trailer():
     assert out.startswith("Here is the answer")
 
 
+def test_enforce_voice_ensures_terminal_punct_after_cta_strip():
+    """After stripping a trailing CTA, output must still end in . / ! / ?
+    so downstream truncation checks don't false-positive."""
+    raw = "Useful insight is here. DM me anytime"
+    out, _ = llm_client._enforce_voice(raw)
+    assert out.rstrip()[-1] in ".!?"
+
+
 @pytest.mark.parametrize("raw,banned", [
     ("This is a game changer for sales.", "game changer"),
     ("Time to LEVEL UP your outbound.", "level up"),
@@ -620,8 +628,13 @@ def _enforce_voice(text: str) -> tuple[str, list[dict]]:
 
     new_text, n = _CTA_RE.subn("", text)
     if n:
-        violations.append({"rule": "cta_trailer", "before": text, "after": new_text.rstrip()})
-        text = new_text.rstrip()
+        cleaned = new_text.rstrip()
+        # After stripping a trailing CTA sentence, ensure terminal punctuation
+        # remains so downstream truncation checks don't false-positive.
+        if cleaned and cleaned[-1] not in ".!?":
+            cleaned += "."
+        violations.append({"rule": "cta_trailer", "before": text, "after": cleaned})
+        text = cleaned
 
     for phrase, replacement in GURU_REPLACEMENTS.items():
         # Word boundaries prevent "10x" from mangling "210x growth" or "100x".
@@ -1579,19 +1592,20 @@ def test_snapshot_creates_backup_files(tmp_kb):
 
 
 def test_snapshot_prunes_to_7_per_file(tmp_kb, monkeypatch):
-    import time as t
     for i in range(10):
-        kb_backups.snapshot()
-        # Force unique timestamps in the filename
-        t.sleep(0.01)
+        # Patch BEFORE the snapshot call so iteration i uses timestamp i.
         monkeypatch.setattr(
             kb_backups, "_TIMESTAMP_FN",
             lambda i=i: f"2026-05-13T00-00-{i:02d}",
         )
+        kb_backups.snapshot()
 
     for name in ("tools", "pains", "personas", "jargon"):
-        backups = list((tmp_kb / ".backups").glob(f"*_{name}.json.bak"))
-        assert len(backups) <= 7, f"{name} has {len(backups)} backups"
+        backups = sorted((tmp_kb / ".backups").glob(f"*_{name}.json.bak"))
+        assert len(backups) == 7, f"{name} has {len(backups)} backups, expected 7"
+        # Verify the kept ones are the most recent (timestamps 03..09)
+        assert backups[0].name.startswith("2026-05-13T00-00-03_")
+        assert backups[-1].name.startswith("2026-05-13T00-00-09_")
 
 
 def test_restore_latest_returns_most_recent(tmp_kb, monkeypatch):
@@ -1907,12 +1921,22 @@ def test_write_flagged_prefix(tmp_path, monkeypatch, sample_lead, sample_comment
 """Write queue files in the format /revops-process produces."""
 from __future__ import annotations
 
+import json
 import re
 from datetime import datetime, timezone
 from pathlib import Path
 
 
 _QUEUE_DIR = Path(__file__).parent / "queue"
+
+
+def _blockquote(text: str) -> str:
+    """Prepend '> ' to every line so multi-line LLM output renders as a single
+    Markdown blockquote instead of breaking out of the section after the first
+    newline."""
+    if not text:
+        return "> "
+    return "\n".join(f"> {line}" if line else ">" for line in text.split("\n"))
 
 
 def _sanitize(author: str) -> str:
@@ -1957,7 +1981,7 @@ author: u/{lead.get('author', '')}
 subreddit: {lead.get('subreddit', '')}
 url: {lead.get('url', '')}
 score: {lead.get('score', 0)}
-reasons: {lead.get('reasons', [])}
+reasons: {json.dumps(lead.get('reasons', []))}
 problem_category: {lead.get('problem_category', '')}
 firm_size_signal: {lead.get('firm_size_signal', '')}
 offer_match: {lead.get('offer_match', '')}
@@ -1967,7 +1991,7 @@ generated_at: {datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
 
 ## Original post
 **{lead.get('title', '')}**
-> {(lead.get('selftext') or '').strip()}
+{_blockquote((lead.get('selftext') or '').strip())}
 
 ## Why this lead is hot
 - Score {lead.get('score', 0)} on revops_intel scorer
@@ -1977,10 +2001,10 @@ generated_at: {datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
 {_format_comments_section(comments)}
 
 ## Suggested REDDIT COMMENT
-> {comment_text}
+{_blockquote(comment_text)}
 
 ## Suggested REDDIT DM
-> {dm_text}
+{_blockquote(dm_text)}
 
 ## Knowledge updates from this thread
 {_kb_summary(kb_diff)}
@@ -2095,72 +2119,78 @@ def main(limit: int = 20, dry_run: bool = False) -> int:
             return 1
 
     conn = db.connect()
-    hot = db.fetch_hot_unprocessed(conn, limit=limit)
+    try:
+        hot = db.fetch_hot_unprocessed(conn, limit=limit)
 
-    if not hot:
-        streak = _bump_zero_streak()
-        print(f"[run] no hot leads (streak: {streak} days)")
-        if streak >= 3:
-            print(f"[run] WARNING: zero-lead streak hit {streak} days; check upstream scoring")
+        if not hot:
+            streak = _bump_zero_streak()
+            print(f"[run] no hot leads (streak: {streak} days)")
+            if streak >= 3:
+                print(f"[run] WARNING: zero-lead streak hit {streak} days; check upstream scoring")
+            return 0
+        _reset_zero_streak()
+
+        offers = json.loads((_KB_PATH / "offers.json").read_text(encoding="utf-8"))
+        if DEFAULT_OFFER_KEY not in offers:
+            print(f"[run] FATAL: offers.json missing required key '{DEFAULT_OFFER_KEY}'")
+            return 1
+        stats = {"processed": 0, "flagged": 0, "failed": 0,
+                 "kb_diffs": Counter()}
+
+        for i, lead in enumerate(hot, start=1):
+            print(f"[run] {i}/{len(hot)} processing {lead['post_id']} ({lead.get('subreddit')})")
+            kb_diff: dict = {}
+            comments: list[dict] = []
+            try:
+                comments = db.fetch_top_comments(conn, lead["post_id"], limit=10)
+                kb_diff = llm_extract.extract(lead, comments)
+                if kb_diff and not dry_run:
+                    kb_merge.merge_atomic(kb_diff)
+                    for k in ("tools", "pains", "personas", "jargon"):
+                        stats["kb_diffs"][k] += len(kb_diff.get(k) or {})
+
+                offer_pitch = offers.get(
+                    lead.get("offer_match"), offers[DEFAULT_OFFER_KEY],
+                )
+                comment, dm = llm_generate.generate(lead, comments, offer_pitch)
+
+                if not dry_run:
+                    queue_file = queue_writer.write(
+                        lead, comments, comment, dm, kb_diff, flagged=False,
+                    )
+                    db.mark_processed(
+                        conn, lead["post_id"], queue_file, lead.get("offer_match"),
+                    )
+                stats["processed"] += 1
+            except QualityFlag as qf:
+                if not dry_run:
+                    queue_file = queue_writer.write(
+                        lead, comments, qf.comment, qf.dm, kb_diff, flagged=True,
+                    )
+                    db.mark_processed(
+                        conn, lead["post_id"], queue_file, lead.get("offer_match"),
+                    )
+                stats["flagged"] += 1
+                print(f"[run]   FLAGGED: {qf.reason}")
+            except LLMError as e:
+                _log_failure(lead, e)
+                stats["failed"] += 1
+                print(f"[run]   FAILED (LLM): {e}")
+            except Exception as e:
+                _log_failure(lead, e, tb=True)
+                stats["failed"] += 1
+                print(f"[run]   FAILED (unexpected): {e}")
+
+            time.sleep(2.1)
+
+        print("\n[run] summary:")
+        print(f"  processed: {stats['processed']}")
+        print(f"  flagged:   {stats['flagged']}")
+        print(f"  failed:    {stats['failed']}")
+        print(f"  KB diffs:  {dict(stats['kb_diffs'])}")
         return 0
-    _reset_zero_streak()
-
-    offers = json.loads((_KB_PATH / "offers.json").read_text(encoding="utf-8"))
-    stats = {"processed": 0, "flagged": 0, "failed": 0,
-             "kb_diffs": Counter()}
-
-    for i, lead in enumerate(hot, start=1):
-        print(f"[run] {i}/{len(hot)} processing {lead['post_id']} ({lead.get('subreddit')})")
-        kb_diff: dict = {}
-        comments: list[dict] = []
-        try:
-            comments = db.fetch_top_comments(conn, lead["post_id"], limit=10)
-            kb_diff = llm_extract.extract(lead, comments)
-            if kb_diff and not dry_run:
-                kb_merge.merge_atomic(kb_diff)
-                for k in ("tools", "pains", "personas", "jargon"):
-                    stats["kb_diffs"][k] += len(kb_diff.get(k) or {})
-
-            offer_pitch = offers.get(
-                lead.get("offer_match"), offers[DEFAULT_OFFER_KEY],
-            )
-            comment, dm = llm_generate.generate(lead, comments, offer_pitch)
-
-            if not dry_run:
-                queue_file = queue_writer.write(
-                    lead, comments, comment, dm, kb_diff, flagged=False,
-                )
-                db.mark_processed(
-                    conn, lead["post_id"], queue_file, lead.get("offer_match"),
-                )
-            stats["processed"] += 1
-        except QualityFlag as qf:
-            if not dry_run:
-                queue_file = queue_writer.write(
-                    lead, comments, qf.comment, qf.dm, kb_diff, flagged=True,
-                )
-                db.mark_processed(
-                    conn, lead["post_id"], queue_file, lead.get("offer_match"),
-                )
-            stats["flagged"] += 1
-            print(f"[run]   FLAGGED: {qf.reason}")
-        except LLMError as e:
-            _log_failure(lead, e)
-            stats["failed"] += 1
-            print(f"[run]   FAILED (LLM): {e}")
-        except Exception as e:
-            _log_failure(lead, e, tb=True)
-            stats["failed"] += 1
-            print(f"[run]   FAILED (unexpected): {e}")
-
-        time.sleep(2.1)
-
-    print("\n[run] summary:")
-    print(f"  processed: {stats['processed']}")
-    print(f"  flagged:   {stats['flagged']}")
-    print(f"  failed:    {stats['failed']}")
-    print(f"  KB diffs:  {dict(stats['kb_diffs'])}")
-    return 0
+    finally:
+        conn.close()
 
 
 if __name__ == "__main__":
