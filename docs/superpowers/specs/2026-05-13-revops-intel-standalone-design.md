@@ -151,7 +151,7 @@ Hard rules from project memory ([feedback_writing_style](memory/feedback_writing
 | Em-dash (`—`, `–`) | Deterministic rule: if the next non-whitespace char is uppercase OR end-of-string, replace with `. `; otherwise replace with `, `. (Covers "did X — Then Y" → ". Then Y" and "did X — and Y" → ", and Y".) |
 | Emoji | Strip via combined regex covering `\U0001F000-\U0001FFFF` plus `\U00002600-\U000027BF` plus skin tones `\U0001F3FB-\U0001F3FF` plus ZWJ `‍`. Also strip typographic noise: `…` → `...`, `→` → ` to `, `•` → `-`, smart quotes (`"" ''`) → straight quotes. |
 | Trailing CTA boilerplate | If the last sentence matches any of: "DM me", "Hit me up", "Feel free to reach out", "Reach out anytime", "Shoot me a message" → strip that sentence. |
-| Guru phrases (case-insensitive) | Lookup table (committed in `llm_client.py` as `GURU_REPLACEMENTS`): `"game changer"` → `"big shift"`, `"game-changer"` → `"big shift"`, `"10x"` → `"a lot more"`, `"level up"` → `"improve"`, `"crushing it"` → `"doing well"`, `"move the needle"` → `"matter"`, `"deep dive"` → `"look at"`, `"low-hanging fruit"` → `"quick win"`, `"synergy"` → `""` (strip), `"leverage"` (as verb) → `"use"`. |
+| Guru phrases (case-insensitive) | Lookup table (committed in `llm_client.py` as `GURU_REPLACEMENTS`): `"game changer"` → `"big shift"`, `"game-changer"` → `"big shift"`, `"10x"` → `"a lot more"`, `"level up"` → `"improve"`, `"crushing it"` → `"doing well"`, `"move the needle"` → `"matter"`, `"deep dive"` → `"look at"`, `"low-hanging fruit"` → `"quick win"`, `"synergy"` → `""` (strip). Note: `"leverage"` is intentionally excluded — regex can't distinguish verb usage ("leverage the API") from noun usage ("high leverage"). Voice rules in the prompt should discourage it; we don't post-substitute. |
 
 Every substitution gets appended to `logs/voice_violations.jsonl` with `{ts, lead_id, rule, before, after}` so prompt drift is visible over time.
 
@@ -227,6 +227,8 @@ class QualityFlag(Exception):
         super().__init__(reason)
 ```
 
+`QualityFlag` lives in `llm_generate.py` and is imported by `run.py` as `from agents.revops_intel.llm_generate import QualityFlag`.
+
 #### `run.py`
 
 Pseudocode (~80 LOC target):
@@ -259,7 +261,6 @@ def main(limit: int = 20, dry_run: bool = False):
     for lead in hot:
         kb_diff: dict = {}       # initialized BEFORE try so except branch can reference it
         comments: list = []
-        retry_stall_sec = 0.0    # tracks backoff time for inter-lead sleep adjustment
         try:
             comments = db.fetch_top_comments(conn, lead["post_id"], limit=10)
             kb_diff = llm_extract.extract(lead, comments)
@@ -283,9 +284,9 @@ def main(limit: int = 20, dry_run: bool = False):
             log_failure(lead, e, traceback=True)
             stats["failed"] += 1
 
-        # Inter-lead sleep: skip if backoff already burned the budget
-        sleep_for = max(0, 2.1 - retry_stall_sec)
-        time.sleep(sleep_for)
+        # Inter-lead sleep: flat 2.1s. Exponential backoff inside llm_client.complete()
+        # already absorbs RPM bursts per the rate-limit math; no need to double-account.
+        time.sleep(2.1)
 
     # 5. Print summary table (playbook.md append is skipped in v1 — see Open Questions)
     print_summary(stats)
