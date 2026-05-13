@@ -11,3 +11,7 @@ agents/pe_intel/logs/
 __pycache__/
 *.pyc
 .worktrees/
+
+# RevOps Intel standalone pipeline
+agents/*/.env
+agents/*/knowledge_base/.backups/
