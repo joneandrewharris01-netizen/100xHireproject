@@ -1,0 +1,523 @@
+{
+  "version": "1.1",
+  "last_updated": "2026-05-08",
+  "owner": "Jone Andrew Harris",
+  "drives": {
+    "C": "C:/Users/Admin/SOPs/",
+    "D": "D:/Projects/my-project/SOPs/",
+    "E": "E:/SOPs/"
+  },
+  "primary_drive": "D",
+  "project_root": "D:/Projects/my-project",
+  "memory_root": "C:/Users/Admin/.claude/projects/D--Projects-my-project/memory",
+  "python_path": "C:/Users/Admin/AppData/Local/Programs/Python/Python311/python.exe",
+  "claude_cli": "C:/Users/Admin/AppData/Roaming/npm/node_modules/@anthropic-ai/claude-code/bin/claude.exe",
+  "systems": {
+    "content_generation": [
+      {
+        "name": "Instagram Content Machine",
+        "path": "D:/Projects/my-project/Instagram content/",
+        "status": "active"
+      },
+      {
+        "name": "LinkedIn Content",
+        "path": "D:/Projects/my-project/linkedin-content/",
+        "status": "active"
+      },
+      {
+        "name": "Content Factory (Remotion)",
+        "path": "D:/Projects/my-project/content-factory/",
+        "status": "active"
+      },
+      {
+        "name": "AI Reel Pipeline",
+        "path": "D:/Projects/my-project/google collabe video/",
+        "status": "active"
+      },
+      {
+        "name": "Content Idea Agent",
+        "path": "D:/Projects/my-project/agents/content_idea_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "Text-To-Video-AI",
+        "path": "D:/Projects/my-project/Text-To-Video-AI/",
+        "status": "active"
+      },
+      {
+        "name": "generate_seo_llm_post",
+        "path": "D:/Projects/my-project/agents/generate_seo_llm_post.py",
+        "status": "active"
+      },
+      {
+        "name": "instagram_agent",
+        "path": "D:/Projects/my-project/agents/instagram_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "linkedin_agent",
+        "path": "D:/Projects/my-project/agents/linkedin_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "LinkedIn Post + Guide Pipeline",
+        "path": "D:/Projects/my-project/agents/output/linkedin_output/",
+        "runner_examples": [
+          "D:/Projects/my-project/agents/generate_scrapegraph_post.py",
+          "D:/Projects/my-project/agents/rebuild_scrape_guide.py"
+        ],
+        "hero_renderer": "D:/Projects/my-project/agents/render_hero_image.py",
+        "hero_templates": [
+          "hero-stack.html",
+          "hero-terminal.html",
+          "hero-receipt.html",
+          "hero-editorial.html",
+          "hero-codeshot.html"
+        ],
+        "human_sop": "D:/Projects/my-project/SOPs/HUMAN/11-LINKEDIN-POST-GUIDE-PIPELINE.md",
+        "agent_sop": "D:/Projects/my-project/SOPs/AGENT/12-LINKEDIN-POST-GUIDE-PROTOCOL.md",
+        "deliverables": [
+          "hero.png (1080x1080)",
+          "post-caption.txt",
+          "resource-guide.pdf"
+        ],
+        "brand_references": [
+          "D:/Projects/my-project/linkedin-content/automation-reality-post.png",
+          "D:/Projects/my-project/linkedin-content/leadgen-cover.png",
+          "D:/Projects/my-project/linkedin-content/claude-b2b-guide/claude-b2b-guide-cover.png"
+        ],
+        "status": "active"
+      },
+      {
+        "name": "n8n_community_helper",
+        "path": "D:/Projects/my-project/agents/n8n_community_helper.py",
+        "status": "active"
+      },
+      {
+        "name": "n8n_community_poster",
+        "path": "D:/Projects/my-project/agents/n8n_community_poster.py",
+        "status": "active"
+      },
+      {
+        "name": "torti_style_generator",
+        "path": "D:/Projects/my-project/agents/torti_style_generator.py",
+        "status": "active"
+      }
+    ],
+    "lead_generation": [
+      {
+        "name": "Reddit Lead Finder",
+        "path": "D:/Projects/my-project/agents/lead_finder_agent.py",
+        "status": "healthy"
+      },
+      {
+        "name": "LinkedIn Lead Finder",
+        "path": "D:/Projects/my-project/agents/linkedin_lead_finder.py",
+        "status": "broken",
+        "fix": "use WebSearch via Claude Code instead"
+      },
+      {
+        "name": "n8n Community Bot",
+        "path": "D:/Projects/my-project/agents/n8n_community_agent.py",
+        "status": "healthy"
+      },
+      {
+        "name": "HN Lead Finder",
+        "path": "D:/Projects/my-project/agents/hn_lead_finder.py",
+        "status": "stale"
+      },
+      {
+        "name": "Twitter Lead Finder",
+        "path": "D:/Projects/my-project/agents/twitter_lead_finder.py",
+        "status": "stale"
+      },
+      {
+        "name": "Google Maps Scraper",
+        "path": "D:/Projects/my-project/agents/google_maps_scraper.py",
+        "status": "active"
+      },
+      {
+        "name": "Domain Prospector",
+        "path": "D:/Projects/my-project/agents/free_domain_prospector.py",
+        "status": "active"
+      },
+      {
+        "name": "Lead Orchestra",
+        "path": "D:/Projects/my-project/agents/run_lead_orchestra.py",
+        "status": "active"
+      },
+      {
+        "name": "lead-magnet-system",
+        "path": "D:/Projects/my-project/lead-magnet-system/",
+        "status": "active"
+      },
+      {
+        "name": "arcaero_partner_finder",
+        "path": "D:/Projects/my-project/agents/arcaero_partner_finder.py",
+        "status": "active"
+      },
+      {
+        "name": "coach_enricher",
+        "path": "D:/Projects/my-project/agents/coach_enricher.py",
+        "status": "active"
+      },
+      {
+        "name": "coach_scraper",
+        "path": "D:/Projects/my-project/agents/coach_scraper.py",
+        "status": "active"
+      },
+      {
+        "name": "enrich_socials",
+        "path": "D:/Projects/my-project/agents/enrich_socials.py",
+        "status": "active"
+      },
+      {
+        "name": "find_100_leads",
+        "path": "D:/Projects/my-project/agents/find_100_leads.py",
+        "status": "active"
+      },
+      {
+        "name": "lead_claude_helper",
+        "path": "D:/Projects/my-project/agents/lead_claude_helper.py",
+        "status": "active"
+      },
+      {
+        "name": "lead_memory",
+        "path": "D:/Projects/my-project/agents/lead_memory.py",
+        "status": "active"
+      },
+      {
+        "name": "lead_qualifier",
+        "path": "D:/Projects/my-project/agents/lead_qualifier.py",
+        "status": "active"
+      },
+      {
+        "name": "linkedin_dm_agent",
+        "path": "D:/Projects/my-project/agents/linkedin_dm_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "quick_coaches_scan",
+        "path": "D:/Projects/my-project/agents/quick_coaches_scan.py",
+        "status": "active"
+      },
+      {
+        "name": "quick_reddit_scan",
+        "path": "D:/Projects/my-project/agents/quick_reddit_scan.py",
+        "status": "active"
+      },
+      {
+        "name": "reddit_auth_setup",
+        "path": "D:/Projects/my-project/agents/reddit_auth_setup.py",
+        "status": "active"
+      },
+      {
+        "name": "reddit_karma_bot",
+        "path": "D:/Projects/my-project/agents/reddit_karma_bot.py",
+        "status": "active"
+      },
+      {
+        "name": "scrape_comments",
+        "path": "D:/Projects/my-project/agents/scrape_comments.py",
+        "status": "active"
+      },
+      {
+        "name": "scraper_agent",
+        "path": "D:/Projects/my-project/agents/scraper_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "seattle_local_lead_agent",
+        "path": "D:/Projects/my-project/agents/seattle_local_lead_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "web_intent_scraper",
+        "path": "D:/Projects/my-project/agents/web_intent_scraper.py",
+        "status": "active"
+      },
+      {
+        "name": "owner-finder",
+        "path": "D:/Projects/my-project/owner-finder/",
+        "status": "active"
+      },
+      {
+        "name": "vacation-rental-leads",
+        "path": "D:/Projects/my-project/vacation-rental-leads/",
+        "status": "stale"
+      },
+      {
+        "name": "Upwork jobs",
+        "path": "D:/Projects/my-project/Upwork jobs/",
+        "status": "active"
+      },
+      {
+        "name": "revops_intel_standalone",
+        "path": "agents/revops_intel/run.py",
+        "purpose": "Standalone Reddit lead pipeline for B2B SaaS RevOps niche; free-LLM replacement for /revops-process",
+        "stack": ["praw", "sqlite3", "groq", "python-dotenv"],
+        "llm_provider": "groq",
+        "llm_model": "llama-3.3-70b-versatile",
+        "usage": "python -m agents.revops_intel.run [--limit N] [--dry-run]",
+        "output_paths": ["agents/revops_intel/queue/*.md", "agents/revops_intel/knowledge_base/*.json"],
+        "schedule_hint": "daily",
+        "health": "unknown",
+        "added": "2026-05-13",
+        "status": "active"
+      }
+    ],
+    "operations": [
+      {
+        "name": "Brain DB",
+        "path": "D:/Projects/my-project/n8n-docker/brain-schema.sql",
+        "port": 5432,
+        "status": "active"
+      },
+      {
+        "name": "n8n Local",
+        "path": "D:/Projects/my-project/n8n-docker/",
+        "port": 5678,
+        "status": "active"
+      },
+      {
+        "name": "Ralph Autonomous Loop",
+        "path": "D:/Projects/my-project/ralph/",
+        "status": "active"
+      },
+      {
+        "name": "MiroFish",
+        "path": "D:/Projects/my-project/MiroFish/",
+        "status": "active"
+      },
+      {
+        "name": "n8n-automation-toolkit",
+        "path": "D:/Projects/my-project/n8n-automation-toolkit/",
+        "status": "active"
+      },
+      {
+        "name": "automa_bridge",
+        "path": "D:/Projects/my-project/agents/automa_bridge.py",
+        "status": "active"
+      },
+      {
+        "name": "build_resume_docx",
+        "path": "D:/Projects/my-project/agents/build_resume_docx.py",
+        "status": "active"
+      },
+      {
+        "name": "run_agent",
+        "path": "D:/Projects/my-project/agents/run_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "run_remotion_post",
+        "path": "D:/Projects/my-project/agents/run_remotion_post.py",
+        "status": "active"
+      },
+      {
+        "name": "sop_agent",
+        "path": "D:/Projects/my-project/agents/sop_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "upload_to_drive",
+        "path": "D:/Projects/my-project/agents/upload_to_drive.py",
+        "status": "active"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Deal Sourcer",
+        "path": "D:/Projects/my-project/deal-sourcer/",
+        "port": 8501,
+        "status": "active",
+        "cost": "zero"
+      },
+      {
+        "name": "Ad Audit SaaS",
+        "path": "D:/Projects/my-project/ad-audit-saas/",
+        "status": "phase-0"
+      },
+      {
+        "name": "LTX Video Studio",
+        "path": "D:/Projects/my-project/video-gen-ui/",
+        "status": "active"
+      },
+      {
+        "name": "NotebookLM CLI",
+        "path": "D:/Projects/my-project/notebooklm-py/",
+        "status": "active"
+      },
+      {
+        "name": "claude-ads",
+        "path": "D:/Projects/my-project/claude-ads/",
+        "status": "active"
+      },
+      {
+        "name": "gobii-platform",
+        "path": "D:/Projects/my-project/gobii-platform/",
+        "status": "active"
+      },
+      {
+        "name": "jone-harris-site",
+        "path": "D:/Projects/my-project/jone-harris-site/",
+        "status": "active"
+      },
+      {
+        "name": "nano-banana-mcp-source",
+        "path": "D:/Projects/my-project/nano-banana-mcp-source/",
+        "status": "active"
+      },
+      {
+        "name": "nano-banana-pro",
+        "path": "D:/Projects/my-project/nano-banana-pro/",
+        "status": "active"
+      },
+      {
+        "name": "OBLITERATUS",
+        "path": "D:/Projects/my-project/OBLITERATUS/",
+        "status": "active"
+      },
+      {
+        "name": "pitch-deck-app",
+        "path": "D:/Projects/my-project/pitch-deck-app/",
+        "status": "active"
+      },
+      {
+        "name": "postpilot",
+        "path": "D:/Projects/my-project/postpilot/",
+        "status": "active"
+      },
+      {
+        "name": "uncharted-crm",
+        "path": "D:/Projects/my-project/uncharted-crm/",
+        "status": "active"
+      },
+      {
+        "name": "analysis_agent",
+        "path": "D:/Projects/my-project/agents/analysis_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "code_builder_agent",
+        "path": "D:/Projects/my-project/agents/code_builder_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "consolidate_leads",
+        "path": "D:/Projects/my-project/agents/consolidate_leads.py",
+        "status": "active"
+      },
+      {
+        "name": "proposal_agent",
+        "path": "D:/Projects/my-project/agents/proposal_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "research_agent",
+        "path": "D:/Projects/my-project/agents/research_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "saas_validator_agent",
+        "path": "D:/Projects/my-project/agents/saas_validator_agent.py",
+        "status": "active"
+      },
+      {
+        "name": "portfolio",
+        "path": "D:/Projects/my-project/portfolio/",
+        "status": "active"
+      },
+      {
+        "name": "competitor-research",
+        "path": "D:/Projects/my-project/competitor-research/",
+        "status": "active"
+      },
+      {
+        "name": "app-idea-validator",
+        "path": "D:/Projects/my-project/app-idea-validator/",
+        "status": "active"
+      },
+      {
+        "name": "adnerve-waitlist",
+        "path": "D:/Projects/my-project/adnerve-waitlist/",
+        "status": "phase-0"
+      },
+      {
+        "name": "whop-banners",
+        "path": "D:/Projects/my-project/whop-banners/",
+        "status": "stale"
+      }
+    ]
+  },
+  "partnerships": [
+    {
+      "name": "Josh Kincaid / AI Tool Hub",
+      "type": "white-label-reseller",
+      "status": "contract-drafted-not-signed",
+      "doc": "D:/Projects/my-project/contracts/AI-Tool-Hub-White-Label-Agreement.pdf",
+      "workflows_owned": 79
+    }
+  ],
+  "warm_leads": [
+    {
+      "name": "Florent Vosse",
+      "company": "Opticore",
+      "source": "linkedin",
+      "status": "contacted"
+    },
+    {
+      "name": "Anderson Smith Carreno",
+      "company": "Terraweb",
+      "source": "linkedin",
+      "status": "contacted"
+    }
+  ],
+  "offers": [
+    {
+      "tier": "Free Audit",
+      "price_usd": 0,
+      "deliverable": "30-min call + 1-page report"
+    },
+    {
+      "tier": "Custom Build",
+      "price_usd": 497,
+      "deliverable": "one-shot automation, 7-14 days"
+    },
+    {
+      "tier": "Retainer",
+      "price_usd": 1497,
+      "frequency": "monthly",
+      "deliverable": "hosting + monitoring + improvement"
+    }
+  ],
+  "voice_rules": {
+    "forbidden_chars": [
+      "em-dash",
+      "arrows (->,=>,U+2192)"
+    ],
+    "forbidden_phrases": [
+      "leverage",
+      "synergize",
+      "unlock",
+      "delve",
+      "world-class",
+      "best-in-class",
+      "I help X achieve Y"
+    ],
+    "branding_name": "Jone Andrew Harris",
+    "linkedin": "linkedin.com/in/jone-andrew-harris",
+    "tone": "practitioner, raw, peer"
+  },
+  "cost_policy": {
+    "default": "zero-cost-subscription",
+    "primary_llm": "claude-code-subprocess",
+    "fallback_rule": "if external API fails, use Claude Code itself",
+    "authorization_required_for": [
+      "Anthropic API direct",
+      "OpenAI API",
+      "any single call > $0.50",
+      "any subscription > $5/month"
+    ]
+  }
+}
