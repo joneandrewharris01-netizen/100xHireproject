@@ -7,7 +7,7 @@ Added extensions — Installed Codex and Claude Code, then connected both extens
 Connected GitHub — Linked my GitHub account to Cursor so I could work directly with this repository.
 Created this README — Wrote and uploaded this file through Cursor, connected to this project repo.
 Challenges I Faced
-The only real issue I ran into was that Cursor’s interface had changed since the last time I used it. That was a bit frustrating at first — especially when trying to open and install extensions, since the UI looked different from older tutorials I had seen.
+The only real issue I ran into was that Cursor’s interface had changed since the last time I used it. when trying to open and install extensions, since the UI looked different from older tutorials I had seen.
 
 I solved it by watching an updated tutorial on how to install extensions in the current version of Cursor. After that, everything went smoothly.
 
