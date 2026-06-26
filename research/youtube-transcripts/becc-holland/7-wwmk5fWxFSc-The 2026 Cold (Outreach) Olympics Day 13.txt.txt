@@ -1,0 +1,2491 @@
+Metadata:
+{
+  "expert": "Becc Holland",
+  "channel_name": "Flip the Script",
+  "video_id": "wwmk5fWxFSc",
+  "title": "The 2026 Cold (Outreach) Olympics: Day 13",
+  "video_url": "https://www.youtube.com/watch?v=wwmk5fWxFSc",
+  "run_id": "tbMZfBVeHoZx1R57O",
+  "dataset_id": "bMal3iKMC5VMFyCb1"
+}
+
+Transcript:
+Bonjouro everyone.
+How's it going everyone?
+Happy happy. Hello. Hello. We already
+have people in the chat. Oh my gosh.
+Jean. Hello. Bonjour. I miss the R. I
+miss the French R. As much as I never
+thought I would say Genen Morgan
+Buenos.
+You guys are killing me. As much as I
+thought uh John Jean Franis that I would
+never miss the French R, I miss it a
+little bit because when I came here men
+first thing he was like you're letting
+that R rip
+because I I miss uh How's it going
+Kirsten? I missed miss being able to
+roll my Rs and my Rs being somewhat um
+somewhat simplistic and being near the
+front of my mouth. Um, so I have been
+loving the Italian over the last, you
+know, 10 days. Uh, how long have we been
+doing this? 10 days, 12 days at this
+point. No, 16 days. I think I've been in
+in Italy for 16 days. Um, but point
+being, I kind of miss the R now. I kind
+of miss having to work for it.
+Uh, another side note, I went to figure
+skating last night and I saw Katarina
+Wit uh and uh several different things
+that surprised me. I saw Snoop Dogg.
+Snoop Dogg was there last night at
+women's uh singles women's it was
+singles uh freekate basically the finals
+for it and uh several things surprised
+me. Katarina Wit was there uh Snoop Dogg
+was there and there is something y'all
+can't tell. Y'all can't tell all the
+other Americans because they won't
+understand. They just won't understand.
+They won't understand me, y'all. But
+when I see the French flag, I just I get
+really warm and I start rooting for
+France really heavily. So, there was a
+French skater last night. She didn't do
+too too well. She fell. And every single
+time one of them comes out, I get really
+really warm and I start cheering really
+loud. So, I learned that I think that I
+I am French at heart. Um even though
+I've been out of France for the last
+couple weeks. Anywh who, how's it going
+everyone? How is the week going? We are
+going to be going into a really really
+topic today. Today, um the topic on hand
+today is cold email.
+Y'all left me hanging. By the way, I
+asked y'all, Kirsten, Jay, Frank,
+Robert, I asked y'all to come up with a
+pun for men's slalom,
+and I never heard anything in the chat.
+It's gone now. You know what? It's gone.
+We can't even make the pun anymore
+because medal is over. But I was looking
+for a way to hook that to some kind of
+cold sales topic. Um and uh you know, I
+didn't I didn't get it. I didn't get it.
+I never had a pun, so I just didn't even
+put a video out. Point being, okay, so
+we're going to jump into cold email. So
+there are a lot of different sections
+today. We're going to try and cover it
+in one day. So that's why I'm being
+relatively on time. So men, why don't we
+uncharacter uncharacteristically go
+ahead and jump in? So the first topic
+we're going to be leading with today is
+going to be email deliverability. So
+y'all are probably so sick of hearing
+about this,
+but
+email deliverability is a very big
+issue. It is one of the issues that
+prevents for sure is one of the main
+contributors to preventing teams from um
+hitting quota. only 59% of emails
+actually wind in the um primary inbox.
+So you might say like, well, they still
+might get it even if it doesn't wind in
+the in the primary inbox. I did. You
+have to get past the gatekeeper.
+Damn,
+Kirsten. What a good one. You know,
+shame on men. Men's the one who didn't
+put it up. You know, M men Men when we
+we showed up today, um Men was in his
+big fuzzy hoodie, but it's a blanket.
+It's really blanket. And he was telling
+me how cold he is. I'm like, "Bro, I'm
+in the middle of the Winter Olympics,
+man. I'm sorry. Please don't cut the
+program. Please don't cut the program."
+Such a good tie. Anyho, so cold email
+deliverability. The first thing to think
+about or one of the most important
+things to think about when it comes to
+cold to email is are they going to the
+primary inbox? Only 59% of them are wind
+even the primary inbox. And you might
+say um that uh well people check their
+spam and their their um social promos
+folder folder but extremely less likely.
+So obviously primary inbox is going to
+be the the a place that we want to uh
+want to land and there's about half of
+email deliverability that comes up to
+the technical setup meaning things that
+you can do as an organization and about
+half of them that you can do from the
+rep behavior um meaning things that you
+can do as a rep or as a team to be able
+to um increase those numbers. So the
+things from the technical setup is I
+would make sure essentially that you
+have DKIM setup demark SPF are going to
+be really um demark DKIM SPF and uh
+custom tracking link all set up. So if
+you don't know what those are and you're
+part of sales ops let's say or you're
+part of sales enablement it's kind of
+one of those those things that if you
+don't know it you probably likely don't
+have it. So that's from the technical
+setup that I would look into those
+things. Some people have talked about um
+are you uh are you blacklisted? So a
+good me measure that you're blacklisted
+and one of the common myths about email
+deliverability is that there's one
+central blacklist. It's not a federal
+thing. There's several different
+blacklists that you can wind up on. You
+usually have to take some pretty
+egregious act actions to wind up on a
+blacklist. And a sign of that is going
+to be I would say less than 1% open rate
+consistently over time. that means that
+you're likely blacklisted, you know, and
+I would try it out for several emails.
+It doesn't mean if you're uh blacklisted
+for one email or sorry that if you get
+that kind of open rate for one email
+that you're necessarily blacklisted over
+time though, that's what it could mean.
+So you almost think of it like federal
+deliverability, your own behaviors, and
+then the behaviors that are triggered um
+by the prospect's response.
+So you can win points and you can kind
+of lose points from an email
+deliverability perspective. And what
+they're trying to do is they're trying
+to guard against uh they're trying to
+protect inbox uh the inbox experience
+for the the recipient.
+So fun fact, there are 20,000 engineers
+over at Google. I make the joke that I
+think about 19,000 of them over are
+after us after our traits and behaviors.
+And what they're looking for is
+patterns. So, what I mean by protect
+inbox experience is they're trying to
+ensure that there's not a lot of spam.
+There's not a lot of mail that's coming
+in unsolicited and unwarranted that the
+buyer didn't ask for, that the prospect
+didn't ask for, the the recipient didn't
+ask for. Because if I get, let's say, a
+hundred emails that are from someone
+that I don't know within, you know, in
+two hours, I'm not going to blame each
+one of these senders because I simply
+put can't. Who I'm going to blame is the
+inbox service provider. So essentially,
+that's what they're trying to protect
+against. And so there's a certain amount
+of things that make you uh lose lose
+trust and gain trust with them. So I I
+usually liken it to my sister has four
+kids, girl, boy, girl, girl, boy, and
+Elliot, the oldest, she um is about to
+turn 14.
+So she, which is really really funny
+what I'm about to say. So she went
+through Valentine's Day and apparently f
+she didn't say this. She's very shy,
+very studious, likes to read a lot, but
+really sassy, but she's just, you know,
+really shy. And um she's very much an
+introvert. Um and uh her brothers and
+sisters rooted out for her. There there
+were five gentlemen, five gentlemen
+callers who asked her to be their
+Valentine.
+And she said no to all of them. Oh my,
+that a girl. Good girl. She said no to
+all of them. But all my uh all her my
+nieces and nephews, her brothers and
+sisters were were talking about it. And
+I was thinking about it. I'm like,
+there's going to be come a time point in
+time where she's going to start dating.
+As much as I hate it, I genuinely hate
+that idea.
+And I'm like, there are I taught her. I
+said, Elliot, let me teach you the rules
+of boys.
+Just say no a hundred times.
+She goes, "About what?" I was like,
+"Doesn't matter. Just say no. Just say
+no a 100 times. Can you pass the salt?"
+No. Say no a hundred times before you
+even think about saying yes to anything.
+Anything. Because I'm trying to protect
+her, right? I'm like, "No news is good
+news." So, there are certain I'm
+assuming certain, you know, dates in the
+future, certain boys that are going to
+make me nervous and more nervous than
+others.
+But all of them make me nervous. Why?
+because she's going out of the house and
+she's leaving the house and I don't know
+what's going to happen. That's kind of
+how an inbox service provider is with
+email deliverability. So, if you are to
+send someone links, let's say, and they
+click have to click on the link to go
+somewhere else and it leads them
+somewhere else out of that inbox service
+provider. Any kind of link is going to
+lead them out of this in the inbox,
+which means it's going to make them
+nervous. So, they're going to deliver it
+less. Now there are some links that make
+them ner more nervous than others like
+if it's a broken path let's say or it's
+an unverified site let's say. So I would
+just think about that generally speaking
+are you keeping them in inbox or are you
+leading them somewhere else? So how
+email deliverability works is it works
+collectively as a domain as a team and
+over time. So if you were to do really
+atrocious things to it within reason,
+but with really atrocious things uh for
+your deliverability health today, but
+then you were good, you know, for the
+next couple of couple of weeks, then
+then it would even out essentially. It
+depends on what you did, but it would
+even out. But I would think about it
+from that perspective of it's kind of
+like a diet. If I eat a bag of cookies
+today, then that's not great. But if I
+eat vegetables over over the course of
+the next two weeks and it's going to
+improve it over time and I'll be I'll be
+good over time. So, um I would think
+about it in terms of as a group. There's
+nothing you can do to isolate the
+behavior from you know someone someone
+else let's say um like one person for
+the team. It's unfortunately as a
+domain. So you can win points and you
+can lose points. What help you win
+points is when uh when people forward
+you, when people reply, when people add
+you to their contacts or they save you
+from move you from another folder or
+they save you from spam. And then what
+what makes you lose points over time is
+if people block you, if they
+unsubscribe, if they delete, if they
+delete you before opening um your email
+is going to be a double doozy. So those
+are the things that kind of win you and
+lose you points from the prospect
+behavioral side. But the the tips that I
+have in terms of how to help and hurt
+with deliverability. So less links the
+better. No more I I would say like if
+you have a link in your signature to
+your phone to your LinkedIn to your
+website every single time you include a
+link is is like another date with
+Elliot. Right? So it makes me nervous.
+So I'm going to I'm going to deliver it
+less. Um no caps like all caps will
+really hurt you. Red font, oddly enough,
+hurts you. If you send any more than 50
+a day, it's going to hurt you. So, some
+people yell at me. They're like, "How do
+you personalize it scale?" And I'm like,
+"Well,
+by personalization, let's set the the
+northstar of 50 emails because I sending
+any more than 50 emails that I'm going
+to uh be cutting off my nose just by my
+face anyway." Um, I would avoid uh same
+subject lines. That's a very big hitter.
+Meaning if you have a template, if you
+have a cadence, let's say, or you have a
+um a sequence, let's say, and there's
+five emails built within outreach, for
+instance, then uh all five of them, you
+would say, need to have a different
+subject line. But it's not even just
+that. It's that each email that you send
+has to have a different subject line.
+So, if I send one and you know, Min
+sends an email, let's say, to to someone
+at at a different organization, even
+though we're different senders, and even
+though it's different recipients, if it
+has the same subject line, it's
+markering us as a domain. So, something
+to think about. Any more than uh no more
+than 50 emails, I wouldn't send them all
+at one time, like 1:00, let's say, or
+all at 1:30. And I wouldn't send them at
+equidistant times. So like 1 105 110 115
+120 125 you have to keep in mind they
+are studying patterns. So anytime you
+have a pattern that looks like a robot
+and not a real person that's when you're
+going to get hurt. There's a number of
+words that you should avoid. You know,
+for instance, um problem solution
+increase, free 100% discount. Um you
+know, anything uh not spam will oddly
+enough hurt you, but meant I'm gonna get
+t
+actually the the cold email resource one
+that we have in the chat. That would be
+really helpful. I'm sorry about my
+comments on your hoodie hoodie. It's a
+blanket, y'all. It's a big fuzzy blanket
+that makes him look like a peep.
+It's the best hoodie ever, man. So,
+point being after I told them all your
+secret, your spicy secret, can you put
+the the uh email on one shooter in the
+chat that has a list exhaustive of the
+words that I know. Now, you have to keep
+in mind I conglomerated these from a
+number of different lists. Inbox service
+providers aren't going to go through the
+hard work of putting together a list
+that helps them identify you and then
+publish it online. That's just not how
+it's going to work. But this was a
+common study among all of the uh lists
+that I did find online. You know, what
+are some of the words that will really
+really hurt you? Uh also GIFs and uh
+GIFs will hurt you or GIFs, however you
+want to say it. And any more images uh
+images are fine unless it's over four. I
+don't know why you need more than four.
+Like here's what I ate for breakfast and
+lunch and you know snack and dinner and
+then you're going to start seeing some
+churns. So any more than uh four is
+going to hurt you. And if your entire um
+email is as one image. So for instance
+for marketing, if you're sending out a
+newsletter, if it's all one image, it's
+going to hurt you. So none of these
+things are going to kill you, but if you
+do enough of these behaviors over time,
+then it's going to, you know, increase
+and increase and increase the likelihood
+that they're not going to be delivering
+the email. So that's the most important
+thing to think about. The reason I say
+it's the most important thing to think
+about is it doesn't matter if you were
+relevant if you didn't even wind up in
+the inbox. It doesn't matter if the the
+the email was readable, if you didn't
+even, you know, they didn't even get the
+email. So that's why I say it's the most
+important thing to think about is
+because it's most critical. And then
+there's the user themselves. I have a
+customer has 50k unread emails in his
+Yeah. Yeah. Yeah. So Robert's Robert's
+keying in on of like, okay, well then
+does the person actually open it, you
+know, because of the amount of emails
+that they have. So generally speaking, a
+kind of to Robert's point, anything that
+um
+anything that typical sales people do, I
+would not do. You know why? Because
+everyone else does it. At minimum, even
+if it's a good behavior, which lines of
+the time it's not, even if it's a good
+behavior, you have to keep in mind it's
+a normal behavior. And what we normally
+do with sales emails, once we categorize
+them in our brain as sales emails is we
+we trash them. We hit delete. So, I
+would just think about that of when
+you're talking a certain way or doing a
+certain thing. You know, for instance,
+most uh uh reps will send cold emails on
+Monday morning. You know, it's just a
+very common time. Most reps have the
+point of view that nobody emails on cold
+on uh Friday afternoon and that's why
+it's the most effective is I mean one of
+the reasons why it's the most effective
+is because uh there much much less
+people sending cold emails. So just look
+at your inbox over the course of the
+next week
+meaning Monday through Friday and just
+pay attention to how many emails you get
+from outside vendors and when. And it's
+it it will shock you. I mean, it shocks
+me at least of like Monday morning,
+every single morning, I'm gonna wake up
+and there's going to be an implosion of
+cold emails and then Friday afternoon,
+it's going to be not a peak, not a peak
+from people. So, I would just think
+through that from a behavioral
+perspective.
+Okay, let's go into lap two. Are y'all
+hearing the the the wear in my voice?
+I feel like I competed for the gold
+medal for ice skating
+last night. It was really fun, y'all. It
+was really fun. the the ice skating. Uh
+it's really interesting, especially the
+the women are I mean I don't even know
+how they do what they do. Some of them
+especially I'm like they're five foot
+tall. I'm like how are they making that
+quad happen or that triple happen? So
+okay, we're going to go into lap number
+two which is email read email
+readability, excuse me, and subject
+lines. So email readability and subject
+lines. So let's start with subject
+lines. If you do me a favor, if you pay
+attention to or go to your um your uh
+well, first of all, I'd click on your
+your spam and your yeah, your spam and
+your social promotions folder, and I
+would start to look through what winds
+up in those boxes so you can get to know
+what does your inbox service provider
+count as as spam. It will help you get
+to know it.
+But something else that I would do is
+the most evergreen judge in my opinion
+for um for uh cold or the most evergreen
+teacher for cold email is actually
+yourself. So I would look through the
+messages that people send you meaning
+cold emails, LinkedIn messages, and just
+start to study the pattern. What they
+say when they say it, what they do, how
+did you know when it was a sales email?
+what words were like did actually
+transpire to trigger you that it's a a
+sales email and just really start to
+study what is normal for sales reps. The
+reason that I say that is one of the
+biggest things that you're going to have
+to do is interrupt the pattern that
+you're a sales rep. So, we're using
+about the same 250 words. Hope you're
+well. You know, the happy Monday. Hope
+you and your kids are doing safe during
+these uncertain times. Uh just checking
+in, just following up. Just circling
+back, just bubbling this to the top of
+the inbox. Happy Monday. Hope uh sorry.
+Um uh I'm with blank. We're the number
+one blank who helps blank with blank. We
+work with leaders just like you. Quick
+question. Struggling SEO optimization.
+Uh 15 minutes quick coffee chat. Cheers.
+My CEO sent me your way. I was really
+impressed by your profile. You know, I
+really was impressed by your background.
+I admire your background. You know, I
+have gotten an exorbitant amount of
+emails recently where someone's like, "I
+really admire your content." And then I
+read the rest of the pitch and I'm like,
+"This has nothing to number one nothing
+to do with the content, but you're
+telling me that you or you're trying to
+advertise to me uh pipeline services.
+I'm a trainer on pipeline."
+So, did you admire
+I don't care if you admire my content,
+but the point being people are being
+more and more and more aggressive about
+things that they're where it looks like
+it's personalization where it's it's
+it's not, you know, it's it's uh not
+actual true personalization. So I would
+think through from a subject line
+perspective one of the most evergreen
+pattern interrupts and there's you know
+kind of like how the subject uh line
+cold email world works is someone comes
+out with something then everyone uses it
+and then it's dead except for one thing.
+The one thing that will always be a
+pattern interrupt
+that no one uses truly no one that will
+always be effective is personalization.
+And the reason that I I say that is
+because
+I like you would think over the years I
+I cannot I cannot count I mean I I I
+couldn't even begin to count how many
+times I have quote unquote like lectured
+or talked on personalization at scale.
+And when I do the double down into what
+people are sending it's never
+personalization.
+It's always a trigger. Maybe, you know,
+it's like people who download a content
+or people who have a certain level of
+title and it in their head it's
+personalization, but true
+personalization
+no one is doing. They just aren't doing.
+And I mean that from the bottom of my
+heart. Now, they're coming up with a lot
+of reasons. A lot of, if I may,
+reasons why not to do why not to do it
+of like, oh, I should only send it to
+enterprise or you can't do it at scale
+or yada yada yada. But I'm telling you,
+true personalization works. And where I
+would I would showcase that is in your
+subject line. If you say you said and
+then put quotes around it and you clip
+something that they said, you know,
+either in their about me section or, you
+know, comment, you know, or uh any kind
+of article. So some people will say,
+well, not everyone has articles back.
+We're not selling into sales. I'm like,
+well, to be fair, I don't even have
+articles on my profile, but people are
+people are, even though less than 1% of
+LinkedIn is active, meaning they're
+posting once a week or more, people are
+commenting. And that also has nothing to
+do with their about me section. Their
+about me section just is are they on
+LinkedIn, not are they active on
+LinkedIn. So, I would use some type of
+personalization. If it were me, that
+will always get an open, very commonly
+get an open. I would say anywhere
+upwards of 65 to 85% dep dependent upon
+email deliverability issues. But I would
+think from a subject line perspective if
+if you are a sales rep, I would be
+remiss of like put some clip of
+personalization that's true
+personalization. I will give you an
+example I of
+aggressive personalization is or people
+are trying to look personalized without
+it being personalized. I got a video
+from two other content creators. if they
+you you know who you are by the
+following story even though I haven't
+responded. I'm sorry.
+I got a video from them and I clicked on
+it and I'm like, "Oh, shoot. If I click
+on this, they're going to know." Which
+of course they did. Of course they do.
+I'm sure by now. So I click on the video
+and it's talking about it's gassing me
+up and it's like what can we do to get
+back on this webinar blah blah blah. And
+it was really sweet video, but knowing
+their capability and knowing how young
+young they are. My first thought and it
+was specific about me like it mentioned
+my name. It was like what can we do to
+get they call me a heavy hitter to get
+I'm like man I'm shocked that I didn't
+respond. It's just because the Olympics
+they're like what can we do to get a
+heavy hitter on our our webinar like and
+then they mentioned my name but my first
+thought was not this is really nice.
+That was my second thought. My first
+thought was is this AI? have they found
+out a way to do this using AI? So, I
+didn't respond until they sent me a
+second message the other day. I still
+haven't responded, but now I'm like,
+okay, this actually was to me, but I
+didn't respond thinking there is a very
+good chance scenario that they have
+learned how to use AI to do this and I'm
+not going to be the one person who falls
+for it kind of thing. So for subject
+lines, I would think through when you're
+using personalization, using something
+that proves to them that they you are
+going onetoone essentially. So um some
+other tips on email um uh or subject
+lines. I would say any kind of marketing
+language or sales language that's common
+you have to avoid. So a great example of
+this is I don't even actually write our
+emails. Men writes all of them. I I
+don't know if this is very like Wizard
+of Oz moment, but people be like, "Great
+email, Mike. It wasn't me, it was men."
+And men does an increasingly
+increasingly increasingly effective job
+over the you know, it's been incredible
+just to watch his how much like cleaner
+cleaner cleaner cleaner like better
+better better. There's been times where
+I've called him and I'm like I think
+that you've outrun me. I think that you
+can write a better cold cold email than
+me at this point. I have like an
+existential crisis. But the point is is
+the things that he does really well is
+his subject lines he pattern interrupts.
+So I would think of is this common to
+see in subject lines?
+If it is then uh if it's common in
+subject lines you can't use it. If it's
+normal sales and marketing language then
+you can't use it. So a lot of people
+when they've gotten my emails before you
+know meaning the ones that I use they
+would they would say something like well
+I don't talk this way. And I'm like well
+nobody does. That's the point. So you
+can't use any common term. So those 250
+terms I just gave you, it's not that
+they're bad, it's that they're normal.
+And so what like it triggers in their
+head this is a normal sales email. What
+I normally do with the sales email is I
+normally delete it. So I would just
+think that through in terms of the
+actual email itself,
+no more than four lines, five max. I
+would not do two lines in a paragraph. I
+would do all the lines separate. Any
+long blocks of text people can't read.
+Acronyms are your friend.
+punctuation, especially when odd
+punctuation is your friend. So, you'll
+notice a lot in our writing, my writing,
+and men's writing that we'll do uh an
+ellipses. And the reason is it's odd
+punctuation. So, it it it catches people
+off guard, you know. So again, your mind
+is tricked. It is trained into basically
+surfacing to you for the top the things
+that look abnormal because it needs to
+evaluate whether from a threat
+perspective, do I need to run away from
+this thing? Do I need to fight this
+thing or is this thing okay? And so your
+brain is trained with the R uh RA
+system, the reticular activation system
+basically sitting at the bottom of your
+brain stem makes you pay attention to
+what looks not normal. that is what it's
+it's making you pay attention to because
+the normal things you've already
+evaluated and you know what to do with.
+So if I normally see a stop sign, you
+know, or I normally see a uh a a tree
+with some birds in it, then I have
+normally evaluated that that it's okay
+that I can keep walking. So anything
+abnormal grabs your your attention. Less
+company mentions the better. If you're
+going to do it, do it once at the
+bottom. But I'd say generally speaking,
+the more brief the better. and four to
+five lines max and I would use heavy
+irregular control.
+>> I sort of got that one. Sort of got that
+one.
+That reminds me of this is a very it
+probably inappropriate comment but if I
+look I'm not even going to say it. You
+know what y'all? I'm turning 40 on March
+1st and I uh I'm really encouraged with
+myself just now. I just filtered
+something
+at 39.99 years old. I learned how to
+filter something that I shouldn't say.
+See, Mom, I told you it would happen.
+Yes, I'm always amused by the cold
+emails that tell me they're impressed at
+my profile and want to help me.
+Sorry. If you're watching this live or
+or you're paying attention, everyone go
+like Robert's comment. If you are
+watching this in in recording or you're
+listening to it, basically Robert said
+um that he loves when he gets um emails
+that say they're impressed by his
+profile, then ask if he needs help
+financing going to a certain university,
+which he's not going to that university.
+Totally. People do that to me all the
+time. They're like I mean I'm on a
+certain amount of boards and so they'll
+be like you know they'll they'll talk
+about hiring at that company you know
+say Seno for instance I'm on Seno sports
+shout out Senozo and Chris and they'll
+be like do you need hire do you what
+about your hiring needs at Syndo and I'm
+like bro I don't work full-time at Syndo
+meaning I'm an advisor that's what old
+crotchy advisors like us do is you know
+we we don't work full-time there so
+point being I get some wild stuff like
+the PE the amount of people trying to
+sell me pipeline services is crazy that
+I'm like y'all I help with pipeline
+services
+meaning you know I help train teams to
+write better better emails so that they
+can uh book more pipelines so they're
+like I'm really impressed by your
+profile by the way do you want to
+they're a competitor
+so anyh who I'm like well this makes me
+feel a little bit better
+okay let's jump in to lot three
+cold email is a very interesting game.
+Lab three is very or you know everyone
+involved in in cold email. So lap three
+is five types of emails, breakup and
+bump emails and what content include.
+But you know the interesting thing about
+cold email is everyone has an opinion
+and a very indignant opinion about cold
+email.
+Meaning
+because there's not that real-time
+feedback of someone hanging up the phone
+on you, everyone thinks they're right.
+Even if their open rate or reply rate is
+01, you know, it's just what people
+think. It's the I think game. I would
+say
+extremely few people have looked at the
+actual data behind emails. I'm going to
+go ahead and put myself out on the line.
+beds of statistics when it comes to cold
+email. Here's from here's one that I'm
+not going to filter. They're not real.
+Beds of statistics around cold email.
+Best case, and you have to keep in mind,
+they would have to uh get get all of
+their user data to be able to study
+that, which they haven't. They haven't
+asked for permission for. So, if they're
+doing it, they're doing it illegally. So
+if they have all this information, you
+know, let's say that they have three
+billion cold emails like they say that
+they they have, they would need, I don't
+know, upwards of 150 to 200 Microsoft
+engineer and statisticians to be able to
+study it, which they don't. But even if
+they did have that, you know, they would
+need an exorbitant amount of time. So
+when any kind of vendor says we've
+studied three billion emails, keep in
+mind the amount of time to study that
+amount of unstructured data, I I can't
+even go into the amount of time that
+that that would take. And best case
+scenario, even if you did do that,
+you're introducing different industries.
+You're introducing different periods of
+time. You're introducing you would also
+have to have the statistics into their
+CRM of what was actually effective, what
+actually booked a meeting, which they
+don't. And even if they did, they are
+studying something that is correlative,
+not causational. And they might
+represent that within the the
+infographic, but you know, correlation
+and causation. The difference is it's
+like saying, well, there's a um people
+who eat ice cream correlates a high
+amount of people who eat ice cream
+correlates to uh a lot of uh sunburns, a
+high amount of sunburns. So, if you want
+less sunburns, just eat less ice cream
+kind of thing. So point being, I would
+be extremely cautious slashnot read
+those statistics. They could be
+extremely misleading and unfounded. But
+point being in terms of the cold's
+emails, I always when anyone tells me
+something to do, you know, um or anyone
+gives me information or data, I always
+question the heck out of the quality of
+the data, which nine times out of 10,
+it's going to blow over, you know, if I
+just go at it with one one question. But
+even if it doesn't, I would take it into
+consideration that there's a number of
+different variables that could skew the
+results from what your actual use case
+is. So in terms of the five types of
+emails that you can send or uh the the
+five types of emails that I send in my
+sequence,
+um three of them have a line of
+personalization. Two of the original
+thread, two of them are response emails,
+meaning bump emails.
+And where you're always going to get the
+most results are going to be email one,
+email two, regardless of who's the who
+the writer is, email one, email two, and
+then email five if you do it
+appropriately, which is a breakup email.
+A lot of spicy takes around breakup
+emails, I'll just say this for me and my
+breakup emails for sure, like over the
+last,
+let's see, how long have I been doing
+this? In terms of like monomomaniacal
+study on email, I would say the last 10
+years, the last decade, the break of
+email is always the strongest. Now, how
+people normally write them, that's not
+true. But the breakup emails is is the
+strong in terms of response rate and
+booked meeting rate and the level of
+decision maker. So those middle emails
+are always going to be the trough
+emails. And where I quote unquote
+multi-thread, I would never multi-thread
+without a reason. Meaning I would never
+attach an email reply to an email
+without a reason. So in email uh one,
+three and four are single threads. Email
+two and or sorry one one three and five
+are single threads. Email two and four
+are multi-threads meaning I am um
+responding to an email but usually I do
+it with a reason. So um in the fourth
+email I'm falling on my sword. In the
+second email it's because I'm doubling
+down on the personalization that was
+just sent. So you can kind of get the um
+the lift off of two emails. I full
+disclosure could not stand the idea of a
+response email or a a multi-thread email
+until I saw the data outreach back in
+the day said, "Hey, you need to look
+what what they called the Egoji email or
+the Egoji sequence. They said, "Hey, you
+need to take a look at this." And so I
+saw the email and the email just said,
+"Any thoughts?" And I'm like, "Well, I
+hate it. I hate the idea of that email,
+but the statistics showed, you know, of
+like the data is the data, right? So,
+I'm an opinion I'm a data girl, but I'm
+an opinionated data girl. One that looks
+at the actual data and doesn't let my
+ego normally get in the way. And so,
+when I looked at the data, I'm like,
+this works. One thing that I would think
+about for all emails is I would always
+include a piece of value. Meaning there
+either needs to be a question asked, a
+statistic given, or a piece of content
+given that is valuable to the to the
+buyer. So regardless of whether the
+buyer responds or doesn't respond, they
+should find value from your email.
+Meaning they should learn something that
+they didn't know or be given access to
+some something where they can learn
+something that they didn't know. That is
+the value of a cold email. If,
+excuse me, if that is not true, if
+there's nothing in your your cold email
+that does that, I would say you need to
+re re-evaluate the cold email of whether
+I should send it uh whether I should
+send it overall. So, in terms of the the
+actual emails that you can send, I would
+send uh two two emails that are um two
+emails that are multi-threaded emails,
+three that are single thread the and I
+would ask them a question within email
+one, three, and four. And basically the
+question needs to be around their
+tactical problems, their root causes.
+Typically finding an unknown is going to
+be more helpful than anything. And where
+I would include a piece of content is on
+in email two and in email five. So from
+a timing perspective, I always say to be
+more light on the front end and more
+aggressive near the back end in terms of
+timing in terms of how quick you are to
+follow up and how aggressive you are in
+in in terms of the interval of the
+steps. But the piece of content that I
+would include in email two would be
+written and then in email five would be
+a piece of auditory content. So I you
+want to make sure that they it's
+important to have a pattern but to not
+be it it's important to have a structure
+but for the structure to be dynamic and
+there being use cases where you abandon
+the structure. So the importance of a
+structure is otherwise we can't measure
+anything and we don't know where we're
+going. But the importance of within a
+structure is that you don't make it so
+robotic to where it h it number one it
+should always be based on how they're
+responding and number two it can't sound
+so robotic to where they they pick up
+that it's that it's some kind of uh
+pattern. So the the long and the short
+of it is for the content that you send I
+would always focus on third-party
+content meaning you haven't authored it
+your company hasn't authored it.
+Marketing teams hate me when I say this,
+but the thing is is that if you author
+it, then the person inherently is going
+to trust it less, you know, and a lot of
+times it's talking about the product or
+it's talking about, you know, use cases
+or case studies, which is not what
+people want to hear, especially in a
+prospecting email. You have to keep in
+mind you're going outbound, meaning this
+person has no need based on what they
+know to buy anything like you.
+And you know, the statistics show it
+that we're we're looking to run into the
+slim slim slim and I mean razor sharp
+slim number of a percentage of the
+market that's already in market but just
+hasn't reached out to us yet or didn't
+know that we exist. So instead of going
+after those people, I'm trying to create
+new demand by going after people that
+have a problem that didn't know that
+they have a problem. So the content
+should always be anchored to I would say
+uh there's the French flag. I would say
+third-party articles that are not after
+you looking like the hero. Third-party
+content, it gives you a good chance to
+highlight another author, which is
+always a really good look. And a um and
+it will increase the likelihood that
+they they believe it because um because
+it wasn't written by you, just it being
+third party author, there's a lot of
+strength to that even though as annoying
+as it is. So like it's the the the
+statistics are really ver like extremely
+clear in terms of what people trust and
+don't trust. So they look at 20
+different variables and the top in the
+top three are reviews regardless of who
+the reviewer was or what the background
+was or was there any kind of agenda with
+the reviewer. It doesn't matter. It
+doesn't matter. They trust it more
+because there's less of a bias than the
+actual vendor doing it. So, in terms of
+content that you send over, I would pick
+a third-party piece of content and I
+would uh more clickbaity the better.
+Meaning top 15, top 20, top 40 things to
+not say in 2020 in 2026 for instance,
+it's it's annoying, but that is what
+when you can structure something, that's
+when people will start to read it. And I
+would tease out a specific point of
+interest. So, you know, good example,
+you could say, I thought you might, PS,
+I thought you might like this article on
+X, Y, and Z or the top 20 questions that
+sales leaders should be asking in 2026,
+especially question number three of do I
+have a custom tracking link set up, you
+know, no need to respond. That's always
+going to be a way that I can unhost
+people sending over content like that
+with something specific to stuff that
+they like
+that one. It's because the French flag
+was in the background.
+Email five, I would focus on vid the
+same idea but video content. So, you
+know, webinar, podcast, I just change up
+the format so it's not like article
+after article after article after
+article. One other point and then we're
+going to move on into the next lap that
+I I think is worth mentioning.
+The reason that I know how what not to
+do is because I've done it.
+So, you're more than welcome to
+take not take this advice and make make
+these mistakes. But the reason, for
+instance, that I always recommend a
+piece of written content and then a a um
+a uh piece of of uh verbal content is
+because there was a number of different
+buyers at one point where I would send,
+you know, written piece of content,
+written piece of content, written piece
+of content. There was a number of buyers
+that responded that were like, "What is
+the play here?
+meaning they could see a pattern in it.
+Right? So, the reason that I know what
+not to do is because I've done it so
+aggressively and I've gotten feedback
+from it in the past. So, one of the
+things you do have to take into
+consideration is is every email
+different and does every email include a
+unique piece of value and uh is every
+even in terms of format? You can't just
+send article after article after article
+after article because they'll kind of
+get to feel the play and any anytime
+that they feel, you know, like something
+is is a motion, which to some degree it
+is. Meaning we have to have structure,
+but if they start to feel like they're
+just a number, then they can from a site
+view, they can react in some pretty
+negative ways. Okay. Should we discuss
+the product in the first email? Should
+it focus entirely on them? Good
+question. I would never discuss the
+product in any email if it's a cold
+email ever in in my opinion. Um, the
+reason is, you know,
+like let's say that you are describing a
+product, a different type of ski for the
+kind of skiing that she's doing right
+now in the background. I don't even know
+what that is. I don't even know what
+problem like if you describe the type of
+ski that she she has or the type of ski
+that you sell, I wouldn't even know what
+you're talking about. Why? because I
+don't know that I have a problem like
+you should essentially be doubling down
+on a problem that they hypothetically
+don't know about. So instead of jumping
+to the product of what problem it would
+solve, you need to go to the problem of
+understanding do they have this problem
+that is typically one they don't know
+about. Even the the the main slippery
+slope that I see a lot of people going
+down in majority is they are going after
+a problem not a product but they're
+going after a problem that people
+already know about. So if people already
+know about and you're going outbound it
+means that by definition you're not
+going to have much response. Why?
+Because if it was bad enough based on
+what they knew they would have they
+would have already made a motion to do
+something about it and no need for the
+outbound. So I would be after describing
+the type the profile of buyer that has
+the problem that you think they might
+have that you think they might not know
+about. But I would never go into
+product. I mean I don't know you should
+be creating a need instead of attracting
+a pre-existing need. So how you create a
+need is not by talking about a product.
+It's you know describing a you know of
+like for instance email deliverability
+that people don't know about a lot.
+Instead of saying here's an email
+deliverability warm-up service,
+if I even if I went into the intrinsic
+components of that, the fact is is that
+you know I don't know that I need an
+email deliverability warm-up service.
+Why? I don't know that I have an email
+deliverability problem. So the things
+that I would key in around is helping
+them self-identify
+if they have like for a lot of a a lot
+of problems you can see on the from the
+overt perspective or you can see signs
+of it of the pro that the problem exists
+that they don't know about. A lot of
+them you can't meaning I can't know
+someone's open rate from an email
+delivery buility view right I just can't
+I I don't know that number internally
+but you should be after describing a way
+to help them self- select that they are
+in that group that they potentially have
+the problem so if I said you could
+either do one of two things um what's
+your open rate or you or and you could
+go the angle of uh the reason that I ask
+is anything less than 50% you know and
+typically there's an email
+deliverability problem you Or you could
+say just right out of the gate, anything
+less than 50% of um uh open rate
+industry average is 15 to 25. Anything
+less than 50% and you have an email
+deliverability problem. Point being, in
+neither one of those worlds am I
+describing a product. I'm describing a
+problem that they might have based on
+information that they have to answer and
+they have to self- select into. So
+healthcare is really good about this. Um
+they'll be instead of being like do you
+have this chronic condition they'll be
+like do you live in the greater Milano
+area less than 40 years of age female
+you know and have never lived in a
+colder climate uh previous to Milan.
+Reason being is if you do you might
+qualify might qualify for blank. So
+they're giving you hard criteria to
+basically advertise the p type of person
+who might have the problem that they
+have that don't know about. So I in any
+cold email,
+I wouldn't describe product. I wouldn't
+describe case study. I wouldn't describe
+any of that. They don't know that they
+need it. If you're doing cold app onto
+the right group of people, they don't
+know that they need it. And if they do
+know that they need it, they're in the
+0001%. That means that you're writing
+emails to the 0001%. But all the people
+who have the problem that don't know
+about it that you should essentially
+from a meat perspective be after that
+you're not you're not the cold email is
+not for them which is who they it should
+be designed after. So there's a long
+answer but no I wouldn't describe
+product in the first email but I
+wouldn't describe it in any and any of
+the emails. Okay let's jump into four
+email relevance plus personalization.
+Yeah. Okay. So relevance plus
+personalization. We actually might be
+somewhat shorter on this this lap. So
+relevance is again anything that's one
+to many and personalization is anything
+that's one to one. I don't care what
+trainer says differently. That is the
+definition.
+That is the Google definition.
+Hyperpersonalization. Those words don't
+exist. Those exist for people who make
+up words that aren't real.
+Personalization
+just means onetoone. They're trying to
+scare you off personalization by saying,
+"Oh, it's hyperpersonalized." I'm like,
+"No, it's a mind trick." Personalization
+will work. They would know that if they
+tried.
+You know, I'm getting roused up because
+I I I don't like it when people talk
+about things that a they haven't done
+and b are successful. They just It is
+successful. Like, unfortunately, it it
+doesn't doesn't matter what I think or
+what the opinion is. It's just
+successful. the stats are it's show that
+you know um so point being
+personalization is one to one relevance
+is one to many there are two uh types of
+relevance that are included in that
+should be included in this email in any
+email the first type should be um buyer
+persona relevance meaning what is uh
+you're talking about or asking about and
+anchoring around what are the problems
+according to their metrics for the buyer
+persona One of the myths that I see out
+there is that you solve one to three
+business problems. I'm like, "No, you
+solve one to three business problems per
+persona." Because a business problem per
+persona is is per persona. I only care
+about stuff that affects MQLs really if
+I'm a marketer. I only affect, you know,
+care about things that affect, you know,
+let's say uh let's say in the Winter
+Olympics, let's give an example there.
+Ignoring the persona is like saying, "I
+uh I really care about how slick and
+fast skis are." And it's like, "Well, if
+I'm a skier, but if I'm a figure skater,
+I don't care about that at all." Why?
+Because I don't even use skis. You see
+what I'm saying? That's how ridiculous
+it is to talk about a problem absent of
+a persona. It's like, do I care about
+how uh uh sharp a blade is on a figure
+skate? Well, if I'm a figure skater,
+then yes. But if I'm a ski jumper, a
+long jumper, then no, I don't. Like I
+care about for if I'm a long jumper, how
+long the skis are and how light the skis
+are. Why? Because they'll help me fly
+further. But if I'm, you know,
+cross-country skiing, for instance, do I
+care about how light they are? Within
+measure, because I care about how much
+that I'll have to lift them for my feet,
+but not as much. It's more it's equally
+as important to me of how how fast I can
+go in them. I won't care about how quick
+I can go with them necessarily within
+long jumping. Why? Because it's not what
+I'm after. It is dependent upon their
+goal, you know, of like bob sledders. Do
+they care about how fast a ski is? No,
+they're not using skis. Why? They're a
+freaking bob sleddter. So, it's like
+every single metric, every single
+problem should be anchored to their
+metrics as a buyer persona. So, that's
+the first type of relevance. And the
+second type of relevance is
+trigger-based relevance. So that is what
+action have they taken or what action
+has the market taken on them to uh
+create a problem. So uh both of those
+types of relevance could be in an email.
+The one that's mandatory is the uh buyer
+persona relevance for sure. The
+triggerbased email or the trigger based
+relevant is uh relevance is if they hit
+that trigger. So for instance and
+there's four types of triggers. There's
+inbound, which is um which we went over
+uh I think seven days ago. Inbound, you
+have the trigger is that they raised
+their hand. Postbound is they took a
+non-handraising marketing action like
+they downloaded content. Bridgebound is
+the market took an action on them or
+they took an action uh within the market
+but not in relationship to your
+marketing team. So for instance, they
+requested a demo and didn't schedule one
+or they um uh firmographic ones of they
+uh open a new headquarters, they open
+new locations or they an inbound
+referral from someone within your your
+seuite for instance or they just bought
+an adjacent piece of tech. So those are
+like a bridgebound examples.
+If you're going to include those, which
+I highly suggest that you do, I write an
+entire sequence around it. And the first
+email and the fifth email are the ones
+that are different.
+And how you include those triggers is
+just you mention the trigger plus and
+then you say but more importantly and
+then you go to personalization. I
+noticed you downloaded content but more
+importantly and then you go to
+personalization. I noticed that you live
+in France with the French flag in the
+background but equally as importantly I
+saw that you wrote this article on
+blank. So the relevance trigger that's
+one to many talking to you trainers one
+to many is relevance.
+The relevance trigger is people who live
+in France. The personalization is is
+something that they've specifically
+done. You need in 2026 and beyond. You
+need both. You just do. You know you
+really do. the one that will cause a
+more dramatic increase is not the
+trigger. It's actually the
+personalization. So if you're going cold
+outbound, then I like if if that if you
+have no not if you don't have any one of
+these triggers. I'm pretty sure France
+just won. Yeah, that's right. Good for
+us. Savia
+Jean Franis, I hope that you're you're
+watching even though you're in Canada.
+Same thing.
+same thing. We just won.
+Go us. Uh point being, um uh if you o
+only can include one, like let's say
+that you're not including a trigger,
+there's 139 triggers of of of what you
+could include. If you if you uh aren't
+including one of those, then you can
+just go straight into the
+personalization. The reason for my
+outreach is and I you go into the
+personalization. The second line of the
+email is where I ask a question and
+where within three three to four words I
+hook the personalization to the buyer
+persona relevance. So again the question
+that you're asking them you know what
+maybe I should bring a French flag
+tonight to I'm doing speed skating
+tonight. Maybe I should bring a French
+flag and just like wear it. See if I can
+get on TV. So point being the the
+question that you asked needs to be
+around the metrics and the bi the
+problems that you solve for that buyer
+persona. But at the beginning of that
+question I would hook the
+personalization to the relevance. Now
+the best the best piece of
+personalization is always going to be
+according to a problem that they have if
+you can do that. Meaning I would always
+suggest that it's that the
+personalization is to the problem that
+you solve for and the problem that they
+likely have that they didn't know about.
+If you can't do that in an absence of
+that, I have an entire guide of
+personalization premises that you can
+use for them in specific around
+behavior. So, you know, the first bucket
+is self-authored content. The second
+bucket is um engaged content. They
+didn't author it themselves that they
+engaged with it. The third bucket is
+self-attributed traits. You know, things
+that they said about themselves, company
+line, by line, and headline. The fourth
+is junk drawer. The fifth is background
+centric, anything about their
+professional background. of the six is
+company ccentric. I would use those in
+descending order, meaning the higher
+buckets are going to work the most and
+the lower buckets are going to work the
+least. And then even within the list
+that's given, those are that uh that
+that's the exact verbatim order that I
+would use them in. However, you're going
+to have to pick three pieces of
+personalization. If you're going to
+write a five email sequence like I'm
+suggesting, you're going to need to put
+three pieces of personalization to use
+across the sequence. I do it all in five
+minutes, all at the very beginning, so
+you don't have to research them ever
+again. It's it's quick. It's much e, you
+know, easier than I think people
+realize. However, I would just keep that
+in mind of what you really need a human
+for is to understand which pieces of
+personalization am I going to use and
+what that has the best hook as well. So
+the how to do that is just simply put in
+your in your mind make a list between uh
+in your head of what's true about the
+premise and then what's true about my um
+about my company or the problem that we
+solve and then what's the overlay
+essentially. So essentially how I've
+created all of the puns for the Winter
+Olympics is I'm like what's true about
+the Winter Olympics, what's true about
+uh prospecting. I'm like, cold email,
+cold call, budget freeze, making sure
+your calls don't go downhill, you know,
+of like what Kirstson did, getting past
+the gatekeeper. That was brilliant.
+Everyone give it up for Kirsten. That
+was brilliant that she said in her head,
+how she was doing that is what's true
+about Soomn, what's true about
+prospecting. And then she found the
+overlay that in solemn they're going
+around gates. That's the definition of
+it. you know, slum and gi giant slalom,
+it's how big a gates do they have? And
+in prospecting, you're you quote unquote
+are going around a gatekeeper. So that's
+how she found that one. So where you in
+include the personalization, the
+relevance is in the first line, if you
+have a trigger, you say the trigger, but
+more importantly and then include the
+personalization. And then the second
+piece at the beginning within three to
+four four words you hook and uh on the
+back end you're asking a question around
+their metrics for their buyer persona
+that uh hypothetically causes a big
+problem that hypothetically they
+commonly don't know about. So that's how
+I'd include all three of those pieces to
+really punch and it's necessary to make
+that hook and to minimum include buyers
+and relevance.
+France wins the gold twice
+or really that's like the bronze back.
+I've gotten nailed for both of them. For
+both of them. Do you like how I mean
+today we were very close to on time.
+That feels like relatively speaking for
+me that felt like a gold medal.
+I'm giving Pick up the French flag. Did
+she just drop it?
+Yeah. There we go. They're making doing
+the high jump. Okay, just making sure
+the flag's not on the floor. So, for me,
+relatively speaking, that felt like the
+the gold the golden pedal. Okay, so
+we're going to go into the the there
+that's where I'd be, you know, coming up
+from the the tail. Okay, so fifth lap.
+The best questions to ask in cold
+emails.
+Uh the questions to ask in cold emails
+and a prospecting in general need to be
+specific
+non-subjective objective answers
+and uh they need to be around metrics
+that help them identify an unknown. I
+know that I feel like I like I am
+beating a dead you know beating a dead
+horse which sounds so bad. Poor Kinsey.
+I'm thinking my mom's horse. Poor
+Kinsey. So, beating a dead horse, but I
+mean it the difference between a good
+and a great prospector. It comes down to
+how relevant you are. And and what I
+mean by that is how specific are you and
+how um how much are you around an
+unknown. I'll give you an example of the
+opposite.
+There's a number of words that uh well,
+I'd say almost all of the words.
+Thanks for the gold medal.
+I'm serious.
+Thanks a gold medal. The the Olympics
+are emotional time for me.
+There's there are highs and there there
+are highs and there are uh not so highs
+but still high. You know, I just feel
+like it's a very emotional experience
+for someone who experiences I don't know
+one emotion a year. It's a it's a lot.
+It's you know it's a lot to handle. So
+it feels like a gold medal being close
+on time. So I appreciate the
+encouragement. Point being an example of
+the of the former.
+Oh, it's Feder Rico. Okay. Thanks, man,
+for the clarification. Feder Rico, I
+could not see your your your name. It
+said LinkedIn user. Okay, that makes
+Thank you very much for the gold medal.
+That means even more knowing that it's
+you because you've you've weathered
+through among Kirstston, J. Frank,
+Robert, among the several other um non-
+gold medals in terms of timing, let's
+say. Um so point being um an example of
+the of the opposite non-specific
+most words in French
+English people English speakers can't
+say let me put myself in the fire I
+can't say
+a lot of it comes down to pronunciation
+you'll spend years and years and years
+and years and years around pronunciation
+because it's just so difficult it's in
+the back of your throat there are 10
+unique sounds that you do not make as an
+English speak native English speaker,
+you know, like or we don't make either
+one of those. So, you have to train
+different parts of your mouth that exist
+in your mouth, but you didn't know that
+they existed until you try to speak
+French.
+There are a couple of things, sounds
+that French people, they don't make that
+are in the English language.
+There's an overwhelming the other way
+around, but there are a couple of sounds
+that we make that they struggle with. A
+hard H is one of them, you know. So like
+Hatchet,
+that hard H, they're you used to using
+the H in a uh more open sound like
+hourly, you know, that that one's okay.
+But like hatchet, that's a tough one for
+them. So one of the examples of this, uh
+there's two two examples of words that I
+know that French people always struggle
+typically struggle with. one is
+literature
+and the second one very very common is
+butter because really we use the t
+double t as a d butter and so I I try
+and tell them I'm like be more lazy the
+more lazy the better and how you're
+saying it so how they end up doing it
+how they end up trying to say it is they
+start to say which I know this because I
+do it often they start to say butter and
+then they just kind of trail out and
+make it ambiguous is thinking that we
+don't that we don't know like they'll be
+like can you pass the room
+and then they'll just trail off. So
+point being in terms of the question
+that you're asking
+the more specific
+the more it showcases
+number one it helps your buyer know what
+to answer. It helps your buyer know that
+you're after something that could be to
+their benefit, that you might know more
+than they know. But if nothing else, it
+helps them understand that you're not
+just saying random stuff to try to get
+them to reply. So if I say, "Do you have
+good email reply rates?" or "Do you have
+bad email reply rates?" You know, it's
+it's well, number one, it's a trap
+question. It's a leading question.
+Someone would know and they'd shut down.
+But that's a different question then. Do
+you have an email open rate that's
+anywhere from 30% to 45% or anything
+less than 45%.
+The reason that I ask is industry
+average is 15 to 25 but anything less
+than a 50% subject uh email open rate
+and there's deliverability problem. That
+person knows something about Cole's
+email. the first person. I'm not sure.
+They might, but I'm going to assume by
+default that they don't because usually
+the reason someone is being ambiguous is
+they're either trying to advertise to a
+mass group of people or they don't know
+what they're talking about and they're
+hoping that you'll buy anyway. So, when
+I'm asking a question, it needs to be
+very specific
+and it can either be what is this or if
+you're uh if you want to do with within
+a a cold email play if you're uh is your
+email is your blank less than blank or
+is your blank more than blank? Like
+you're giving them a range essentially.
+But then you're going to need to to uh
+follow up with the reason that I ask is,
+you know, and then you're explaining the
+stat. anything less than a 50% open
+rate. So, if you could do me a favor, go
+back, check your email open rate, and if
+you're anywhere within blank to blank,
+if you give me, you know, 15 minutes on
+Thursday to go into yada yada yada, and
+if you're, but if you're anything more
+than blank, then you're actually, you
+know, completely okay, I'm going to take
+some tips from you. So, those are the
+two ways that you can do it. But the
+very very important thing is that you're
+specific within the question that is
+specifically to their types of metrics.
+you know, I wouldn't be talking about uh
+dduplicate rates, you know, dup
+duplication rates within the uh data in
+the CRM if I'm not talking to a sales
+ops manager, for instance, that it's
+around their metrics in specific and
+that you're after finding an unknown. I
+cannot stress enough and I know that
+I've I've I've talked about it ad
+nauseium. I I realize that, but I'd say
+a 100% of value props that I've seen,
+even if they are specific, which I'd say
+0.01 01 is specific, but even if they
+are specific, they are not after an
+unknown. They're like, we and again, I'm
+going to take this onus. I hear trainers
+every single day recommending that
+people say, we work with people who
+struggle with blank and they're
+ambiguous in terms of the value prop.
+and they're I'm like, you're going after
+a known at that point. To go after an
+unknown, which is the only thing that
+will create results in outbound to go
+after an unknown, you have to give them
+an indicator that will help them
+identify that they're in this group. So,
+it helps you identify that they might h
+potentially have this problem. I can't
+say, do you have a this health
+condition? do you have an email
+deliverability problem? They'll be like,
+"No, I don't even know what that is, but
+no, I don't have one of those problems."
+Because the the the indicator that
+they're saying that they don't is
+they're like, "I'm fine right now."
+Meaning they're like, you know, my and
+their email open rate is 35%. But
+they're assuming that that's normal.
+There's nothing that they can do about
+it. So in their head, they're like, "No,
+I don't have an email deliverability
+problem." Because they're telling the
+truth. But your question needs to be
+around
+is your do you have DKIM demark and SPF
+set up? The reason that I ask is and
+then you're going down the route of you
+know a if if you don't have those set up
+there's an 81% increase in the
+likelihood that your emails won't be
+delivered. 59% of emails make it to the
+primary inbox. So you're going to shave
+off for you know statistically speaking
+you're going to shave off 41% if you
+don't have these set up.
+if you do me a favor, you know, go back
+look up if you have the these set up
+internally and if not Thursday at two
+and you're going down that path. So,
+you're trying to earn the meeting on on
+asking about something specific. If they
+have it or they don't have it, are they
+in this group? Are they in this range?
+And if so, they might have this problem
+that you you know that typically
+speaking they didn't know about. So the
+more it's around if if you are using
+anything that's we work with people who
+struggle with blank if you are using the
+word struggle within your elevator pitch
+you are never going to book more more
+than 3% of the market no matter what you
+do and it's going to be the 3% of the
+market that is also talking to your
+competitors who already know that they
+have a problem because right now if
+you're going after the right problems
+you're going after a problem that they
+didn't know about which means they're
+struggling with it because they don't
+know it exists.
+Right? So, you're trying to describe ask
+a question around the metrics that they
+run into.
+you're being specific with those and you
+ask the question and you're like reason
+that I ask is and then you give the
+statistic you know it and you know
+what's your network latency if you don't
+mind me asking the reason that I ask is
+industry average is less than one or is
+you know 150% but anything over 120
+milliseconds going to cause a 25%
+increase in server downtime for an IT
+director like you
+that was a sure gold medal that was a
+clean clean gold. But it it the reason
+that I'm harping here is um it doesn't
+matter if your email is readable. It
+doesn't matter if the subject line's
+great. It doesn't matter if it pattern
+interrupts and has personalization and
+you know and it does have trigger based
+relevance. It doesn't matter if it gets
+to their primary inbox for all of them.
+If it's not around an unknown and it's
+not around asking a question that is
+relevant, then it it doesn't mean
+anything. I mean, it means very little.
+It means that you're going to get to
+again best case scenario of people that
+already knew that they have a problem,
+right? So you have zero credibility at
+that point, you have tons of competitors
+at that point and that market is
+extremely small. Where I would start
+generating demand is the ones that that
+are unknown, you know. So I I'd be
+remiss what about qualitative metrics.
+You'll have to give me an example,
+Abdullah,
+of what you mean by a qualitative
+metric.
+So, I mean, I'm e I'm a big fan of even
+if it's a qualitative feeling, there's a
+quantitative way to measure it. That's
+my general go-to. Meaning, you know, you
+could say uh what like instead of
+saying, are you happy? You're like you
+could ask you know number of times uh
+per day that you think you're thankful
+that you think about how thankful you
+are or um are there how often do you
+laugh you know during the day on average
+you know so there's always a
+quantitative way to measure qualitative
+instead of saying like you know are you
+are you happy one indicator could be the
+amount that someone smiles right so
+that's a quantitative way to measure
+that but you'll have to what do you mean
+by qualitative metric and then I can
+answer the question more more
+thoroughly. Um, okay. In the meantime,
+let's go into the last lap
+lapis
+cease the pizza pie. Um, this is
+activity metrics results. How many to
+send and when to stop? Okay, this is
+more of a logistical lab. Okay, activity
+metrics. For a full-time prospector, you
+can send 35 emails 100% personalized per
+day and make 60 calls both. Those are
+the minimums that I gave my rep. And you
+have to reps. And you have to keep in
+mind, y'all are going to like this.
+That's the real me
+after filming stops.
+Um, it's sugarf free. That means it's
+good for me, right? Please, no followup
+on that. No followup on my my health.
+Um, so 35 emails per day, 60 calls per
+day is how many you can make together.
+However, those were minimums for my
+reps. We did 100% personalized emails.
+Um, 100% you know, in terms of there is
+a a actual reason for the outreach in
+terms of personalization. That was the
+minimum that I gave them. All of them
+were hitting that hitting it. uh the
+some of them were getting to the upwards
+of 60 emails on 120 calls per day both
+combined together.
+That's for a full-time prospector. So,
+if you're an AE, you're going to have
+to, you know, uh shift those shift those
+numbers around. I would shift them
+around too much. You know, there's
+either you can say either one or the
+other. I hear AE sometimes say, "Well, I
+don't have enough time to prospect." And
+then in the same breath, they say, "I
+don't have enough meetings." I'm like,
+well, you either don't have enough
+meetings and so you have time to
+prospect or you don't have time to
+prospect because you have too many
+meetings. Pick one of one or the other.
+But in terms of averages, the average
+amount of emails sent are going to be uh
+around 35 per day and around 40 dials
+made per day, which yield four connects.
+Now, that's on average. My reps were
+outrunning those very easily with 100%
+personalized messaging. So,
+and and those were just my reps. I know
+certain AES that are cranking out 160
+dials per day. Excuse me. Even though
+even though they're taking demos half a
+day. So that's in terms of activity
+metrics. I'm going to put myself on the
+line and I know that it's a non
+unpopular opinion. It seems to be in
+vogue to say that activity isn't a main
+contributor of like you need to be
+thoughtful. And I'm like, "Yeah, well,
+the same people the same group of people
+that are are bickering about not having
+a high activity limit and that you
+should be researched are the same group
+of people that are bickering at me that
+you don't need to be personalized and
+that you can't scale it. So, pick one of
+the other." Point being, I do think that
+activity is important. If nothing else,
+if you don't get enough reps in, you're
+just not in the right like you can't
+improve if you don't get enough reps in.
+if I only make three dials, you have to
+keep in mind that only yields one
+connect per every 10 dials.
+So even if you have someone make 20
+dials, that really only means two
+conversations. So I I think activity is
+extremely important. And I think it's
+also an indicator on rep health, meaning
+how in it are they, how aggressive are
+they, how much are they they going to
+make it happen. I have not seen a rep
+who had high activity who wasn't
+successful in the long term. I also have
+not seen a rep who was successful in the
+long term that didn't have the very
+minimum minimum like 90 in terms of uh
+activity. The reps who are winning are
+the ones that are just getting out there
+and doing it. There is a certain amount
+of grit that goes into prospecting.
+There's going to have to be from the
+long-term perspective. You're going to
+get told no. Some people are going to
+hang up on you. Some Now, there are a
+lot of things you can do to prevent that
+from happening, but it's just going to
+happen. People have yelled at me before.
+They've yelled at me before, like people
+have hung up on me before. It's just
+happened. Usually my my much more my my
+earlier years, but um but point being,
+you just there's just a certain amount
+of grit that you're going to have to
+have. That's sales. That's life. You're
+just going to have to grit through it.
+So, I think that I would be remiss if I
+didn't say, you know, again, I think
+people are being too light on
+themselves. I think that people are
+being too light on their teams. I think
+that they're being too light on account
+executives and SDR. Some of it is about
+just getting out there and wrestling it
+to the ground. Making 15 freaking dials
+right in a row. Why? Because that's what
+you have to do. And a main contributor
+to that is activity. So, I am of course
+an advocate of writing heavily
+personalized emails. However, if that if
+you're only sending out three, like I
+had a rep who is very quote unquote
+strategic and his emails converted. I
+mean, they were he put a lot of thought
+into them. He got outrun by a kid, you
+know, so to speak on this was three
+teams. uh before I started flip the
+script, this kid, you know, who didn't
+know any quote unquote know anything. He
+wasn't strategic at all, you know, he
+was much less strategic than first rep.
+Why? Because he was just in there
+banging out dials and you weren't going
+to tell them no. That's just what it
+was. So, I think that both of those
+elements are necessary. I think hiding
+behind, well, that's not how people
+communicate or it's it's just an excuse.
+So I I think that activity from an
+activity metric perspective I would say
+at minimum as an SDR if you're not
+getting out 35 emails per day or and 40
+dials per day I would say every email is
+worth two dials. Meaning if there's
+going to be some days within a sequence
+that you're only going to be sending
+emails for instance. So I would take the
+email aotment of 60 email or 60 dials
+divided by two and that means 30 emails
+and added the prerequisite 35 which
+means you have 65 emails.
+Uh, and then the flip. If you're only
+going to make uh calls, 35 emails times
+2 is 70 uh calls plus the prerequisite
+60, which gives you 130 uh dials. So, if
+you're only going to do dials, you can
+make 130. When those numbers aren't
+being hit, it is a will problem and it
+is an accountability problem. There were
+certain times in my life where I just
+wasn't who I am today. I just wasn't. I,
+you know, would crush past quota and
+then I'd be at the bar at like 1 pm on a
+Thursday, you know, like hanging out
+with my buddies. That's just who I was
+early in my 20s until I got my teeth
+kicked in and found out that the world
+doesn't owe me anything. If someone
+hasn't gone through that lesson, I don't
+think there's a lot of training that can
+help them. That's the God to honest
+truth. I think that your mindset needs
+to be just be in the right spot. So,
+from an activity metrics perspective,
+that is is the numbers that I would hit.
+I would also say for AEES, if you're
+trying to get them to self- prospect,
+don't just give them a number of
+meetings that they have to hit at the
+end of the month. I would give them an
+actual activity metric they have to hit
+during the day. You want to control your
+outputs, control your inputs. And if you
+give them meetings total, they're just
+going to go to their buddies and like
+get these oneoff cases that aren't
+actually going to lead to pipeline, you
+know, but then still use an excuse of
+why they didn't hit quota. In my
+opinion, the reason I'm being so tough
+on us guys is I developed the window
+that we also
+go. Another thing to look for in terms
+of accountability is how often are ghost
+styles happening. Anything less than 8
+seconds, if I was anything less than 5
+seconds for sure, but I would say eight
+to be fair, uh, is a ghost dial. So I
+would run a report on how many calls are
+being made that are lasting less than
+eight seconds because even if you know
+even if someone doesn't pick up it
+should last eight seconds and so that
+will give you a marker on the go style.
+Um, in terms of the sequence, the the
+ones that will convert are emails one,
+two, and and five. The breakup email,
+the breakup email should be exactly
+that. You walking out the door, giving
+the original reason for why you did
+outreach, you know, and including a
+piece of saying taking the guilt and
+association off of it or why they're not
+responding, you know. Um, uh, I don't
+know, maybe it's me, but I'm getting the
+feeling that now is not just not the
+best time to connect. I'm the annoying
+sales rep who can't take a hint. You
+know, if so, no worries. You know, I'm
+here. If I can be of of any help uh now
+or later down the road with with our
+company or or with anything in general,
+you know, either way, keep the great
+articles coming. It's nice getting to
+follow you for a little bit. And, you
+know, if I can be of any help in the
+meantime, and perhaps we'll connect down
+the road. Take care. And then you sign
+it. It is the most effective email if
+you're actually closing the door. You're
+not pinning guilt on them of like you
+didn't respond because you're a bad
+person or you must not value your team
+or whatever it is. Giving them a piece
+of content of like in the last move you
+show people who you are. If they aren't
+giving you what you want, you know, who
+are you then? If they're not giving the
+meeting, who are you then? And if you're
+showcasing them that like it's not their
+fault, it's your fault that they they
+didn't respond. Some people say, "Well,
+is that low confidence?" I'm like, it
+doesn't matter if it's low confidence.
+It's the truth. It's not low confidence
+to be self-aware.
+It's the truth. And if you're saying
+that of like and taking the guilt off of
+them and including a piece of content, I
+mean, it is an unruly reply rate. So I
+that's how I would sum up a breakup
+email. And so emails one, two, and five
+is where you're going to see the highest
+results. I would say if you're using
+true personalization, meaning a piece of
+personalized data, the whole email
+doesn't have to be personalized, but a
+piece of personalized data, my cadences
+or my sequences, they get, you know,
+minimum minimum minimum minimum minimum
+even if they're deleting a lot of the
+email 15% reply rate.
+You know, industry average is 0.5 to 7
+reply rate. So you're essentially, I
+don't know, 30xing that as a minimum. I
+would say if people are using them
+decently well, 25% reply rate. If
+they're being thoughtful, 45% reply
+rate. The highest that I've seen is 87%
+reply rate. It was outrunning their
+inbound sequences because of
+personalization and the quality of the
+email writing within the actions they
+were taking with the prospect.
+Clear gold. So I had three all gold
+medals in the background. In summary,
+cold's email is tough. It doesn't have
+to be though. The things that I would
+think about is number one, did they get
+the email with email deliverability?
+Number two, did they open the email
+because the subject line was pattern
+interruptive?
+Number three, did they read the email
+because yes aesthetic aesthetically how
+it was set up that you didn't use any
+pattern words specifically within the
+first line, left-hand side of the first
+line and right hand side of the first
+line. There's a number of different
+patterns that people read it in. One of
+the biggest myths is that the best
+shaped email is the F-shaped email. It's
+not it's statistically the worst. But if
+we took that in the bag, top left and
+top top right of the first line, if you
+use any pattern words there, then you're
+done. You know, they're going to log
+out. So, it's number three, did did they
+actually read the email? Number four,
+were you relevant along the way? And
+number five, psychologically you take
+care along the way. All of those are
+important. Email has become a
+interesting game, a fun game if you
+study, but a brutal game if you don't.
+So, I would just take a look at the
+email and say, do most reps say this? Is
+this salesy? Am I actually adding value?
+Is this specific to them? Is it
+personalized to them? And is it the
+anchoring on something that they don't
+know? If you can pass those tests,
+you're fine. So, it's not it's uh
+simple, but it's not easy.
+So I would always put on the chopping
+block. I would abandon any principles
+that aren't yielding the results that I
+want just because we've done them in the
+past. So most of the behaviors that are
+hurting us the most are the ones that
+that we've done, you know, people are
+doing every single day. They're eight
+billion emails being sent out just this
+moment with hope you're well, you know,
+near the top. So I just challenge myself
+to say, am I am I actually adding value
+here? Am I actually teaching them
+something they don't it didn't know? Am
+I actually including a piece of content
+that they'd like? You know, am I
+actually asking a question that's
+specific to them? Anytime you're using
+good, high, bad, low, it's subjective.
+It means you're not asking a specific
+question or am I writing the classic
+elevator pitch of we work with people
+who struggle with blank. If you are, I
+mean, you know, then the the results are
+going to follow tow in either case
+scenario, which I know is not what we
+want. So I have to ask myself the hard
+question on am I adding value? Is this
+specifically to them and does that
+showcase that and put our best foot
+forward or does it not? And do I need to
+start over from the beginning?
+That's it. That's it for cold email. It
+is cold outside. You know what? I sat
+outside
+last night trying to edit some photo
+after figure skating and all of a sudden
+I'm like I've been out here for 30
+minutes. I'm like I'm cold. I need to go
+inside. Like brand for example if
+there's a brand manager brand director
+they're measured on brand and
+consistency. Totally Abdullah like just
+the fact that you know that puts that
+ahead you ahead of most most uh oh oh
+you're saying in terms of uh in terms of
+uh qualitative metrics. So a brand
+director for instance we'll do this on
+the line and then I promise we'll close
+out. If you go to ask GPT for instance,
+I'll do this for everyone just so you
+can you can see it. And then I got to
+get going to speed skating.
+Okay. So, what I do I think I can share
+my screen. I've never even tried this.
+Let's see if I can. Yeah, I can. Okay.
+I'm going to share my screen so y'all
+can see this. Can y'all see that? Yeah,
+you can. Oh, look at that. Okay. So for
+a brand director for instance, how to
+get to know their metric. There's always
+quantitative uh metrics on what
+something someone is measured on. Um
+it's never qu it's never qualitative
+front to end. At least in my experience,
+I've never seen someone who wasn't
+measured on quantitative metrics of like
+good juju. So for instance, if I were to
+come in here um and not go into AI
+director but come here to AI chat and
+say for a brand director for instance,
+give me the top three lagging indicator
+metrics
+that a brand director is measured on
+on what the industry average is of those
+metrics.
+and industry
+average attainment of those metrics. So
+that's the first place that I'd start to
+say I want to know how how they're
+measured or what they're measuring. So
+um top three uh br uh sales revenue
+customer satisfaction. No what is a
+brand what KPI is a main KPI
+is a brand director measured on.
+Sometimes you have to play with it a
+little bit if it's not getting you
+getting you getting you exactly what you
+want. So brand profitability is one that
+it's mentioning. core brand health
+metric, brand awareness,
+brand consideration, preherence,
+purchase intent. So let's say let's uh
+uh pick brand awareness for for instance
+how is brand awareness
+measured
+measured from a KPI
+perspective
+for uh for a brand director.
+um you know so I would look into all of
+these and I would also look into um
+uh uh here we go so like even for this
+of unaded so I want you to pay attention
+even though it's a relatively
+qualitative metric it there's a number
+that's measuring it of number of
+mentions that were unaded or unprompted
+meaning unpaid so how many times was it
+mentioned that's a quantitative metric
+that you can measure to measure the you
+brand awareness essentially of unaded
+and then aided. So I would assume that
+aided means we paid someone to mention
+it versus unaded we we didn't pay
+someone to mention it. So one of the
+things that I look at in the market is
+how many times did someone post a
+company post
+after an SKO like I I did an SKO a few
+weeks ago. How many times did someone
+from the audience post without obviously
+I never tell people to like post. I
+think that's, you know, gross top to
+bottom. Point being, um, but I it's a
+metric that I'm keeping in the back of
+my mind
+of did it happen, did it not happen.
+There were three people that posted from
+from the the audience. I'm like, there's
+a metric, you know, to me of how how
+well did I do from the the KPI
+perspective. So for instance, if let's
+take um un uh unprompted mentions
+uh unprompted mentions for a brand
+director. The second step that I would
+do is give me the top 20 leading or
+leaning indicator KPIs
+that cause
+an increase in unaded
+brand
+unaded or unprompted
+brand mentions
+for a brand director.
+the industry average
+of those those KPIs
+and at what point those KPIs
+cause a problem with a decrease in
+unprompted
+brand mentions
+for a brand director.
+That is the the the Oh, I forgot to put
+in a chart format. It's going to give it
+to me in a lose format.
+Um, no. Okay. Sorry. Give me a second.
+I'm doing this live. Okay. Give me an
+increase in un
+unaded
+brand mentions in the marketplace.
+uh that cause an increase or decrease
+in the amount of times
+someone mentions a brand
+in the marketplace
+for brand director.
+So let's start there.
+So there you go. P. So a lot of these
+you'll notice are um our uh leaning
+indicator.
+Give me give me 20 in total
+directly cause a increase
+in the amount
+of times a brand is mentioned in the
+marketplace.
+So let's see what it comes back with.
+Again, you have to play with it a little
+a little bit, but usually here we go.
+Paid media reach, share a voice and paid
+media, organic social reach, campaign
+reach, earn media impressions. So you're
+getting to see it volume of user
+generated content, you know, referral.
+So like for instance like volume. So
+this gave me 20. Now give me those same
+20 KPIs.
+the industry average of those KPIs
+and at what point
+point they cause a problem
+of decreasing
+the amount of um what do we call it
+unaded of un uh of
+times a brand was mentioned
+uh in the marketplace.
+Oh, I forgot to put in the chart format.
+So, it's going to spit it out long tail.
+Okay. So, basically, no, give me give me
+the same
+20 KPIs
+as above in a chart format.
+with the industry average
+averages of those KPIs.
+There we go.
+So,
+here you go. It's a benchmark often aim
+for the share of voice at or above
+market. No univers. So, you're getting
+the point here. It's given you all of
+all of these. I would add in
+add a column
+on the industry averages
+averages of those KPIs
+and add a column
+about what specific point
+those KPIs cause a problem with
+decreasing
+the amount of brand mentions in the
+market.
+There we go.
+Okay. So, when you once you you get into
+here of like organic social rink, meta,
+IG 5 to 15% per post is common. Tik Tok
+often 15 to 30% is lower. So, where it
+usually becomes a problem with brand
+mentions. So you're see you're getting
+to see and I would start to memorize
+this list if I were you of like it and
+it just gives you overall you have to
+keep in mind AI is not perfect of course
+like as in the last you know whatever
+five minutes 10 minutes that has been
+the the most difficulty it's usually
+usually given me but point being for
+like uh referral of like healthy
+consumer referral program so 5 to 30% of
+new customers driven by referrals is
+what's average and then uh if referral
+share drops. Anything less than 5% in
+categories of word mouth is this key,
+you likely uh be losing organic
+advocacy. So the question that I would
+ask them is what percentage of your
+market is referring you if you don't
+mind me asking. The reason that I ask is
+industry average is 50 50 to 30% of your
+uh customer base should be referring
+anything less than 5% and it's a sign
+that you're uh that it's affecting
+dramatically affecting your uh organic
+advocacy within the market. If you do me
+a favor, go back and check the
+percentage of referrals that you or uh
+customers that you have uh that are
+referring you. And if it's anything less
+than 10% if you give me a shot Thursday
+at two to explain how x y and z. So you
+get the math. But you you basically I
+would learn all of these
+you know of like uh product service
+usage customer effort score volume of
+like all of these social engagement rate
+of like 1 to 5% on Instagram Tik Tok is
+3 to 10% and um uh yeah if if engagement
+is consistently bottom cile for your
+category so 1% let's say on Instagram
+while peers are 3 to 4% posts don't
+travel comments tax decline having yeah
+fewer conversations. So the thing that I
+would ask them is what is your average
+engagement rate on uh on Instagram if
+you don't mind me asking. The reason
+that I ask is well here's a good example
+a great example of how you could do
+personalized problem research. So in
+this example you can find this out from
+a public perspective. You don't have to
+ask that internally. You don't have to
+ask what's your engagement rate on
+Instagram. You could just go cohort and
+look up people who have a less than have
+a 1 to 2% engagement rate across their
+followers for Instagram because that
+gives you a perfect uh cohort of people
+who are likely running into the problem
+that you have that you know likely don't
+know about it. So I would study these
+metrics and learn these metrics again.
+Are they perfect? No. But like I would
+double down meaning I would take this
+chart as standard and then I would
+stress test it with you know people that
+you know that are a brand director. Hey
+and the four questions I usually ask
+them are out of all of these metrics
+which one's the one that you would
+protect over all of them you know and
+then the second question is can you rank
+them? The third is uh is it missing any?
+And the fourth is should I add any? But
+I would use this as like the the
+beginning of the holy book, you know, of
+things that I need to to memorize of
+like look at this non-branded to branded
+search conversion. So that's not not one
+that I would even think about, you know,
+of like what's your what's your
+percentage of branded to non-branded
+search conversion if you don't mind me
+asking. Like here's an example of one
+that you couldn't see from the outside.
+You'd have to ask them that. You'd say
+the reason for my uh the the reason that
+I ask is um you know anything uh uh
+benchmarks I need to comment target okay
+bounce rate anything under uh over uh
+67% so time on page one to three uh
+minutes for long form so a question you
+can ask them is what is your bounce rate
+if you don't mind me asking the reason
+uh for uh what is your bounce rate and
+what is your um uh you know what is your
+non-branded branded search conversion
+the reason I ask is typically industry
+average for the time that's on page is 1
+to 3 minutes and uh and the the stats
+will show that anything under
+uh I want to find the yeah if content is
+anything under 25 to 30% uh you'll s
+start to see an increase so I the
+sentence that I'm saying is what is your
+um what is your
+uh again I'm sorry I'm having to compare
+these two charts because it didn't put
+in a clean clean spot uh content
+marketing and and uh contingent reach
+and engagement. I'd say what is your
+content marketing reach and engagement?
+The reason I ask is industry average is
+60 to 70% but anything above a 25 to 30%
+churn within uh within over three
+minutes and you're seeing a 40% increase
+or 40% decrease in the amount of unaded
+brand mentions. If you do me a favor, if
+you go back and check the amount of
+times it the the uh uh churn within the
+time frame and it's anything over 25%
+within under three minutes if you give
+me a shop Thursday 22 you know go into
+and yada yada yada you get the rest. So
+the point is I would find these metrics
+for your buyer. No matter who the buyer
+is, doesn't matter if it's brand
+director, if it's customer success
+director, if it's a CIO, CIO, CISO,
+you know, HR leader, whoever they are,
+they have metrics. So I would just find
+out what is the main one that they are
+measured, hired and fired to drive.
+Here's a great example. I don't know
+based on this chart which one of those
+was the most important. So, I would take
+that as information, but if it were me,
+I would approach whoever is in that
+category and ask them, you know, like,
+is this correct? Is this true to form
+for your buyer? So, I hope that was
+helpful. We are way over on time. Way
+over on time. I will see youall
+tomorrow. I hope that was helpful,
+Abdullah. Sorry for the the long rant
+there. So we I will see you all tomorrow
+where we are going to get into uh we're
+going to go back to sales and we're
+going to go to sales leadership what to
+coach AEES on and how to forex
+conversion. I hope everyone has a great
+rest of your day. I'm going to speed
+skating tonight row number one which is
+what I'm going to be LATE FOR. ABDULLAH
+IT'S ON you what I'm going to be late
+for. So I will see youall tomorrow for
+the sales leadership what we're going to
+coach on and hope you have a great rest
+of your day. Ciao.

@@ -1,0 +1,78 @@
+Metadata:
+{
+  "expert": "Thibaut Souyris",
+  "channel_name": "SalesLabs",
+  "video_id": "ywsIfW3qrFQ",
+  "title": "How to find 10 new prospects to contact every day",
+  "video_url": "https://www.youtube.com/watch?v=ywsIfW3qrFQ",
+  "run_id": "tbMZfBVeHoZx1R57O",
+  "dataset_id": "bMal3iKMC5VMFyCb1"
+}
+
+Transcript:
+Hi there, it's Tibo. In this quick
+video, I'm going to show you how I find
+five to 10 new prospects every day
+thanks to scrap.io.
+So, with scrap.io, it's really
+interesting because I have many
+different ways of finding emails and
+LinkedIn profiles. So, for example, if I
+go into my email finder or search, let's
+go on the search. I can ask an AI to
+find the right filters here. So I can
+say find
+find me some head of sales based in New
+York City.
+So what's going to do is going to simply
+put the right filters over here and then
+I'm able to see the right people here.
+So for example, I've got Steve and you
+know Mark that are interesting. I'll go
+to get selected emails in my list head
+of sales and then they got here. So I
+can go here. I can see mark has been
+there. This one I need to check again.
+It's invalid. But basically the catch
+all uh means that the email is receiving
+the email database is receiving some
+emails. So that's an interesting thing.
+And what's really good is that I can
+select the people here. So I can be like
+Ron Nick
+and these people and see and sync them
+with my CRM. So there's Salesforce and
+HubSpot integration. So that's something
+that's pretty simple to do. Another way
+of finding prospects is to go on sales
+navigator or LinkedIn. Here I've done a
+quick research where I wanted to find
+some influencer marketing manager in the
+city or in New York City. So, for
+example, I'll take Justin and uh Beum
+and then I'll go over here, click on
+scrap. It's going to select what we have
+over here. So, Justin and
+now I'm going to put them into the brand
+marketing manager enrich emails have
+been found and then I go back to the
+list here and I can see they are here
+again here. What I can do is select
+everyone, push everyone into the CRM and
+so it's a relatively simple way of
+finding email addresses and LinkedIn
+profiles um either using sales navigator
+in one end or using um scrap.io directly
+in there and that's a really good way of
+doing this. So you can look at the
+integration we have here hubspot
+outreach by drive sales for zo that are
+the basic integration. You can obviously
+document and do some integrations with
+some other CRM by using the API key, but
+that's a really simple way to find
+emails. So, it verifies for you. It
+makes sure that um emails won't bounce.
+So, if you're looking for an alternative
+data set, that's a pretty cool thing to
+check.

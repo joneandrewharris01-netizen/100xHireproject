@@ -1,0 +1,730 @@
+Metadata:
+{
+  "expert": "Thibaut Souyris",
+  "channel_name": "SalesLabs",
+  "video_id": "_hMaCMbfFqA",
+  "title": "5 human mistakes salespeople keep making (and what to do about them)",
+  "video_url": "https://www.youtube.com/watch?v=_hMaCMbfFqA",
+  "run_id": "tbMZfBVeHoZx1R57O",
+  "dataset_id": "bMal3iKMC5VMFyCb1"
+}
+
+Transcript:
+Hi everyone and welcome to this round
+table we have. So I have a pretty cool
+Bchett. We say brochett in French like
+when you have a lot of really cool
+people together. So we have Yan Mundov
+uh Dominic Lingberg and Alan Rushstein.
+Welcome guys on the I don't know if it's
+not a podcast but welcome on the round
+table.
+>> Thanks a lot.
+>> So today we're going to talk about um
+five human mistakes sales people do
+during sales calls. And this is a round
+table that is sponsored by Win AI. So
+that's thank you WinI for this great
+sponsoring. Um and I have like really
+five problems I see typically with that.
+The first one being not coming prepared
+to a sales call or not having the time
+to do so. So can you guys maybe we'll
+start with you Dom. Uh tell me about a
+time where you either one of your
+coaches or you kind of didn't come to a
+sales call and what happened basically.
+So honestly I think I did this mistake
+many times by myself like especially in
+the beginning of my career. Um it was
+just about mass of demos and just you
+were just going through all the demos.
+But I think nowadays it's super
+important to be honest. Um and for me
+there's actually no excuse why you
+shouldn't be prepared in a call
+especially with AI uh out there. It's
+super easy to get all the information
+and that was different like 10 15 years
+ago when I started. So I think uh being
+prepared is like mandatory right now. Uh
+especially when all the teams that I'm
+talking to telling me, okay, we have
+very few pipeline. So I think then it's
+even more uh important to be prepared in
+your calls.
+>> Yan, what about you? Uh think about that
+discovery calls something you didn't
+have time. I think you have a story you
+shared on LinkedIn about that.
+Yeah, I think my my first ever discovery
+or first ever meeting with a CFO ended
+like after six or seven minutes
+because I was totally unprepared.
+>> Yeah.
+>> You know, I asked those basic questions.
+I was junior. I wasn't really sitting in
+a in a nice room and whatever. And then
+the CEO just said, "Hey, listen. This is
+not going to lead anywhere. Ciao." And
+this uh really uh hit me, you know,
+because I of course had prepared a lot.
+I've I showed my time uh before it and
+prepped it, but I couldn't show it
+because I was so so insecure.
+And I think what what helps me and what
+helps me over time is sort of knowing
+your stuff and also it's one point to be
+prepared. It's another thing to to show
+it, but also have a point of view,
+right? So what a point of view is a sort
+of your perspective on the things that
+you hear that you reflect it and also
+give something back and maybe add
+something that another customer maybe
+experienced and this comes over time and
+what helps you there is to yeah for
+example use AI to to prepare and ask
+those questions like hey listen from
+their perspective what is maybe the most
+important thing that they would like to
+get out to uh out of this call. So I
+think knowing your stuff is really
+important but also having the the
+courage to add a perspective on it um
+based on the things that you have
+researched but also have heard from
+them. And I think the second point is
+really important to to let them speak
+out let them really listen. Um so yeah
+this would be my my stuff that mistakes
+that I see right because a lot of uh
+junior reps they come in they have
+prepared and then they're just shaking.
+>> Yeah. Yeah.
+>> And they get asked a question and they
+they know everything but they just can't
+say it at that moment. And also role
+playing is a point there, you know, get
+into the conversation before. What I do
+when I have a pricing conversation, I
+always say the price six times before
+out loud so that I'm not shaking in my
+voice when I say the numbers and I don't
+say for example also
+uh um the currency behind it. So I just
+say 16024.5.
+So that doesn't sound so expensive. So
+these small things really make a big
+difference when you are in those
+situations.
+>> You could uh price in Mexican pesos, you
+know, it's like really cheap like that.
+And actually talking about you know like
+there's a a win AI feature for that
+which is basically the the magic prep.
+So So you have like uh no which is
+basically the AI meeting prep. Um it's
+something where you're really able to
+all these things you talk about you know
+the specifically about customer they're
+able to get some data and do the prep
+for you without you having to do
+anything. So for me I know that one day
+I was uh interviewing or doing disco
+with the CTO of e-commerce company and I
+wasn't prepared at all. I don't like to
+prepare and everything and we he you
+know I started asking him questions say
+no I'm not here to answer questions say
+yeah if you're not here to answer
+questions it's not going to work. So we
+closed the call after 30 seconds. But
+yeah, that's something I I you know I
+was young and and stupid. So that's
+that's it. But basically there's a a
+problem number two and this one I learn
+for you. Um it's not sticking to a
+methodology. So we know medicic band
+proactive selling whatever all these
+things are great methodologies. Um but
+very often says people just like wing
+it. I'm I'm guilty of it. So is it
+something that you've seen a lot? How do
+you deal with that? That's a great
+question and I think that at some point
+it's something that we were uh talking
+with Dom earlier. Um it's not about just
+the methodology. I think that frameworks
+and system are amazing. Uh because as a
+seller or whoever is jumping into the
+call you need to understand what are the
+things that you need to discover to peel
+the onion as we say to dig deeper to
+understand if there is a a pain a
+challenge in there. Uh the problem is
+when you don't have any training
+whatsoever and when someone tells you
+hey we are using the band methodology.
+The problem is that you jump in as a
+seller either a junior, either a senior
+and the first thing that you say it's
+all banned. So budget, authority, need
+and timing. So tell me about your
+budget. Are you the one with the final
+decision? Uh it's something that you
+have that you need right now and that's
+it. Those are the three four questions
+that I have to ask. No, that's the wrong
+thing to do. The execution is everything
+and this is a huge problem that I see
+across every business and every company
+that it's I have no idea what I have to
+ask and even on top of not coming
+prepared I know that I have a framework
+that is three questions that is like an
+interview session that I have to ask and
+with that then I go to my manager and
+they say oh they didn't know the
+information but I did my job no that's
+exactly the opposite we are the
+consultants we are the ones that needs
+to dig deeper and act like one uh so I
+see that this is a major problem in the
+industry for sure.
+>> Dominic, um curious to know like if we
+think for example about the the medic
+med medic whatever you know it's just
+like there's so many acronyms change so
+with your the people you coach typically
+how do you you know get them to track
+something uh you know follow the
+methology without sounding like robots.
+>> Yeah, I think it's a very good good
+question and it also relates a bit to
+what Alan said already. I I did actually
+a LinkedIn post this week and where I
+said okay bunt is that as a framework
+and was like huge discussion in the
+comment section because people said no
+it's you know it's worth it to use it
+and whatever. So I think um it doesn't
+matter which kind of framework you're
+using. It's more about how you handle it
+and looking to medic for example I would
+say it's more relevant for enterprise
+deals for example when it's getting more
+complex and just because someone talks
+about medic on LinkedIn doesn't mean
+that you should use it like when you're
+selling to SMB customers for example
+then it's might be better to use a
+different framework. So I think um what
+I'm seeing with my coaches and the
+companies I'm working with is that most
+people don't know when to apply which
+kind of framework and if they apply one
+it's more like they're trying to use it
+as a religion and just as as you
+mentioned use the the framework as a uh
+more like a questionnaire with the
+customer and I think that's not what
+it's supposed to be right so it's more
+like a guideline and help you where you
+should focus on and like what kind of
+answers should I at but the questions
+should be way different. So it's more
+about o like conversation openness and
+that's what I'm trying to also to coach
+people is more like use this framework
+but also think about questions how you
+get the answers that you want to have
+without just doing a check mark on your
+list okay I asked about the budget now I
+have my check mark right so that's not
+lead you anywhere
+>> yeah and so there's you know for win we
+have a specific feature which is a
+playbook tracker so that allows you to
+when you're in the call have an idea of
+how your what the questions you're
+asking are you asking them correctly so
+you don't need to go and have your
+checklist and be like may dick whatever
+or band budget authority need timeline
+it kind of reminds you hey don't forget
+to ask these questions in real time so
+that's something interesting to try um
+problem three not qualifying enough so
+I'm going to ask you about this um is it
+something you see a lot or personally I
+I I've been selling for a while and
+sometimes I just I'm not ready so I just
+ask really weird questions is not
+qualified. I waste hours with the
+people. So, how do you avoid that?
+>> I think you just have to fail enough
+times to realize by yourself. And for
+me, I actually was um I had a pavilion
+class
+uh was which was specifically on medic
+and there every seller from around the
+world. We were I think 200 people in
+that call. Uh I was super junior and
+there were some really like experienced
+you know American enterprise sellers.
+And then uh I was brave enough to raise
+my hand and I prepared my deal and they
+were taking it apart man like they were
+nearly annoyed with me because it was no
+deal whatsoever. I didn't know any
+metrics. I didn't know the decision
+process. I had no idea who the decision
+maker was. And this was so eyeopening to
+me the depth you need to understand what
+a deal actually is because what I see is
+that most deals are no deals. They're
+just things in HubSpot which we call
+deals. But in a good month, um I'm
+working on maybe three to four deals.
+The rest is just like crap that I need
+to take out of my pipe. So, um if you
+look at my pipe three years ago, it
+would be massive and I would look super
+nice pipeline uh built. If you look at
+my pipeline now, um it's super slim.
+It's very clear and uh very focused. So
+[snorts]
+being able to to cut out the noise is
+one of the most important things you can
+do and you need to learn as a seller
+because in the end you need to spend the
+right time of the opportunities and
+Dominic was also a manager of a
+colleague. He would he's the laziest AE
+I've ever met, but he's also the most
+successful because he just focus on the
+right opportunities. And uh this is what
+you what in the end selling is all
+about.
+>> Can you confirm that you're the laziest
+person on earth?
+>> I I'm not, but I am a lazy guy. That's
+that's for sure.
+>> Yeah, I think sales guys in general are
+lazy. [laughter]
+But I can uh like also uh maybe to to
+add on that. I think um the what I've
+seen with many sales people as well is
+just like they're qualifying the deals
+and it's just gut feeling right so it's
+just like I remember one guy was always
+saying this deal 100% it's going to
+close and then in the last day of the
+month like what about this deal ah you
+know I couldn't reach this guy and it's
+like as we implemented medic back then
+it wasn't about gut feeling anymore so I
+think that's why you should use kind of
+a framework to actually you know
+challenge also your sales reps and and
+tell them. Okay, look, you you haven't
+uh you don't have a decision maker. You
+don't have the process uh outlined. So
+that's why it's not going to close and
+not Yeah. You know, my champion said
+this deal is going to come. So I think
+that's that's why frameworks are
+actually super important.
+>> Yeah. And it reminds you of a story. Uh
+there's one of my good friends who's
+helping us right now. Um and basically
+we were working together at a tech
+company in the US and we had the worst
+quarter of the you know like worst team
+worst quarter worst everything and uh we
+had a guy a rep I won't I won't put his
+name but he arrived and uh the VP came
+from San Francisco to Berlin so just to
+kind of kick our asses and uh and then
+you know he started doing a forecasting
+just to kind of clean up the pipeline
+and this guy was like oh yeah I got this
+1 million euro deal and we're the deal
+size was like 12K on average. And so he
+was like 1 million with this huge telco
+company. We're so confident it's going
+to close and whatever. And so that was
+the example where just pure gut feeling
+and uh and and his deal was
+And so that's the issue with a lot of
+pipelines is that they are just not like
+you know they are I like to say it's not
+a pipeline, it's a pipe dream that you
+have. And so I think that's that's a
+very common thing.
+talking about wind there's like you know
+the whole kind of real time guidance is
+something that's really interesting
+specifically because um you don't have
+to go and uh think about the
+qualification what you need to do it
+kind of really suggest you in real time
+hey you need to dig deeper on this point
+you know you ask something but ask a
+bunch of other questions so that's
+something really important there and
+there's Alan that's going to be because
+you didn't talk a lot yet
+>> involving me here
+>> about uh trying too hard to script to
+stick to the script. That's another one
+where you know one is like you don't
+stick to the script. The other one is
+that you're obsessed with it and you
+just can't get your mind out of I need
+to answer this question. So how do you
+how do you prevent that?
+>> Um I'm thinking that I have a lot of
+things that I would like to say with the
+previous questions but I stick to the
+script right now. Um that's a really big
+one because that will bring you a lot of
+other problems. Either you stick too
+much or if you don't, you will have an
+active listening problem and that will
+impact directly in any framework any
+qualification process that you go
+through in any objection that you're
+trying to handle because if you are
+sticking too much to the script then
+you're not thinking on what they are
+answering to you. you just want to go
+into the next step into moving into okay
+then I need to understand what is the
+current process what are the situation
+that they're going through what what
+this situation it's causing as a problem
+impact measurement decision process
+buying internal process etc um and this
+happens more often than not right so
+trying to stick to the process as much
+or to the script as much as I can as Jan
+was saying before it's about failing
+experience will give you the sweet
+balance between how much should I use my
+script in order to guide me and how much
+should I just be a seller, be a
+consultant in order to make sure that
+hey, you know what, I need to be a
+little bit of a chameleon at some point
+because with this company or the other
+company, maybe I'm selling the same
+solution, but it will be a total
+different deal, right? Total different
+needs, total different priorities,
+different things happening internally.
+So we need to make sure that everything
+makes sense when we are having
+conversation and that's why as
+consequence this will be build trust
+we'll build a real pipeline and not a
+pipe dream. Um so the way to to avoid
+this answering to your question man is
+fail a lot fail fast but don't think
+that there is one unique only way to do
+it because if you see a colleague of you
+killing it just following the script
+that doesn't mean that you are able to
+do it in that way. Maybe you can put
+your own approach into it. Just make
+sure that that script helps you peel the
+real onion as you were saying
+discovering or digging deeper into the
+discovery. Uh you need to get deeper
+into that and that's why the script is
+there to help you.
+>> Yeah. Um Yan for you a quick question of
+that. So you told me you got tore apart
+by some bunch of VPs at Pavilion
+whatever. So then you learned how to put
+like a medic in place. How in the first
+few times you were doing that, how did
+you manage to not go and be obsessed
+with the script?
+>> In the beginning, I was uh because what
+you search as a new sales rep is uh
+security and safety. And so your script
+becomes your safety net,
+but it also prevents you from from
+actually listening to the person next to
+you because you are so locked in, right?
+And the different things you learn,
+especially in the onboarding, right? you
+there's a lot of knowledge that gets
+thrown into your head but the most
+important thing is to have a
+conversation and to ask questions that
+are real questions and curious questions
+and I think most onboardings are not
+based around that they are more around
+product knowledge and everything this
+you can all learn and this you can all
+understand later but what's what's
+interesting or decisive is to find a
+pain right so actually the the analogy I
+give every SDI I work with every new mae
+is like forget about all you know you
+just need to find out where the hole is
+in the tooth that's what you need to
+find and then you need to find is it the
+pain that you can solve or not so and
+that that you do by actually asking and
+being curious just being curious and
+then I think that those frameworks help
+um afterwards but the other way around
+having this checklist doesn't bring you
+anything because you don't understand it
+like you sit in a conversation and you
+ask a And then you're like, I asked a
+question, but I don't really understood
+what he means by it. And that happens
+when you when you're so blind in your
+script. And that's happens to I think at
+least 60 to 70% of all new sellers. Um
+especially if you're new. So um what you
+can do if you're on SDR right now, I
+would um go and listen to the calls and
+you what you will see the most
+successful AES probably
+are having more conversation. Then that
+is what I would do. I would go through
+the the winnings channel. I would look
+at the the recordings there and see how
+how they do they actually talk and what
+you would see it's a conversation and
+not this the script. This is what you
+will see from more junior sellers. So if
+I would go back in time I would always
+start as an SDR and then move my way up
+internally to become an AE because then
+it becomes naturally from the phone into
+the conversation. That's why we see SDRs
+ramping way faster than as an AE in
+comparison to newly hired AES in my
+opinion. Got it. Thank you again. And
+talking about, you know, like how again
+you can make sure you don't don't uh
+stick too much to the script. I think
+it's really a great feature at Winaii is
+to be able to have this again real-time
+guidance. So even if you're in the style
+of hey, I just don't want to prepare at
+all. It's going to help you make sure
+you ask the right questions. But if
+you're like, "Hey, I don't want to miss
+any questions." You can go in the same
+mindset and it's going to make sure, you
+know, like that, you know, it's going to
+you can go and have a conversation and
+make sure you're not missing anything.
+So, I think that's what's a great use
+case for AI is that instead of having a
+checklist and having to look at it,
+someone's looking, it's like an
+assistant is looking at it and sending
+you some questions to ask. So, I think
+that's another good point uh to do. And
+the last problem I think we see all the
+time is uh not debriefing. Again, I
+think Dom, I'm lazier than you because
+sending a debrief email is the last
+thing I like to do. So, that's one
+mistake I do all the time is just to not
+uh debrief and take the time to stay on
+top of my deal. So, how do you do that?
+How do you manage that?
+>> I'm actually using AI for that because
+I'm lazy. No, I think like uh that's for
+me actually it's one of the most like
+the best things that actually came with
+AI is these kind of meeting
+transcription tools that actually writes
+the follow-up email for you. So you
+don't have to waste any time with like
+okay what did I actually say? Like I
+remember like my first few years at
+setup I had a book in the pen. And I was
+writing down everything and then my
+manager looked at me and said like hey
+you need to put everything into the CRM.
+So why you not typing while like talking
+to the customer I said like look I
+cannot listen and type on the computer
+but then you know I've tried to train
+myself to do that. So then I was typing
+but now you can and that's I think
+that's a beautiful thing with I like you
+can really focus on listening to the
+customers without typing without making
+notes and then you get like a a
+perfectly written email that you can
+just simply send out with one click or
+maybe you just have to adjust one two
+things. So I think that's a really great
+thing about AI that saves time and also
+feeding the data into the CRM in the
+end. Right. So I think this is for me
+one of the best things that that came uh
+so I can focus on on being more lazy
+again.
+>> Yeah, laziness as a goal. Alan, what
+about you? I know you use AI a lot. Uh
+how do you do it for just staying on top
+of your deals?
+>> Um I think that there is a one extra
+mile that we can go here. I completely
+agree with everything that the guys are
+saying here. uh but the extra mile even
+when you are in the call I think that
+the debrief should be there should be
+done there
+>> either uh as a check-in in the middle of
+the call threequarters of the call and
+then at the end of the call like a kind
+of a recap doing a either a mirroring or
+a matching technique where you're
+basically saying in their words what are
+the things that you discover throughout
+the full discovery call if you're in a
+discovery call uh with measurement
+impacts numbers uh ultimate goals
+northstar and what are the things that
+are as a roadblock in the in in the
+process that we need to go through. uh
+and that's the only way that they feel
+listened and that you have a commitment
+at least a verbal one saying yes that's
+what happening to me because if not what
+most likely happen is that you go back
+to the CRM you have your notes from the
+noteaker and then you just have
+everything done but then you send an
+email with a next step hey we will have
+a call whatever the date is but you are
+not sure if whatever you defined or
+whatever you discovered is exactly what
+they think is the most important thing
+on top of that the debriefing as you're
+saying it's really really important and
+most likely when you get into those five
+last minute of the calls you are rushing
+to share the last demo feature or
+whatever and you are not taking the time
+to do it what you have to do and the
+problem is that when you have more than
+one people involved in that conversation
+you have individual levels needs
+>> and collective needs right and everyone
+is trying to solve their own needs if
+you have a BP a user a champion a mid
+man middle management so it's super
+important that you are able to discover
+all the KPIs that are being impacted in
+this process and to debrief them
+collectively in the call. So then when
+you jump into the email or whatever the
+followup or even uh debriefing that
+internally in your CRM, you're able to
+match the individual ones, the
+collective ones and they are aligned in
+the same page as you are. So that's what
+I would say.
+>> Got it. And so in terms of a a last AI
+feature I want to talk about for win is
+really the AI meeting summary which is
+something you know you talked about
+where instead of you know you just go
+you show up you know the AI tells you
+about what are the questions you need to
+ask things you need to make sure you dig
+deeper but then it gives you a whole
+summary of call to actions and
+everything. So I think that's one of the
+super powerful stuff. And to really
+finish and wrap up on this thing, I
+would love to know guys for each one of
+you, what's one sales mistake or mistake
+you keep making in sales calls? So if we
+start with you, what's one you just
+can't get your head around so the team
+at win can actually build something to
+help you?
+>> I think that's a mistake a lot of sales
+people are doing and it's just like
+talking too much. I think it's I we all
+know that rule, right? you should talk
+less than your customers. But I think
+>> people working in sales love to talk.
+That's also a fact. And I think like
+forcing yourself to not talk is um is
+really important and it's like one
+mistake I'm still doing after more than
+10 years.
+>> Yan, what about you?
+>> Uh I have too many filler words in my
+sentences. I need to cut that out.
+>> That's awesome.
+>> Alan,
+>> um the talking too much is a real one.
+Um, but I think that I'm sorry about the
+word. I was about to say some f word.
+Um, obsessed with discovery. Um, I'm
+really obsessed with that. And
+sometimes, most of the times, I think
+that it's uh over exaggerated at some
+point. Um when I go out of the calls, I
+know that I have or I could have asked
+two, three, four, 10 more questions to
+dig deeper to peel the onion a little
+bit more to make them feel that they
+need me uh that they are having a
+problem that the cost of inaction is
+insanely high uh that the cost of
+opportunity is high that the ROI that
+they will get it's amazing and without
+asking questions there's a stat that
+bugs me up that it's 80% of the deals if
+not more are lost within the disco
+discovery goals and the problem is that
+when you ask What's a discovery call
+means? Most likely every seller will
+tell you the first call, you have the
+you book the call, that's the discovery,
+then the demo, then the closing.
+>> That's a big problem. Discovery call is
+everything throughout the sales process.
+So, um I'm obsessed with that. And the
+big biggest mistake that I always commit
+is I should have asked that other
+question or the other one. After the
+call, I realize that and yeah, that's a
+problem.
+>> And for me, for me, it's really like I
+don't have a really good process for
+next steps. I do. And when things go
+well, I set good next steps. Sometimes I
+just wing it and and so I don't have a
+clear plan before the call to actually
+have a good next step. So these are like
+the for me that's the biggest thing. So
+[snorts] thank you guys for joining this
+round table. Again, if you want to go
+and check Winai, just go and check the
+link uh below. You're going to have a
+free trial. And uh guys, thank you so
+much for coming there.
+>> Thanks for having us.
+>> And uh let's party now.
+>> Let's go party. Yay. [applause]
+>> Thank you guys. Amazing.

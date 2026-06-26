@@ -1,0 +1,1177 @@
+Metadata:
+{
+  "expert": "Becc Holland",
+  "channel_name": "Flip the Script",
+  "video_id": "jzyS1KJKUbo",
+  "title": "How to Turn Cold Emails into High-Impact Conversations | The Emblazers Show ft. Becc Holland",
+  "video_url": "https://www.youtube.com/watch?v=jzyS1KJKUbo",
+  "run_id": "tbMZfBVeHoZx1R57O",
+  "dataset_id": "bMal3iKMC5VMFyCb1"
+}
+
+Transcript:
+An object in motion stays in motion, an
+object at rest stays at rest. If they're
+at rest before the cold email, they're
+going to stay at rest even if they give
+you the details of that pain that they
+currently know. They're going to stay at
+rest unless you find something new. So,
+you have to find something new that they
+didn't know about within your cold
+outreach whenever you're sending it to
+them.
+>> Welcome to the Emblazer show, where B2B
+leaders are igniting revenue. I'm your
+host, Abby Corr. And on today's episode,
+my colleague, Tim Riesterer, sits down
+with CEO of Flip the Script, Beck
+Holland, to unpack why the old
+prospecting playbook is failing and what
+today's sellers must do instead. From
+creating demand to writing outreach that
+actually earns attention, this
+conversation is full of sharp, practical
+ways to build pipeline more effectively.
+But first, let's talk a little bit about
+Beck Holland. Beck is CEO of Flip the
+Script, a sales media company, and she
+calls herself a victim of the craft and
+a practitioner to the core. She is on
+the relentless drive to pivot the sales
+world into seeing things from their
+buyers' point of view. Beck describes
+herself as an opinionated girl from
+Texas who lives in Paris, loves data,
+Bill James, Oscar de la Renta, and
+Charles Dickens, and as someone who just
+wants to make the sales world a better
+place to be in. Let's go to the episode
+right now.
+>> Beck, it's so great to have you here. So
+great to see you again. I know you're in
+France, but I feel like you're right
+here. I get asked these questions all
+the time. We work with a couple hundred
+clients every year, and one of the hot
+topics is prospecting, and not just
+prospecting BDR SDR, but full funnel
+people have to do their own prospecting,
+and they're like, "Our top of the
+funnels are are not filling. Our new
+logo pipeline creation is lagging." And
+I'm like, "If we're going to do a
+podcast on that, I can't do it alone. I
+got to bring Beck Holland to the table."
+>> To fill with the empty air. To me.
+[laughter]
+>> Fill the air.
+>> And you know what? I mean I mean this
+just just totally generously, you can
+fill a lot of air. So
+>> I can. I got a lot of air.
+>> [laughter]
+>> So let's let's talk about this for a
+second because I don't think prospecting
+today when people are saying oh they're
+lamenting the prospecting pain, the
+solutions aren't the same as they've
+always been. Stuff's moving so fast in
+this space. So I you've been around it a
+little bit. So tell me what
+was formerly known as prospecting and
+what today is known as prospecting.
+>> Yeah, well I think it's a a great topic
+and BTW thanks for for having me. I'm
+I'm glad to to to fill the air with you.
+We you anytime. But as far as
+prospecting how it's changed, I think I
+mean we could talk about a lot of
+tactics and obviously the introduction
+of AI and da da da and how the
+landscape's changed and how much tech
+has changed. I think the main thing
+that's changed that's changed the
+reality for so many people is the
+results have changed from what was what
+we used to be doing with the results
+were to what they are today for what we
+used to be doing. So what used to be
+done in the past was I'm going to load
+up a you know a thousand contacts. I'm
+going to put them into a sequence. I'm
+going to write to the best of my ability
+of you know a certain cadence or
+sequence of actions depending on my
+sales engagement provider and I'm just
+going to hit blast with a certain
+cursory amount of customization of like
+first name and maybe the introduction of
+the company name or their role and that
+was working. You know, this is back in
+2000 and I would say 15, 16 era was
+really when sales engagement was coming
+on the spot and so it was working being
+defined as before people had really
+branched out their TAM and before the
+introduction of email deliverability and
+people getting less and less emails. I
+mean people were booking 35, 40 outbound
+appointments a month depending on the
+maturity of the market that they were
+selling into. So we slowly saw that
+dissipate, dissipate, dissipate not only
+within an organization as they'd been
+prospecting over time, but over the
+market at all,
+hooks that were used to work weren't
+working anymore. And so, we've seen kind
+of this slow paddle out to where I would
+say the average, I mean, it's been
+dependent over time, but if you are
+still using that kind of approach
+regardless of the quality of the
+writing, but sending over, you know, 50
+emails a day to different people within
+your {quote} TAM without any
+personalization, without finding
+something that they don't know. I mean,
+people are booking I would say on the
+upper hand of one to two appointments on
+outbound two outbound per month per rep,
+which the math just isn't there anymore.
+So, that's kind of the old state of
+things and how they're panning out today
+if people are using old tactics.
+>> So, the math isn't the same to how we're
+holding people accountable, the
+activities and the volumes we're
+measuring all have to change. So, what
+does that look like today? Like as as if
+I lead a team or I have expectations of
+my full funnel sellers to do meaningful
+prospecting, what should I be expecting?
+What should I be inspecting?
+>> Yeah, well, I I have That's a great
+question. I think the main thing that
+has to change, I'm not going to say that
+it has changed, but the thing that has
+to change for people to be successful is
+we are dependent upon in the older world
+of there's a certain a portion of my
+market that's already in market of like
+a pain has turned into a problem,
+meaning pain's just a negative
+experience. It could be scale one to 10
+to one, could be a nine, could be a two,
+could be an eight, could be unbearable,
+etc.
+You know, and a problem something you're
+going to do something about. You're
+going to solve or solve for. So, not all
+pains are problems. Something that's
+annoying is doesn't mean that you're
+going to solve for it. It's dependent
+upon priority. So, in the former world,
+we are just banking on the idea that we
+were going to run into this slim slim
+slim, and I mean razor sharp slim
+portion of the market that was about to
+do something about something, but just
+hadn't quite yet. And the numbers slowly
+showed that then but especially showed
+that now. So, I mean, the average open
+rate is 15 to 25%
+and the average reply rate overall is
+0.5 to 0.7% not like positive reply rate
+like they're going to take a meeting
+meaning unsubscribe is included in that
+not 50% half a percent. And so, our
+numbers just show it. So, I think the
+thing that has to change is we have to
+instead of attract pre-existing demand
+we have to create new demand with our
+emails. And people will say like, "Well,
+that can't be done. What are you going
+to do create the urgency with discounts
+or you going to create it with that?"
+And I'm like, "No, you don't create
+demand by issuing out a discount."
+Actually, statistically speaking, that
+will decrease the odds that you're going
+to close. You have to create new demand
+by creating a new problem not by
+creating a problem that doesn't exist
+but by finding a problem for the person
+that they didn't know about. So, if they
+think the problem you know, the the pain
+that they have is size state of Texas
+but actually the size of the problem is
+size of the United States. They're only
+going to spend money and prioritize
+based on the size of state of Texas cuz
+that's what they know. But what they
+don't know is all of these other states
+that exist that are going to turn into a
+goblin very quickly if they don't do
+something about. So, cold calls, emails,
+you know, marketing materials, etc. but
+especially cold outreach if it's done
+well and this is the you know, 0.02% of
+the time that I'm going to say that cold
+outreach does actually do this. It
+should be asking a question to qualify
+someone that they have a problem that
+they previously speaking didn't know
+about. Then you create new demand on the
+spot. So, you create more urgency and
+bud- budget and like need or desire to
+solve for it because based on what they
+knew beforehand they weren't willing to
+do anything about it. But based on what
+they know now after that cold email they
+are willing to do something about it.
+So, I'll kind of end this rant with
+this. An object in motion stays in
+motion. An object at rest stays at rest.
+If they're at rest before the cold cold
+email, they're going to stay at rest
+even if they give you the details of
+that pain that they currently know.
+They're going to stay at rest unless you
+find something new. So, cold outreach
+should not be cursed by we work with
+people who struggle with blank because
+if they struggle with blank and they can
+identify with that group, it means that
+whatever they're struggling
+quote-unquote struggling with is not bad
+enough based on what they know. So, you
+have to find something new that they
+didn't know about within your cold
+outreach whenever you're sending it to
+them.
+>> Yeah, that's so rich because so many
+companies want to do like voice of the
+customer or look at keywords and things
+like that and say if we can just align
+to the problems they know they have and
+the problems they seem to be searching
+on, then we will we'll catch them.
+What I hear you saying is that that it
+was razor thin and now it's even thinner
+and we're never going to hit the kinds
+of targets and numbers we're looking for
+just waiting to catch that demand. We
+have to create demand and creating
+demand is a bigger lift than most people
+think. Like the object that's not in
+motion is also subject to status quo
+bias and all those things that are just
+holding them back and I always say it's
+a much
+bigger dig to get somebody off of status
+quo and in motion than people estimate
+and yet they write such vanilla stuff.
+They offer such vanilla conclusions that
+there's just
+>> no way that's going to work. There's no
+way you're going to get an object off of
+rest.
+>> 100% and even when you're talking about
+an object in motion stays in motion
+unless an act upon by an outside force.
+An outside force like procurement, an
+outside force like new buyer in the
+deal. Like people slow down in essence
+because of fear. So, the way you can
+counteract both is by finding things
+that they didn't know. It's not by
+making them more afraid of what they're
+already afraid of. It's by in
+them to understand things that they
+didn't know so that they're less afraid
+that what they are that
+outcome uncertainty that they're not
+going to reach their outcome. It's
+decreasing that bucket by finding things
+that they didn't know. So they're like
+beforehand, they know that they don't
+know enough. That's clear. That's why
+they research so much. I mean Forrester
+talks about there's 20 different things
+that they will look up before they even
+start to make a purchase and 72% of
+buyers won't engage with a seller before
+they start to do research. They know
+they don't know enough. But it's like if
+I can help find some things new even if
+it if they're still it can propel them
+into motion. If they're in motion, it
+can keep them into motion like almost in
+curling you're countering at that
+friction by finding things that they
+didn't know. So they're like based on
+what I knew beforehand, I wasn't
+confident but based on what I know now
+after this seller, I'm more confident
+not that that gremlin won't become true,
+but that the odds of that gremlin
+becoming true are less because this
+person is in in front of me and is an
+advocate with me in this this buying
+journey.
+>> So it's really rich to tell them
+something they don't know. Which is
+where do you find that? Because you
+can't go ask them cuz by definition they
+don't know it. So how do you find it and
+then how do you present it in a way
+where you're not like saying you suck,
+you suck. You're like they're going,
+"Oh, wow. Thank you. Can I have another
+one of those?" Tell me um seems like a
+magic formula.
+How do you invent the gremlins and the
+goblins that are effective?
+>> Yeah. So I mean the million-dollar
+question is people are like, "Well, how
+do I find a how do I find so especially
+if I'm selling into like a CTO or a CISO
+or a buyer person that's very technical
+that I'm just an SDR like or I'm just an
+account executive, how do I find that?"
+So it's actually much more it's much
+easier than people think. And the reason
+I'm saying this is because I tasked
+myself with before I'm training someone
+that I have to train on their terms.
+Meaning I have to relate all examples to
+their buyer. Meaning and that's what
+originally what me on the path to solve
+it of instead of giving sales examples
+or instead of giving dating examples or
+whatever it is, you know, that I can
+give them real examples for their buyer.
+But, you know, as you go from client to
+client to client, it's like all their
+buyer personas are going to change. So,
+it's very simple actually. The smartest
+thing that you can do can do and at
+least in my opinion is just use whatever
+engine you want to and say that give
+them two prompts. The first prompt is
+give me the top three lagging indicator
+KPIs that blank is measured on. So, if
+it's a IT director or it's a CFO or if
+it's a, you know, let's say a CX
+director, then it's give me the top
+three but you could say one, you know,
+but arguably two, but give me the top
+three lagging indicators that the buyer
+persona is measured on, the industry
+average of those indicators and at what
+point they typically cause a problem.
+What's the average performance of them?
+So, that you know the main North Star.
+So, if you don't even know how I'm
+measured as a buyer persona, then like
+I'm not going to want to talk to you.
+So, you'll get a number and it's
+different for every persona of like CFO
+it's gross profit margin.
+IT director is server uptime, you know,
+CX director it's customer retention, HR
+it's employee retention or open job
+reqs. And so, each one of these buyer
+personas at least you know the North
+Star at that point. Where you really get
+meaty is where you say and that's where
+the business problem is typically
+anchored in my opinion. Where you really
+get gritty is the second prompt of give
+me the top 20 to 40, you can pick
+whichever one you want to, give me the
+top 20 leading and coincidental
+indicators that affect a the let's use a
+CFO for instance that it or let's use
+the IT director, let's go really
+technical that affect server uptime for
+an IT director.
+At what point those 20 KPIs, the
+industry average of those KPIs
+and at what point those 20 KPIs cause a
+problem with increasing server downtime
+for an IT director in a chart format.
+And I say in a chart format, please, cuz
+I'm from Texas originally. [laughter]
+And so it just spits out these 20
+indicators of like, if you want to get
+to know a persona, just get to know
+their indicators. The only difference
+from persona to persona to persona is
+what they're measured on and what
+they're looking at. So it'll give you
+like network storage availability or
+backup success rate, you know, for
+instance, or for uptime and it will give
+you the industry average and at what
+point it causes a problem or the network
+speed. Let's say network latency. So
+instead of to your point saying, do you
+have a problem with network latency that
+you don't know about? That's ridiculous.
+You're finding something they don't know
+about. So I really bust it into two
+categories of misdiagnosis is something
+they believe is not true. A misdiagnosis
+is something you miss entirely. So if
+they say, "No, we're all good on network
+latency." And I'm like my first step is
+I'm like, "Well, what do you mean by all
+good? What is your network latency, if
+you don't mind me asking?" And they're
+like, "300 milliseconds." And I'm like,
+"Found one."
+You know, is what I'm thinking in my
+head. So the second step is I deliver a
+stat. I'm like, "Interesting." And
+they're like, "Well, what do you mean by
+interesting?" I'm like, "Well, industry
+average is less than 100 milliseconds,
+you know, and statistically speaking,
+anything over 200 milliseconds is going
+to cause a 20% increase in server
+downtime for IT director." And then I
+just shut up for a second and you can
+just see that spark go off. And the
+third step is I change
+I change the subject to a question on
+either what I do think the root cause is
+of like, "What's your backup success
+rate, if you don't mind me asking?" Or
+to double down on the root cause that
+I've just blown up of like, "How long
+has your network latency been at 300
+milliseconds, if you don't mind me
+asking?" So in that case scenario,
+you're not even reveling in the moment
+that you're like, "I just found
+something you don't know." And like to
+to your credit of like
+they're just trying to solve a problem.
+So, the fact that you just found
+something they didn't know. The goal
+isn't to say I'm awesome and I can be
+valuable. It's to hypothetically show
+them something towards solving that
+problem regardless of whether you solved
+it or not. So, once you do those like
+honestly, it's like put in those those
+prompts, get that chart, learn those
+metrics. If you learn five, you're going
+to be good. You learn 10, you're going
+to be great. You learn 20, you're going
+to be deadly. Because just cuz they're
+an IT director does not know that they
+mean that they know the industry average
+and at what point, you know, it
+hypothetically causes a problem. So,
+anytime you find one of those, you spark
+more, create more demand for for them to
+hypothetically solve for it and also
+counteract the idea in their head that
+they're going to get it wrong because
+when you recommend something, they think
+A it's for a reason and B it's for the
+right reason because you know a heck of
+a lot of stuff that you can add to the
+game of what they already do. So, in my
+experience, that's how you can do it
+without being like you're, you know,
+>> You don't want to say the S word because
+you were not allowed to or
+>> [laughter]
+>> I think what's interesting is that like
+the idea that you don't even have to
+know what their performance is. Like I
+always understand persuasion, the most
+effective form of persuasion to be a
+self-persuasion. So, all you did was
+sort of evoke self-persuasion. You're
+like, here's a here's a North Star
+benchmark.
+Here's an industry average and here's
+what happens if you're below the
+industry average. And then it's kind of
+what say you, you know, almost like you
+don't even have to ask what their
+performance is. You present these and
+now they're they're trying it on.
+They're taking ownership of it and I
+always say now they can give you an
+answer where they're they're maybe
+better than that, but they're still
+broken. And and
+>> [laughter]
+>> because you've you've expanded their
+their range of reason. They're now like,
+"Wow, okay. This is a big deal. I didn't
+know this was as big a deal. I didn't
+realize this thing was keeping me from
+achieving my end goal and I didn't
+realize how important it was and I
+didn't realize how off I was. But again,
+you didn't go in telling them they
+stink. You go in just giving them some
+data, sharing a few insights, and then
+asking a really good provocative
+question.
+>> Yeah. Well, I mean in in most of what
+I'm trying to harbor before I give any
+kind of stat is I'm trying to find out
+what is their specific data point
+because I mean you don't know. You don't
+know if it's a problem for them. I mean
+statistically speaking you're like maybe
+it it likely is, but when I ask that
+stat if they were to tell me I'm like,
+"What's your network latency?" and
+they're like 95 milliseconds. I'm like
+they're fine and I move on cuz I'm like
+that's not a problem. You know, but I'm
+like, "What's your backup success rate?"
+for instance and they're like, "No,
+we're pretty good." I'm like, "What's
+pretty good?" They're like, "72." I'm
+like, "Ooh, found one." And it's not
+just about finding the ones that like
+people will talk a lot a lot about if
+they're harboring the conversation a
+certain way to change it onto the one
+that you solve and I'm like, "That's not
+how buyers work cuz that's not how
+buyers solve." Meaning it doesn't matter
+if you help them with something that you
+don't specifically solve for with your
+product. They see you as valuable or
+they don't. And that's based on how many
+unknowns did you find for them in the
+process of solving? So if you find
+three, even if you don't sell to those,
+you almost get double credit cuz they
+know that your agenda is to help
+regardless of whether that means cash to
+you. So I'm like, "That's the good news
+of like you don't just have to memorize
+and narrow in on the ones that you point
+to." Like if if you help me on these
+three points and I'm wondering, you
+know, what you think about this point on
+that you do sell towards or you do, you
+know, uh can hypothetically bend
+towards. So it's just a really meaty
+conversation. The worst-case scenario
+they walk away with more information
+than they had before they talked to you.
+So like kind of to bring it all full
+circle in terms of prospecting, I think
+the main thing that people are doing
+wrong is they're like, "Do you struggle
+with this problem that you already know
+that you have?" And I'm like, well, put
+aside the fact that they already knew
+they had it, it was bad enough they
+would already start to do something
+about it. You have no credibility there.
+Everyone wants to sell to Southwest
+Airlines now. Everyone wants to You know
+what I'm saying? Of like, after the
+problem has occurred, but the real
+seller, the real helper, the real
+prospector sells and prospects to
+Southwest Airlines before the meltdown
+at Christmas because they're asking a
+certain amount of questions and they're
+like, "Statistically speaking, this is
+what's going to happen if you keep
+rolling forward." And then all of the
+sudden you have a buying curl on the
+line because this impact is going to
+come. And like, they're solving or
+you're prospecting, creating demand
+around something they didn't know about
+before that that Grinch comes out for
+Christmas and wrecks Christmas cuz their
+systems. You know, so I I think that's
+the main thing people are missing that
+it's always what a prospector should
+have been doing, but especially now. I'm
+like, now the the the former play was a
+It should never have worked, but
+especially isn't working now.
+>> Yeah, I I feel like
+the change is is essentially this. You
+were searching for people in market, now
+you're creating demand, and the only way
+you can create demand is by telling them
+something they don't already know. So,
+you can know You're no longer just a
+tape recorder asking them their needs
+and responding. This is how you make the
+leap to something that's somewhat of a
+trusted advisor. You You see things that
+maybe they're not seeing, and that's how
+you add value.
+>> Totally.
+>> What if your next big revenue move
+didn't come from a blog post or a cold
+LinkedIn scroll, but from a real
+conversation with leaders who've been
+there?
+>> [music]
+>> As the world of sales is constantly
+evolving and constantly changing, I
+think it's even more critical to get
+together with people [music] to
+understand how are they helping to solve
+some of the problems that our buyers
+have today. Meet in Blaze, a community
+of sharp B2B minds, CROs, CSOs, rising
+stars, sharing what's actually [music]
+working in sales enablement and customer
+growth.
+>> Um, we always find a lot of value in the
+partnerships that we're able to form
+[music] with some of the other great
+organizations that are part of the team
+here. And uh personally, I love the
+opportunity to connect with my peer
+group outside [music] of other
+organizations and learn from them and
+try to figure out if there's things that
+they're doing that we can pull into our
+organization and benefit from.
+>> Join a monthly forum, dig into
+science-backed strategy, and get insight
+you won't find in your feed. Start your
+Embark Blaze journey today at
+embarkblazegrowth.com.
+>> How do we get more practical and even
+tactical? So, speak to the leaders. What
+can they do for their teams? And then
+we'll take a little time to talk about
+some very specific things that
+literally, what must change about your
+your emails, for example. But, how do
+leaders need to now equip their teams
+differently?
+>> Okay, so the the first thing that I
+would do from a leadership perspective
+the main thing that you can do, in my
+opinion, is to is lead routing and
+sequence shell writing. Essentially,
+like
+everyone wants to take advantage of a
+trigger
+trigger-based There's personalization is
+and there's relevance. Personalization's
+one-to-one, relevance is one-to-many,
+regardless of what the cohort is. People
+who download a content, people who
+attended a webinar, or whatever it is.
+The smartest thing that you can do as a
+leader is taking off list cleaning, list
+building, auto routing, and creating a
+sequence for each one of these relevant
+actions where the person in real time,
+like when they download content or when
+they attend a webinar, who is a part of
+the that person's account
+is auto routed straight through to the
+sequence. And what I do is my sequences
+they have five emails, and the first and
+fifth email are the ones that change
+based on trigger.
+And basically, the first line is like,
+"Hi, I noticed that you attended and
+it's like the event that it's dynamic
+tags in there, you know, the uh
+In-Flight podcast episode, you know, X
+with that column. But more importantly,"
+and there's a personalization gap there.
+That's what the rep fills in. So, all of
+these reps want to take advantage of
+these triggers, but what they can't do
+is figure out who just IPO'd, who just
+moved headquarters, who just attended
+this webinar in real time. And by the
+time that they do figure it out
+hypothetically, the point of the matter
+is gone. So, the number one thing that
+that uh leaders can do is to build a
+sequence for each one of those actions,
+build in a way to where every time one
+of those actions happens, basically
+whoever owns the account that the people
+in the CRM are auto-routed straight
+through to where they just have to focus
+on the 10% of personalization.
+>> So, that is a structural, if you will,
+administrative burden relieved so that
+your people can add the value.
+>> Unbelievable, yeah. For rep I mean, 45%
+of the time is spent on list building
+alone, list cleaning alone. So, the
+Yeah, to your point.
+>> So, you said five emails. Emails, that's
+still a thing? Um and something
+Something has got to change in how you
+do emails, too, because if we're all
+still doing emails and you're not
+disagreeing, emails matter, what should
+I do? Like, give me a few examples of
+things I can practically do different
+and better tomorrow that are working
+today versus maybe what I was trying in
+the past.
+>> So, I'm going to try and go rapid-fire
+for like a minute and a half a piece for
+four different buckets. But But email is
+working as the punchline. It's just not
+working how most people do it. But the
+first thing to think about is email
+deliverability. So, what email or the
+first bucket is email deliverability?
+So, what email deliverability means is
+only 59% of your emails are being
+delivered to the primary inbox. So,
+straight off the bat, 41 of the emails
+if you sent 100, people aren't seeing.
+And if what they're measuring for
+essentially, what ISPs are measuring for
+is does this look like mass blast
+behavior or does this look like an
+actual person? Now, you're marked on a
+number of different things, you know,
+for almost from the local level of what
+are you doing and is your team doing?
+What is the recipient doing like are
+they blocking you or hitting
+unsubscribe? And then are from a federal
+level are you on a blacklist for
+egregious behaviors? But the things how
+I would think about it is you're
+measured as a team and over time. So
+some quick tips on what to look for. If
+you're less than a 50% open rate you
+have a email deliverability problem,
+period. And industry average is 15-25%.
+So some tips on it less links the
+better. So like if you have a link to
+your LinkedIn, if you link to your phone
+number, if you link to the website,
+every single time you include a link,
+you are encouraging basically your email
+to not be delivered. No same subject
+lines. So even if it's me sending an
+email and my team member sending an
+email to completely different person,
+completely different company, your
+domain is measured the same. So they're
+like why are they sending a subject line
+that looks exactly the same. So no lines
+should be the same. No more than 50
+emails a day, no capitalized letters, no
+red font, no exclamation points. I would
+wouldn't batch them all out at one time
+of like I'm not going to send out 50
+emails at one time of like 1:00 let's
+say. And equidistant times will hurt
+you. 1, 1:05, 1:10, 1:15, 1:20, 1:25,
+etc. I would avoid social words in the
+subject line like your LinkedIn about
+bio because I get to social promo. Less
+GIFs the better oddly enough. Images are
+okay but not uh four images. And Bitly
+or shortened links or 404s are really
+going to hurt you and verified sites
+will help you. So unverified sites will
+hurt you in terms of links. So those are
+just kind of some of the rapid fire tips
+on deliverability. If you don't have
+Dkim, Dmark, and SPF set up then it's
+going to going to hurt you. So I would
+for sure think about a dated decay and
+an email deliverability strategy before
+even think about anything else.
+>> Okay, that's your number one,
+deliverability. Take a swig.
+>> [laughter]
+>> Bucket number two.
+>> Bucket two
+Bucket two is I would think about
+subject lines. So, I mean again, the the
+industry average open rate is 15 to 25%.
+Part of that is deliverability and part
+of that is subject line. So, subject
+line, some things I would think about, I
+would go to my personal spam and start
+to look at the subject lines, how they
+are, and how they're structured. You got
+to keep in mind there's 19,000 or sorry,
+20,000 different engineers at Google.
+I would imagine 20 19,000 of them are
+after us. What they're looking for is
+like sales behaviors. There's always a
+pattern. Like a personality is just
+defined as a pattern of interactions.
+Personality disorder is just an abnormal
+pattern, but there's always a pattern.
+So, I would look I would look at my
+subject lines and think, do they read
+like a marketing email? Do they read
+like a sales email? And think about the
+preview text, too. If it says anything
+about SEO, optimization, we miss you,
+then people aren't going to open it. And
+when they don't open it, if they don't
+open it and delete it, it actually
+double hurts against your
+deliverability. So, I would think about
+is this something that a normal
+salesperson or marketer would say? If
+it's anything above skill one to 10 and
+eight, I would say yes, and you got to
+start over again. So, it's about saying
+things that basically a normal
+salesperson or normal marketer doesn't
+say within reason, that doesn't say, and
+it has to have to the body, because if
+it is something they would normally say,
+then someone's going to delete it
+because they know what it is before they
+open it.
+That's bucket two.
+>> Okay.
+Bucket three, do you need a drink of
+water?
+>> No, I don't. I'm wrapped up. Um bucket
+bucket three would be uh readability.
+So, my biggest tips on a read the
+readability of an email, I mean the
+average person spends nine seconds
+reading an email. A myth out there is
+that it should be in the F-shape
+pattern. Actually, F-shape pattern was
+for email for uh web design, not for
+emails, and it was the worst reading
+pattern, increase scanning but not
+comprehension. In terms of the actual
+email itself, I would think about four
+to five lines max. I would never put I
+include two lines in a paragraph. The
+more acronyms the better, the fewer
+company names the better. If you're
+going to mention your company name, I
+would do it once and I would do it at
+the very bottom cuz they're going to
+think you're a sales rep. Uh acronyms
+are your friend, punctuation's your
+friend, odd punctuation's your friend.
+And I would for sure avoid the deadly
+language that is the normal sales
+language. So, I have 250 terms on my
+site that are the most commonly used uh
+email terms in email of like just
+following up, just circling back, just
+bubbling this to top the inbox, happy
+Monday, hope you and your kids are safe
+during these uncertain times. We're My
+name's blank, we work with blank and
+we're the number one blank who helps
+blank do blank. We work with leaders
+just like you, quick chat, 15 minutes,
+quick coffee chat, sync SEO
+optimization, congrats on the funding,
+you want to buy our stuff cuz we work
+with people who have money to buy our
+stuff.
+My CEO sent me your way, I was really
+impressed by your profile. You know, all
+of these terms, the more that you use
+them, cheers, you know, quick call,
+quick connect, you know, intro in the
+subject line, the more that you use
+those terms, the more and more
+likelihood that they see you as a
+salesperson and that they delete the
+email before they they even get to the
+midsection. So, especially the left-hand
+of the first line and the right-hand
+side of the first line, left-hand side
+of the second line and the middle of the
+second line and then on down the row on
+the left-hand side is really a hotspot
+of if you use if you open the email with
+hope you're well, it's you're dead.
+>> I can't finish this conversation cuz I
+got to go like retool every single one
+of my emails. Even though I'm trying to
+be authentic and even though it's
+personal, I still say those things.
+>> I Well, I mean, yeah.
+>> [laughter]
+>> Well, we'll we'll put a link we'll put a
+link in the show notes so that people
+can go to your website
+as Beck, a former Google engineer who's
+decided these are the words. I and
+anybody who's like watching this episode
+on one and a half X is like dying now
+because like
+>> [laughter]
+>> you're already there. All right, bucket
+number four.
+>> In bucket number four, I'd say the
+biggest thing and I know that I have we
+have limited time here.
+When you ask them a question, it has to
+be objective, no adjectives, no adverbs,
+and it has to be a question that you
+couldn't have known the answer to
+without them, non-leading,
+[clears throat]
+and a question that it has to be a
+question about a metric that's helping
+you understand if they have that
+problem.
+And when you they do answer the
+question, you're like, "Oh, they do or
+don't have that problem." Meaning, it
+can't be like, "Do you have sucky
+emails?" Well, it's like, "Well, what
+does that even mean?" And I can't even
+answer that question. I'm going to
+answer to the best of my ability, and I
+know you're just leading me somewhere,
+so I'm not going to answer the question.
+It needs to be a genuine question that
+you're like, "What's your email open
+rate if you don't mind me asking?" Or do
+like, "Do you have a bad email open
+rate?" is bad question. They're going to
+answer you to the best of their ability.
+But if you say, "What's your email open
+rate? The reason that I ask is industry
+average is 15 to 25, and anything less
+than a 50% open rate, you have an email
+deliverability problem. If you do me a
+favor, go back to your open rate, and if
+it's anything less than, you know,
+anything less than 40% if you give me 15
+minutes to like, that should be the
+angle." But when you ask the question in
+the email, you have to be after
+something they don't know. So, it should
+be about a metric, an objective
+question, and it will help them it help
+you understand based on their answer
+whether they had a problem. But the
+question that I'd be asking is one
+around a metric that they likely have a
+problem that they likely don't know
+about. That's usually when you're going
+to really run into the gold. So, my
+fourth tip is when you're asking a
+question, it can't be leading, it can't
+have adjectives, or doctors and lawyers
+both ask questions, but because of their
+goal, we see one is more sleazy than the
+other because one's trying to get
+someone to admit something so someone
+else believes something. So, are you
+asking questions like a doctor or a
+lawyer is the biggest thing that I would
+ask myself when I'm reading my own
+emails that I'm writing.
+>> That's awesome. All of that in just a
+few minutes and and every one of those
+is is a useful tidbit. It's not theory.
+It's a very practical and again, we'll
+send you to Beck's website so you can
+slow the tape down and take your notes
+on that. Um any last thoughts back for I
+mean, this is your this is your moment.
+If I'm again, a leader of people who who
+own their job is either BDR, SDR, or a
+seller needs to fill their own pipeline.
+Any last thoughts that you should uh
+you'd like to wrap up with that I as a
+leader should take away.
+>> Yeah, I would say
+and it's a
+Yeah, and equip, prospecting is tough.
+It really is tough.
+I mean, it's it's one of the toughest
+jobs that I would say I would argue at
+an organization. But it doesn't have to
+be.
+It really doesn't. The only key is are
+your reps industry experts? Do they know
+information about the buyer? If they
+don't,
+then you have to start there because it
+doesn't matter what hook or
+permission-based opener or words that I
+use once we get into that conversation,
+once the buyer realizes like, oh, this
+person can't help me even if they wanted
+to because they don't have that
+information. So, I'd say the two things
+that I would do if I'm a leader. Number
+one is get my reps to start learning,
+aggressively learning about the buyer.
+Just give them metric sheets and start
+quizzing them at the end of the week.
+What is the average you know, this for
+the buyer for its profit margin, you
+know, for a CFO? What's the average
+gross profit margin for the someone
+who's in our market? If it's, you know,
+CX director, it's like what's the
+average churn? What's the average net
+upsell? So that they know those metrics
+and they have that that will build their
+confidence that they can find an unknown
+cuz they have the information. But on
+the other hand, for you as a leader, the
+number one thing that you can do to help
+enable your reps other than helping them
+enable themselves by learning about the
+buyer
+is to
+become an expert. Like you have to put
+yourself in the chair. You have to
+become an expert in helping them write
+what goes into a great email. They're
+not struggling with motivation, but
+they're struggling with is they're not
+hitting their numbers and because of
+that they have no motivation to keep
+going. So I would study, study, study
+from an email perspective. The reason I
+got into this is cuz I I was a leader
+that I'm like, I have to find the
+components. I have to write these emails
+for my reps, you know, that enables them
+to they have to fill in this 10% or 15%
+or whatever it is in terms of
+personalization and hook it, but I need
+to be the person that searches out what
+are what are the psychological
+principles and the aesthetic of an email
+and what time of day that you should be
+sending this so that they are successful
+that the average person who walks into
+my organization is successful because of
+the time and work I put in. So the the
+most effective thing that you can do, if
+you're a leader, is start studying, you
+know, study until your brain bleeds
+about what an effective email is. Try,
+try, try, try, try in the front lines
+and then you get up and you do it again
+because that's what it means to you lead
+from you lead from the back and you lead
+from the front. You know, so you have to
+be so good at a tactician from a
+tactical perspective. If you're AE
+leader, what are the five questions that
+they should have been asking in that
+discovery that they weren't? And if you
+know those, people will follow cuz they
+should because they get better whenever
+you're involved in the in the call
+review or in the discovery. So if you
+can become a brilliant tactician
+yourself, like that is where people are
+going to start. It's tough, but that's
+the job of being a leader is I need to
+do the things and put in the hours and
+put in the reps and find out the facts
+that are the things that are going to
+help them from an email perspective. I
+wasn't great as a from an emotional
+perspective. Meaning, I always struggled
+with I'm like, ask them about their
+weekend because they need to do that and
+they need to talk about that so they can
+open up. But, I was counting down the
+seconds. But, people
+people were No one ever quit on me in my
+entire career. And if I had to guess
+why, it wasn't because of my emotional
+skills. But, they're like, well, she
+looks awkward when she's asking about my
+weekend. But, I'd be like, save this
+back and it would work. So, and I don't
+think that I'm unique. So, if put in the
+time, put in the hours to be a brilliant
+tactician is my my biggest giveaway.
+>> Yeah, I think in the the the leader who
+just stands behind the person pushing
+the rock up the hill and just goes,
+"Grind. It's just about grinding. It's
+about activity. Grind." The That that's
+That's not helpful. Like, they're
+pushing a rock up a hill. It Get under
+there and put some roller skates under
+that rock so that it rolls, you know?
+So, if you don't know what it takes to
+put a rock up a hill and how to make it
+easier to push that rock up the hill,
+people are going to fail. And you're
+going to be like, "Yeah, that's just
+this business. Prospecting's hard.
+People don't grind." And you just churn
+and burn them. And the reality is they
+don't see a path to success. You didn't
+give them any tools to be successful
+other than to grind. And there you go.
+And you just accept it. Like, "Oh, well,
+that's just how this job works." So,
+thank you for that. You've now made it
+possible. You've left people with no
+excuse. They have to add more value than
+they probably have been. So, Beck,
+always great to see you.
+>> Great to see you. I know it's hard.
+Anyone listen, I know it's hard. I mean,
+cuz you're like, "Well, I didn't get
+that." And it's like, "Well, we got to
+break the cycle." And you know, we got
+to do the skates work. It's like, I
+don't know, man.
+>> My mommy didn't do that for me, so I'm
+not going to do that for you.
+>> [laughter]
+>> Oh, boy.
+>> It was so good to see you. Thank you for
+having me.
+>> Yeah.
+Take care, Beck. Good to see you again.
+Bye-bye.
+>> Thank you. That's it for today. Another
+great episode. Thank you to our guest
+Beck Holland. Thank you Tim Reester and
+thank you for watching or listening on
+your favorite podcast app. Remember to
+like, subscribe, rate, and review the
+show wherever you're watching or
+listening as it helps other leaders find
+us. And we would love to have you
+explore what the Emblaze community is
+all about and join us as a member. Just
+go to corporatevisions.com/community
+to learn more. We'll see you next time.

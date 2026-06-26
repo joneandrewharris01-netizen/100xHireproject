@@ -1,0 +1,457 @@
+Metadata:
+{
+  "expert": "Thibaut Souyris",
+  "channel_name": "SalesLabs",
+  "video_id": "8SEMmTePuVE",
+  "title": "How to build and execute the Ultimate Prospecting Sequence, with Thibaut Souyris and Alan Ruchtein.",
+  "video_url": "https://www.youtube.com/watch?v=8SEMmTePuVE",
+  "run_id": "tbMZfBVeHoZx1R57O",
+  "dataset_id": "bMal3iKMC5VMFyCb1"
+}
+
+Transcript:
+Hi, Alan. Uh, welcome to the sales
+creator content party. I'm so happy to
+have you there. And, uh, actually, we
+need a hug.
+>> We need a
+>> So happy. So, you flew from Barcelona to
+be there, right?
+>> Yes. I got here yesterday. We will have
+fun today. So, that's all that matters.
+>> Yeah. I'm really happy you're here. So
+happy.
+>> And, uh, today actually, we're going to
+talk about how to build the ultimate
+prospecting sequence in 2025.
+>> Uh, because prospecting has changed a
+ton. you talk a lot about that in your
+videos and your content on LinkedIn. So,
+uh before we dive into that, can you
+tell me a bit more about you and why you
+>> Absolutely, man. And again, thank you
+for having me. I'm super happy to be
+here. A little bit about myself, um
+well, you know me and for the ones that
+doesn't know me. I'm Alan and I'm fully
+100% focused on helping teams right now
+perform better at sales. My whole
+background and my whole experience is in
+sales.
+>> So, so that's basically what I do. I
+help companies, startups mainly in the
+SAS space and the sales teams, revenue
+teams to perform better to define go to
+market motions, Alabama motions and and
+everything relates to that.
+>> And where are you from initially?
+>> Argentina. I was born and raised there.
+I grew up a couple of years in the US,
+moved back to Argentina, but right now
+I'm I'm based in Barcelona.
+>> I'm based in Barcelona. Great. And so if
+we talk about the the prospecting part,
+so I I'd love to, you know, like to lay
+out for me what's a good prospecting
+sequence. So typically I love to uh
+start with the ICP so ideal customer
+profile and their problems. Um how do
+you do that? How do you kind of find the
+right types of c companies to go after?
+>> And that's a great question and I think
+that that's the first question and the
+first thing that every company should go
+through because at some point what I see
+in all the companies that I'm helping is
+that they have no idea or not even a
+clue or what are they selling to whom
+they are selling that solution or
+potential solution. So the first thing
+that I need to understand and they need
+to understand it's not only a higher
+level of okay I'm selling to these type
+of companies in these type of countries
+but also making sure that we go deeper
+into persona emotions symptoms KPIs that
+are being impacted in their role
+responsibilities um pains and challenges
+as well and how the solution can be tied
+into that specific uh persona in that
+role.
+>> Okay. And so in terms of the if we talk
+about the the problems, do you have a
+kind of an idea of how you're going to
+identify the problem of your prospect so
+it resonates in the messaging you're
+going to send?
+>> I think that the most important thing
+here is start adding some layers into
+the personalization of the message. But
+that message as you are saying it's a
+pure consequence of the full prospecting
+or uh searching process. So it's just a
+pure consequence of how good you define
+your ICP from there. how good you build
+your list that I think that we are going
+to talk about it and how you jump into
+the prospecting mode in order to make
+sure that then the message is just a
+consequence of all the steps that you
+went through.
+>> Okay. How do you build a lead list?
+>> The easy way and everyone is doing or
+using it sales uh navigator from
+LinkedIn. It's a super fast way to scrap
+leads uh basically find some filters and
+going through. I'm not saying that's the
+a wrong way. I like it. I teach
+companies and sellers in order how to
+use it. But there is another layer.
+There's a deeper layer that you can go
+through. That is the way that I do it.
+Basically, as you can see here, I jump
+into uh the tool that I'm using that is
+a L growth machine LGM. And basically
+what I do here is basically on top of
+the filters and the different ideas that
+I have in terms of who I'm targeting. I
+use something else that is the lookalike
+search. Yeah. Right. Because if I
+understand who am I selling, the type of
+companies, the common denominators and
+treats that they might have, then I tell
+the growth machine, hey, why don't you
+bring me a list of companies that based
+on the algorithm and your research, you
+know, that they are really similar and
+as a consequence, as we were talking
+about the messaging, we can use the same
+message or similar assumptions in order
+to prospect them in the right way.
+>> Yeah, I really love the the the kind of
+lookalike stuff where it's kind of a
+really good use of AI where instead of
+trying to play with filters and
+everything, you show what worked. You
+know, someone replied and they also have
+this feature where when someone replies
+in your mailbox positively, they
+immediately say, "This is a great lead,"
+they flag it as a great good lead and
+then they suggest you some ideas.
+Absolutely. on other leads to contact
+that are exactly similar.
+>> Absolutely. Basically, what you're
+saying is we have like two options here.
+Either we do it manually one once for a
+specific type of personas and spec a
+specific type of leads and we say, "Hey,
+these are the companies that I like.
+These are the companies that I know that
+could be a great fit for my solution."
+Now you do your stuff and bring me a lot
+of companies that are similar to this.
+But on top of that, the next level is
+making it in auto autopilot. That is
+basically as you can see here
+>> what I do is I have conversation in my
+inbox with different people from
+LinkedIn. So the system will understand
+and identify hey you know what this lead
+to is not a good lead but Alan it's an
+amazing lead. So we will label it as a
+negative or positive. And every day when
+I jump into my dashboard, I will have
+new potential lookalikes companies based
+on that filtering. And that's amazing.
+>> Great. So now we have ICP lead list.
+>> We need to build a prospecting sequence
+as such a structure. So how do you do
+that?
+>> Um we have different ways and as I
+always say there's no one unique magic
+formula here. If not we all will be or
+we have been millionaires for years and
+decades. The thing is that the most
+important thing here is to make sure
+that whoever you're targeting, you
+target them in the right channel with
+the right message. And here is where we
+jump into what we call the multi-
+channelannel sequence and and the way
+that we define the out motion and the
+one that works the best because the
+metrics backs me up and the results are
+there are the multi- channelannel
+sequence. I know we're going to jump
+there into deep uh analysis. I can show
+you how we do it.
+>> Yeah. I mean so basically for me what I
+find specifically with like growth
+machine I do for multi- channelannel yes
+is I like to have a LinkedIn email and
+basically calling I don't do call
+calling but calling people and making
+sure we do that and specifically on like
+growth machine what's really interesting
+as you can see here is the voice notes
+you know so you can actually create a
+voice note and for me one thing I love
+is that you have a voice note where
+you're like hey Alan cur to know how
+you're preventing your reps from turning
+off prospects with pushy call outreach
+but let's say I have a list of 200 100
+prospects I want to reach out to.
+Basically, I'm going to be able to
+record this message and have an AI
+avatar, change the name. Hi, Alan. Hi,
+Batis. Hi, Dominic. So, I think that's
+like a really good one. And you have
+also some integrations with videos. So,
+I think on top of being different
+channels, you have different media you
+can use. And what's great is that you
+don't need to do as we had to do maybe
+two, three years before where you had to
+redo every video all the time. You can
+really work on doing it once and getting
+the AI to work for you. Basically, what
+you're saying is we're going the extra
+mile here, right? So, what we're doing
+is not only just sending the same uh
+audio or the same voice note to
+everyone, but on top of that, even with
+the integrations, as you can see here in
+this workflow that I have as a multi-
+channelannel sequence, I first warm them
+up with visiting their profile, uh,
+LinkedIn or liking into a comment and so
+on. But then when I jump into a voice
+note, as you say, it's at scale. I
+record it once and then the avatar will
+change the name based on the persona.
+The same with the AI that Lagos machine
+has. Yeah. That is hey understanding
+your message and understanding what is
+that you're selling and understanding
+your personas. I will go into that
+account-based marketing account based
+analysis research and I will understand
+what they do, how they perform, what are
+the events that are going on in that
+company in that persona profile as well
+and based on that it will craft some
+unique message and that's how we do it
+and that's what why we have these
+amazing uh uh returns or reply rates and
+results.
+>> Excellent. Let's talk about messaging
+now.
+>> So we talked about all these things
+structure. Now the message is uh
+something that's so complicated where
+how do I pick the right message? What
+does work? What doesn't work? So what's
+your approach there?
+>> I think that to be in a really good
+position and to do it really really
+good. The main goal here is uh as I was
+saying at the beginning this should be a
+natural organic consequence of doing all
+the other steps correct. So in a
+nutshell or doing a recap if you
+understand who you're selling to, if
+you're using tools like the growth
+machine in order to make sure that you
+enhance your prospecting your uh the
+list building or research on top of that
+you use AI in this case LGM helping us
+in order to make sure that we are
+prospecting in the right way sending the
+right uh messages through the right
+channels
+>> the message will be just a pure
+consequence but here is where the magic
+happens and it's the triggers or the
+signals that you can use. This is where
+I think that you are adding another
+layer of basically going the extra mile
+and another layer of complexity that
+will give you better results. So signals
+of understanding if you have new hires
+if that company is going through a
+specific milestone or if something
+happened internally with LGM we are
+finding those signals as well that's how
+I map all my sequence and I make sure
+that that specific framework hits
+directly into the heart.
+>> Okay nice and also there's a one
+specific feature and I can show you
+here.
+>> Please go ahead. the magic message. So
+that's pretty interesting because you
+know we have the writer's blog very
+often. Let's say you have a prospect
+you're like this is a prospect I want to
+talk to. They're amazing but you don't
+know how to you what to write or you
+look for different kind of templates and
+it doesn't work. So what you really good
+do here is that you're going to simply
+put like the type of company like name
+of your company what are some of the the
+key differentiator what you offer and
+everything and then it's going to spin
+and propose your message. And what I
+love is that if you know what I always,
+you know, if you hear about what I
+always say is that I hate when you just
+click on a button and it says, "Hey, I'm
+going to send everything for you." So it
+shows your message, but you can edit it.
+And so it's kind of a great way to get
+started and and don't waste 30 minutes
+building a message for someone who was
+like want to reply. So I think that's
+kind of a great feature you can use on
+that.
+>> This is what we call the sales at scale,
+right? So this is a solution that we use
+in order to make sure that we do things
+in the right way not just automated but
+in the right way and making sure that we
+can scale our prospecting our efforts
+our campaigns our go to market motion at
+some point. Yeah. And talking about uh
+prospecting routines, you know, I love
+routines, building stuff like that. Uh
+there's one thing where let's say you
+work a market, you know, you're focused
+on, I don't know, the UK market and and
+you've talked to a lot of people. You
+talk to everyone. How do you make sure
+that you get like new prospects
+regularly that are interesting and
+potentially interested to have a
+conversation with you?
+>> Ah, there are two main things that I do
+that I try to do every every single
+time, not only for myself, but also for
+my clients. The first one is applying
+technology. So everything uh points me
+back into the growth machine in this
+case that it's how can I make sure that
+all the conversations that my clients
+are having into their inbox into the
+emails into the growth machines um
+inboxes we are pointing them out into
+understanding if hey you know what this
+is a positive conversation that we had
+then why don't we use this in order to
+find it. So we are finding at scale
+potential new clients. On the other
+hand, in terms of messaging, there is
+something that I love that is the real
+chat mode. So the main difference
+between being a seller and being a good
+seller or an elite seller is how much
+human you can feel and sound to your
+prospects, right? And with the growth
+machine, what we have here is basically
+uh you turn on this toggle here and
+basically what you can do is turn a
+conversation into a human conversation.
+So it sounds like you are the one typing
+that out and it splits the message that
+you already built based on the AI and
+everything that we are talking into
+different type of messages. So it's like
+instead of saying hey tobo and all this
+the pitch you start the conversation
+with a tobo enter the message will be
+sent then another message or part of the
+message will send so it's like a
+conversation I love that
+>> that's pretty cool and that's one thing
+for example the top performing message I
+send to people is what's up what's
+>> I get the most replies from hey what's
+up and so I think the the more you can
+sound human the more you know that I
+think that's such a great thing and the
+team at like growth machine they have
+all these growth experiments they're
+running which is a bit more marketing
+and sales, but they have this culture of
+just, you know, the tiny small things
+that make a difference.
+>> Absolutely. Small details will make you
+different basically from the other 1,00
+of sellers that are there
+>> that are just doing the same.
+>> Yeah, exactly.
+>> And and talking about multi-
+channelannel organization as my last
+point. So, how do you make sure you
+manage like LinkedIn, phone number, I
+mean calling, email, all this? How do
+you make sure that you you don't like uh
+basically drop the ball, you know,
+between all these channels? Well,
+there's a a one thing that is like a
+non-negotiable for me when I'm running
+either my own campaigns or campaigns for
+my clients that is having the leanest or
+cleanest or simple posh possible process
+ever uh so far. That's why in this case
+again with LGM what I'm doing is I have
+everything inside of one solution LGM.
+So I enrich my prospects there. I find
+them there and then I build for example
+I have a campaign here that I wanted to
+show you that it's how I go from super
+cold lead to someone that understands
+what we do and who I am that is the most
+important thing first of all
+understanding what are the things that I
+need to do in order to warm that up so
+visiting a profile follow them checking
+the profile again liking a post from
+there defining all the different uh
+routes or decision- making tree let's
+say in order to make sure that say hey
+you know what if they are not getting
+back to me why don't I send a as I was
+saying at scale. Then I send a agent
+chat mode version with a super human
+message and from there I jump into
+email. So everything is inside the same
+place. I can measure all I can track it
+all and I can make sure that then when I
+pivot or I improve I do it internally.
+>> Okay. Amazing. So actually if you want
+to go and check like growth machine uh
+there's a link behind this video where
+you're going to be able to give it a
+test and instead of having 14 days of
+free trial you're going to get to a
+whole month. So, I really recommend you
+go and check. You can also reach out to
+Alan and me if you need more questions
+about it. Uh, but before we wrap up, um,
+Alan, you know, how can people just like
+get in touch with you, follow up with
+questions. What's the best place to
+reach out?
+>> LinkedIn. Yeah. Yeah. You go to my
+profile directly. Just ping me there,
+send me a message. I'm all day long
+connecting there more than WhatsApp,
+more than phone, more than anything. So,
+I'm super happy to help or give any
+advice or answer any question as simple
+it is. So, yeah, there we are.
+>> Thank you, Alen. Thank you for coming.
+Was so nice together.

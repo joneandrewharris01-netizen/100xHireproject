@@ -1,0 +1,932 @@
+Metadata:
+{
+  "expert": "Thibaut Souyris",
+  "channel_name": "SalesLabs",
+  "video_id": "W66EK8ouMLM",
+  "title": "Using LinkedIn for warm outreach by Thibaut Souyris",
+  "video_url": "https://www.youtube.com/watch?v=W66EK8ouMLM",
+  "run_id": "tbMZfBVeHoZx1R57O",
+  "dataset_id": "bMal3iKMC5VMFyCb1"
+}
+
+Transcript:
+so welcome everybody to
+uh tibor series uh talking about how you
+can use linkedin for warm
+outreach uh i just put a worksheet from
+you which you kindly shared to the chat
+just make a copy of that profile uh make
+a copy top left
+uh tb is my go to person if anything it
+comes to like t-shaped
+um sales development rep uh for people
+that are not just basically doing demos
+but also social selling um creating
+their own content
+and it's gonna tell you like really
+useful actionable stuff for the last
+roughly 30 minutes
+over to you yeah thanks manuel for
+having me so hi everyone
+um yeah today we're going to talk about
+uh using linkedin for our matrix so it's
+another
+sales guy telling you all about that
+and here's basically what we're gonna do
+today so it's gonna be very tactical
+that's why
+uh i really recommend you go and
+download the worksheet make a copy if
+you wanna work with it
+because you're in view mode only but
+you're gonna be able to work along with
+me
+so first thing we'll do i'll talk to you
+about the concept of develop called the
+t-shaped cell development framework
+which is a good kind of self-development
+framework uh you can use especially
+if you're in early stage uh and if your
+reps are in early stage it's really
+something that you can use right now
+um then we're gonna go and directly work
+on how you can optimize your linkedin
+profile for sales
+and making sure it's it's really ready
+uh and it's not optimized for
+finding a job or these kind of things
+and finally you learn how to use
+content for warm outreach not your
+content but someone else's content so
+i'm going to show you like a few tricks
+to get started uh whenever you're
+selling on linkedin
+uh so about me here's a picture of me
+when i was 22 years old as you can see i
+had like a lockdown haircut before
+before lockdowns were trendy
+um and i was in canada there i was
+actually
+uh working as a i was a student at ashu
+samurai
+studying marketing and also working as a
+you know like let's say i was selling ad
+space for magazine
+and also doing some kind of magazine
+documentary uh
+with with that and so the magazine was
+about aviation
+uh so it was it was pretty cool i went
+into this airplane and we
+you know we kind of like dropped dropped
+some parachutes from him there that was
+skydivers you call that that was pretty
+cool but basically
+i've changed a bit you know gained a bit
+of weight uh reduced to it in terms of
+of hair uh and it was uh let me check
+someone 90 years old okay
+and uh and basically um i'm the now i'm
+the ceo and founder of sales labs which
+is a company
+that i've created where training coach
+texas people to start more conversations
+and the way i created this company
+there's a quick story for that
+i've been in sales for now actually
+since i'm 15 years old i started selling
+airplane cleaning services when i was 15
+at lausanne airport so it was an airport
+i'm actually from lausanne
+so i'm one of these guys who doesn't
+speak german
+and just speak french and so uh
+basically i've been in sales for 15
+years
+and i created saleslab around two and a
+half years ago
+because i was tired of actually making
+others rich
+and i was working for a company called
+branch matrix which is like a deep
+linking company so
+tech very complicated tech company
+company from california
+and uh you know it's a job i had taken i
+was actually three three months in the
+job and then i realized i hated it
+i just you know was coming from another
+job uh
+for a company called applause where i
+was selling crowd testing
+for two and a half years and i brought
+the french market from zero to 2.5
+million of annual recurring revenue
+switched to this new job and then i
+really hated it because i was just like
+not a big fan of all the the kind of
+like silicon valley
+uh vibe uh you know this job and what
+happened
+i went there in california for a serious
+kickoff and then i met this guy named
+skip miller
+and he was actually delivering a size
+training and if you already
+uh if you've ever attended this training
+you know how boring that can be
+and actually when i went to the training
+i was ready to fall asleep after 10
+minutes
+but from eight in the morning until six
+i was like
+hooked so i really loved it i really
+like learned a lot of things
+and then you know i i actually after
+three hours i was like okay that's
+something i need to do right now i need
+to actually just leave my job
+and start doing self training and so i
+just waited two
+months then i left my job i created the
+company sales labs
+and uh you know it's been two and a half
+years and uh it's been a pretty cool
+journey
+and by the way i'm not now working uh
+you know with skip miller so
+the trainer who got me inspired and
+we're working together
+on uh you know like uh training uh texas
+people to actually close more details so
+that's a bit about me
+you can hear me on stuff like the
+podcast of manuel
+and patrick you can hear me on i mean
+read me on g2 sales hacker
+different types of podcasts i also have
+partnership companies like vidyard
+so i'm pretty much like you know talking
+a lot about text sales and selling in
+emea
+but enough about me so what you can do
+right now is already add me on linkedin
+so you're gonna have to go and pull your
+phone and get used to that because
+you're gonna be using it
+quite a lot today you can just scan you
+know open your camera app
+and scan lists or manually if you could
+put my
+linkedin profile in the chat would be
+amazing so people can see about
+it but just play around with the scan so
+you can do that
+and the manual while we're there can you
+confirm that you you got the link in
+the chat
+for sure done okay cool perfect thank
+you
+so um now another scan so i'm gonna
+do a small thing and what you can do is
+again keep your camera
+scan this link here this qr code and
+answer the question
+how good are you at booking meetings on
+linkedin there are 10 stars
+and the scale of 1 to 10 10 being you're
+like crushing it
+one you have no clue what you're doing
+we'll see if people are funny are
+actually following or not
+okay we have two votes
+okay
+good seven one
+three four okay
+average score is 5.8 5.6
+very good
+it's going down 4.9 i like that
+okay let's just wait until 20 and then i
+move on so i need three more votes
+come on
+okay 21 votes so we're now on the
+average of
+4.8 uh which which is interesting so i
+think we're really like
+pretty much at the middle so it means we
+have like a strong concentration of
+people who are really good at seven
+and quite a lot of people that are a bit
+under that um
+so uh that's very interesting to see
+that so basically thanks a lot for
+watching that don't worry there's gonna
+be another poll after at the end so
+you'll be able to play that around with
+that
+but basically i'm asking this question
+because linkedin is has become like a
+really cool
+platform to build uh relationships
+that's how we met with manuel
+uh you know through linkedin and that's
+basically how i get almost all my
+business
+and back in last summer you know i was
+thinking about a model
+to help future proof the sdr job the
+sales development rep
+job because basically what's been
+happening in sales is that there's like
+an increase in technology
+that allows us to really multiply and
+leverage
+our outreach and it really helped us
+actually
+increase the outcome and the problem is
+if you're doing some
+boring sequences that everyone who
+actually ignores
+you're going to multiply by 10 the
+number of no answers you're going to get
+so you're going to get very much no
+answers
+and at some point you actually won't be
+able to start conversations
+if you're a founder you won't have
+opportunities and the only option you're
+going to have is to raise money
+what i call a dilution event and i'm
+sure manuel really will second me on
+that
+um so it's actually uh it's actually
+something that happens or if you know
+how to use the
+tools and what to say in these tools
+you're gonna get more opportunities
+more recurring revenue more bookings and
+then you'll be able to actually get more
+success in that
+and so basically the idea of this
+t-shirt says development model that i
+i've created it comes from marketing
+which is called the t-shaped
+marketer is actually to develop a few
+skills
+and historically in sales development
+what we need to do is to do some
+outreach
+call calling called emailing so that's
+typically the kind of skills we need to
+work on
+but with this model it works on three
+things first thing is network building
+so the idea is all to always proactively
+build your network
+so when you have a clear ideal customer
+profile why don't you actually go
+and add 20 25 people every day on
+linkedin that are fitting with your icp
+by the way if you do that for a year and
+half of them agree that's around 2600
+people that you're gonna add so 3600
+potential prospects and while you're
+doing that so
+it it actually implies to know who's
+your icp
+to find leads to do some automation and
+optimize your leading profile
+you need to start serving content to
+this prospect
+so to this network so you need to
+experiment around content you need to
+plan your content schedule it you need
+to do like some visuals
+but the idea is really to start and
+build what i call problem-centric
+content
+so it's content that is centered around
+the problem
+or problems your prospects are trying to
+solve and whenever you're doing that
+you can actually work on outreach and
+the idea of outreach which is very
+important is to be able to first
+identify triggers and then contact
+people with a creative and relevant
+outreach
+and whenever you have a network that is
+growing and you're serving this
+problem-centric content
+you can then do what i call some warm
+outreach so you're able to use different
+stuff
+like profile visits uh people who liked
+or commented on your post on on
+or on other people's posts and use that
+to get in touch and have more answers
+and basically something i've been
+practicing now for you know a bit less
+than a year
+and almost all my opportunities come
+from that where
+i'm able to get a 38 39 reply rate
+based on the content i'm doing and
+that's something if your customers are
+active on linkedin
+that you can go and try to do so
+basically
+now we're gonna work on optimizing your
+linkedin profile
+so one thing that is important is to
+understand that your linkedin profile is
+like a landing page
+very simple landing page is one goal you
+actually go
+get people to land on it click on the
+call to action that's exactly the same
+with your logic page on linkedin but
+what happens is most people use it to
+show off
+so if you're a founder you're gonna go
+and say hey we are the
+360 app for i don't know expense
+management and whatever
+we want these awards we did this we did
+that no one cares seriously no one cares
+what they care about is how can you help
+and solve the problem and for your
+employees often what's going to happen
+is their
+linkedin profile will be optimized for
+looking for a job
+so actually it's going to say hey i've
+reached this presence club
+you know like 10 times the 200 uh sales
+achievement
+which is totally irrelevant to your
+prospects so basically
+the idea in there and it's in the
+worksheet what needs to be done is
+actually work on
+three things so your landing page the
+first thing you need to have
+is to make sure that your uh headline so
+your
+first your banner actually is clear so
+the banner is this kind of uh
+you know like uh kind of like yeah the
+banner you have on engine is kind of
+like a billboard
+that's going to get the attention of
+people so make really working on getting
+something
+that's going to grab the attention nice
+colors i'm going to show you an example
+after on that
+then you need to have a clear headline
+so the headline is like
+uh right before your after your name
+often people say hey i'm head of sales
+or whatever here you need to do and
+explain what you're doing for your
+prospects
+and then finally once you have the
+banner that gets the attention the
+headline that clarifies what you're
+doing
+you need to have a strong and simple
+call to action so let me show you very
+quickly what i mean there
+so here for example if you go
+you see my screen there's like this
+banner here
+that's my banner it's a big blue thing
+there's a logo here and there's like a
+qr code
+so it's an experiment i've been running
+actually i don't know how many people
+clicked on this qr code
+i should check that but i didn't do i
+have then a headline which is i train
+and coach texas teams to land new
+meetings and generate more opportunities
+so i'm not saying ceo and founder of
+sales labs or whatever i'm just saying
+what i'm doing
+training and coaching tech sales teams
+to learn net new meetings
+and generate more opportunities and then
+i have a simple call to action
+which is six resources to start more
+conversations and book meetings
+you click there you land on this page
+which is another landing page so if
+someone came
+from my profile saw that saw this and
+they're like oh that's interesting
+this has been like a successful landing
+page i got a video here
+and then you know i got like some free
+resources some paid resources and tons
+of different things
+for all kind of different leads that
+have different level of awareness
+and so that's really the idea of your
+lending profile is make sure these three
+elements
+are clarified and clear and and that's
+gonna be actually uh that's gonna really
+help you
+get some uh some more meetings and one
+thing you can do if you don't have this
+thing here
+is to have like a three featured section
+so you click on the plus here and you
+can include links
+and for example you could have like one
+uh element that is for
+called leads so most people actually are
+not ready to go and take a meeting with
+you
+but they are maybe interested in
+learning about how can you help
+uh i don't know like uh solving a
+specific problem for me
+i have an ultimate linkedin outreach
+sequence that you can get that's from my
+current leads
+then for worm leads i have my community
+the t-shape says community
+and then for hot leads they can book a
+call or book like a coaching with me
+so that's really the way i'm i'm going
+to do on that um
+so now let me just go back to using
+content for ram outreach
+um so the idea of using content for
+outreach is really important um because
+it's really this thing that allows you
+especially as a founder
+to focus on what people are putting out
+there to get in touch with them
+so i'm going to give you a very clear
+example for that that comes from a
+sales kickoff id with shopify so
+basically
+what we have here is uh is like the i
+think yeah she's managing director of
+emea at shopify
+and basically what she she's done she's
+talked about like the results of her
+customers
+last year so it's like out of the press
+this black friday shopify merchants in
+the uk the second largest market
+collectively
+increased sales by 116 from last year
+and then she gives like a
+detail on that and think about it if
+you're a salesperson for shopify
+you can use that to get in touch with
+people who like that here you know
+so you have like i don't know like some
+vp global sales so i'm connected with a
+lot of them
+but typically at shopify they work with
+head of e-commerce
+uh they work like with uh these kind of
+people who are around e-commerce
+so there's a lot of people in here that
+are not
+like team members of shopify that are
+working in e-commerce and that could be
+interesting
+and that's an exact same we've exercised
+we've done together and now if you go on
+the worksheet
+what's happening there is that i've
+created this kind of
+soft connect messaging as i call them
+which are small messages you can send to
+get the attention of your prospect
+so i don't know if i found all of these
+187 20 people who are interesting
+i can go click on there i'm going to
+show you like there for example i don't
+know let's say valeri is an example
+and i could say click on connect here
+and then instead of saying hey valerie
+let's connect or hey valerie i have this
+amazing thing i want to sell to you
+what you can do is go click add a note
+and then you're going to say something
+like
+this which is
+up valerie i see you also liked the post
+of shimona about shopify's merchant
+performance on black friday
+if you're into it i'd love to share two
+tips on how to generate similar results
+for your spring specials
+i'm going to send it even though i
+should not because i'm not working but
+for them
+but this i've been testing it
+consistently for for me with my
+customers
+you get between 60 and 80 answer rate or
+acceptance rate and maybe half of them
+will actually answer and say yeah send
+that to me
+so it's totally different than going and
+saying hey let's connect and then when
+they accept
+you go and start pitching you really
+just go and what you're doing there is
+that you're using a trigger so in that
+case the trigger is the post
+i've been using so this is a good
+trigger here the post
+then you're teasing so instead of saying
+hey i can solve that you say
+so you like that if you're interested i
+can share some more resources
+and then you can finish with the call to
+action which is are you interested in
+learning more
+and whenever you're doing that you're
+actually going to get a lot more answers
+you're going to start more conversations
+and down the line you're going to get
+more business and the beauty of it is
+out of this 187
+if i get 20 of them who are interesting
+for me in my icp
+i can use the exact same message and
+this is what you call
+uh like prospecting at scale because i
+can use the same
+exact message for everyone it's always
+going to be relevant because i've been
+using this
+and that's something that's very
+interesting there another quick tip you
+can actually go and try
+i do that with commenters but also with
+profile viewers
+so when people actually land on your
+linkedin profile that's a pretty
+interesting
+insight or trigger you can use to tell
+them that you are actually
+i mean that tells you that they
+potentially you know they know about you
+first and potentially they are solving a
+problem you're trying to uh
+uh to solve so for me if you go and
+click there you know i go on my profile
+i'll go and check there i mean i've got
+a lot of people who are actually here
+but what i can do for example is let me
+find someone
+here that i got recently francois is a
+good example
+i know francois uh we're working
+together
+and i think i got in touch with francois
+that's what i said
+francois notice you recently visited my
+linkedin profile did you find what you
+were looking for
+and then you know i get an answer hey
+honestly i didn't remember then we
+talked
+then i dropped him like a linkedin
+voicemail which is like a small and cool
+feature
+and then we started talking we had this
+conversation and now we have an active
+deal going on that has been
+closed with them so that's an example of
+why uh
+and how you can use your linkedin
+profile for outreach
+and why it's so important to start
+producing content because look at that
+i'm gonna go here on my profile
+and you're gonna see every single day of
+the week
+i post stuff i've been doing that for a
+year and a half
+i went from 2500 to more than 15 000
+followers
+and this content is always problem
+centric content
+i'm not saying hey look at me i'm this
+amazing executive i've been working in
+this company
+and being successful not at all i just
+find problems i'm solving
+so typically people opening
+conversations on linkedin having a hard
+time doing that
+and then i talk about this problem what
+are the typical solutions
+and then people are able to actually get
+some data get some learnings there so
+for example here
+prospecting with video using stuff like
+vidyard or loom and sending prospecting
+videos
+is really trendy but it's really hard so
+here explain you know how you can do
+that better
+tease keep it short don't overthink it
+these kind of things
+and this i've been doing every single
+week day you know and now
+this kind of thing allows you to
+actually have a lot of people who are
+clicking there
+following what i'm doing and if i go and
+click here you know i've got like
+let me check some account executives i'm
+working mostly with vp of sales account
+executive
+sdrs and here i get pretty much only
+people in sales so i can start so many
+conversations and it's a really good way
+to do that
+so that's really the idea in the nature
+of being t-shaped
+is that instead of doing cold calling or
+called emailing you produce content
+you have a network that you're growing
+also you serve this content to this
+network
+and then you start conversations and
+that's super simple
+and now i have consistently around 38
+reply rate
+between 9 and ten percent discovery rate
+and then you know i'm able to
+generate a lot of opportunities like
+that
+cool um so now um
+there's gonna be i'm sure there's gonna
+be some questions around that but before
+we
+actually go into the questions i just
+want to ask you
+what you you will be using down the line
+based on what we've talked about
+so you can scan that again and
+optimizing my linkedin headline you
+won't actually
+uh see that you me i didn't talk about
+this one sorry i forgot to remove it but
+you can choose one of these
+one actually
+okay i'm happy some people are
+everything like using content because i
+know it's quite technical but like seems
+like a lot of people have
+had it no problem
+let me check the questions we have here
+come on i'm not moving before we do 20
+at least we are 15 people now
+fantastic so a lot of people will be
+using a lot of content
+that's really nice i need one
+one last vote before i can move
+everyone's you know falling asleep
+okay we're good cool so seems like you
+will actually be using
+a lot of other people's content and
+that's smart so make sure your linkedin
+profile is optimized for that that's
+going to help
+but this is the fastest way to actually
+get started start some conversations
+you don't even need to have a brand you
+don't even need to start posting content
+you can use that and you can put your
+competitors so you can go on your
+competition
+you can go and find like hashtags on
+linkedin that are relevant to you
+or you can go and find some influencers
+thought leaders that are talking to your
+market
+and talk with these type of people so
+uh basically now it's like the the time
+for me to go
+and ask you to scan another thing and
+that's gonna be the last thing i'm gonna
+ask you to scan
+it's called the t-shapes community so
+it's a community i launched
+at the beginning of the year for sales
+people in emea
+so if you're selling uh you know to
+customers in europe
+or in emea you basically can go to this
+community
+and in this community you have like a
+library of online training
+like video prospecting training how to
+do multi-channel outreach training how
+to produce content
+like 13 weeks of content one one post
+per day
+very easily and then you get one new
+training every
+month with that there's a discord group
+we're already
+over 100 in there and this is actually
+not something free it's 10 euro a month
+and swiss francs i guess that's pretty
+much the same and basically what you can
+do is go and go and try it for free
+so there's one month for free with the
+code startup sales summit so you're
+going to have to go
+do the sign up and then you can use that
+and you're going to be able to see if
+that's actually worth any
+uh thing or not and then you can stay if
+you want to stay or leave if you don't
+want to stay where you don't want to
+stay
+and yeah that's basically uh um about
+that about this
+special community so we have tons of
+different things happening
+and if you're looking to hire
+salespeople there's 100 texas people
+paying
+10 euro from their pocket so it's
+actually a pretty good place to find
+some great talent
+in europe um so yeah that's that's about
+it for me actually so manuel
+uh do you have some questions for me
+from the crowd
+uh yes thanks so much for sharing these
+insights and
+uh question uh we basically got is uh
+from petronil again how would you do
+prospecting at scale to raise awareness
+in a digital health space
+let's say for a particular health
+problem uh heart disease in her case
+from what i understand
+or maybe would you use a different
+platform than linkedin
+i think what it boils down to it's also
+like what do you do
+if your ideal customer provider like
+doctors
+is not as active on linkedin as for
+example sales people
+so this is obviously something that will
+work really well if your ideal customer
+profile is active on the platform you
+mentioned so for me i use linkedin
+mostly and
+if you're working in digital integ
+that's going to be really good and
+helpful
+but as you said petronella if your
+doctors are not in england that's maybe
+not the best place to go
+maybe they can be a thing i doubt it but
+maybe they have some other places
+where they hang out virtually and that's
+your job to actually go and find that
+the thing with linkedin it's a social
+network
+so there's like social network kind of
+mechanic that is in there algorithm and
+all these things
+and that you can use and reply that i
+mean duplicate that in other platforms
+they have certain specific rules but the
+logic the psychological kind of
+logic is is the same so it's really
+first of finding if they are on the
+place you hang out and if they're not on
+linkedin then just don't waste your time
+on linkedin because you you won't
+actually go and address your ideal
+customer profile
+so maybe think about a place where they
+hang out and then you know you can
+devise a similar strategy basically
+sounds great if more questions we have
+time for one last question before
+we move on to the next session uh
+with maddie and your last question to
+tebow before we close the session
+not see uh yeah there's one so from
+adrian
+thanks for these interesting insights
+how would you optimize your linkedin
+profile if you need to approach
+both b2b and b2c clients interesting one
+uh that's a good one so i mean
+first my question would be why would you
+approach both uh because typically if
+you're serving b2b
+and b2c you need to have two different
+products um
+so uh so yeah that would be it
+however i can give you a small tip
+basically in my end
+uh i'm producing content so in my kind
+of categorization i always put
+in the asp metric what i call the icp uh
+sorry the primary target so the person
+typically the decision maker
+of the fiscal buyer like sea level that
+will sign off on something
+there's this type of people then the
+champions and the champions are
+typically the user buyers
+i produce my content for the champions
+so in your case that would be similar
+where the champions would be your b2c
+and the primary target would be your b2b
+and in my case i sell directly to sdr's
+account executive employees
+they purchase stuff that is pretty cheap
+like the community for 10 euro
+and then they get it expensed by the by
+the their employer so that would be
+bought you know purchased by b2c but
+like paid or expensed by b2b
+so that's the only kind of time where i
+would think it would make sense
+otherwise um i think it's just pick
+something you know pick like either b2b
+or b2c um because otherwise that's gonna
+be that's gonna be tough basically
+cool thanks so much for sharing that we
+pretty much
+uh have two more minutes if any last
+questions so are they coming in as
+basically windows close uh great stuff
+um
+so sarah basically asked how do you
+allocate your time to linkedin compared
+to email campaigns and cold calling etc
+for lead generation
+so sarah what you need to do whenever
+you're doing some any kind of
+prospecting activity
+is to do what i call power hour so for
+me
+in the morning i start by prospecting on
+linkedin then email and everything so
+you know it's all kind of a block where
+everything is in there
+but if you want to separate that you can
+actually let's say
+time block and say okay i'm going to do
+like a certain time on linkedin certain
+time on email certain time on call
+so that's really up to you and then it's
+really if you're just getting started on
+linkedin
+you can actually keep some blockers for
+the other activities that are working
+historically
+but start working progressively on
+linkedin so in terms of allocation
+that's really what matters for you
+typically for me 95 of my time of
+prospecting time is spent on linkedin
+because that's where all my crowd is
+hanging out and
+you know my like the people in sales are
+often in linkedin so it's very easy
+and that's where i get most of the
+success so it really depends on your
+strategy
+but um uh for me typically it's like
+most of the time is spent on linkedin
+because it's good return but it's not
+the case for everyone
+amazing thanks so much for sharing these
+really actionable insights people that's
+what i love about
+working with you learning from you it's
+all actionable it's no powerpoint uh
+strategy consulting fluff so
+thanks again uh have an amazing day i
+hope you get like 50
+linkedin uh connection requests from
+this and uh have a great weekend
+yeah thanks for having me thank you
+bye
