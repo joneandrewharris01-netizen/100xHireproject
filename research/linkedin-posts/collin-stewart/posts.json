@@ -1,0 +1,1578 @@
+[
+  {
+    "type": "post",
+    "id": "7475973783112089600",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_ai-customeronboarding-saas-activity-7475973783112089600-JOU_",
+    "content": "In this episode, Arvind Ramasamy and I explore the journey of voice #AI entrepreneurs, focusing on #CustomerOnboarding, handling pricing conversations, and the evolution of pricing models in a competitive landscape. \n\nIf you're building an AI product or service, or are curious about #SaaS pricing strategies, this is your guide to turning interest into paying customers.",
+    "contentAttributes": [
+      {
+        "start": 17,
+        "length": 15,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAAx51FwBOvD2baXpVnZrG-qI_OqBEK3fiGw",
+          "firstName": "Arvind",
+          "lastName": "Ramasamy",
+          "linkedinUrl": "https://www.linkedin.com/in/arvind-ramasamy-b381205a",
+          "publicIdentifier": "arvind-ramasamy-b381205a"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1782411046770,
+      "date": "2026-06-25T18:10:46.770Z",
+      "postedAgoShort": "1d",
+      "postedAgoText": "1 day ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "postVideo": {
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGw-Ug-ttC60A/videocover-high/B4DZ7_.cQ7K8BM-/0/1782411021869?e=1783105200&v=beta&t=Cv2EjJYpFhIgDTMK3df_WQi6TELVN9RcerLOongfP_U",
+      "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGw-Ug-ttC60A/mp4-720p-30fp-crf28/B4DZ7_.cQ7K8B8-/0/1782411036785?e=1783105200&v=beta&t=xE6A_YWt2X47zTcVgUbY6JZBvr75IUvxob7Jn-XaB8U"
+    },
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_ai-customeronboarding-saas-activity-7475973783112089600-JOU_?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7475973783112089600",
+    "shareUrn": "urn:li:ugcPost:7475973650672787457",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7475973650672787457",
+    "engagement": {
+      "id": "7475973650672787457",
+      "likes": 3,
+      "comments": 1,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 2
+        },
+        {
+          "type": "INTEREST",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7475540767323668480",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_outboundemails-startup-coldemail-activity-7475540767323668480-4p_4",
+    "content": "I haven't seen your campaigns, but I'd bet some of those #OutboundEmails are super bloated because you're trying to sell before you've earned a reply.\n\nThe email I’m using right now to book #startup interviews is almost embarrassingly simple... \n\nSubject line: “Interview request.” \n\nThen: “Hey {{first_name}}, can I interview you? I’m starting a company around {{problem/category}}, and I’d love your advice.”\n\nThat’s it. \n\n- No fake compliment.\n- No overbuilt personalization.\n- No seven-line value prop pretending to be casual. \n\nJust a small, clear ask that feels like it came from a human instead of a sequence.\n\nIf I'm feeling frisky, I’ll add a P.S., which sometimes helps, sometimes hurts. It depends on whom you’re emailing. \n\nBut the principle holds: if your #ColdEmail needs three paragraphs to justify the ask, the ask is probably too big.",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1782307807761,
+      "date": "2026-06-24T13:30:07.761Z",
+      "postedAgoShort": "2d",
+      "postedAgoText": "2 days ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "postVideo": {
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGFfAXj_LZhfg/videocover-low/B4DZ7tLZtiKwBM-/0/1782095656193?e=1783105200&v=beta&t=zEre1-KDdeUpm-esbfGH5r8gk7nPIh5jfBoeCFnSTgU",
+      "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGFfAXj_LZhfg/mp4-720p-30fp-crf28/B4DZ7tLZtiKwCA-/0/1782095660771?e=1783105200&v=beta&t=I-0NlCR7HT7D-K3tEYvaidGzJX_B240wEJnwZEBP6ko"
+    },
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_outboundemails-startup-coldemail-activity-7475540767323668480-4p_4?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7475540767323668480",
+    "shareUrn": "urn:li:ugcPost:7474650800074567680",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7474650800074567680",
+    "engagement": {
+      "id": "7474650800074567680",
+      "likes": 3,
+      "comments": 1,
+      "shares": 1,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 3
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7475185897689235456",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_teachtosell-salesadvice-activity-7475185897689235456-cDNv",
+    "content": "Most people hear “teach to sell” and assume it’s just a nicer way to pitch, but after having Dan on the show, I can assure you it’s not. \n\nThe best sellers know you can't pressure people into buying... You can only help people understand the problem clearly enough for the next step to become obvious.\n\nThat’s why I’m excited for Dan Rochon’s book, #TeachToSell, launching today! \n\nIt’s a much-needed push against the lazy version of #SalesAdvice: close harder, follow up more, overcome objections, force urgency.\n\nReal sales is cleaner than that. You have to teach well, build trust, and let the right people move.",
+    "contentAttributes": [
+      {
+        "start": 330,
+        "length": 10,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAAEjj4IBueCKlPXznwpEZxCG6C1jO0k2iRY",
+          "firstName": "Dan",
+          "lastName": "Rochon",
+          "linkedinUrl": "https://www.linkedin.com/in/danrochon",
+          "publicIdentifier": "danrochon"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1782223200247,
+      "date": "2026-06-23T14:00:00.247Z",
+      "postedAgoShort": "3d",
+      "postedAgoText": "3 days ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4D22AQE-pwS3qAC0Pw/feedshare-shrink_1280/B4DZ7w1j_xK8AM-/0/1782157033773?e=1784160000&v=beta&t=R4mKC4XXiWPc0V8NJ-XLzTDwch4EF3YmUR-xV6gCmFY",
+        "width": 1280,
+        "height": 1700
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_teachtosell-salesadvice-activity-7475185897689235456-cDNv?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7475185897689235456",
+    "shareUrn": "urn:li:share:7474908379849740288",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7474908379849740288",
+    "engagement": {
+      "id": "7475185897689235456",
+      "likes": 9,
+      "comments": 2,
+      "shares": 1,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 8
+        },
+        {
+          "type": "EMPATHY",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7474827303559278592",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_early-revenue-can-make-you-feel-like-a-genius-activity-7474827303559278592-IqOY",
+    "content": "Early revenue can make you feel like a genius, until the bill comes due.\n\n\nI went from zero to seven figures in ARR in one quarter.\n\nOn paper, it looked like rocket fuel, but in reality, we moved faster than our product, our team, and our customers could handle.\n\nWe created expectations we couldn’t consistently meet. And once trust starts leaking, pipeline doesn’t save you.\n\nLooking back, the smarter move would’ve been slower:\n\n1. Stay closer to the service work.\n2. Keep learning from customers.\n3. Build the product with more discipline.\n4. Earn the right to scale.\n\nFast growth is great, unless it teaches the market not to believe you.\n\nCatch my full appearance on Aggaeus's podcast HERE: https://lnkd.in/dpWZHCmd",
+    "contentAttributes": [
+      {
+        "start": 673,
+        "length": 7,
+        "type": "COMPANY_NAME",
+        "hyperlink": null,
+        "textLink": null,
+        "company": {
+          "id": "109424429",
+          "name": "Aggaeus",
+          "linkedinUrl": "https://www.linkedin.com/company/aggaeus/"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1782137704744,
+      "date": "2026-06-22T14:15:04.744Z",
+      "postedAgoShort": "4d",
+      "postedAgoText": "4 days ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "postVideo": {
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGxwHvxtXMdkg/videocover-low/B4DZ7srh.QK8BI-/0/1782087302072?e=1783105200&v=beta&t=suUHHmJIzyZdtftmRJaWITNGZE59fph0EnfgMKpb7Z8",
+      "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGxwHvxtXMdkg/mp4-720p-30fp-crf28/B4DZ7srh.QK8B8-/0/1782087306405?e=1783105200&v=beta&t=ccDSZhB9X_a8WWDlBHUdTP_hNcWJdhW23IUYilRaSmk"
+    },
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_early-revenue-can-make-you-feel-like-a-genius-activity-7474827303559278592-IqOY?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7474827303559278592",
+    "shareUrn": "urn:li:ugcPost:7474615719909920768",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7474615719909920768",
+    "engagement": {
+      "id": "7474615719909920768",
+      "likes": 3,
+      "comments": 2,
+      "shares": 1,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 2
+        },
+        {
+          "type": "PRAISE",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7473837915622719488",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_predictablerevenuepodcast-activity-7473837915622719488-KWTc",
+    "content": "In this episode of the #PredictableRevenuePodcast, I interview Gidi Cohen from Bonfy.AI... founder to founder.\n\nHe shares insights into validating AI-driven data security technologies, their go-to-market strategies, and how they have adapted their messaging in a fast-evolving AI landscape.",
+    "contentAttributes": [
+      {
+        "start": 63,
+        "length": 10,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAAABv70BHktpMNVWgAqyU0dkjQPnX_usN9s",
+          "firstName": "Gidi",
+          "lastName": "Cohen",
+          "linkedinUrl": "https://www.linkedin.com/in/gidicohen",
+          "publicIdentifier": "gidicohen"
+        }
+      },
+      {
+        "start": 79,
+        "length": 8,
+        "type": "COMPANY_NAME",
+        "hyperlink": null,
+        "textLink": null,
+        "company": {
+          "id": "101026923",
+          "name": "Bonfy.AI",
+          "linkedinUrl": "https://www.linkedin.com/company/bonfy-ai/"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1781901816278,
+      "date": "2026-06-19T20:43:36.278Z",
+      "postedAgoShort": "6d",
+      "postedAgoText": "6 days ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "postVideo": {
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGPfnlKPJh2CA/videocover-low/B4DZ7hn3nYJ8BI-/0/1781901789044?e=1783105200&v=beta&t=tB8V42EamOoE4rTKVFpW6o5LEjZUrXigyrlxK7hDOAM",
+      "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGPfnlKPJh2CA/mp4-720p-30fp-crf28/B4DZ7hn3nYJ8B8-/0/1781901810250?e=1783105200&v=beta&t=5RZfO9f10u2jTDy_LN-gPVefXa838m6WlMTFqz-W_K0"
+    },
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_predictablerevenuepodcast-activity-7473837915622719488-KWTc?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7473837915622719488",
+    "shareUrn": "urn:li:ugcPost:7473837733052936192",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7473837733052936192",
+    "engagement": {
+      "id": "7473837733052936192",
+      "likes": 5,
+      "comments": 1,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 4
+        },
+        {
+          "type": "INTEREST",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7473049590808674304",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_customeracquisition-activity-7473049590808674304-4Lkq",
+    "content": "A lot of founders want the clean version of #CustomerAcquisition.\n\nBad news: There is NOT one.\n\nThe real version is rough:\n\n- You ask questions that feel too obvious.\n- You pitch too early and learn why it didn't work.\n- You get polite compliments that go nowhere.\n- You chase the wrong segment for too long.\n- You realize the thing people praise is not the thing they'll buy.\n\nThat's what I mean when I say finding customers is terrifying, it's not that sales is scary. It's just that the market tells you the truth faster than almost anything else.\n\nYou can ignore these signals all you want, but the company's bank account will feel it.\n\nMy advice: your goal should be to build a process that turns fear into learning.",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1781713864996,
+      "date": "2026-06-17T16:31:04.996Z",
+      "postedAgoShort": "1w",
+      "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_customeracquisition-activity-7473049590808674304-4Lkq?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7473049590808674304",
+    "shareUrn": "urn:li:share:7473049588975906817",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7473049588975906817",
+    "engagement": {
+      "id": "7473049590808674304",
+      "likes": 4,
+      "comments": 2,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 3
+        },
+        {
+          "type": "PRAISE",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7472830247382642688",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_a-relationship-first-campaign-feels-slow-activity-7472830247382642688-ANnS",
+    "content": "A relationship-first campaign feels slow until you understand not everyone is ready to buy right now.\n\n- Some people are future buyers.\n- Some are future partners.\n- Some are future referrers.\n- Some are just smart people worth knowing.\n\nIf every touchpoint asks for a meeting, you burn trust with the 95% who are not ready.\n\nSometimes the better play is:\n\n- Share something useful.\n- Ask a real question.\n- Feature someone's thinking.\n- Follow up without pretending it's urgent.\n- Stay visible until timing changes.\n\nThat's compound interest on trust.",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1781661569448,
+      "date": "2026-06-17T01:59:29.448Z",
+      "postedAgoShort": "1w",
+      "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "article": {
+      "title": "The Problem With Asking Everyone for a Meeting",
+      "subtitle": "Collin Stewart",
+      "link": "https://www.linkedin.com/pulse/problem-asking-everyone-meeting-collin-stewart-x0c4f?trackingId=utKa%2BQ68%2FLBL1jfJYHfbZA%3D%3D",
+      "linkLabel": "Open article: The Problem With Asking Everyone for a Meeting by Collin Stewart • 2 min read",
+      "description": "Trust me, I know that a relationship-first approach feels painfully slow when you’re the founder staring at pipeline targets, runway, and a calendar t",
+      "image": {
+        "url": "https://media.licdn.com/dms/image/v2/D4D12AQGZl32Ys6eBLw/article-cover_image-shrink_720_1280/B4DZ7TSPRSGYAQ-/0/1781661237169?e=1784160000&v=beta&t=NUT9FejGVWl8BLrOTERP-Cl-ROkuEysYiWk4LqOpSYg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "newsletterUrl": "https://www.linkedin.com/newsletters/the-sales-weekly-6990739351273902081",
+    "newsletterTitle": "The Sales Weekly",
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_a-relationship-first-campaign-feels-slow-activity-7472830247382642688-ANnS?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7472830247382642688",
+    "shareUrn": "urn:li:ugcPost:7472830246900199424",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7472830246900199424",
+    "engagement": {
+      "id": "7472830246900199424",
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "APPRECIATION",
+          "count": 2
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7472335744951480321",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_the-first-10-customers-should-teach-you-more-activity-7472335744951480321-Q1k9",
+    "content": "The first 10 customers should teach you more than they pay you.\n\nThat sounds backwards until you live it.\n\nEarly revenue is important, obviously, but the real value of those first customers is the learning:\n\n- Why they cared.\n- What almost stopped them.\n- What they tried before.\n- What language they used.\n- What they expected after buying.\n- What you misunderstood about the problem.\n\nIf you rush past that learning, you build a sales motion on top of assumptions.\n\nThat's how companies end up scaling into the wrong market, wrong message, or wrong customer.\n\nThe first customers are the curriculum.",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1781543670881,
+      "date": "2026-06-15T17:14:30.881Z",
+      "postedAgoShort": "1w",
+      "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4D22AQF3ott8WZTh-w/feedshare-image-high-res/B4DZ7MRw3eJcAY-/0/1781543669521?e=1784160000&v=beta&t=htZ4QMO1ncBZLIawsAo7B91B4-Lze7B3xXOC6DCGz5M",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_the-first-10-customers-should-teach-you-more-activity-7472335744951480321-Q1k9?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7472335744951480321",
+    "shareUrn": "urn:li:share:7472335743672061952",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7472335743672061952",
+    "engagement": {
+      "id": "7472335744951480321",
+      "likes": 19,
+      "comments": 5,
+      "shares": 3,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 15
+        },
+        {
+          "type": "INTEREST",
+          "count": 3
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7471222115430522880",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_sales-activity-7471222115430522880-rvz2",
+    "content": "You probably might think inconsistent revenue is a sales problem.\n\nThat you can fix it with:\n- More calls. \n- More emails. \n- More follow-up. \n- More pressure.\n\nBut Dan Rochon sees the problem differently. \n\nIn our recent conversation on the #PredictableRevenuePodcast, Dan connects predictable income to something deeper than activity volume: the ability to help prospects understand their problem, trust the path forward, and make a decision without feeling pushed into it.\n\nCheck it out!",
+    "contentAttributes": [
+      {
+        "start": 165,
+        "length": 10,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAAEjj4IBueCKlPXznwpEZxCG6C1jO0k2iRY",
+          "firstName": "Dan",
+          "lastName": "Rochon",
+          "linkedinUrl": "https://www.linkedin.com/in/danrochon",
+          "publicIdentifier": "danrochon"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1781278160913,
+      "date": "2026-06-12T15:29:20.913Z",
+      "postedAgoShort": "2w",
+      "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "repostId": "7470891017379131392",
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_sales-activity-7471222115430522880-rvz2?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7471222115430522880",
+    "shareUrn": "urn:li:ugcPost:7471222114495201282",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7471222114495201282",
+    "repost": {
+      "id": "7470891017379131392",
+      "linkedinUrl": "https://www.linkedin.com/posts/predictablerevenue_sales-activity-7470891017379131392-7ZcZ",
+      "content": "Discover how a solopreneur (Dan Rochon) built a thriving community centered around teaching #sales without being pushy or too salesy. \n\nThis episode, hosted by Collin Stewart, dives into the journey from an initial community of 100 to scaling a mission to transform the sales approach for a million entrepreneurs.",
+      "contentAttributes": [
+        {
+          "start": 28,
+          "length": 10,
+          "type": "PROFILE_MENTION",
+          "hyperlink": null,
+          "textLink": null,
+          "profile": {
+            "id": "ACoAAAEjj4IBueCKlPXznwpEZxCG6C1jO0k2iRY",
+            "firstName": "Dan",
+            "lastName": "Rochon",
+            "linkedinUrl": "https://www.linkedin.com/in/danrochon",
+            "publicIdentifier": "danrochon"
+          }
+        },
+        {
+          "start": 160,
+          "length": 14,
+          "type": "PROFILE_MENTION",
+          "hyperlink": null,
+          "textLink": null,
+          "profile": {
+            "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+            "firstName": "Collin",
+            "lastName": "Stewart",
+            "linkedinUrl": "https://www.linkedin.com/in/collinstewart",
+            "publicIdentifier": "collinstewart"
+          }
+        }
+      ],
+      "author": {
+        "id": "2269721",
+        "universalName": "predictablerevenue",
+        "publicIdentifier": null,
+        "type": "company",
+        "name": "Predictable Revenue™ Inc.",
+        "linkedinUrl": "https://www.linkedin.com/company/predictablerevenue/posts",
+        "info": "8,586 followers",
+        "website": null,
+        "websiteLabel": null,
+        "avatar": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEDHxQP-EywiQ/company-logo_400_400/company-logo_400_400/0/1685144535974/predictablerevenue_logo?e=1784160000&v=beta&t=1qqPTFmBWL3xMKTBk2E75TToo66GVIdWufWRGwd9WNU",
+          "width": 400,
+          "height": 400
+        },
+        "urn": "2269721"
+      },
+      "postedAt": {
+        "timestamp": 1781199220986,
+        "date": "2026-06-11T17:33:40.986Z",
+        "postedAgoShort": "2w",
+        "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+      },
+      "postImages": [],
+      "postVideo": {
+        "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQF2vMOjl4AJYQ/videocover-high/B4EZ63vr2qJkBI-/0/1781199194622?e=1783105200&v=beta&t=wIw-X4fIZGqQ37zMqbsk4EZNkejICR4GGLH7ZjEYqWM",
+        "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D4E05AQF2vMOjl4AJYQ/mp4-720p-30fp-crf28/B4EZ63vr2qJkB4-/0/1781199210514?e=1783105200&v=beta&t=yR-u2zG9Zs7S8MMb-lKPtOncqvLOUjePV7vYqAJeLE4"
+      },
+      "socialContent": {
+        "hideCommentsCount": false,
+        "hideReactionsCount": false,
+        "hideSocialActivityCounts": false,
+        "hideShareAction": true,
+        "hideSendAction": true,
+        "hideRepostsCount": false,
+        "hideViewsCount": false,
+        "trustInterventionBanner": null,
+        "hideReactAction": false,
+        "hideCommentAction": false,
+        "shareUrl": "https://www.linkedin.com/posts/predictablerevenue_sales-activity-7470891017379131392-7ZcZ?",
+        "showContributionExperience": false,
+        "showSocialDetail": true
+      },
+      "comments": [],
+      "header": {
+        "text": null
+      },
+      "entityId": "7470891017379131392",
+      "shareUrn": "urn:li:ugcPost:7470890820934594561",
+      "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7470890820934594561",
+      "engagement": null
+    },
+    "engagement": {
+      "id": "7471222114495201282",
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 2
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7470895147594076160",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_had-the-chance-to-discuss-with-dan-rochon-activity-7470895147594076160-9UGm",
+    "content": "Had the chance to discuss with Dan Rochon about how consistent daily effort and storytelling can shape your business journey and personal growth. \n\nIn this episode, we explore the power of small steps, writing as a form of therapy, and creating impactful messages through narrative techniques.",
+    "contentAttributes": [
+      {
+        "start": 31,
+        "length": 10,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAAEjj4IBueCKlPXznwpEZxCG6C1jO0k2iRY",
+          "firstName": "Dan",
+          "lastName": "Rochon",
+          "linkedinUrl": "https://www.linkedin.com/in/danrochon",
+          "publicIdentifier": "danrochon"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1781200205706,
+      "date": "2026-06-11T17:50:05.706Z",
+      "postedAgoShort": "2w",
+      "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "postVideo": {
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4D05AQEYH_OG75lECg/videocover-low/B4DZ63zcGRJcBE-/0/1781200178962?e=1783105200&v=beta&t=IqplyjHnIBZUder5I6oSfXcJeky5jG_qqvWOYhx1r5Q",
+      "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEYH_OG75lECg/mp4-720p-30fp-crf28/B4DZ63zcGRJcB4-/0/1781200198464?e=1783105200&v=beta&t=zTwscIIxf11ZHbvBFiiDc81T4BGRjtVH1JWp43lsNdg"
+    },
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_had-the-chance-to-discuss-with-dan-rochon-activity-7470895147594076160-9UGm?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7470895147594076160",
+    "shareUrn": "urn:li:ugcPost:7470894978261716995",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7470894978261716995",
+    "engagement": {
+      "id": "7470894978261716995",
+      "likes": 3,
+      "comments": 1,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 2
+        },
+        {
+          "type": "INTEREST",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7470190773867560961",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_im-a-huge-clay-fan-it-might-be-the-most-activity-7470190773867560961-jfh6",
+    "content": "I’m a HUGE Clay fan.\n\nIt might be the most powerful sales tool ever built: \n\nYou can: \n\n- Find almost any company. \n- Enrich it with almost any signal.\n- Score it however you want. \n- Route it into whatever workflow your team needs.\n\nIt’s ridiculous...\n\nBut after spending the last few years building outbound systems for startups, I’ve learned something the hard way:\n\nMost founders haven’t talked to enough of the right customers to know:  \n\na. Who actually cares?\nb. Why do they care now?\nc. What signal matters?\nd. What message earns attention?\ne. What offer is painful enough to move money?",
+    "contentAttributes": [
+      {
+        "start": 11,
+        "length": 4,
+        "type": "COMPANY_NAME",
+        "hyperlink": null,
+        "textLink": null,
+        "company": {
+          "id": "13018048",
+          "name": "Clay",
+          "linkedinUrl": "https://www.linkedin.com/company/grow-with-clay/"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1781032269923,
+      "date": "2026-06-09T19:11:09.923Z",
+      "postedAgoShort": "2w",
+      "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "article": {
+      "title": "Clay Won’t Save You From the Work You’re Avoiding",
+      "subtitle": "Collin Stewart",
+      "link": "https://www.linkedin.com/pulse/clay-wont-save-you-from-work-youre-avoiding-collin-stewart-5x8af?trackingId=2KNOkgooO2N9FENNzosyyQ%3D%3D",
+      "linkLabel": "Open article: Clay Won’t Save You From the Work You’re Avoiding by Collin Stewart • 2 min read",
+      "description": "I’m a HUGE Clay fan.It might be the most powerful sales tool ever built: You can find almost any company, enrich it with almost any signal, score it h",
+      "image": {
+        "url": "https://media.licdn.com/dms/image/v2/D4D12AQEGN0RHpCl_CQ/article-cover_image-shrink_720_1280/B4DZ6tyaJeHYAQ-/0/1781032135747?e=1784160000&v=beta&t=M8RTViFyrfABKEHVeW2yUprnR0bEovjxhfPS4DA55WQ",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "newsletterUrl": "https://www.linkedin.com/newsletters/the-sales-weekly-6990739351273902081",
+    "newsletterTitle": "The Sales Weekly",
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_im-a-huge-clay-fan-it-might-be-the-most-activity-7470190773867560961-jfh6?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7470190773867560961",
+    "shareUrn": "urn:li:ugcPost:7470190773469310976",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7470190773469310976",
+    "engagement": {
+      "id": "7470190773469310976",
+      "likes": 10,
+      "comments": 4,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 8
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 2
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7469888325491978241",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_video-games-might-become-better-talent-assessments-activity-7469888325491978241-yOwx",
+    "content": "Interviews are theater... Everyone knows the script.\n\n\n1. The candidate shows confidence.\n2. The hiring manager shows certainty.\n3. Then, 6 months later, everyone acts surprised when the hire doesn’t work out.\n\nGianluca Ferremi thinks we’re measuring the wrong thing, and he’s probably right.\n\nTechnical ability is rarely the whole problem. The harder question is: How does this person behave under pressure, ambiguity, complexity, and consequences?\n\nThat’s why video games may become better hiring signals than interviews.\n\n- No rehearsed answers.\n- No polished “greatest weakness” monologue.\n- No guessing what the interviewer wants to hear.\n\nJust behavior, and behavior is the thing we should have been hiring for all along.",
+    "contentAttributes": [
+      {
+        "start": 211,
+        "length": 16,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAAAB8OwBDShghKkk5trJBKcizKLWLpthxRo",
+          "firstName": "Gianluca",
+          "lastName": "Ferremi",
+          "linkedinUrl": "https://www.linkedin.com/in/gianlucaferremi",
+          "publicIdentifier": "gianlucaferremi"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1780960160611,
+      "date": "2026-06-08T23:09:20.611Z",
+      "postedAgoShort": "2w",
+      "postedAgoText": "2 weeks ago • Edited • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "repostId": "7464766750249664512",
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_video-games-might-become-better-talent-assessments-activity-7469888325491978241-yOwx?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7469888325491978241",
+    "shareUrn": "urn:li:ugcPost:7469888324502052864",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7469888324502052864",
+    "repost": {
+      "id": "7464766750249664512",
+      "linkedinUrl": "https://www.linkedin.com/posts/hugo-estrella_video-games-might-become-better-talent-assessments-activity-7464766750249664512-9Ic0",
+      "content": "Video games might become better talent assessments than interviews and Gianluca Ferremi knows WHY:\n\nPeople behave differently when they’re not trying to impress someone.\n\n- Remove the performance.\n- Remove the “right answer.”\n- Add complexity, pressure, and consequences.\n\nYOU stop getting REHEARSED responses, and THEY start getting REAL.",
+      "contentAttributes": [
+        {
+          "start": 71,
+          "length": 16,
+          "type": "PROFILE_MENTION",
+          "hyperlink": null,
+          "textLink": null,
+          "profile": {
+            "id": "ACoAAAAB8OwBDShghKkk5trJBKcizKLWLpthxRo",
+            "firstName": "Gianluca",
+            "lastName": "Ferremi",
+            "linkedinUrl": "https://www.linkedin.com/in/gianlucaferremi",
+            "publicIdentifier": "gianlucaferremi"
+          }
+        }
+      ],
+      "author": {
+        "id": "ACoAACgIYAYBXADZrrkP-_ByUvuyqXBzlNj3c88",
+        "universalName": null,
+        "publicIdentifier": "hugo-estrella",
+        "type": "profile",
+        "name": "Hugo Estrella",
+        "linkedinUrl": "https://www.linkedin.com/in/hugo-estrella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACgIYAYBXADZrrkP-_ByUvuyqXBzlNj3c88",
+        "info": "Part-time Rapper, Marketing Coordinator, Content and Art Enthusiast",
+        "website": null,
+        "websiteLabel": null,
+        "avatar": {
+          "url": "https://media.licdn.com/dms/image/v2/D4D03AQGOz6o3MpKiLg/profile-displayphoto-crop_800_800/B4DZwxhg9yJkAI-/0/1770357396938?e=1784160000&v=beta&t=Tp7C9Yo0g08VlFIVPwS64bJ5wwcpCFBLS5AoDeI6jVU",
+          "width": 800,
+          "height": 800
+        },
+        "urn": "671637510"
+      },
+      "postedAt": {
+        "timestamp": 1779739081919,
+        "date": "2026-05-25T19:58:01.919Z",
+        "postedAgoShort": "1mo",
+        "postedAgoText": "1 month ago • Edited • Visible to anyone on or off LinkedIn"
+      },
+      "postImages": [],
+      "postVideo": {
+        "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQE3J619md4EzA/videocover-low/B4EZ5gtu7hG8BM-/0/1779739064831?e=1783105200&v=beta&t=usFRwaJyoIyNqGOV0PWdd5eQEzH9KozX-i-vRwgMMB0",
+        "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE3J619md4EzA/mp4-720p-30fp-crf28/B4EZ5gtu7hG8CA-/0/1779739075885?e=1783105200&v=beta&t=BDPHRXJDhBRvf5fqVEMyFTK4tvGP6y6bPGaHYoVo5bA"
+      },
+      "socialContent": {
+        "hideCommentsCount": false,
+        "hideReactionsCount": false,
+        "hideSocialActivityCounts": false,
+        "hideShareAction": true,
+        "hideSendAction": true,
+        "hideRepostsCount": false,
+        "hideViewsCount": false,
+        "trustInterventionBanner": null,
+        "hideReactAction": false,
+        "hideCommentAction": false,
+        "shareUrl": "https://www.linkedin.com/posts/hugo-estrella_video-games-might-become-better-talent-assessments-activity-7464766750249664512-9Ic0?",
+        "showContributionExperience": false,
+        "showSocialDetail": true
+      },
+      "comments": [],
+      "header": {
+        "text": null
+      },
+      "entityId": "7464766750249664512",
+      "shareUrn": "urn:li:ugcPost:7464766645622984705",
+      "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7464766645622984705",
+      "engagement": null
+    },
+    "engagement": {
+      "id": "7469888324502052864",
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7468711069595848704",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_cold-email-is-not-dead-but-generic-timing-activity-7468711069595848704-mbZI",
+    "content": "Cold email is NOT dead, but generic timing is.\n\n\nA lot of founders write outbound like every person on the list is ready to buy this week, and guess what? They aren't.\n\nMost are running their business, dealing with other fires, and not thinking about you at all. They probably don't even know you exist.\n\nThat means the old \"clean value prop + calendar link\" email only works for the tiny slice of people already in-market. For everyone else, it feels like noise.\n\n---\n\nBefore you send, answer two questions:\n\n1. Why now? \nCan you point to something specific that makes this week relevant?\n\n2. Why them?\nIf they forwarded your email to their boss, would the boss agree it's their problem to fix?\n\nIf you can't answer both, DON'T send that email. It's still a draft.",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1780679480933,
+      "date": "2026-06-05T17:11:20.933Z",
+      "postedAgoShort": "3w",
+      "postedAgoText": "3 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_cold-email-is-not-dead-but-generic-timing-activity-7468711069595848704-mbZI?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7468711069595848704",
+    "shareUrn": "urn:li:share:7468711066911502336",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7468711066911502336",
+    "engagement": {
+      "id": "7468711069595848704",
+      "likes": 6,
+      "comments": 3,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 5
+        },
+        {
+          "type": "INTEREST",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7468358017940475904",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_ai-chatgpt-claude-activity-7468358017940475904-wzFS",
+    "content": "I used to think “non-scalable” was startup code for “we don’t have a real growth motion yet.”\n\nI’m less sure now... After talking with Ankur Patel from Multimodal, I think some markets require the non-scalable stuff first.\n\n- Advisory boards. \n- Trust-building. \n- Peer conversations. \n- Actual time with the people you want to serve.\n\nEspecially in #AI, where everyone is suddenly competing with #ChatGPT, #Claude, #Microsoft, and 500 other vendors saying some version of the same thing.\n\nThe product still has to be great. But in a high-trust market, being better isn’t always enough. \n\nBuyers need to believe you understand their world, their risk, and the path to adopting the technology safely.\n\nThat’s the part founders love to skip. It’s also the part that might get you the right to show the product in the first place.",
+    "contentAttributes": [
+      {
+        "start": 135,
+        "length": 11,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAANbhCQBZ3ognA-eji2pHe9a2r8lS8bkMS0",
+          "firstName": "Ankur",
+          "lastName": "Patel",
+          "linkedinUrl": "https://www.linkedin.com/in/ankurpatel9",
+          "publicIdentifier": "ankurpatel9"
+        }
+      },
+      {
+        "start": 152,
+        "length": 10,
+        "type": "COMPANY_NAME",
+        "hyperlink": null,
+        "textLink": null,
+        "company": {
+          "id": "89622259",
+          "name": "Multimodal",
+          "linkedinUrl": "https://www.linkedin.com/company/multimodalai/"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1780595306859,
+      "date": "2026-06-04T17:48:26.859Z",
+      "postedAgoShort": "3w",
+      "postedAgoText": "3 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "postVideo": {
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQFSHUPpqZ2BAA/feedshare-thumbnail_720_1280/B4EZ6Tv7jMK0A0-/0/1780595276253?e=1783105200&v=beta&t=4WyTE5Q1JnxXmikASWQRt4EFf4c1cz_Jn1uzEXlkJ8c",
+      "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFSHUPpqZ2BAA/mp4-720p-30fp-crf28/B4EZ6Tv7jMK0B4-/0/1780595292510?e=1783105200&v=beta&t=zRXCvgDKY0j2iAUjKiphf6yvDI194mLc_g1XBRiFxHc"
+    },
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_ai-chatgpt-claude-activity-7468358017940475904-wzFS?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7468358017940475904",
+    "shareUrn": "urn:li:ugcPost:7468357859144245249",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7468357859144245249",
+    "engagement": {
+      "id": "7468357859144245249",
+      "likes": 6,
+      "comments": 1,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 4
+        },
+        {
+          "type": "EMPATHY",
+          "count": 1
+        },
+        {
+          "type": "INTEREST",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7467936503407747072",
+    "linkedinUrl": "https://www.linkedin.com/posts/collinstewart_the-most-dangerous-feedback-a-founder-can-activity-7467936503407747072-pSUG",
+    "content": "The most dangerous feedback a founder can get: \"That's really smart.\"\n\n\nYes... It feels good, it sounds validating, and it makes the deck feel less ridiculous.\n\nBut it does not tell you if someone will buy or not.\n\nIn the early days, I treated positive feedback like traction... I heard interest and assumed demand.\n\nWRONG.\n\nA better question is: What are they already doing to solve this? If the answer is \"nothing,\" you're probably not looking at a painful problem yet.\n\nIf the answer is \"spreadsheets, duct tape, consultants, interns, late nights, bad tools, and still not enough,\" now you're getting closer.\n\nThe Terrifying Art of Finding Customers is the book I wish I had when I was confusing compliments with traction.\n\nIf you're in that stage, it will save you some scars. Don't take it from me! Ask Lars Nilsson or Kris Rudeegraap... they'll vouch.",
+    "contentAttributes": [
+      {
+        "start": 808,
+        "length": 12,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAAAAf0kBZFnmaQLaE4aTua38SSrSdrOKu_w",
+          "firstName": "Lars",
+          "lastName": "Nilsson",
+          "linkedinUrl": "https://www.linkedin.com/in/lanilsson",
+          "publicIdentifier": "lanilsson"
+        }
+      },
+      {
+        "start": 824,
+        "length": 15,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAACdykgBdCs11hVi78EjsyKF6LNf6fdsato",
+          "firstName": "Kris",
+          "lastName": "Rudeegraap",
+          "linkedinUrl": "https://www.linkedin.com/in/rudeegraap",
+          "publicIdentifier": "rudeegraap"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "universalName": null,
+      "publicIdentifier": "collinstewart",
+      "type": "profile",
+      "name": "Collin Stewart",
+      "linkedinUrl": "https://www.linkedin.com/in/collinstewart?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKwpiYBCiYza160L4At2RE9CmDjGY5IMFA",
+      "info": "Order NOW: The Terrifying Art of Finding Customers!",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEgAvzcRbVlQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591717210155?e=1784160000&v=beta&t=GHRD3JRfrVprhOODYRV3PN5n1n6HwB7hZk8EBrk4Np8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "45131302"
+    },
+    "postedAt": {
+      "timestamp": 1780494809963,
+      "date": "2026-06-03T13:53:29.963Z",
+      "postedAgoShort": "3w",
+      "postedAgoText": "3 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4D22AQGzzympR-plvw/feedshare-shrink_1280/B4DZ6NwrKIJcAM-/0/1780494808035?e=1784160000&v=beta&t=-8mgw84lO-3CflEEkbdYhgdkVyR8kr0oUQdSE1x9f1c",
+        "width": 1200,
+        "height": 514
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/collinstewart_the-most-dangerous-feedback-a-founder-can-activity-7467936503407747072-pSUG?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7467936503407747072",
+    "shareUrn": "urn:li:share:7467936500337242112",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7467936500337242112",
+    "engagement": {
+      "id": "7467936503407747072",
+      "likes": 3,
+      "comments": 3,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "INTEREST",
+          "count": 2
+        },
+        {
+          "type": "LIKE",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/collinstewart/",
+      "sessionId": "6d7e4fef-f576-4280-802f-e628a22d568c"
+    }
+  }
+]

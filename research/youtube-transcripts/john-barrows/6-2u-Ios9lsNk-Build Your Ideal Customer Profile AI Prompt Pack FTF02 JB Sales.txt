@@ -1,0 +1,70 @@
+Metadata:
+{
+  "expert": "John Barrows",
+  "channel_name": "John Barrows",
+  "video_id": "2u-Ios9lsNk",
+  "title": "Build Your Ideal Customer Profile | AI Prompt Pack FTF02 | JB Sales",
+  "video_url": "https://www.youtube.com/watch?v=2u-Ios9lsNk",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 54,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+Hey, John Barros here, CEO of JB Sales.
+This AI prompt pack is part of the
+Filling the Funnel training program,
+which is the complete operating system
+for your prospecting efforts. Each
+module in the program has a prompt pack
+that goes with it. Now, if you've gone
+through the training and done the
+exercises, the prompt pack helps you
+take what you built, sharpen it using
+AI, and start building your complete
+prospecting operating system.
+Every prompt pack feeds to the next one,
+and when you put them all together, you
+have a full AI-powered system for
+prospecting from start to finish. Now,
+if you haven't gone through the training
+yet, the prompt pack walks you through
+the process from scratch and gives you a
+solid output you can use right away.
+Either way, the prompt pack gives you
+the what, the training gives you the
+why, and the full membership gives you
+the entire system. This one's for the
+ideal customer profile. Once you know
+your numbers, you need to know who to go
+after. Not everyone's a good fit, and
+most reps waste time chasing accounts
+that were never going to close.
+This prompt pack helps you identify the
+characteristics of your best customers,
+tier your target accounts by fit and
+opportunity, and build a focused ICP you
+can actually prospect against. It pulls
+from real deal history, if you have it,
+and researches your market to find
+patterns you might be missing.
+If you've done the ICP workbook from the
+training, upload it, and the AI builds
+on what you've already have. So,
+download the prompt pack using the link
+below. Open a fresh chat in whatever AI
+platform you're using, whether it's
+Claude, ChatGPT, Gemini, Copilot, or any
+of the other ones. Upload the PDF and
+type "Walk me through this
+step-by-step", and the AI handles the
+rest. Now, if you want the full program
+with all the modules, live sessions, and
+the complete prompt pack library, the JB
+Sales Pro membership is where that
+lives, and you can check that out in the
+link below as well. Let's make it
+happen.

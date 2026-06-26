@@ -1,0 +1,119 @@
+Metadata:
+{
+  "expert": "Sam McKenna",
+  "channel_name": "Samantha McKenna - #samsales",
+  "video_id": "LGk4dtwsFJc",
+  "title": "Creating Urgency with Microsoft",
+  "video_url": "https://www.youtube.com/watch?v=LGk4dtwsFJc",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 103,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+Meet to me is one of the key
+differentiators of any great sales rep.
+And we could talk about speed in a lot
+of ways. Speed to lead, speed to contact
+us form. Urgent bird gets the worm. I'm
+obviously very passionate about this. We
+can also talk about the speed of my
+talking, which I'm always working on
+slowing down. But I think what we also
+need to think about with speed is the
+urgency that we create in our deals.
+Now, when we think about this, there are
+a ton of things that impact urgency.
+usually finding buyer pain,
+understanding the so what of what we
+bring to the table and all of that. But
+let's pretend we've covered that. How do
+we create urgency and the way that we
+run our sales process? So, a few
+productivity hacks from my side. One,
+I'm a pen and paper kind of gal. I like
+to write down the things that are the
+most important that I need to do this
+week, next week to make sure no stone
+gets unturned. The second thing I
+thought about is creating a chatbot for
+myself called Remind Bonds. call it
+that, remind my bonds. And basically, I
+just talk to it really quickly, send a
+voice memo, and it creates a reminder
+for me at a particular date and time.
+So, let's say I'm just getting off a
+call with somebody and I want to go and
+pop over and say, "Okay, I've got to
+jump on my next call." But before I do
+that, I have 13 seconds. How am I going
+to get down what I need to do? I will
+record this voice memo and say, "This is
+what I need to do. This is specifically
+what I want to send, and I need to do it
+in 3 days at 8:00. Can you please remind
+me by?" It's that fast. and then it goes
+in and it'll remind me then it's like a
+little personal assistant. And just the
+ability to do that speed in between
+meetings is killer. Third, if you are a
+Microsoft Dynamics 365 sales premium
+customer, you will see an announcement
+today of all these fantastic releases
+you get. Anything from data enrichment
+to my favorite, recommended actions.
+Let's say it's Monday morning and you're
+signing behind your desk and you are
+like, "What do I do here? What do I
+sell? And what am I supposed to do
+next?" Recommended actions gives you the
+answer to that. So instead of looking at
+your dashboard or pipeline full of deals
+and thinking where do I go? Look at
+recommended actions and how it pulls in
+all this information from your CRM to
+your conversations and a host of other
+sources and tells you who to prioritize
+and what to do next. And on that note,
+think about evergreen content. That's my
+fourth hack. I keep a running list of
+articles, LinkedIn posts, case studies,
+testimonials, you name it, where I align
+it and say CRO's are going to love this.
+CMOs are going to love this, chief
+communications officers are going to
+love this. And so when I get something
+from my chatbot that says do this at
+this time, or when I get something from
+recommended actions that tells me what
+to do, I have to think, okay, now I know
+what to do. What should I send? And I
+can pull from evergreen content. One of
+the premier deals that I closed was in
+about six weeks with the chief
+communications officer and it went from
+about February to end of April. It was
+really, really quick in terms of how we
+closed it. And one of the things that I
+did was drive that deal forward with
+evergreen content. Here's another proof
+point. Here's something for you to think
+about. Here's something else for you to
+use. That staff goes such a long way
+because you are educating the customer
+along the way and helping them
+understand more and creating that
+urgency all while just being a great
+partner. So see what you can employ.
+Pull one or two things from this this
+week. See how it can create an urgency
+or dialogue. And also mix up your timing
+a little bit. Instead of the 9 to5,
+think about sending it early on a Sunday
+morning or late on a Sunday afternoon. I
+think you'll be surprised to find out
+how people react because you're varying
+your times and creating that urgency.

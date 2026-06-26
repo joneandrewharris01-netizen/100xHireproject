@@ -1,0 +1,38 @@
+Metadata:
+{
+  "expert": "Jason Bay",
+  "channel_name": "Jason Bay",
+  "video_id": "m-TPpWzqPJU",
+  "title": "Disagree and commit, then learn",
+  "video_url": "https://www.youtube.com/watch?v=m-TPpWzqPJU",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 22,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+Everybody disagrees and nobody just
+commits. People just, you know, change,
+change. People don't like change. They
+don't want to change. Okay, I'm not
+going to change. Like, oh, I don't
+really believe in this idea. I'm not
+going to do it. I'm not going to
+implement it. You guys can do it, right?
+Like,
+>> so I think the idea of like what Amazon
+taught me is like even if it's a really
+bad idea, even if it's the worst idea,
+right, and it's horrible and everything
+falls apart and it collapses and it's,
+you know, detrimental, like just do the
+idea. We'll all agree on it. And what
+will we come out of it? will come out of
+it learning something new.
+>> Yeah.
+>> But you won't what you won't get out of
+it is you won't if you didn't do it, you
+would have never learned something new.

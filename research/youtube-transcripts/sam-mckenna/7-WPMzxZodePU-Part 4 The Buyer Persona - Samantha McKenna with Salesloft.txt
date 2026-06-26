@@ -1,0 +1,165 @@
+Metadata:
+{
+  "expert": "Sam McKenna",
+  "channel_name": "Samantha McKenna - #samsales",
+  "video_id": "WPMzxZodePU",
+  "title": "Part 4: The Buyer Persona - Samantha McKenna with Salesloft",
+  "video_url": "https://www.youtube.com/watch?v=WPMzxZodePU",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 149,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+Before you write a single word of email
+one, we have to decide who this cadence
+is for, meaning who's the audience. And
+I don't mean marketing as a broad label,
+or IT, or even the CIO. What I mean is a
+specific human with a real day job, real
+pressure, and real priorities. Because
+the entire point of the cadence is to
+show them we know them. And in a way
+that clearly says this email was written
+for someone like them in their exact
+role.
+Here's what I mean. A director of
+marketing at a regional hospital has a
+completely different world than a VP of
+marketing at a series B SaaS company.
+The former is thinking about patient
+volume, compliance, internal approvals.
+The latter, thinking about pipeline,
+attribution, and how fast they can scale
+demand generation. And even inside the
+same company, the role changes the
+language. Demand gen cares about
+performance and lead quality. Brand
+cares about perception and consistency.
+The CMO? They care about all of it, but
+through the lens of revenue, risk, and
+what they have to defend at the board
+level.
+So when you pick your persona, capture
+the nuances that change the message. How
+long have they been in that role?
+Whether they're new to the industry,
+what their company size is, what their
+team size is, how they are measured, if
+they own a budget or influence it. If
+your persona is too broad, your email
+becomes too broad. And yes, you may need
+multiple cadences inside one ICP. You're
+not going to solve that by swapping a
+couple of merge fields, but I will show
+you how to build variations without
+reinventing the entire thing.
+Now, let's talk about email one,
+specifically the subject line and the
+preview text. This is where it's
+critical that show me you know me either
+shows up immediately, so you don't run
+the risk of being deleted.
+Buyers are trained to treat sales emails
+like
+So, if they don't see something specific
+to them, or if the email suggests that
+it might be a sales email, it'll likely
+be deleted. If email one fails, the odds
+are exponentially lower that your
+remaining cadence will make an impact.
+So, let's talk about your subject line
+first. Your subject line has one job.
+Earn the open.
+That means it can't look like every
+other subject line in that reader's
+inbox. Not meeting inquiry, not company
+name plus company name, and certainly
+not quick question name. Those scream
+I want to sell you something. What works
+is a subject line that feels like it
+could only be meant for them, or someone
+exactly like them. If you've been a
+follower of mine, or a follower of Sam
+Sales for some time, you'll know that we
+promote ensuring your subject line
+contains keywords or phrases that could
+only make sense to that one person
+reading them.
+For example, here's a subject line made
+just for me.
+Barefoot Contessa plus Nickelodeon
+Classics plus Switzerland. Now, it
+doesn't make any sense to you, but why
+does it stand out to me?
+Because if you look at my LinkedIn
+profile, you'll learn that I love
+Barefoot Contessa, that I was on a
+Nickelodeon game show as a kid, and that
+I originally hail from Switzerland.
+Confusing to everyone else, but
+guaranteed an open from me.
+You would then open the email with your
+connection or thoughts aligned with
+those topics, or do that, but also add a
+PS. If one topic makes sense to lead
+with and another to close with. Now,
+this is hyper-specific to one person,
+and well worth the effort. But, for this
+series, we're going to scale that
+concept for the buyer persona level. You
+still show them you know them, but you
+do it through their role and their
+world. A simple formula is hook plus
+value. The hook creates curiosity, and
+the value makes it worth their time.
+Don't stress about the length. Most
+sales subject lines are one to three
+words, which is why a longer one will
+stand out. Just make sure the most
+important words show up early because on
+mobile, you may only see around the
+first 35 to 40 characters.
+And if you're savvy with AI, you can
+create a prompt around this asking the
+AI to be an elite newspaper editor who
+excels at finding the hook in a story
+and the value for the reader.
+Then, have it give you 20 headlines
+based on your email and you can use that
+in your subject line.
+Some of our favorites are Where in the
+world is Carmen Sandiego and Tesla? For
+a few hundred buyer personas at Tesla
+who just put on a traveling car show.
+Or doubling revenue in three years with
+Salesloft. For a UK-based bank who put
+out a press release about doubling their
+revenue in three years.
+Now, the preview text, which is the
+first few words showing up on the first
+line of your email after the subject
+line.
+On mobile, again, you might only get a
+small slice, 35 or so characters. On
+desktop, you might get a little bit
+more, up to 140.
+Either way, those first few words
+matter. Your goal is simple. Do not
+announce, "This is a sales email." with
+something like, "I hope this email finds
+you doing well." or by jumping right
+into your value proposition with
+language like, "Name, I'm getting in
+touch because we help companies like
+Salesloft do X."
+Instead, a clean opener that works is,
+"We have yet to be properly introduced,
+but I'm Sam McKenna and I'm part of the
+team at Salesloft."
+Notice how I said team, not my sales
+title. I mean, we want to get this thing
+open, don't we?

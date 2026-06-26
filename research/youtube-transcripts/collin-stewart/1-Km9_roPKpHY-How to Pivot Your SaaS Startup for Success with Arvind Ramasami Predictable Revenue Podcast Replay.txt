@@ -1,0 +1,455 @@
+Metadata:
+{
+  "expert": "Collin Stewart",
+  "channel_name": "Predictable Revenue",
+  "video_id": "Km9_roPKpHY",
+  "title": "How to Pivot Your SaaS Startup for Success with Arvind Ramasami | Predictable Revenue Podcast Replay",
+  "video_url": "https://www.youtube.com/watch?v=Km9_roPKpHY",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 439,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+Welcome back to the predictable revenue
+podcast. I'm your host Colin Stewart and
+today I'm joined by Arvin Ramasami. He's
+the founder and CEO over at Staff Agent
+and we're going to talk product market
+fit. Welcome to the predictable revenue
+podcast where sales leaders teach you
+what's working for them. All that said,
+Arvin, welcome to the show. Thanks for
+joining us today.
+>> Thank you.
+>> I want to talk about staff agent, but I
+want to talk about kind of the the
+journey to get to staff agent. So, where
+did the idea come from and talk to me
+about how you got there? Well, when I
+started my business, that's when the AI
+buzz started coming out in the market.
+This was back about roughly three and a
+half years ago.
+>> Are you saying you're responsible for
+all the AI buzz? It was all you?
+>> Well, I was on the receiving side,
+forced to be into it.
+>> Yeah.
+When I started thinking on what is the
+problem that I'm going to solve, what
+motivated me was the area where there
+are large volumes of human resources
+involved, the repetitive task and how I
+can help those. And then I decided to
+build a phone platform, a telephone
+platform driven by AI where uh it
+supplements the human resources to get
+the work done fast. And then I was
+thinking what is the first thing that I
+need to build and the second thing was
+where is the revenue coming from. So I
+come from a software engineering and
+security background. So I decided to
+start with uh identity and access
+management services. And I started that
+I pretty much had SAS companies for
+company formation for payroll 401k
+pretty much everything except for one
+area which is hiring. I was still
+dependent on the human resources where
+uh one person cannot like reach many in
+a given span of time. That's when this
+idea came to me. Why not I built one for
+hiring first? That's how it started.
+>> Was it smooth sailing and now you're you
+know 100 billion in revenue or were
+there some bumps along the way?
+>> Well, I wish it's definitely not smooth.
+I've had my own challenges like
+originally I I I used to talk tech more
+tech. I'm not coming from a sales
+background. So I used to talk more of AI
+than solving the problem. So it was more
+of selling the concept than selling the
+product itself. So it took me about 6
+months after the beta was launched to go
+through that stage. Finally I pivoted my
+style towards how this will help your
+business operations. So to in those 6
+months you spent like you built the
+thing you spent 6 months kind of
+struggling to sell it. The realization
+was that you had to basically I think
+figure out how to position it and then
+realize that instead of just talking
+about features and specs you had to talk
+about kind of the business problems that
+they're solving and so was there
+anything in the product that changed
+during that time or was this just the
+kind of the sales learning period? A lot
+of changes in the product as well as the
+learning in sales plus like I said it
+was more of how does this work rather
+than how much it costs or how it is
+going to help. So this is a totally a
+new concept. It's like huh come on who's
+going to talk to a robot right? So that
+was the market perception and everything
+changed. I think this was 2024 Q4 when
+Satya Nadada spoke a lot about voice AI
+in their Ignite event followed by I
+think a week or two later Gemini
+introduced their voice AI. So now voice
+AI is all over. So the first 6 months it
+sounded like I'm the only one talking
+about it in my network. So I was go with
+an intention of selling but I ended up
+educating people and then the answer was
+h it's not going to work. So that's the
+phase I had to go through and especially
+when I'm bootstrapped it's good and bad.
+good meaning nobody questions me why the
+sales is not happening but bad that I'm
+burning my own funds and I'm not getting
+anything out of it right so all this I
+was going through from a market
+perspective and from the technology side
+there was a lot of lag in the voice the
+models don't sound intelligent enough so
+there were a lot of challenges to start
+with and then by in that 6 months is
+when I tried it for my own hiring I
+could see what are all the flaws that I
+was going through. So that helped me a
+little bit to shape up like taking care
+of the lag, how much would it cost me
+for all the layers involved in the
+architecture. So those were the
+learnings. So in short, it was the full
+stream of learning. It's not just sales,
+it's everything.
+>> How long did it take from kind of when
+you when you had something that you
+thought was ready to by the time you got
+your first customer? What was that kind
+of time period?
+>> I think roughly it took me six months.
+>> Okay. Where did you find that first
+customer? from my uh business network.
+So I used to attend forums during those
+six months like the sales forums and uh
+you know the services consulting firms.
+I was actually actively talking about
+it. So one of the staffing firm step
+forward to try it.
+>> Nice.
+>> That was Yeah.
+>> What do you think made them take a
+chance on you?
+>> Well the problem statement was very
+evident. They have the same problem.
+They get at least like four to five
+positions in a day and they have a
+limited staff. So depending on what kind
+of position they're trying to fill, it
+takes few days to few weeks to get to
+the top three. So their big pain was how
+do I navigate through all the résumés
+and the initial screening to filter out
+the candidates. So the since the problem
+statement was kind of very evident in
+the market and there was no automation
+involved and that's when uh I'm proud to
+say that I was first AI who came up with
+that solution.
+>> Interesting. I love it. And so after you
+land your first one, how long did it
+take you to find your next one? I
+>> think roughly about another month.
+>> Okay. And was this network as well?
+>> It was a reference from the first one.
+>> I love that. There's nothing better than
+you know your customers referring you to
+more customers.
+>> Yeah. Oh, by the way, these are all the
+trial customers like the first and
+second and for a longer time. I I ran
+the trial for at least I would say 10
+months to a year.
+>> Talk to me about the trial. What did
+that entail? Like free trial, they give
+you a dollar, they give you $100. Like
+what did that look like? No dollars
+involved. I just give the platform for
+free. They start using it. So it it was
+fully free.
+>> And how many folks did you onboard that
+way?
+>> Roughly about 5 to eight.
+>> Okay. And free for the first year for
+the first five to eight people.
+>> Okay. Here is what it is. I started off
+telling it is a 1 month free trial then
+later uh convert to a paid. But that one
+month did not gain enough confidence for
+my customers to say if I don't have this
+tool I can still run the business. So
+there's no product market fit at that
+point.
+>> Right.
+>> Yeah. Okay. And so you give them all
+this these trials. You've got them
+learning and playing with it, but
+they're not quite sold on it. And so
+what did you what did you do in order to
+get them from over the hill of I'll give
+you some money? Well, actually I pivoted
+my uh selling from hiring to sales and
+marketing. That's where I was able to
+move forward. So the time that I was
+selling the hiring was very slow. This
+I'm talking about 24 Q4 through 25 up
+until Q2. So the hiring was very less.
+So there was less motivation for
+somebody to experiment. But I started
+getting a lot of inquiries through word
+of mouth. I did some uh I had my shows
+in some of the forums. So through that I
+gained a lot of inquiries but those
+inquiries led towards can you do
+something for my sales and marketing. So
+I quickly learned that there are a lot
+of customers who are willing to
+experiment this for a function of their
+business that has an immediate ROI. So I
+pivoted myself from operational
+efficiency to ROI based. So that's one
+of the sales learning that I had after I
+launched my first use case. So I stopped
+focusing too much on the first use case
+and then start building the campaigning.
+I call it campaigning because it can be
+used for sales, marketing, customer
+support, anything. And
+>> interesting. And so once you pivoted to
+that, how did the paid customer
+acquisition go? Okay, that's that was
+the real good moment in this entire
+journey where the the first question
+that I used to face was what is this?
+Then later I started getting questions
+like does it work and now how much it
+cost? So the moment I started seeing
+that now I have onboarded a couple of
+customers without trial direct paying
+nice.
+>> Why? because they see the voice AI space
+is like expanding and also I give
+references from my other customers. So
+overall the conversion became very easy
+for me. So I'm spending time talking to
+them on how else can this help you
+rather than just trying to still do the
+sales pitch. Got yeah I love the how
+much is this going to cost me question
+because it just shows intent. you know,
+it doesn't necessarily mean they're
+going to buy, but it's a step in the in
+the customer development process that
+just shows that they're thinking about
+it, you know, and they're trying to do
+the math in their head. Um, I've got a
+product that I'm I've got my first three
+beta users lined up. We're hopefully
+going live in the next couple weeks. And
+I've been showing it to other folks just
+to get their feedback because I want to
+have a big like I don't want to do a
+huge big messy launch, but I do want to
+have a filtered list of folks that I can
+talk to that I know are understand the
+problem and are ready to try it out once
+it's ready. And uh I had one of those
+the other day and I didn't think they
+were good. I was like, "Yeah, okay. I
+don't don't seem like doesn't seem like
+they're really into it." And then all of
+a sudden he he kind of paused. He leaned
+back and he's like, "So, what's this
+going to cost?" And my sales brain was
+just like, "Nice." You know, it's not a
+sale. It is It definitely doesn't count
+as a sale, but it's a win. You know,
+it's you're getting customers a little
+bit farther down the like, "What do you
+do? How does it work?" You know, and
+there you can tell they're starting to
+do the math. And, you know, I threw out
+some pricing and he's like, "So, you
+want that's like $800 to $1,600." And I
+just kind of sat there and I was like, I
+just want to see what he said. He didn't
+tell me to f off and die. So, that's a
+win,
+>> right?
+>> When you were pricing, I How did you
+come up with the the final price that
+you landed on? And I say final.
+>> Yeah. I I don't even remember how many
+iterations I went through to the pricing
+model that I have today. Honestly, even
+today, I'm not convinced if I'm doing
+the right pricing model. The only
+convincing factor is my competitors are
+also following the same. That's the only
+reason. fully not convinced the
+iterations that I went through.
+Originally when I launched the hiring
+use case, I was pricing it based on the
+number of interviews. Then I realized it
+is telecom. I get charged based on the
+minutes. I get charged based on the
+tokens that I consume from all these AI
+models. So then I converted that to the
+minutes. Same is the case with the
+campaign. I said like if you're trying
+to reach 500 customers or potential
+customers here is the cost. Again the
+same problem came. So I went through
+iterations and finally decided it is the
+minute. So right now I charge per minute
+and I think pretty much uh the industry
+is also doing the same. I mean the
+competitors.
+>> Gotcha. There's a really good old joke
+in there but I think we'll just we'll be
+mature for a few minutes here.
+>> But hear the joke later. Okay. Well,
+let's just say it has to do with you
+charging by the minute. We'll let you
+draw your own conclusions. So, talk to
+me about the moment you realize you
+might have product market fit.
+>> Question. Honestly, I I won't consider
+me fully a product market fit stage yet,
+but I'm definitely in the early stage.
+when my customers started asking me
+questions like I triggered a call volume
+of thousand to sell XYZ service can you
+have the call addressing with each
+individual names meaning they want me to
+personalize it then I started getting
+requests like can I have a better human
+sounding voice now your analytics
+provides me XYZ but I want ABC also so
+the request started coming in more
+frequently to a point where I'm
+struggling to deliver that now. So
+that's when I realized there is no more
+a question of me trying to talk too much
+about selling. It's about the business
+is getting some value out of this but
+they're expecting more. That's the
+moment I realized okay I won't say I'm
+fully there but I think I I've got into
+that first step of product market fit. I
+would consider it I'm fully there. When
+my customer says because your product or
+the platform was down for 5 hours, X
+amount is the loss for me. That's when I
+would say if I'm not there then there is
+a real dollar loss for you. So I want to
+get to that point. For now they are
+upset. They quickly switch to their
+human resource team. It's just that 1
+hour of work will take them like a week
+or so. But in terms of the product
+market fit, I think I I've achieved that
+first.
+>> I like the way you're thinking about it.
+I'm a big fan of like the idea that
+product market fit isn't binary. It is
+not a light switch you flip on and
+you've pushed the button and now I've
+pushed the button. I have product market
+fit. I think product market fit is
+something that exists on a spectrum. And
+what you have now is some product market
+fit. And what you'll have in a couple
+months is stronger product market fit.
+And it'll keep getting stronger the more
+you learn, the more you build, the more
+you understand, the more it fits into
+that particular market.
+>> Absolutely. Yep. That's that's that's
+exactly my thought on the product market
+fit. I I wonder do you mind if I ask
+kind of a harder question cuz like I
+love the journey the the thing you said
+earlier was you know you kind of you
+started off by building your own ideas
+in the staff a not staff agent that's
+the name of the company but in the HR
+kind of then you started like giving it
+to customers to use and 6 months before
+you got your first paying user and then
+you know another couple of months before
+you got or yeah 6 months before you got
+any users and then a couple months
+before you got a paying user. Do you
+think you could have shortcuted this?
+And if so, what do you think you would
+like? What what could you have done
+differently in order to maybe get here
+faster?
+>> Well, I wish I got the idea of building
+something into the sales area as my
+first idea than the hiring. The hiring
+decision is something that came out of
+just my own problem statement, right?
+While that is a pro you know even
+existing problem I mean as of today too
+but if I were to go back in time and
+then think through this I would think
+from a selling standpoint first before I
+think about the AI or platform or
+anything what is that that provides an
+immediate ROI to any business that's
+that should be the goal first then
+thinking about operational efficiency so
+what I launched helped with operational
+efficiency you're able to onboard a
+resource in low let's at two weeks as
+compared to two weeks, right? But that's
+that's not helping them gain any
+dollars.
+>> It is, but it's a harder cell, you know?
+It's a it's a couple of steps removed
+from I'll save you money.
+>> Exactly.
+>> Yeah. I'm a big fan of like there's only
+you can save me money, you can make me
+money, or you can reduce my risk, you
+know? And like those are the only three
+things. It's got to tie to one of those
+three one of those three things. And
+it's got to be a short hop, not like two
+steps and a skip away from it, you know?
+I wish I met you at least two three
+years ago to know these three points. I
+learned it hard way. I really appreciate
+you sharing and we'll absolutely check
+in end of this year. See how things are
+going for you.
+>> Thank you so much Colin Arvin. Thank you
+so much for coming on the show. Really
+appreciate you sharing your journey.
+>> Yeah, I enjoyed the conversation. Thank
+you.
+>> Me too. Thanks for everybody for
+listening. We'll catch youall next week.

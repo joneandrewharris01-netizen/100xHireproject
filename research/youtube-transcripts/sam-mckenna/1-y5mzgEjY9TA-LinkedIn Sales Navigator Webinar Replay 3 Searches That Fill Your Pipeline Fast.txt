@@ -1,0 +1,1657 @@
+Metadata:
+{
+  "expert": "Sam McKenna",
+  "channel_name": "Samantha McKenna - #samsales",
+  "video_id": "y5mzgEjY9TA",
+  "title": "LinkedIn Sales Navigator Webinar Replay: 3 Searches That Fill Your Pipeline Fast",
+  "video_url": "https://www.youtube.com/watch?v=y5mzgEjY9TA",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 1641,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+Welcome everybody. I'm Sam McKenna and
+the CEO of #samsales consulting. If you
+don't already follow me on LinkedIn,
+please come say hello and I'm sorry
+because I do post quite a bit of
+content. Some of it's fun, some of it's
+light, but hopefully all actionable and
+helpful. I am also joined by Paige
+Chills who is our VP of marketing. We're
+going to go through quite a bit of
+content. If you are brand new to us,
+just a couple of things. Yes, I do talk
+this quickly. I try to pack as much
+information as I possibly can into our
+session. It is recorded. You will get
+the recording afterwards, so bear with
+us. Two, who are we? We are a sales
+consulting organization and we work on a
+couple of different things. How do you
+use Sales Navigator? You came for it.
+How to stand out in executive inboxes
+with Show Me You Know Me right here
+framed on the wall. We also believe in
+urgency. There's two things we've got
+going on for us. But, how do you stand
+out in executive inboxes? How do you get
+your emails opened? How do you get them
+responded to? And then, how do you show
+up in a really great way on discovery
+calls? And finally, everything when it
+comes to LinkedIn. From social selling
+to building executive brands on the
+platform. We do it all. So, if there's
+something we can do to help you, please
+give us a shout. But,
+LinkedIn Sales Navigator is a passion of
+mine. It is a product that I had the
+great fortune to lead as a leader for
+enterprise sales and have always been
+really excited about it. So, I'm going
+to talk to you guys about that today and
+then we're going to roll into Q&A.
+Before I do that, I will stop talking
+for a brief second. I will pass it over
+to Paige to give you guys some
+housekeeping details. And then, we'll
+launch right into it.
+>> Thanks, Sam. Hi everyone. Thank you for
+joining today. So, for any of you that
+are new to our webinars, we do have the
+Q&A activated. So, we want the chat to
+be lively. Feel free to comment and join
+in and add your point of view in the
+chat. If you would like us to ask a
+question in the Q&A, feel free to add
+that into the Q&A section and I will add
+it to our list. We did get
+over 50 questions. Like, almost 100.
+Almost 100 questions. Holy smokes, you
+guys. We got a ton of questions. So, we
+are definitely not going to run out. but
+I think we'll probably tackle a lot of
+those as Sam gives her presentation for
+the first 20-ish minutes before we
+launch into the Q&A. So, keep adding
+those and keep getting involved, and
+I'll try to get your question in at the
+very end. Also, let us know in the Q&A
+if you'd like to ask your question live
+and we'll get you on, or I can ask your
+question anonymously. So, that's about
+it for housekeeping. Just a quick
+update, we do have playbooks and video
+series on demand and we're doing a
+discount for all attendees today. The
+code is sales now, and I'll put that in
+the chat. But other than that, hope you
+enjoy and feel free to DM me if you need
+anything.
+>> Thanks, Paige. All right, guys, we're
+going to get into it. So, I'm going to
+share my screen. You're going to see a
+little bit of the back end of my own
+Sales Navigator instance. So, I think a
+few things, just a quick note on two on
+level setting. What is Sales Navigator
+first and foremost, and how is it
+different than LinkedIn.com? Um, I think
+one of the most beautiful parts about
+this platform is that it really is
+leveraging all of the data and
+intelligence that you have from
+LinkedIn.com, and it's custom curating
+it for your book of business. So, a lot
+of people think is this LinkedIn.com on
+steroids? Do I need premium, or do I
+need Navigator? And what I would tell
+you is cancel premium, have Navigator.
+Especially if you are an SDR, if you are
+in sales, if you're an entrepreneur,
+there is so much value in this platform.
+I'm going to give you a little bit of
+that today, and hopefully set you off on
+the right track. But what it really does
+is really thinks about the targets you
+want to go after, the companies you're
+wanting to try to target, and gives you
+all of the data and intelligence in real
+time based on what's happening on
+LinkedIn.com. I also love that
+LinkedIn.com is the ultimate source of
+truth for where people are. When they
+change jobs, they're quick to update it.
+Sometimes they change jobs and they
+don't quite update it on their LinkedIn
+profile, but when they eventually do
+land at a new place, they'll update it
+pretty quickly. What they're posting
+about, if they're hiring, what their
+company is going through. There is so
+much data. But I think what's awesome,
+right? And when you think about
+Navigator, the big question is where do
+I start? And what's awesome is you don't
+actually have to do that much to see
+great success from this platform. So,
+I'm going to give you a few of my
+favorite searches. And to me, that's one
+of the primary things that there's value
+in LinkedIn Sales Nav. And the great
+part is that this is really isolated to
+LinkedIn Sales Navigator. Every other
+organization is trying to scrape the
+data that LinkedIn has, right? And you
+actually have it right in Sales
+Navigator and in real time. So, to me,
+it is one of the tremendously amazing
+tools that you need to have. You just
+need to know how to use it to sell.
+Couple of notes. When you pop into Nav,
+and depending on how new you are, you
+might not see any of this because you're
+just getting started and you'll have to
+fill your feed. But I just want to note
+something really cool. In this feed
+here, you've got tons of information.
+It's about people, it's about companies,
+et cetera. And this is built on what you
+tell the platform you're interested in.
+From the companies to the buyer
+personas, et cetera. But what do we do
+with this feed? How do we use it to our
+advantage? Should I even spend time
+here? The one place I would tell you to
+spend time here is for what your leads
+and the people that you have saved are
+posting. Now, what do I mean by that?
+Let me show you a quick note over here.
+I'm going to pull up in this tab and I'm
+going to look at one of the
+pre-populated lead searches that
+LinkedIn creates for me. You should all
+have this and it's new executives at
+saved accounts. It's an automatic list
+that LinkedIn Sales Nav creates. I
+haven't added any of these people here.
+It's just putting into a list people
+that they think I care.
+But you have this cool little tab over
+here that says 249 people posted in this
+last in the last 30 days.
+That may seem cool. What's tough about
+it, when you pop over here, is it shows
+you who posted, but you don't know what
+they posted, if it was their own
+content, organic thought leadership, API
+driven, reposted from somebody. Just
+company content you don't know. And the
+way you know is by clicking one by one,
+which is hyper-efficient. Hopefully you
+can sense my sarcasm.
+I say this because that's the cool
+feature about your feed here. If you
+instead pop over here,
+click on your leads,
+just click on this,
+in one instance, you're going to see
+it's not organized, it's just leads, so
+it's not organized by territory, by
+account, by prospects, but you can see
+in one click who is actually posting,
+what they're posting, and if it's worthy
+of you engaging with. So, one of the
+great things about LinkedIn is that you
+can go in and you can look at your top
+prospects, you can see if they're
+posting content on LinkedIn, and then
+you can go and engage. But this is one
+super quick shortcut to see all of this
+here, exactly who's posting, what
+they're posting, scan real quick, decide
+who you want to engage with, pop it open
+in a new tab, add a thoughtful comment,
+and you're off to the races in a pretty
+efficient way on how to prospect. So,
+that's cool thing number one.
+Now, I want to show you three different
+searches that I think you'll find value
+in. And what I would say for any of you
+leaders on the call, this is a great
+thing to set your teams up with. Because
+I think LinkedIn Sales Nav can be
+overwhelming, there is so much that it
+can do, but we need to start somewhere,
+right? So, we have to start somewhere or
+we can manage the option, we can manage
+results and the activities that we're
+running in here, we can get value, we
+can get quick wins, and then we can say,
+"Okay, that's off and running, now let's
+stack and add to that, and really turn
+this into a pipeline engine."
+So, number one, I'm going to pop over
+here.
+I prepopulated a search for you, and how
+I got here was simply by going to leads,
+or I'll pop back over here so you can
+see in the URL at the top you have lead
+filters right here. If I click on that's
+going to pull up all the search criteria
+that I have here on the left, and this
+is over 30 different search filters you
+can use to just say, "Hey LinkedIn, tell
+me people who do this, work here, have
+this title, live here, have this amount
+of experience, are in our workflows, in
+my account list, in my CRM." The sky's
+the limit, right? And that's probably
+the overwhelming mark part two. So, how
+do we use this effectively?
+We use it this way first. So, this is
+one of my primary searches that I always
+set up as an AE, and then frankly as a
+leader too, because one of the things
+that I loved especially with being a
+frontline leader is being able to help
+my team monitor these search results and
+then say, "Hey, did you see that this
+person moved jobs? Did you see this
+person got promoted? This person changed
+divisions." That's part of my role too,
+right? I'm here to coach, I'm here to
+help, but I also want to scale the
+things that I'm really good at, and one
+of that is prospecting. So, here's what
+I created a search that basically says,
+"Tell me anyone who used to work for our
+top clients in one particular vertical
+and now work for the existing
+prospective accounts that I have in my
+book of business." So, if you look over
+here, you'll see current company. What
+I'm looking for is anyone that works at
+these companies because they're in a
+particular vertical and they're in my
+book of business. Now, I'm going to talk
+about how you can do this in a little
+bit of a different way, too, but look at
+this here and then for past company, I'm
+looking for any logo that is an existing
+client of my company. If I, let's say,
+still work for LinkedIn, what I actually
+don't care about is if I signed that
+logo. I don't I doesn't matter to me. As
+long as they're doing business with us
+and in our line of business, I know that
+they're probably happy, that they've had
+successful experiences with us, let's
+hope, right? But, I'm looking for anyone
+that's left those logos and now
+currently works in my prospective
+clients.
+Think about how I can use that. And if
+you're a follower of Sam Sales and you
+know show me you know me, this will be
+familiar to you, but to me this is one
+of the easiest ways that I can scale
+personalization. And so, I look, let's
+say, for somebody who used to work at
+Honeywell, and now currently let's say
+they're a VP of sales, they've left
+Honeywell, they now work at 3M. We don't
+do anything with 3M, we'd really like
+to, right? And so, I can now reach out
+and I can say 3M in my subject line plus
+Honeywell plus hashtag Sam Sales or
+LinkedIn or whatever it might be.
+That person receiving that sees that and
+says, "I know 3M, I know Honeywell, I've
+absolutely no idea what Sam Sales is."
+Or I know LinkedIn, but
+what's the relevance here? And then
+pique their curiosity and hopefully get
+them to open up the email.
+So, I'm looking for ways to create that
+low-hanging fruit, to create that
+relevance, and to say, "Hey, your
+previous employer, maybe you had
+exposure to us as an existing client,
+had a great experience with us. You now
+work for 3M, we would really love to
+work with you. Can we find a time to
+chat?" Now, don't say it like that,
+right? We can refine that whole process,
+and we'll actually talk about how we'll
+do that when we talk about our workshop
+coming up next month. But, this is an
+easy way to find people who probably
+have brand familiarity with you, might
+have been a user of yours, might have
+been an advocate for yours, might have
+been part of the sales cycle with you.
+And to track how those people leave your
+existing logos and how they go into your
+territory.
+The cool part here, too, is you can
+obviously segment down by buyer persona.
+So, I just have sales here, and you're
+going to see in the top right-hand
+corner I have 169 people.
+There are 169 people with a sales title,
+which is all over the map in terms of
+seniority,
+but that have left their companies here
+and now work in my existing territory.
+The neat part is that you can change the
+titles, you can change seniority, you
+can change geography, you can narrow
+this down, which is really helpful,
+especially if you get super broad
+results.
+But, the best part here, you run this
+search one time and you save it. So, hit
+save search right here, hit this little
+toggle, and all of a sudden the effort
+that you put into the search is now
+saved and you can go and track results.
+Every time there's a job change, you can
+capitalize on that. Speed to lead,
+urgency, and then how do we write a
+message to say
+I know you only been there for 6
+minutes, but would you like to take a
+meeting with them to meet with you?
+Again, don't say that. There's tons of
+tips on my content of what to actually
+say.
+Last thing I'm going to say here, you
+can also look at your workflows down
+here. So, if you have an enterprise
+agreement with LinkedIn Sales Navigator,
+in here you can load your CRM, you can
+have your account territory can be
+directly in here, you can have workflows
+that are set up. There's lots that you
+can do here as well. So, keep that in
+mind. And if the results are massive,
+right? If you get 700 results and you're
+like, "Where do I even begin?" I would
+tell you focus on seniority, but I would
+also look at this nifty little button
+here, team link connections off, right?
+And you're also going to see this
+populate. It's not on my side cuz we
+don't have team link enabled for our
+small little company. We know everybody.
+But here you also have team link
+connections off and you can start to
+prioritize who already are connected to
+employees of your own company.
+If you don't know what team link extend
+is, team link team link extend is one of
+my favorite features ever and it
+basically allows employees within your
+organization to all opt in to this to a
+certain number and then you get to see
+their network or who's connected to who
+even if you're not connected to them.
+For example, if our VP of product, let's
+say for a business line that I'm never
+touching, pops into that, I can see that
+VP of product maybe is connected to a
+CRO that I want to get in front of and I
+can reach out to that VP of product
+internally and say, "Hi, can you hook me
+up with an introduction?" Again, very
+tactfully, but lots and lots that you
+can do here. So, search number one,
+start here. Has previously worked for
+our best companies, currently works in
+my book of business. You can verticalize
+this, you can not depending on how big
+or small your book of business is, and
+then go from there.
+Cool. Second search. Let's talk about
+this. So, this is also
+I think they're all my favorite, so
+you're going to get tired of me saying
+that. But, what I'm also looking for in
+this one is I want to know anybody
+pretending as to work at LinkedIn. I
+want to know anybody that has previously
+worked for LinkedIn and now works in my
+territory, works in my book of business,
+right? And again, I can do that by
+loading them all here in current
+company, or I can do that by using the
+workflows here and directly in my CRM,
+my account lists, etc. and that kind of
+activity.
+What that's going to tell me is anybody
+that previously worked for my company
+that now works in my territory and
+probably still has an invested stake in
+working with us or making us successful.
+If somebody just spent 13 years of their
+career at your organization and just
+left, they're probably in a senior role,
+they probably have, depending on the
+size of your organization, options,
+equity, etc. They still want to see you
+succeed and hopefully they've left on
+good terms. So, by tracking that, you
+have an awesome opportunity to see where
+people are going. Now, there's two plays
+that you can run your really quickly.
+Number one, you're obviously going to
+want to segment this down. So, if you
+see in the top right-hand corner, we
+have 54,000 results, which is a super
+easy low number for me to go after.
+Instead, segment this down. So, add your
+book of business, add the buyer
+personas, or you can just skip the buyer
+personas and just do super senior
+titles. Tell me anyone that's a CXO
+somewhere that used to work for my
+company. Tell me anyone that's an SVP
+that used to work for my company. And
+that list will be much smaller, right?
+Then, go after them.
+We didn't get a chance to connect while
+you were here. I see you had an amazing
+tenure at our organization. Obviously,
+you're the CRO at XYZ company.
+What could we do to find a path to talk
+to you about how we can support you and
+your organization? Super easy, but do
+that with your results first, and then,
+same thing as before,
+hit save search, and then every single
+time someone leaves your organization in
+a senior role and goes into your
+territory,
+you'll get a notification about it.
+When I was at LinkedIn, I obviously
+don't I don't know anybody that works
+there. I barely know 2% of the people
+work there, let alone who's leaving and
+where they're going. But if I set up the
+search, I can track when people leave
+the organization, and I can stay on top
+of it. And gosh, if you're a frontline
+leader doing that for a team of five or
+six or seven direct reports, imagine the
+lead flow. These are such easy things
+that you can do to track low-hanging
+fruit, people who know you really well,
+who know your organization, and who
+would probably be more apt to giving you
+time or helping you find a path to the
+right buyer.
+Last thing, and then we're going to flip
+it over to Q&A, and almost staying on
+time, Paige. The other thing that I like
+to look at is flipping this, and it's
+for current company. So again, using
+LinkedIn as the example, I'm going to
+say, "Tell me anyone
+who currently works for LinkedIn,
+and tell me anyone who has a CXO or a VP
+title." Now, LinkedIn's a pretty flat
+organization, right? So I get 283 as my
+results. I haven't done anything else in
+terms of filtering for geography or
+anything like that. I'm simply saying,
+"Tell me who works here in a senior
+role."
+Now, I want to compare this to my
+territory, and I want to add my
+territory in. But the key here is I'm
+not as concerned with the search results
+here. What I'm concerned about is who
+comes into the company next. So when I
+hit save here, again, as usual, and I
+save the search, let's say on Monday, I
+get an alert, and it says a new SVP just
+came in, a new VP, a new CXO just came
+into the organization. I'm going to go
+in, and here's my play with them.
+I'm going to go in and find that person.
+I'm going to send them a connection
+request, and I'm going to say, "Welcome
+to LinkedIn. I just saw you join the
+organization. So excited to have you,
+etc."
+That person's going to say, "Oh my gosh,
+that's so nice." And you're going to be
+like, "Oh, you're welcome. You're
+welcome. I have ulterior motives."
+Once you're connected, pop over here,
+connections app,
+and type in that person's name.
+You will then be able to track this
+against your own territory. So, tell me
+anyone that this person is a connected
+to that's in my book of business. You
+can do that on your own even without
+this. So, let's say you want to do that
+with somebody you already know.
+I'm going to go here to connections app.
+Let's say I type in Paige's name.
+Over here, it's going to populate all of
+her connections, and this number is
+always a little funky, so don't trust
+it. But now I've got 3,000 people, and I
+can either go current company, my
+territory, or down here with my
+workflows against my CRM. Tell me anyone
+that Paige might know that works in my
+existing book of business. All of a
+sudden, let's say I get three results.
+Let's say I get 17. I'm going to
+prioritize those again by seniority, and
+I'm going to say, "Okay, Paige knows
+three CROs. I can see some things here.
+Maybe they share mutual connections.
+They went to the same university. They
+both worked at the same company before."
+I'm going to look for these signals here
+to tell me what the likelihood is that
+she and that person know each other.
+And then I'm going to go in for the
+kill. So, I welcomed Paige to the
+organization. She said, "Thank you,
+that's so nice." And then I'm going to
+circle back and say, "I happen to see
+that you are connected to three people
+that I would kill to get a meeting
+with."
+Give them the LinkedIn links, tell them
+the name, the title, the company, and
+then the linkedin.com, not the LinkedIn
+Sales Navigator profile URLs,
+linkedin.com.
+Why you don't want to do the LinkedIn
+Navigator URLs is because if they don't
+have Navigator, which they probably
+don't yet or at all, then they're not
+going to be able to see who those people
+are, and then you're going to be
+frustrated cuz you're going to have to
+run the exercise again. They're probably
+going to be annoyed. So, make sure it's
+linkedin.com.
+And then say, I can give you some more
+context of my efforts to get into this
+account, what I've done, or even go
+straight and email for you, but do you
+happen to know these people well enough
+and would you be willing to make an
+introduction?
+I love this play because what it lets
+you do is frankly just show your
+gumption and your go-getter-ness, right?
+That person's going to be like, "Holy
+smokes, you're the only person in the
+entire organization, or maybe two or
+three of you, that attended this
+training, that did that. Wow. How smart
+are you?"
+The other thing is, people are going to
+want to make as much positive impact as
+they possibly can as quickly as they
+can. And these executives are drinking
+from the fire hose. I hate that saying,
+right? But, drinking from the fire hose,
+they're trying to figure out where the
+bathroom is, who their teams are, trying
+to build their cross-functional
+relationships. But, when you come in and
+you say, "Can you help me here?" they
+can help you, they can make immediate
+impact, they can probably impact
+meetings, pipeline, revenue. And here's
+the great part, they're going to talk
+about you positively when you're not in
+the room. So, if they run into your
+leader, if they're in an executive
+meeting, they're going to say, "Oh my
+gosh, this was awesome. Met this person,
+they reached out, that's incredible."
+Now, imagine
+you do that to and three and 19 buckets.
+The visibility you're getting
+internally, the way you're probably
+setting yourself up with meetings, and
+the cross-functional relationships that
+you're building at the executive level,
+holy bananas.
+Okay, I'm going to stop talking for 2
+seconds.
+Hopefully that was helpful. Hopefully
+some of that stuck and I didn't talk to
+you quickly, but Paige, let's pop over
+to all the Q&A that we've got teed up.
+>> All right, let's go. First question is
+coming from Tom. He's asking, "What are
+two to three weekly actionable items you
+would give to a newer sales rep that is
+just getting started with social
+selling?"
+>> Oh, great question. So, a couple of
+things. One, I would get your
+organizational house in order, so to
+speak. And I think this is just a great
+piece of advice for anybody in sales,
+anyone starting a new job. As you get
+started or get a new territory or get
+promoted, whatever that is, you have a
+short window of time where you are in
+the honeymoon period, right? Everybody
+is not expecting results from you,
+you're on ramp hopefully quota. Take
+this time to really build your
+organizational house in order. So, the
+first thing that I would say is make
+sure that you have a few of these
+searches saved. The other thing that I
+would say is just two quick things. One,
+spend some time building lists of your
+top prospects. So, if you go into Sales
+Navigator and you go to an individual's
+profile, you can hit save on them and
+you can hit save into a big generic list
+or you can hit save into curated lists
+you have.
+For example, I might do top 100
+prospects and when I identify a CRO, SVP
+of enablement, something like that where
+I'm like, come hell or high water, I am
+going to get a meeting with you this
+year. I'm going to get a deal with you
+next year, whatever it is. I'm going to
+save them to our top prospects list. So,
+build that list and the thing that I
+would tell you is start to think about
+how you can take two action items here.
+Number one, look to see if they engage,
+if they post content, and go engage with
+them. Well, you're going to do something
+called what's our spear fishing or
+expand the sandbox play, but you're
+going to go and engage twice in their
+posts.
+Engage, make a comment so you know the
+date that you engaged, write something
+thoughtful. Do that again.
+And then send a connection request. You
+can say something like, I keep seeing
+your content. I keep coming across your
+content.
+Because I'm privately, quietly stalking
+you. Don't say that part.
+Keep coming across your content. I'd
+love to see more of that, they're really
+impactful. Just wanted to say hello.
+Maybe that person accepts, maybe they
+reply, maybe they say thank you,
+whatever.
+Leave it at that. There is no pitch
+slapping to be done. That's with a P. No
+pitch slapping whatsoever.
+And then go and do that one or two more
+times, and then you go in for the kill.
+I love your content again. This really
+resonated with me. By the way, I think
+there are some tremendous ways that we
+can support you at XYZ organization.
+This is how we're helping CROs right
+now. Very specific challenge, very
+specific thing that you can solve. Do
+not make it broad. Don't say, "Leading
+organizations like yours are using sales
+training companies like mine." Please do
+not say that. Be really specific, and
+then say, "Would you be up for a chat
+over the next week or two?" So, this is
+where we are going in to spearfish at
+super senior titles, and we're earning
+the right by engaging with their content
+first if we can. So, that's one thing I
+would say.
+The other thing I would say is exactly
+what I posted today on LinkedIn, and
+it's called bubble hunting. So, for my
+super senior titles, when I connect with
+them, I try to use a different word than
+I often use. And one of those words for
+me is conversation. I usually am pretty
+informal, and I'll say chat. But, so
+let's say I'm trying to target a page,
+right? It sounds I know spear fishing
+counter like this is aggressive. Now,
+I'm targeting her. But, for page, let's
+say I would send her a connection
+request. "I keep coming across your
+content. I love it. If you're ever up
+for a conversation about how Sam's sales
+can help you, let me know."
+Conversation.
+Then, what I do is maybe at 8:00 at
+night, or maybe at 2:00 on a Saturday, I
+pop into my DMs really quick on
+LinkedIn, and I go and I search for the
+word conversation. And what that's going
+to do is it's going to immediately
+filter on This is on linkedin.com, not
+on Navigator. Immediately filter who
+I've sent that word to. Now, it's going
+to give me some people that I've just
+happened to say conversation to, right?
+But, the bulk majority of those results
+are going to be those top-tier people I
+want to connect with.
+And what I'm doing is I'm looking to see
+if there's a tiny green bubble next to
+their picture filled in. If you see a
+white bubble, it might mean that they're
+on the app.
+But, if you see a green you see a green
+bubble with white filled in, it may be
+that they're on the app. But, if you see
+a
+fully filled-in bubble, it means that
+they're on a desktop or a laptop and
+that they're active. So this is your
+chance to go and beat your beast and you
+basically have them like on AOL AIM chat
+on Slack and you know they're there and
+it's a weekend. It's at night. They're
+probably less distracted than they would
+be right now. So this is when I send a
+message, right? And I countless stories
+where this worked, but I would send a
+message and I would say something like,
+"Hey, I recently saw your blog and loved
+this piece about it. This reminds me of
+exactly what we train our clients on. Uh
+Let me know if you would ever want to
+chat." That's right, elder millennial
+Caroline, you're welcome. But think
+about the way that you can use that when
+they're less distracted. Think of it
+like a conference floor, right? Are you
+going to go and try to find them at 2:00
+in the afternoon when it's like the
+cheese and I don't know, cocktail break?
+Maybe a little later. Or are you going
+to try and wander the floor at 7:30 a.m.
+Maybe when the runners are coming in,
+when maybe when people are getting
+breakfast, the early birds. Go and find
+when they're less distracted. So there's
+a couple things that I would do in terms
+of social selling to also make it
+organized in the way that you go after
+it. It's not you just mindlessly
+scrolling on linkedin.com.
+>> Okay. Okay, so let's say you connect
+with someone on from LinkedIn Sales
+Navigator. This question comes in from
+Sarah. What is the least cringey way to
+start a conversation with the prospect
+once you're connected?
+>> Okay. The most cringey way, by the way,
+the pitch slap for short. And you guys
+have all seen it. We connect with
+somebody and then they're they're
+immediately like, "Thanks for
+connecting.
+We'd love to sell you something." And
+you're like, "No kidding. Get out of
+town."
+I think the other thing to keep in mind
+here, a super cringey to do, is when we
+ask a question we're not entitled to the
+answer to. So I get this all of the
+time. Somebody will send a connection
+and they're like, "Oh my gosh, love your
+content." And I'm like, I connect,
+right? And then they'll say, "Hey Sam,
+what are you most excited about working
+on for Sam Sales for the rest of the
+year?" And I'm like,
+"Can't wait to tell her a complete
+stranger that obviously has an ulterior
+motive about what they want for me, what
+I'm most excited about for our company."
+Also, if you and 16 other people are
+asking that,
+not going to take the time to write it.
+And neither are your buyers. So, that
+just sets you up in the wrong way.
+Here's the least cringey way to do it.
+And I'll tell you two separate things.
+Number one,
+think of how your connection requests
+read, whether you're doing them through
+LinkedIn Sales Navigator, through
+InMails, and I can talk to you about
+that, or directly through linkedin.com,
+which I would advocate that's what you
+do there. When you do that, set this up
+as the fourth touch of your sequence or
+your cadence. Quick plug, but we're
+partners to SalesLoft, and we've also
+SalesLoft has a licensed RIP for how to
+write the perfect cadence in our humble
+opinion. The course is free online. If
+you just Google my name plus SalesLoft
+cadence, you'll find that. Number two,
+think if you've got your SalesLoft
+cadence running, right? Number one,
+we've got number our first email that
+goes out. You should usually send that
+on a Thursday or a Friday. Number two,
+about 48 hours after that, 44 hours,
+Saturday or a Sunday. I can answer that
+question, too. The third touch point,
+Wednesday. Fourth touch point, your
+LinkedIn connection request. And here's
+what I would say. First of all, always
+send context in your connection request.
+There is so much advice that says,
+"Don't send context. Make sure it's a
+volume game. Go."
+What I would tell you is that if you
+think about an executive's connection
+request inbox, it is
+filled to the gills with requests. If I
+look at mine right now, I think I have
+16 or 17 hundred requests that are
+pending. Mostly because my chief of
+staff, Katherine, is on a lovely
+European vacation and hasn't been here
+to help me manage it. But, that's
+neither here nor there. If I look at
+that, and if I want to go and look at
+who I'm going to accept,
+who am I going to accept first? The
+person who made the effort and sent
+context. So, do this. Send a little
+connection request. Again, I'm going to
+go with Paige, and I'm going to say,
+"Paige,
+my name might look familiar as I've sent
+you a few emails. I would be so
+grateful.
+I wouldn't lie. I'd be grateful for the
+chance to chat with you about how Sales
+can support you at XYZ. If you're ever
+up for a
+conversation,
+let me know and I'll find a time for us.
+That's it.
+I'm not going to aggressively follow up
+from there, but that's the first thing
+I'm going to send and then the next
+thing I'm going to do is something of
+value. So, I'm going to try and make
+impact to her. I read your blog. I
+listened to your webinar. I saw this. I
+saw the successful campaign you talked
+about on LinkedIn. I saw your company's
+doing this. So, you're a sponsor of the
+Masters. Who else is watching the
+Masters while you also listen to me?
+I'll wait. When you think about that,
+you're standing out in a different way.
+And so, think about that. The screengy
+thing to do is going to be your fourth
+touch and it's going to be with context.
+The other thing I'd say is look at that
+spear fishing piece, right? Make an
+effort because everybody is vying for
+everybody's time in the same way, right?
+And you're going to be the one that
+stands out. You're going to be the show
+me, you know me-er. And let me give you
+just a great example of this.
+Our company's about to sign a deal for
+about about this
+if the CXO that we're working with gives
+me permission. But, I saw this is a
+company that I was looking at and trying
+to get in with. I saw that this person
+was interviewed in an article. He talked
+about an $80 salad that he had ordered
+once and so, I sent him a connection
+request about an $80 salad and I was
+like, "Oh my gosh, here's the most
+ridiculous thing I've ever had to
+expense for work because of travel woes
+that got in the way." He talked about
+his love of Cabernet. I was like,
+"Here's my love of Pinot Noir. We should
+exchange whatever." That was it.
+No sales pitch.
+1,800 or so person company, CXO,
+probably gets hammered with outreach,
+right? And here comes little Sam doing
+something a little bit different. And
+so, he responded and then
+responded about one of the posts that I
+made and asked a question about it. It's
+I wore a chicken suit for for that's on
+notified. And and notified, I wore a
+chicken suit to their sales kickoff. And
+he sent me the post, where I posted the
+picture of me in the chicken suit. And
+he was like, "Chicken suit?"
+And I was like, "I can wear this to your
+sales kickoff next year." End of close.
+And here we are.
+It's not that hard. You just have to
+think about things in a different way,
+and use these super strategic plays. So,
+non-cringey ways, make an effort. What
+do you talk to them about? How do you
+spark a conversation? How do you stand
+out? And just never, ever use, "Hope
+this finds you well."
+And I think that's about I think that's
+about it.
+Okay, on that same note of reaching out
+and getting somebody to respond. So,
+Maggie posted this in the Q&A. Maggie,
+tell me if I'm right. I think this was
+when Sam was talking about Team Lead
+Extend. Maggie Maggie said, "If you
+reach out to someone for an intro, and
+they don't respond, what are your tips
+for following up with them?"
+Great question. So, if you're and
+Maggie, let us know if this is I think
+you mean this is internally, because
+it's the Team Lead Extend piece. So,
+here's what I would say. When you do
+your internal
+outreach to somebody that you don't
+know, which is scary, by the way, right?
+Especially if you guys are a BDR, and
+I'm telling you to reach out to an SVP,
+and you're like, "That's cute. That's
+six ranks above me, and that's
+terrifying." Work with your leader. Talk
+to your leader and be like, "I want to
+do this." Welcome, BDR. I see you. Talk
+to your leader and be like, "This is
+terrifying, but this person clearly
+knows this person. What do I say? What
+do I write? Can you proofread my stuff?"
+Get some support. Great way to use your
+leadership, right? But,
+reach out, and here's what I would say.
+In my old days, I got a lot of people
+that reached out and said, "Sam, hey,
+it's Bob. I see you know the
+Listen, GM at Salesforce. Can you
+introduce me?" And I'm like, "Who are
+you, Bob?" So, you want to lead with
+some context, and show your executive
+presence, even if you're a BDR, and not
+show your executive presence. So, I
+would reach out, and I would say, "Hey,
+Sam. I'm a BDR on XYZ's team. I recently
+saw you join the organization. Welcome.
+I also saw that you're connected to one
+of the key titles that we've been trying
+to get a meeting with very
+unsuccessfully. I would love to ask for
+your help if you happen to know them
+well enough. I can also give you
+contacts and I can also ghostwrite the
+email for you if that would be helpful.
+Would you be up for a chat about it?
+Could I use your help? Could I ask for
+your help? And I think too when you ask
+for help in that way, people are so
+excited to be of support and again
+especially if they're new exec, they're
+going to want to help. Now, let's say
+they don't respond. I would first of all
+give them some breathing room like a
+week. I would reach out in a medium that
+we know they're on. So, look at your
+Slack or your Teams instance etc. And
+then ping them again and say, "Hey Sam,
+wonderfully follow up on my below note.
+Absolutely no pressure. I know you're
+probably extremely busy etc." That's the
+one time we can say you're busy. Don't
+say that to prospects. We're all busy.
+But you can say that internally to your
+execs. And then follow up that one time
+and if they don't respond, let it go,
+right? We also want to chase the people
+that want to help us, right? We want to
+chase the prospects that are interested
+in talking to us. So, if we've also been
+chasing them for 16 years and 900
+emails, maybe give it a rest. Let's go
+find somebody else. But that's what I
+would do. Don't be too aggressive.
+I'd say the same thing for referrals
+just really quick. So, if if you have
+existing contacts that are connected to
+other people or you'd like to ask them
+for help with referrals, "If you're
+connected to so many people we'd like to
+get in front of, would it be okay if I
+looked in at your network further and
+sent you a few names?" Ask them one
+time, do a follow up and then drop it.
+Now, there's no black and white on this,
+but this is just me and kind of my
+manners forward thinking, right? I don't
+want to bully somebody into helping me.
+And if I've asked twice and they don't
+respond, I need to read the room and
+find somebody else who's up for helping
+me.
+Okay. Thank you. Next one,
+where are B2B sales reps finding the
+most success with LinkedIn Sales
+Navigator? This is from Elise.
+Ooh, yeah. I think it it really is those
+searches. So, the searches first and
+foremost in our in our prospecting
+playbooks, that's one of the playbooks
+that Paige mentioned we have a discount
+code on. There are 13, 14 different
+searches and plays that you can run just
+like what I talked about today of the
+three. And then there are some really
+awesome team exercises. I would say for
+any of you who are also frontline
+leaders, if you're still doing things
+like cold calling blitzes and you are in
+B2B sales and it's not as transactional,
+I would say swap those cold calling
+blitzes out for one of the players in
+that playbook. You will find
+unbelievable results, great camaraderie,
+you can create a spiff around it.
+But what I think is important is you're
+just at the very starting point, you're
+just leveraging LinkedIn Sales Nav for
+the data, for those search results.
+Because that's the beautiful part of
+that is telling you who goes where, who
+knows who, how they're changing
+divisions, getting promoted, where
+they're leaving. I would track that
+first. And I would say the list
+building, staying on top of bubble
+hunting, all that's important, but what
+I'd really love everybody to get out of
+this call is to just lay the groundwork
+of building the muscle of a few of these
+searches to make impact so that you can
+start to see build the excitement of
+these search results. Build the
+excitement of reaching out to somebody
+and having them say,
+"Yeah, I'd love a meeting." and you're
+like, "Oh oh my god, it worked." and
+you're like, "Holy crap, okay, maybe I'm
+going to do this again, right?" Because
+that's exactly what's going to happen. I
+want you to build this muscle so that
+you can then say, "Okay, what else can I
+do here?" So, just start, even if you
+just start with these three searches,
+like it'll be so beneficial to you.
+>> Okay, so I think you touched on this,
+but I'll ask Eduardo this question, it
+kind of relates to it. He sent, "Mass
+email apps are ins- are instantly good
+for data, instantly helps more with
+deliverability, but should I use these
+apps or should I go better with Sales
+Navigator and send emails or LinkedIn
+reach instead of using these apps.
+So, I think he's saying he can send more
+emails at one time if he does, but
+shouldn't be going to LinkedIn Sales
+Navigator.
+>> Yeah, okay. So, a couple of notes,
+right? When we're doing any of our
+outbound prospecting part, we want to
+think about multi-channels and we've got
+our we've got email as a channel, we've
+got LinkedIn as a channel, and we have
+calls as a channel. I'm probably going
+to ruffle some feathers in saying this
+and for you long-timers, you already
+know this, but I've never made a cold
+call in my life. I think we can be
+better than the cold call. I think when
+you use email and you use your LinkedIn
+channel and you pair those together to
+do some show me or no me, you're not
+going to need a cold call because you're
+going to stand out in a completely
+different way from every other rep
+that's trying. I also think for those of
+you who might be new into sales and
+you're like,
+"I really don't want to think about like
+how I have to make 100 cold calls. I
+It's just not me. It's not authentic to
+me." Think about this that you can
+succeed in just a different way here. I
+just also don't think it's great
+manners. So, that's just my personal
+opinion, don't yell at me. But, here's
+what I'm thinking in terms of what
+you're asking. Number one, you do want
+to use something to help automate your
+outreach to a degree. If I were a brand
+new AE sitting in a book of business
+trying to figure out how I would go
+about it, here's what I would do first.
+So, one, I would think about how to
+create a few cadences in a tool like
+Salesloft and I would think about
+verticalizing first and second building
+two different cadences for my senior
+buyer persona in that vertical and my
+kind of mid-level buyer persona.
+The place I would start is by emailing
+my senior roles first. That's where I
+would do my show me or no me. I'm
+probably going to find more information
+on them anyway. So, what I mean is
+if I know I'm going to target pharma
+sales and I have six pharma companies in
+my book of business, I'm going to go
+after this the CROs, the SVPs, whatever
+titles matter to me first. I'm going to
+prioritize that. And then I'm going to
+use cadences that are specifically
+written for that buyer persona in that
+vertical. You want to be mindful of this
+also because when you talk with the
+value proposition, a value proposition
+for a CRO is very different than a value
+proposition for a VP of sales. They're
+rated in different ways, they have
+different priorities, different goals,
+different metrics, all of that. So, you
+want to make sure that your value
+proposition is not what you do, it's
+what you solve, and it's for those buyer
+personas.
+The place I would tell you to be careful
+is do not do spray and pray, do not do
+scaled and mailed outreach. If you write
+a generic subject line and a generic
+text, nothing about it is manual, your
+emails will not get opened, and they
+will not get responded to. Even if they
+do get opened, the genericness of your
+text will mean nobody is going to
+respond to it. So, my my teach to you is
+build email two and down to be that
+scale specific for that buyer persona,
+but email one should be manual. It
+should be like you wrote that subject
+line just for that buyer and that email
+just for that buyer. You will not get
+opened again if it's generic. So, write
+a subject line Look at our show me you
+know me content, it's all over our
+website and our LinkedIn content and our
+playbooks, but it's all over there. Look
+at that for how to write it, and you
+know your subject line will have
+succeeded if it makes no sense to
+anybody except the person that you wrote
+it for.
+Now, then I would tell you about how to
+use LinkedIn, right? You The part that I
+would say to be mindful of is not using
+InMails. Anybody that's on LinkedIn is
+probably giving me a hairy eyeball right
+now. That's
+InMails to me were a wonderful thing in
+the past. Tremendous open rates,
+tremendous response rates, but they
+become synonymous with spam. So, when we
+go in and use that as a channel, and we
+might spray and pray and do the mass
+communications via InMail to everybody,
+what's happening then is again, we're
+sounding just like everybody else, we're
+making a pitch, and we're really
+squandering our opportunity. So, in the
+age of AI, use AI to make you
+hyper-efficient finding information
+about your buyers and how you can
+connect with them and then bring in your
+own mix and effort and intelligence and
+brain and humor into writing something
+that was just for them.
+Hopefully that helps Eduardo.
+>> Yes, and you already He had a second
+question. I didn't ask it yet and you
+already answered it.
+>> That was perfect.
+Anticipating the questions. I am for it.
+>> Okay, we have 15 minutes. We're going to
+try to get through some more as quickly
+as you can. Next question from Marie. Is
+it better to send a connection request
+through regular LinkedIn or LinkedIn
+Sales Navigator?
+>> I would say LinkedIn linkedin.com. When
+you send the connection request through
+LinkedIn, it allows you to send that
+through Navigator rather allows you to
+send a an InMail and that's I think when
+you get that that just visually in your
+DMs when you get that InMail
+notification prompt, you're like, if I
+look at my InMails, they're 99% of them
+are spam and they're anything under the
+sun. So, I would be mindful just use
+linkedin.com.
+Send the connection request there and
+then send your with context connection
+request. The other thing to know, just
+be aware of this if you are still using
+InMails, if that's part of your
+methodology, all of your InMail
+responses, so your the DMs back will
+come in Sales Navigator, not in
+linkedin.com. Now, if you start the
+dialogue, you'll eventually go back and
+you'll have two basically messages with
+your buyer and you might wonder why.
+It's because one is representative of
+the initial conversation in Navigator
+and the second one is representative of
+your back and forth chat linkedin.com.
+But, be mindful of that because
+sometimes people use it, the InMail
+feature, they don't realize that there's
+a separate inbox and they're like, "No
+one's responding to me." And then we're
+like, "Oh, there's another inbox over
+here." And they're like, "Oh my god,
+there's 17 replies
+that I haven't responded to." And we're
+like, "That is great." So, just keep
+that in mind, but
+go linkedin.com. Stand out in a
+different way than everybody else and
+just build your mini CRM there for
+yourself for the long haul. The other
+cool I'll just maybe mention I like two
+things I'm going to mention about why we
+want to send contacts.
+Number one,
+when you send contacts, this is also
+your own mini CRM for the rest of your
+sales career. How you know this person
+and why you connected with them. And
+then when the person responds and
+accepts because your message is there,
+the date and a timestamp is also there.
+So you will forever remember that it was
+Thursday, March 23rd, 2024 when you guys
+connected. Now, some of you guys might
+argue and be like,
+"Well, when they accept, I can also send
+them a message and they'll do the exact
+same thing." Nonsense. Okay, what are
+you going to say when they accept? And I
+think that's the kicker, right? Because
+if they accept, whatever you're going to
+say there,
+why don't you just say it in the first
+place, right? Because they're also going
+to think when you write them something
+long after they accept that it's a pitch
+slot. And then they're probably not
+going to be that excited about you
+anyway.
+I have something to note on that, but I
+don't want to curtail. Questions, go for
+it, Paige.
+Okay, next one. We have so many ways to
+reach our prospects. DM, LinkedIn
+message, call, email, passenger pigeon,
+et cetera. Thank This is from Garrett.
+At which how and where does LinkedIn fit
+into the cadence? I think it is part
+I want to just note one thing. You might
+have an objection as we talk about this
+that your buyers either aren't on
+LinkedIn or they don't post on LinkedIn.
+That doesn't mean that they're not on
+LinkedIn. So keep in mind they probably
+have a profile. If you're here, I
+suspect your buyers are on LinkedIn. But
+they probably have a profile, they
+probably log on and read, and they
+probably look at their DMs and their
+connection requests at some point,
+right? So
+keep that in mind. This is a
+communications channel. It doesn't
+necessarily mean that they have to be
+content creator that posts 16 times a
+day. So when you think about this, where
+does LinkedIn fit in? This is an
+additional communications channel. And
+to me, if you can also get your buyers
+on text, which I'll talk about in a
+second, you now have three things.
+You've got email, you've got your DMs on
+LinkedIn. And like four things. You've
+got the comments on LinkedIn that you
+can tag your buyers in, and then you've
+got text message. So, here's two ways
+that I use that. There's something to me
+that's a little less formal about
+LinkedIn DM, right? It's buddy-buddy. We
+can have little chats. We can send
+something. It's like I feel like even
+sometimes when I move to LinkedIn, I'm
+like, "Hello Paige, good afternoon. How
+are you?" And then on Paige, I'm like,
+"What's up?" Just kidding. Just kidding.
+But, it's a little less formal. And so,
+I think one of the cool things is that
+you just use that as a channel to
+convey something differently. You might
+be like, "Oh my gosh, I just saw this
+post. Thought of you. It would be really
+helpful. Hope it helps." And now you're
+you're in their brain. So, maybe you
+sent them an email 3 days ago.
+Then you send them this DM that's
+helpful.
+Maybe in a couple of days you tag them
+in a post or you tag them in a comment
+of something on LinkedIn. Maybe a few
+days later, you say, "Here's something
+helpful. I know your proposal review is
+coming up. Here's something helpful."
+You are staying on their mind without
+hopefully being annoying.
+The other thing is when you've got that
+DM going, think about how you can also
+tag them into comments on posts on
+LinkedIn. So, I'll do that for myself.
+First of all, sometimes I write a post
+just for one buyer. Not for you guys,
+sorry. But just for one buyer in mind,
+and like this would be really helpful to
+them. So, I write the post
+and then I send it to them and I'm like,
+"Hey, I thought this would be really
+helpful for your team. I just posted and
+I thought of you. I was thinking of you
+when I wrote it. Don't tell anyone."
+Here's the post. Hope that's helpful.
+And he's like, "Oh my gosh, that really
+helps accelerate the sales cycle and
+gives me more food for thought." I'm
+like, "I know, that's why I wrote it
+just for you." Just kidding.
+So, think about that. But then you can
+also think about that buyer and tag them
+into something else, right? So, maybe I
+write a post on something unrelated.
+Maybe one of my pals follow comments
+something on there and then I'm like,
+"Ooh,
+this would be perfect a perfect point
+for this buyer." And I will tag them in,
+right? I'll say this I'm There's a buyer
+I'm working on named David that I've
+tied a few times. I'm still working on
+getting that deal over the line. But so
+I might tag David, this is what we were
+just talking about. This would be so
+impactful to you guys. Love this.
+But what? Sticking in his brain. Email,
+DM, LinkedIn DM.
+Just trying to make you think about Sam
+as often as you can
+in a non annoying way, if possible. So
+that's where LinkedIn. But I think also
+it's like all the back end strategy.
+Those searches, those lists, the way
+that you strategically stay on top of
+people, the way you look and see what
+they're posting, where they're moving.
+And all that data is so helpful to you.
+>> Okay, this one comes from Natalie. And
+actually while you're answering this
+one, Sam, for the attendees, I'm going
+to launch a quick poll. Appreciate any
+feedback that you have for us. Okay,
+next one. Hot Natalie, how can I best
+support and enable my reps who don't
+have many connections or contacts due to
+lack of professional experience?
+>> This is great. Okay, so Natalie, a
+couple great question first of all.
+Couple of things. Your One of the best
+things that you can do for them,
+especially if they don't have a lot of
+connections, I'm guessing that they're
+probably early in their career or
+they're just starting to figure this
+out. I know this is so cliche, but your
+net worth your network is your net
+worth, right? It is so cliche. But I
+think it's so important to help them
+build that muscle, that creating these
+connections is what's going to be able
+to them for their long term. And as
+leaders, we really need to It's we've
+been entrusted with these little baby
+ducklings, no matter what age they are,
+to think about how to make them
+successful. So one of the things you can
+do is teach them to build their network
+on LinkedIn because this will be around
+for the long haul.
+And I think the second thing is teaching
+them the right way to connect with
+people. What to send, at what point in
+the sales cycle do we send it? Before
+the meeting, after the meeting? Psst,
+before the meeting. I wrote about that I
+think last week, too. Before the
+meeting, help them build that. And then
+I think the last thing to know is that
+even if they have 16 connections
+for someone to get that to his 500 is
+possible. Cuz I think we're probably all
+in the same boat. You know when you go
+on somebody's profile and it's like they
+have 159 connections, you're like,
+"Do you live in a cave? How are you not
+connected to 500 plus people on
+LinkedIn?" It's a little weird. So let's
+make sure they get to that 500, which
+they probably can do their friends and
+neighbors and
+employees, colleagues. But
+even if they don't have the connections,
+all the data lies in Navigator. So they
+don't even need connections. It's not
+about them.
+It's about the job changes. It's about
+who your executives know, your board
+members know, who's changing logos. They
+don't even need to basically have a
+presence on LinkedIn to make great use
+of this tool.
+Great question.
+>> Awesome. Okay. I think we have time for
+one, maybe two more. So Sam, I'll let
+you choose.
+Okay, this one is about what happens
+when somebody, a prospect or somebody on
+your top lead list, does engage with
+your content or content from your
+employee or company. That's one. And
+then two, somebody else asked, "Does
+this strategy work with my market?"
+which is financial advisors.
+>> Ooh. All right, great. I think I can get
+through the two questions. When they do
+engage, like you you want to be you want
+to be mindful of it, but you this is
+where to frankly EQ comes into play. So
+let's say Paige likes my post and I send
+her a note and I'm like, "Thanks for
+liking my post." And she's, "You're
+welcome." And I'm like, and then let's
+say she does that again tomorrow and I'm
+like, "Hi, thanks for liking my post."
+She's like, "This is really creepy." And
+I'm like, "That's it."
+So be mindful, right? Think about how
+you can tiptoe around and do these
+things in a EQ driven way. Maybe Paige
+likes a couple of my posts and maybe I
+just say in my mind, I'm like, "I see
+you checking me out."
+Do you want to tell me? And so maybe I
+wait for the second or third time or I
+see that she engages and says something
+directly and maybe I just send her a
+note and say, "Hey, I've been thinking,
+you've been on my mind. When does send
+you this is really valuable. Hey babe,
+if you're if you ever want to chat, let
+me know. Like whatever and maybe she
+says, "Oh my gosh, I keep seeing your
+content. It's so good. We should chat."
+And I'm like, "Oh my god, no way." So,
+think about how you can use it in that
+way without directly saying it, but use
+that engagement as intent. I think the
+other note is when you see them do
+something not with your content, but
+content that gives you a signal. So,
+this is again one of our clients that be
+on the line be like, "That's my
+example." But we just saw a chief
+communications officer reshare the post
+of her organization talking about how
+this is just the beginning of social
+media. They did so much in the last
+year. They're going to really take off
+next year and that's precisely what her
+company can help with. Use that, right?
+If you now know there's intent, there's
+motivation to do something here. The
+chief comms officer reposted this. This
+is information you can use. So, what do
+you do with that? I saw you just
+reshared this. I'd love to see what you
+guys accomplished last year. I was
+looking at your results that you guys
+publicly shared. Here's a great way we
+can make impact through this super
+specific thing. I'm going to be in New
+York in a couple of weeks. Would you be
+up for a meeting about it? Use that
+information because I'll tell you why.
+That's intent without using the same
+intent that everybody else is using. And
+the final part on financial services.
+So,
+if I had a dollar for everybody that
+reached out to me to say, "Sam, it seems
+like you do okay. Would you like us to
+manage your money?"
+I'd be in really good shape. What I
+would tell you with this is whatever the
+market that you're reaching out to is,
+make sure there's value. When you do
+your outreach or when you offer
+something that you can solve, there has
+to be value here and here's what I mean.
+If I have somebody from Morgan Stanley
+that reaches out and says, "We would
+love to talk to you about managing your
+money. We manage people just like you.
+Would you like to chat?"
+What if I get 10 messages that look
+exactly like that today? Who am I going
+to say yes to? I'm going to eeny meeny
+miny moe Dumb and Dumber style. Any Dumb
+and Dumber fans out there? Just me?
+That's fine. That's fine. I got one.
+Thanks, Paige. Bye. I'm going to do that
+or I'm going to look for the person who
+says, thanks for raising your hand,
+guys. Glad to hear some hearing and
+loyalty fans out there. I'm going to
+look for the person who says one of the
+critical things we see people like you
+do is miss tax harvesting.
+Their broker haven't brought it up to
+them. It's something critical you should
+do. Happy to walk you through it if you
+haven't done that before. And then I'm
+like, oh, the hell is tax harvesting?
+Don't worry, I know what tax harvesting
+is.
+The hell is tax harvesting? Maybe I go
+to my broker and I'm like, do we do
+that? And he's like, oh, it's a great
+suggestion. And I'm like, why am I
+suggesting that to you? And why more
+importantly, why aren't they suggesting
+that to me? And you comment. So, you
+want to create, right? There's some
+value here. There's something specific
+to teach me something. That's how you're
+going to win.
+Okay. I know.
+Yes to playbook and writing LinkedIn
+posts cuz I just saw it. LinkedIn
+branding playbook is a phenomenal for
+that. I'm going to close this out. First
+of all, thank you guys for showing up.
+Thank you so much for all the
+engagement, all the questions, all the
+activity in the chat. There will be a
+recording of this as we talked about.
+So, please feel free. If this is helpful
+to you today,
+post on LinkedIn, share us with your
+friends. We'd love to make a bunch of
+new friends and to meet you. And again,
+if we can help your organization, please
+reach out. We would love to work with
+you.

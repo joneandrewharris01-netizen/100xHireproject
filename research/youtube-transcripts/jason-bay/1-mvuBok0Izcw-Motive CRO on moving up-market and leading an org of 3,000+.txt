@@ -1,0 +1,1407 @@
+Metadata:
+{
+  "expert": "Jason Bay",
+  "channel_name": "Jason Bay",
+  "video_id": "mvuBok0Izcw",
+  "title": "Motive CRO on moving up-market and leading an org of 3,000+",
+  "video_url": "https://www.youtube.com/watch?v=mvuBok0Izcw",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 1391,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+So, I'm excited to talk to you. We sort
+of
+met during your time at Medallia. We
+were on a lot of large group calls
+together, but
+uh right before this call we did a prep
+and we got to sort of talk one-on-one.
+So, I'm I'm really excited to dig in
+with you on this and
+I thought a good place to kind of set
+the stage. I always like to ask people
+like
+why sales?
+How did you get into sales? It's usually
+on accident for most people, but what's
+the what's the story for you?
+>> Uh not an accident, never a doubt, okay?
+So, when I was a kid, I wanted to be an
+entrepreneur and I think most
+entrepreneurs, not every one of them,
+but most entrepreneurs have that sales
+bone. And so, when that didn't work out,
+um
+then uh going into sales leadership uh
+was a natural thing and and frankly
+it has never been
+uh in question. So, it wasn't that I
+wanted to be um a doctor and I ended up
+uh becoming a sales guy on accident. Um
+it was very much that uh I did and still
+do feel the entrepreneurial spirit uh
+and I live that through leadership in in
+sales.
+>> Love that.
+Why
+like was there any sort of decision that
+you made intentionally to get into more
+of an executive role because I feel like
+that CRO jump is like a lot of folks
+like being a VP of sales.
+>> Right. They do.
+>> Like was there anything intentional for
+you about that jump to CRO?
+>> So, for me, again, when you have spent
+your life thinking about being an
+entrepreneur, being a business owner, I
+think it comes a little bit more
+naturally. Um I had a couple of
+businesses when I was younger um and
+then I ran sales and marketing directly
+reporting to the vice um to the CEO of a
+small business for years uh in
+Lexington, Kentucky. Um started when
+maybe we had about $3 million a year in
+ARR and when I left it was north of 10.
+And so you can imagine it's a big job to
+be the leader. This effectively the CRO
+of a small business like it that doesn't
+have references, that doesn't have a
+bonafide marketing effort, that doesn't
+have SDRs, that doesn't have account
+management. It is everybody's doing all
+the things and then you build those over
+time. Um so I was very uh unusual going
+from entrepreneurial entrepreneur to
+being a VP of sales and marketing to
+then being an IC.
+And so when I became an IC, which was at
+Medallia for the first time ever, um I
+had success, but that was hard for me.
+It was hard to go from, you know, being
+a leader until the age of 30-something
+to being uh an IC. Uh but once I learned
+and and Medallia taught me a lot. The
+people there were wonderful. The motion
+was absolutely incredible. The approach,
+the process, the rigor. Um and
+um
+once I learned how to apply those things
+with the world's largest businesses, um
+it was uh really explosive when I went
+back into leadership. So that was the
+most successful part of my career was
+moving back into leadership and now
+having a more complete picture uh as a
+leader and a seller.
+>> Yeah, that's one thing that sticks out
+to me about your career arc
+in that it it wasn't like you were
+selling 20 years ago and you haven't
+sold a deal since then.
+Um I would imagine like the folks in
+your org, you seem pretty grounded in
+like what sales is. You know, we're
+talking in 2026, but like what it means
+to sell
+in 2026 especially at the enterprise
+level.
+>> [clears throat]
+>> Well, Jason, you and I have known each
+other for years and you have often
+focused on the prospecting side of this,
+making market contact. Now it's
+you know
+you're you have broadened
+some of the approach and things that you
+focus on. But if you think about that
+particular
+discipline, the ability to make market
+contact, it's something that we all have
+to participate in if we're going to be
+successful.
+And I ask this question in interviews a
+lot, you know, how do you get in touch
+with people? I mean everybody wants
+attainment and everybody wants to have a
+forecast before that, and before that
+you got to have pipeline progression,
+and before that you got to have new
+pipeline, but it starts by meeting
+people and having conversations. And so
+when I ask folks that question on how
+they go about it,
+it's I'm not looking for something
+special. What I'm really looking for is
+whatever it takes.
+You know, I mean I I email them, I call
+them, I use my connections, I go to
+events, it whatever it is. And so that
+side of me learned that really young and
+then put it to practice as individual
+contributor and I've never let it fall
+off as a leader. And I think that does
+keep you grounded. If you're willing to
+help make connections and you're willing
+to help advance a deal and you're there
+to help win. And in my world, I own the
+customer journey after that now. And so
+when they go into the implementation and
+they go into the ongoing account
+management and customer success
+organizations,
+all of that is part of our revenue team
+here at Motive. And so I have to be very
+involved with these organizations to
+give them confidence
+that we're going to support them long
+term.
+>> Love that.
+One more question cuz I'm curious before
+we dig into today's topic.
+There isn't exactly like a training
+program for CROs that I'm aware of at
+least. A lot of folks tend to learn how
+to be a sales executive
+some from mentorship, you know, try
+trial and error.
+Like um
+what's the journey been like for you
+going from VP of sales to CRO? Like was
+there mentorship along the way? Like how
+did you learn how to do some of the
+stuff that you're responsible for
+now?
+>> Great question. Um
+so the first
+uh
+pillar here is surrounding yourself with
+great people that you can trust.
+Because inevitably there are going to be
+more components when you're CRO than
+when you are a vice president of sales.
+And it means something different to
+every company. It could be marketing and
+it could be partnerships, which in my
+case it is. Uh it could be strategy and
+operations, things like deal desk and
+territory assignments. Um so having
+great leaders and people that I can
+trust and people that trust me um to
+build together and make changes and be
+bold, um it comes from
+uh a great place. And there was a book
+in the early 2000s called Good to Great
+by Jim Collins and it was about the
+companies that had beaten the market for
+15 straight years. And one of the things
+that he talks about that is a principle
+or an observation that those
+organizations have in common
+is that their leadership teams can go
+into a room and have real discussions.
+They they can have healthy conflict.
+They they can even have unhealthy
+conflict may maybe in the room, but when
+you leave the room, you're going to be
+aligned. So we don't want product and
+sales arguing. We don't want um strategy
+and the folks that are putting the
+quotas together and the territories at
+odds with the vice president of sales
+for Canada.
+Right? So, the more that we can bring
+those folks together and have honest
+communication, that's really what it's
+all about. I will say though from a
+practical sense,
+um a CRO role is fundamentally a
+different job. Um you have to work with
+the executive team, you have to work
+with the board, you have to work with
+potentially external stakeholders, uh
+investors, um and uh you are much more
+engaged on planning and budgets and and
+those kind of things. So, it's it's
+critical that you recognize that you can
+no longer be purely sales leader. It
+just won't support the organization the
+way they need you to do it.
+>> Yeah.
+Love it. Love it. So, let's dig into
+today's topic around moving up market.
+And I think a good place to start, as
+much as you're able and willing to share
+with Motive,
+how did you guys come to the conclusion
+like this is the thing that you need to
+do right now?
+Cuz it's not an As you know, this is not
+an easy thing for an organization,
+especially your size,
+uh to do. How did you know it was the
+right time?
+>> So, Motive, this was about 3 and 1/2
+years ago,
+was uh we had thousands of employees.
+Um the vast majority of our business was
+uh
+what you can call down market. It was
+mid-market commercial and SMB.
+And um
+what the catalyst was for the for the
+decision from the board, from our
+founders, to move up market was was
+really by necessity or by um
+demand, if you will. Our uh technology
+had really improved. And so, two things
+were happening. The first is that we
+were being um approached by larger and
+larger companies.
+Um so, instead of working with an
+organization that might spend uh
+$100,000 max or $80,000 max or 20, these
+were organizations that were going to
+spend millions a year to solve bigger
+problems. And they had big requirements.
+Architecture, infrastructure, an
+integration layer, the strat the the the
+reporting and analytics, right? The
+security components. Um so, they had
+these requirements for more of an
+enterprise-grade platform, and we had
+built that so that we could service
+those types of companies.
+The other thing that was happening is
+Motive was formerly called KeepTruckin,
+and the KeepTruckin name was supporting
+trucking companies. That was the
+majority of our customers uh for for
+years, until we started finding fit
+product market fit with other
+industries. So, um
+we had to learn about those industries.
+We had uh add features into our
+platform. Uh we had to gain subject
+matter expertise. We had to change
+pricing in some respects. Um but, it be
+And we changed our company name, Motive,
+right? So, uh now we're in agriculture,
+oil and gas, construction,
+manufacturing, food and bev, field
+services, and public sector,
+international. Um and so,
+those two opportunities, much larger
+companies, and a much broader set of
+industries
+um is what um inspired, or I'll say, uh
+started the move up market and and the
+TAM was just obvious at that time. So,
+that that's really where the decision uh
+was made to invest in the go-to-market
+side of it was once we had strong
+product market fit and demand that we
+were observing.
+>> Got it. So, existing demand, product
+market fit with new industries,
+And a big part of this that you've
+talked about was
+okay, we're going to decide that we're
+going to move up market, but you have
+this huge base of business that is, you
+know, as you referred to down market.
+How did you
+how did you think about protecting and
+and making sure that this doesn't
+cannibalize or that we don't ignore like
+our like the majority of our business
+that is working right now?
+Was this like a hey, we're going to
+experiment with this on the side and
+here's what we're going to see what
+happens? Did Was there a new department
+that got rolled or a segment that got
+formally rolled out with that?
+How did you guys think about that part
+of it?
+>> It was not trivial.
+Um it was something we wanted to take
+very intentionally
+um into our planning process. Um so, we
+had over 100,000 customers, customer
+accounts. Okay? Um those accounts had
+many users or whatever, you know,
+depending on the size of the
+organization.
+So, when we made this decision to invest
+more heavily in what I'll broadly refer
+to as enterprise from a go-to-market
+perspective, from sales, from solution
+engineering, and all the various other
+supporting functions,
+um the first principle was something
+that we have heard from the doctor's
+oath, right? When you first become a
+physician, and that is do no harm,
+right? I mean, you've got to support the
+folks that that, you know, dance with
+the one that brought you, as they say,
+right? And so,
+>> Yeah.
+>> um we wanted to make sure uh that uh
+that they were we weren't just taking
+and reallocating capital without
+supporting those organizations uh to
+fund the upmarket growth. Uh we were
+very intentional with how we were going
+to resource them and how we were going
+to support them. Uh and so, uh there was
+a lot to that. There was a lot of how we
+were going to price there. We invested a
+lot into the operation.
+uh and we had to change things. We had
+to change some of our processes. And it
+certainly, as you're going to introduce
+an enterprise motion, um we're going to
+attract a different talent pool. We're
+going to have different compensation
+structures. We were going to have
+uh organizations leveraging our
+technology that we're going to implement
+differently. Much like I was talking
+about before, they would require
+different integrations. They would would
+require a different implementation
+process cuz it might not be 20 users
+coming online at once. It might be
+20,000 users coming online over a period
+of months or year, whatever it may be.
+So, we had to think through
+the benefit of going up market and how
+that was going to add value to our
+customers everywhere. And I think that's
+something that we did beautifully. Um
+our our customers in uh these various
+segments, from SMB to commercial to
+mid-market to enterprise to strategic
+and then any other of the markets like
+public sector, international, have all
+benefited from the investments that
+we've made to support large, complex,
+multinational
+uh organizations.
+>> Yeah, so there's like a bit of a
+flywheel
+that's that's working there. How were
+you if you could take us back like
+how were you feeling
+during this time that the company's
+making this transition? Like were you
+really excited about this? Were you like
+what were you what were you feeling?
+>> Well, uh I was brought on board to do
+it. So, um yes, of course. I was
+excited.
+That's right. Um we we had uh
+there was a period of time
+uh in the not-so-distant history where
+we had
+less than 10 AEs in this enterprise
+business. And today it's hundreds. And
+and so, it was a lot of change. Um not
+everybody loved every step of the way,
+but I I would encourage your listeners
+to do something and that is if you are a
+leader, if you are a vice president of
+sales and certainly if you're taking on
+something that is a massive build or a
+rebuild, a turnaround or an acceleration
+motion, you've got to be in lockstep
+with the board, with your executive
+team. That's something that I took big
+care to do during my recruitment. And
+uh, Shoaib
+who is our CEO and founder and and uh,
+and my boss. Um, he and I always had a
+very strong connection and understanding
+that um,
+that that I needed some autonomy, uh,
+that there were going to be some
+changes, uh, and uh, not everybody was
+going to be comfortable with it. Um, but
+he was behind it. And with that support,
+you can get a lot done. Um, otherwise,
+bureaucracy can get in the way, folks
+get wrapped up in rules of engagement or
+where is the segment line going to be or
+um, you know, what's my territory
+optimization? You know, people just get
+wrapped up in a lot of different things
+and they're all interesting, but the
+truth is they change. Once you have 20
+AEs, that's very different than when you
+have 75 and that's very different from
+when you have 200. Having an account
+management model that supports the
+customer is different than keeping the
+account with the new logo rep. And these
+are all evolutionary components of what
+we had to do here at Motive. Uh, but uh,
+I am very thankful for my peers and
+partners on our executive team and the
+other departments and for the board, uh,
+and certainly for Shoaib, but it really
+started with that. I mean, you you've
+got to be bold. Um, and if if you don't
+have the uh, the charisma and the
+conviction uh, and the drive uh, to to
+do it, it's going to be tough. Um, and
+and I will say I also uh, was very
+fortunate in that many folks who I had
+known from my past made the decision to
+come and join me again along the
+journey. Uh, that gave me a lot of wind
+in my sail, uh, gave me confidence that
+my leadership style was working for them
+in the past and we could do this thing
+again. Uh, I knew that they were going
+to be great in their role. Um, so, uh,
+hiring, no doubt, is in a build the
+single most important thing because
+having folks that don't work out is is
+very hurtful and detrimental to the
+business.
+>> Um, one kind of side question related to
+that. Do you have any tips for, you
+know, as a CRO, building relationships
+with the other executives or with board
+members? Is there anything that you are
+really intentional about with those
+relationships?
+>> Oh, without doubt. I mean, I first and
+foremost, I would fight politics with
+everything you got, okay? So, try not to
+be political in these things, try not
+to,
+uh, scrap for a particular task or
+responsibility or whatever it may be.
+Things are going to fall where a
+discussion leads them and I think that,
+uh, that has allowed me to have very
+genuine relationships with people
+because you're just very honest at that
+point. If If If If you don't have a
+political agenda, um, then folks are
+much more willing to work with you and
+partner with you about whatever the
+challenge is. Um, as an example, um,
+implementation. So, implementation at
+Motive sits in the revenue organization.
+It doesn't have to, it doesn't work that
+way with every single company. We've
+chosen for it to sit there. And maybe
+one day we will choose for it to sit
+somewhere else.
+Um, the technical support organization
+sits under product. Um, again, that was
+a decision we made and you and so we we
+put it there so it has faster product
+feedback loop. Um, I find my product
+partners to be very supportive. Um, I
+find our chief HR and uh legal officer
+and and and her department to be very
+very supportive. Um, I find finance to
+be very supportive and I think a lot of
+this stems from having very
+genuine
+and human relationships with folks.
+Um, the board is a little different. Um,
+the board is supportive of course if
+things are going great. Um, and they
+want everybody to do well. Um, but I
+I've been very fortunate to have had a
+lot of success here at Motive. Um, we've
+transformed the business from being
+predominantly a down market business to
+being now an overwhelmingly up market
+business. Um, that's what we came to do.
+Uh and so now um, we are very
+collaborative on it and they they're
+helpful. If you reach out to folks and
+ask them to help, I don't care if
+they're your partner, um, they could be
+the person that oversees security, they
+could be the person that oversees the
+supply chain,
+they could be a board member who's uh
+part of a uh uh a an organization that
+has a lot of expertise in our field or
+in technology or maybe they're part of a
+VC or private equity firm. Um, they are
+all willing to help. You just got to
+ask.
+Yeah.
+Love it. Asking for help.
+Let's talk about the culture piece cuz
+there
+is something that you talk about around
+like rewiring the business
+for outbound and
+let me know if your experience has been
+different at Motive, but I'm assuming
+this enterprise motion has been very
+heavily driven through outbound cuz
+that's usually how enterprise works,
+right? You don't have
+the senior stakeholders coming through
+and filling out a demo request typically
+on a contact form. Like you got to go
+out and and create these relationships.
+What was that journey like
+just from a culture standpoint and like,
+hey, we're going to turn into a business
+that hunts. I got to think about like do
+we have the right talent on board for
+this? I'm sure you thought about like
+uh account structure and territory
+structure and comp plans and like all of
+this kind of stuff. Like what were some
+of the big components there that you
+that you guys had to tackle to really
+rewire the business to be more outbound
+focused?
+>> You're absolutely right. And it was a
+journey. Uh it wasn't a snap
+>> all your hair still, dude. I mean
+>> [laughter]
+>> It's a uh
+um I Here's what I'll say is that
+um
+it you
+finding people that that trust
+leadership and treating them excellent
+and giving them an opportunity to
+succeed earns you the right to make
+changes as you go and they will be cool
+with it. Okay? And so we did that many
+times. Um and one of the ways that we
+did it I'll start off with the
+territory. Well, when I got here of
+course they were enterprise AEs that had
+hundreds of accounts. That that's what
+they had. Hundreds accounts and they
+were searching more for bicycles. Um
+more so than searching for engagement
+with an organization that would be a
+great fit for us in time cuz maybe
+they're not going to buy next month.
+Maybe they're not going to buy next
+year. But maybe it's um
+FedEx. Maybe it's Cintas. Maybe it's
+Haliburton. Maybe it's some giant
+organization that's worth engaging with
+over time.
+>> Yeah.
+>> Because you have a big problem to solve
+and your technology can do it. Um so we
+reduced book sizes many times. And
+what's interesting is that I don't
+recall a time in my career that we
+reduced book sizes for strategic or
+enterprise AEs that they didn't have
+more success. And so it's
+counterintuitive because as an AE you
+want more accounts. You always want more
+accounts. So there was always a bit of
+friction about around that. Um
+we also had some changes when it came to
+the arrangement of territories. Think
+about an organization
+>> Can I pause you real quick, Adam?
+>> Please.
+>> Uh I want to Yeah, I want to jump back
+to So reducing book sizes, you said
+you've never seen it not have a positive
+effect. Can you talk a little bit more
+about why because that is like super
+counterintuitive?
+>> Yeah. It's It's an interesting thing.
+In
+um
+commercial, which the commercial for us
+are deals that are
+thousands to to a few tens of thousands,
+okay? And then mid-market goes up from
+there and enterprise goes up from there.
+Um the In our market, the TAM is so big.
+There are so many accounts um
+that you're constantly calling folks in
+the commercial business. But in
+enterprise or strategic specifically,
+you're talking about the world's biggest
+companies.
+And so you can't focus on
+um some Ferguson or something, right?
+You can't You can't do that when you
+have them alongside of 75 other
+accounts. You're simply not going to do
+a proper account plan. You're not going
+to have the right executive engagement.
+Um you're not going to be doing things
+like account-based marketing or driving
+uh uh engagement to an event or or or
+talking to many people. Because Because
+an organization like Ferguson is going
+to uh require an understanding of their
+business at a much broader, deeper
+level. And you have to talk to the
+various personas that your technology is
+going to touch. In our case, we're a
+very big platform. We're predominantly
+used to save lives, to save money, to
+help organizations become more
+productive. Um and so there's a lot of
+people in the organization that care
+about that problem. Um so, it is it is
+impossible
+um to win uh at and introduce your
+technology in a meaningful way if an
+organization like that that can spend
+millions of dollars to solve those
+problems and and they will happily do
+that if it solves their problems.
+Um as one of many many many customers,
+it just you you're just simply going to
+work on whatever is hot in that moment
+versus the uh the depth it takes over
+time uh to engage that organization and
+showcase your value.
+But, to answer your question very
+directly,
+um I said what I said, and that is uh
+it's a tough thing for folks that are
+sales leaders to realize more accounts
+more of the time is bad. Most of the
+time, you do not want more accounts.
+Um
+And I I don't recall a time that I've
+ever reduced book sizes and didn't see
+productivity go up.
+>> Yeah. I was taught the martini
+glass-shaped pipeline. You know, instead
+of a pipeline, you want it to look more
+like this, and it sounds like that's the
+philosophy where like
+there's a forcing mechanism for the rep
+to go really deep on an account because
+they don't have as many accounts.
+So, um
+I would didn't want to gloss over that.
+I thought that was a really important
+detail.
+>> Well, you know what's interesting is we
+have some AEs that only have one
+account.
+>> Wow.
+>> Right? Because they're so big and they
+can they First off, their customer
+requires that kind of attention because
+of how big they are and how big their
+business is with Motive, and just how
+much influence we can drive and value we
+can drive with that organization. Some
+of them have whole teams associated with
+an organization um here at Motive. So,
+it's uh uh
+if anything, you know, we we went from a
+situation where you have hundreds of
+accounts to now some people have a
+single account and even some of them
+have entire teams supporting that one
+account and they continue to expand and
+have great success. So, um if you're out
+there listening, I I can assure you if
+you're especially an enterprise motion
+or strategic motion, uh the fewer
+accounts somebody has, the higher the
+likelihood is that they're going to pay
+attention to those accounts and have
+success.
+>> How did you think about org structure in
+terms of like SDR AE kind of pairing and
+like how did you think about how to
+staff the org, I guess and and what that
+would look like?
+I always wonder is there a special
+calculator out there that people like
+you use for like this or is it just
+you know like how do you
+>> That's not where you start. Um
+so, uh I think I think first thing is
+innovation is key, right? So, we are
+constantly testing different things.
+Now, Motive had scale as far as the
+number of people working here when I
+showed up. We already had thousands of
+employees. So, we were able to
+try some new things um in with with with
+the luxury that some organizations
+simply don't have. And so, one of the
+things that we decided to do um was
+build a um
+uh a graduation system or a farmer
+system, our own internal farmer system.
+And this is something I've been very
+very passionate about. We branded it.
+It's a big part of how we attract
+younger talent or more junior talent.
+They can come in as uh maybe an AE in
+our SMB organization, graduate to the
+lower end of commercial, graduate to the
+higher end of commercial. They can come
+in as an SDR, maybe they're maybe they
+worked retail or they were a teacher,
+maybe they were a college graduate. Um
+and they we do those programs all the
+time right now. But our SDR program is
+meant to teach you how to engage with
+people. It's not send 7,000 emails this
+month. AI has taken over that piece of
+it. So, if you can drive a human
+connection,
+um then you are now going to be
+successful as a seller. And as soon as
+you prove that, you're going to become
+an AE. And as soon as you have success
+in that role, if you want to, we're
+going to support you going up market to
+become an enterprise AE, maybe a
+strategic AE. And we have built these
+bridge programs, that's what we call
+them, uh to do that. So, it doesn't it's
+not just a promotion. You don't just go
+from being an SDR to being an AE. That
+would be reckless and wouldn't help the
+person get prepared. You you help them
+get educated and go through some
+curriculum and even help them ramp so
+that when they show up, um they are um
+actually further ahead than they would
+be if they were an external hire. Um so,
+um so this has been very intentional.
+Things that you're asking about with
+calculators do happen. So, there are
+ratios, of course, of how many SEs to an
+AE, how many SDRs to an AE, how many
+managers, usually the AE is though, is
+kind of the core of the thing and
+everybody's getting ratio to this. Um
+but it could be enablement people, it
+could be folks that are that that are
+involved in things like project
+management. Um so, it kind of gets to
+being a calculator, but that can't
+stifle in uh innovation, um which is uh
+you know, a core tenant of of what we're
+constantly pushing.
+>> So,
+just curious with some of those
+calculations, was this like a
+hey, let's talk to the board and see
+like what kind of experience that they
+have with this or your investors or were
+there people internally that already
+kind of done some of this stuff before
+that you could run it by? Like, where do
+you how do you benchmark that kind of
+stuff? I know there's some like really
+large consulting firms that kind of
+offer some of that, but what I always
+hear is, "Hey, we spent a million bucks
+and we got like a 40-page strategy
+document that didn't really do much for
+us,
+you know, kind of thing.
+>> Uh we definitely did not do that. Uh so
+we did not engage with a consulting firm
+to to help us here.
+Um
+I I think what it was is that we did
+have folks that had great experience
+prior to Motive and even at Motive, um
+we've been able to change up
+um
+innovation, the way we use things like
+AI, the way that we are using um
+different technologies and we've we have
+trialed different ratios. You You only
+have to take one So So I'll give you an
+example. I'll give a very practical
+example. In our mid-market organization,
+we have a lot of customers. Uh tens of
+thousands of customers in just that
+segment. Um and um the account
+management organization, so we have new
+logo and then you have account
+management, which actually used to be
+different. It was It was new logo and
+then it was expansion sales and customer
+success. So there were three groups. We
+mashed those together make it a more you
+own the account either at new logo or
+ongoing forever. We had to test that. We
+had to make sure it was going to work.
+Now what we're optimizing for is how do
+you get the best experience for the
+customer. And so you've got um you know,
+a lower investment strategy, which is
+fewer account managers per um
+accounts. So in other words, larger
+account books of current clients.
+Remember, they have to make sure that
+their experience is great. They have to
+retain the customer and they have to
+upsell the customer. So it's a lot of
+touches. And then secondarily, we
+piloted, again, what would happen if we
+reduced the book sizes for account
+management, not for new logo.
+And the results were striking and very,
+very positive and worth investing in. Um
+so I think what I would share here with
+your listeners is that don't get stuck
+by the way things were at a different
+company, don't get stuck in a model,
+constantly be challenging yourself, be
+open to trying something new, and I can
+assure you that some it'll either
+validate you're right, okay, that's
+okay, or it will give you a path to more
+efficiency or more revenue or more
+retention, whatever it is. And in our
+case,
+happier customers and frankly happier
+employees cuz when your customers are
+happy, I got to tell you,
+the account managers are happy, too.
+>> Oh, absolutely.
+If you could shed some light on
+the account management model that you
+guys have moved to cuz this is another
+big debate I see in companies cuz you
+know, we get brought in for PipeGen and
+PipeGen a lot of times is a you know,
+expansion within a customer account.
+It's like, does the AE own that? And if
+they do, for how long after they close
+the initial deal, do they own that? And
+then now, like you have these account
+managers that they might just be used to
+really doing more of a customer success
+type of job and now they're being asked
+to sell.
+>> Yeah.
+>> Like true like expansion selling. Yeah,
+what was that what was that like cuz
+this is where I think a lot of
+organizations are stuck on like what to
+do and they have that three-pod model
+versus the two
+that you're doing now.
+>> [clears throat]
+>> We
+some customers
+are very large and we actually don't
+move them off of their AE. Okay, so a
+lot of customers that are on the larger
+end, that that the AE will keep that
+account forever and we will add other
+resources to that account, whether it's
+a broader team, whether it's subject
+matter experts, whether it's
+a customer success managers,
+etc. So,
+so that model, when you think about some
+of the world's largest businesses,
+they
+they just require a level of depth and
+breadth. We just talked about it a
+moment ago, that you don't want to lose.
+Uh and it's really helpful to make sure
+plus we're constantly building new
+technology or they're telling us what
+else they want to do and so you can
+introduce those technologies to them.
+Um so the idea of a more traditional AE
+and CSM that's come that's introduced
+when we have that customer to make them
+successful, literally name, and observe
+how they're behaving and adopting the
+technology,
+um that is still what we do for larger
+organizations. Um however,
+uh what we found
+in the uh
+at the higher transactions and
+enterprise is somewhere in the middle.
+Enterprise and mid-market, you know,
+we're still um innovating with and
+trying to optimize it but it our
+retention is very, very good uh but
+we're always trying to improve the
+customer experience is that um it's
+inefficient for the AE to maintain the
+account. Um so if you sell them
+something for $100,000
+and the expansion opportunity in the
+next quarter is
+$2,000.
+That is the quota to OTE ratio on
+something like that will not support
+really small transactions that are
+add-ons. So we saw that and we developed
+that expansion sale motion. These people
+are going to call, they're going to
+introduce new technology, they're going
+to ask you how your scope is, and then
+we had somebody else that was kind of
+your primary point of contact for
+support, called it a CSM. Um it was just
+confusing, too many cooks in the
+kitchen, um not a single owner that had
+a net number.
+And so for us, uh moving more of our
+organization to somebody that either
+owns the account when they're going to
+buy or somebody that owns the account
+forever and they might need other
+partners. Maybe they need to go to
+product, maybe they need to go to
+support, maybe they need to go to
+finance, maybe they need to go to supply
+or whatever supply chain to to do
+things, but they become that
+quarterback. We saw not only improved
+customer experience and improved
+retention, but also they were going to
+sell more because that individual, uh
+you know,
+Sarah, the account manager, she knows
+her accounts and she knows their
+problems, she knows their opportunities.
+Um she knows what they don't have, she
+understands the white space. Um and so
+uh it we found it to be far more
+efficient uh and impactful to the
+customer to have a single owner um
+managing and triaging all those things
+as opposed to multiple parties.
+>> Love that. I think there's so much
+there. I love how customer-centric
+you guys are, too. And because that's
+like if it's better for the customer,
+there's this like you know, this is like
+Medallia stuff, right? It's like how
+people feel in the NPS score. It's like
+that's a big thing, too. Like how
+someone feels, their sentiment towards
+your organization, especially a
+decision-maker. Like do they look
+forward to hearing from you and meeting
+with you?
+That's like a really big part of it, you
+know?
+Um
+Dude, there's so many things I want to
+dig into, but I want to keep moving. Um
+enablement
+and messaging and like the support
+system around this, I'm curious like
+moving up market, this is
+sure they're using similar products and
+you had to do a lot more with the
+product, but the buyer's different. Like
+the executive buyer is thinking very
+differently, they're going to respond to
+different stuff. Like
+how did you guys like equip the sales
+team with like
+the messaging and the tools and the
+structure and just like how did you guys
+think about that part?
+>> This all starts at recruiting. So, we
+didn't walk in and say uh
+the team that is selling to our
+commercial customers is going to start
+selling to the Fortune 100. That That's
+not how that went. What we did is we
+went to market and found people that we
+felt were the best at what they do at
+engaging with large organizations. So,
+I'll start there. Uh we talk a lot about
+RAD. Uh I do anyway. RAD is resilience,
+accountability, and discipline. It's a
+model I put together over time. Um
+and the reason we talk about it is
+because these are things we look for in
+an individual when they join our
+company. Resilience, this is when you uh
+you might hear no, right? you might have
+something that's a challenge that pops
+up, and how are you going to bounce
+back? You know, are you going to have a
+renewed vigor? If so, then you're going
+to be resilient. Account Accountability
+is owning your outcomes, good or bad.
+And then, of course, the discipline, uh
+which is the most important one of
+these, is uh doing the things that you
+know you need to do even when you don't
+want to.
+And so, the folks that are going to
+showcase that they have a great drive
+and motivation, and they're willing to
+do the right things, that they can
+bounce back, and that they'll own their
+outcomes, um
+we we search for that in all the roles.
+But not everybody
+is an enterprise seller. Not everybody
+is a strategic seller. So, we we really
+had to understand uh what was best for
+them. What was their A+ talent? Uh and
+so, it starts at recruiting. Um when it
+comes to enablement,
+um this is actually very simple, but
+it's it's it's hard um
+to do.
+Um it's So, it's not easy, but it's very
+simple. And that is Yeah. Um
+folks have to be able to describe what
+our company does. And it's incredible
+how many SDRs, and you've been around
+this business a long time in technology,
+how many SDRs and AEs cannot adequately
+describe what the company does or the
+value that it brings.
+>> Yeah.
+>> And so, my advice when we hire a class
+and I meet with them, and I do it every
+time. I meet with every single class of
+new hires.
+Is I encourage them, before you do
+anything, before you start breaking down
+your accounts and before you start
+identifying who the key personas are and
+before you start thinking about pricing
+and and all the features functions, just
+make sure that you can go into a family
+member or you can go to a neighbor or
+you can go to a coworker and you can
+describe who we are, what we do, how we
+do it, how we do it better than others,
+the impact that it has and where we've
+done it, the customers that we serve. If
+you can do that in 90 to 120 seconds and
+a parent or a child can understand you,
+that is great because now you can talk
+to anybody. Um so, that is an enablement
+function here. We put a lot of effort
+behind that exercise and there's lots of
+other enablement things we do,
+um but that's that's where it starts. Um
+and then uh not to pile on here,
+but the conversation has to be about
+value. It has to be about the problem
+and the problem you're solving. So, we
+do have a proprietary framework for
+doing that. We've we coined it the
+motive value architecture.
+Uh and in essence, it's the ability to
+play back to somebody, you know, why is
+it that you are even talking to me?
+Right? The person's talking to you,
+they're evaluating your technology for
+some reason. You've got to be able to
+describe that back to them. It's because
+you have this problem today or you have
+this current state and this is where you
+said you wanted to go and this is what
+the outcome is going to look like when
+you get there. Um
+and also the urgency around it. What is
+happening now that wasn't happening 2
+years ago and what makes it a problem to
+solve for the moment that you can't
+solve in the future. So, if somebody can
+adequately describe motive
+and they can do it in a compelling and
+convicted way, and they can have a
+conversation with somebody that's about
+their world and their problems, and you
+can play it back to them, those folks
+are going to have great success. They're
+just going to be doing it with different
+personas and different size
+organizations that have different
+technical needs over time.
+>> Yep.
+I think that I love that. I I think the
+difference between what I'm hearing from
+you and a lot of what I see in practice
+is that I think we all know that we
+should not talk about ourselves and our
+products so much and that we should talk
+about their world, yet
+if as an organization you're not helping
+reps do that,
+you are not enabling them, it's it's
+kind of tough to expect, especially a
+new SDR, to do that. And it sounds like
+for you
+at Motive, like this customer-centric
+approach is just really ingrained into
+the culture. Like we need to be able to
+speak to the customer, meet them in
+their world, articulate the value. I
+need to be able to explain to someone
+who doesn't know anything about Motive,
+like it's such a
+fundamental part of selling. I think
+that is really lost these days.
+>> Virtually all of our clients
+will expand with Motive over time.
+Virtually all of them.
+If we are meeting their needs.
+And so,
+that starts with the right people that
+are going to engage with them. And then
+by the way, we're we're talking about
+sales predominantly or SDRs and but but
+the truth is that the solution engineers
+have to do this. The whole pre-sales
+organization, folks involved with
+implementation,
+and account management, customer
+success. Really anybody that's customer
+facing.
+If you start with the customer
+experience
+first, and then you work backwards to
+the technology and the approach,
+I've found that to be the the
+the most optimal way of ensuring
+success.
+>> Yep.
+Awesome. Before we take off, I got a
+couple surprise rapid-fire questions for
+you.
+>> All right. And
+I for some reason I'm not surprised.
+All right.
+>> Um so if you could go through this what
+it's been a two or three-year journey of
+you guys moving up markets. It's
+happened so quickly for you guys. Um if
+you could do that over again knowing
+what you know now, what would if
+anything would you do differently?
+>> I would have gone even faster.
+Um we continue to have great success
+um and
+um I would have gone even faster.
+Um
+my conviction at the beginning was very
+high
+and we went very fast, but that wasn't
+until about the 9 to 12-month mark. We
+had we had built it out a bit and then
+it went So it's fascinating how much
+we've grown. What you have to remember
+is that that didn't really start until
+like the ninth month I was here. So it's
+uh it was a very rapid growth.
+But frankly, I think if we we could have
+been our size years ago
+um and uh the technology was working at
+that time very very well. Um so if I had
+to do it over again, another one um just
+from a more practical sense uh would be
+um that
+uh you we're we're a direct sales engine
+at Motive. I mean, we are absolutely
+uh wonderful.
+One of the best maybe uh in in all of
+technology. However, um
+you know, I think that to get to the
+point that you are generating many
+billions of dollars in revenue,
+partnerships has to be a an important
+component of it. Um and so our
+investments were always going into our
+direct sales motion and into our
+integrations, so product partnerships,
+but I think go to market partnerships um
+is a critical component. It's something
+that we have now developed. Uh, I
+probably would have started that
+earlier.
+>> Love it.
+How do you personally use
+AI like in your day-to-day?
+>> Oh, great question. So, um, I put most
+things through AI when I am consuming
+information. So, I, uh, as as an
+executive, I'm not, um,
+generating as much documentation as I
+used to. Instead, I am, uh, responsible
+for knowing what everything says. So, we
+review a forecast, if we review a
+business review, if we're looking at an
+initiative to change something, uh, if
+we want to look back over how we did
+last quarter in a certain segment and
+there's a 55-page document that I need
+to read through, um, I do and I read
+every word, um, but every day I'm
+leveraging AI to help me understand big
+data models to help identify trends, to
+help identify key insights, um, and
+certainly to help make sure I didn't
+miss something that is a problem or an
+opportunity or a really interesting
+insight. Um, so I I found that it is,
+um, it it it ensures that I'm a more
+complete, present person in a room, uh,
+because it's it's like having two more
+atoms right beside me that are also
+reviewing the same information in in
+like, uh, just faster, different moods.
+Yeah, you know what I mean? So,
+>> [laughter]
+>> Yeah.
+>> So, we do a lot with it, don't get me
+wrong. As an organization, I mean, we
+use so many tools, but if you're asking
+about me in my personal life every
+single day, um,
+I also do it for a lot of just random
+idea generation, you know, I'll we'll
+use, um,
+Claude or or or or or uh, ChatGPT or
+Gemini or something to do fun stuff like
+I don't know. Somebody said something
+funny in a meeting and all of a sudden
+there's an image generated from it. You
+know, it it it it makes us laugh. It
+makes [laughter] us
+grounded. Um or we want to come up with
+a name or we're thinking about a spiff
+or something and you just say, you know,
+I'm feeling like this and I kind of I'm
+you know, like the Derby the Kentucky
+Derby's in in in a week and a half. So,
+how can I weave that into whatever my
+message is going to be to the company
+next week? Um stuff like that.
+>> One last question before we take off is
+you know,
+having a position like yours could be
+stressful for a lot of people and like I
+always like to ask about like is there
+anything that you do to relieve stress
+or prevent stress or anxiety or
+any kind of routines, tips, anything
+like that?
+>> It's a really good question. This is an
+area that I don't think I do well. Um
+and
+in time um
+I I I will do more. You know, it's it's
+it's interesting when you when you enjoy
+work. You know, I enjoy work and
+>> Me, too.
+>> when I make um
+uh progress
+and have a sense of accomplishment over
+what I did today um
+it it it doesn't really stop. Um I'm
+just I I'm
+my happy place is driving things
+forward. Um I'll give you an example. We
+we had a conversation today and
+identified a couple of uh of challenges
+with one of our active cycles and it
+gave us a lot of energy to go and solve
+those things. Um that's great work and
+that that gives me a lot of
+satisfaction. Um I have great friends
+and I do travel a lot for work and not
+for work, too. Uh and and go all over.
+So, maybe that's it, but it's not it's
+not always small. Uh it doesn't always
+reduce stress per se. Um
+but I would say this.
+Um,
+you know, if you if you do yoga, if if
+if you are somebody who's into painting,
+uh, if you are somebody who likes to
+play sports and these kind of things and
+that's your stress relief, that's great.
+Um, and I do some of those things some
+of the time. But the truth is that I
+really uh, am very thankful for the team
+that I built. That's what allows a
+stress relief. I mean, you can't go to
+sleep at night if you've got a huge set
+of problems and you don't have the right
+people working on them. But it can make
+you, uh, very confident in going forward
+if you are surrounded by an incredible
+bunch of, uh, of leaders and very senior
+leaders that are in many cases have
+teams of hundreds or thousands of
+people. I mean, my organization, a CRO
+here, is, uh,
+over three right at 3,000 people right
+now. So, it's a big org. And and and
+those folks need great leaders, um, that
+are getting what they need from the
+broader, uh, teams and they do that
+through me. Uh, and so as long as, uh,
+they are out there representing their
+teams and we are, uh, doing the work to
+support them and and they we have a
+trustworthy relationship. Uh, I know
+that sounds, uh, very elementary, but at
+the end of the day, um, that's going to
+relieve a lot of stress.
+Uh, and so that's that that's what I'm
+very proud of.
+>> 100%. Uh, so we got to take off. It's
+been great jamming with you here. Where
+can people go to connect with you or
+learn more about Motive? Like, I'm sure
+you guys are hiring, like, all of that
+kind of good stuff.
+>> Always hiring. gomotive.com.
+There's a career page. Uh, of course, if
+you're listening to this, just send me a
+note, adam.block@gomotive.com.
+Send me a note on LinkedIn. Uh, and uh,
+we'd love to hear from you. Really, uh,
+all functions are, um,
+and have been, uh,
+hiring for quite some time
+Uh, and it's it's a great team with a
+great attitude and it's not something
+you can fake.
+So I I would invite any folks to to
+get in touch and we'd love to hear from
+you.

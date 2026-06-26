@@ -1,0 +1,1426 @@
+Metadata:
+{
+  "expert": "Jason Bay",
+  "channel_name": "Jason Bay",
+  "video_id": "cS1Nh_62D4g",
+  "title": "World-class enablement, AE self-sourcing, and onboarding",
+  "video_url": "https://www.youtube.com/watch?v=cS1Nh_62D4g",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 1410,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+It's good to jam with you, man. Here.
+Um, I remember the first time we met, I
+was like, I'm gonna get along with this
+guy because you had like you have like
+guitarists in your office like hanging
+on the back wall. I was like, let's go,
+dude. [laughter]
+>> Yeah. You had just told me about some
+Van Halen solo you learn. I'm like, oh
+yeah, this is going to be fun. And then
+right before we got on here, you're
+listening to some Van Halen bootleg
+video or something. So, always a good
+time.
+>> Yeah. Um the other f funny part about
+how we met too is and this happens
+somewhat often but maybe not quite to
+the extent um that you guys have at
+Brook uh Brooksource was like you're
+like yeah so we're already following a
+lot of your cold calling frameworks and
+you open up this deck and it was like
+yeah we're like following this to a tea
+you know we already know what a priority
+drop is and a permissionbased opener and
+like all this other stuff
+>> all your stuff before I even got to talk
+to you. Yeah,
+>> I was like so happy. I was like, "Oh,
+this is awesome, man." Um, I thought
+what would be good to get into and we
+we've sort of talked about it offline,
+but
+um how do you go from, you know, sales
+being a sales leader and like doing that
+whole stuff and like why the shift into
+enablement uh for you? I thought that
+might be a good place to start.
+>> Yeah, it's a good question. You know, it
+the interest in it. Well, first of all,
+I think the interest started before I
+even knew what it was. You know, we we
+certainly didn't have it in the company
+and at least from my lens, I know
+enablement is really really popular, you
+know, in SAS sales and tech
+longer in our business, like in
+staffing, consulting,
+>> like a lot of our, you know, a lot of
+competitors don't even have that yet. So
+I was really interested in when I was
+coming up through sales and sales
+leadership in the company like we would
+just be kind of reinventing the wheel a
+lot in our different markets or
+different regions and just a lot of
+thoughts about like how could we do this
+you know everyone's creating this this
+messaging like how could we do this at
+scale so that every rep doesn't have to
+reinvent the wheel over here. Um so it
+kind of started there and as I got into
+leadership uh the need for that really
+just grew as we evolved the business we
+grew our operation you know and some of
+the complexity and the process and the
+technology um the new hires and the
+people that we were onboarding like as
+that increased the need only got greater
+and the leader I was working with at the
+time when I was a sales manager um was
+becoming our VP of sales. So it just
+really kind of fortuitous timing and
+then just a an interest in trying to do
+things across the organization, the
+sales organization at scale and solve
+big problems for everyone I'd say is how
+I got into it.
+>> So because you've been in enablement now
+I think for six or seven years or
+whatever it's been like did you have to
+learn did you have to learn how to do
+enablement like on your own from
+scratch? Like how did how did you pick
+up all this stuff?
+>> Still learning man. I mean that's that's
+been my mo like that's something I I
+prioritize a lot is
+>> I go out and I like to read I like to
+listen to podcasts you know that's how I
+ran into you. Um so bringing external
+knowledge into the company um is
+something I'm always trying to do. So
+yeah I did have to go out and learn a
+lot and I'm always trying to connect
+with
+>> people out there and and get different
+perspectives and yeah we we borrow a
+lot. You know we see this out here we
+like this. Um so it's a lot of the
+things we do are homegrown but they're
+inspired by a lot of great things that
+we see out there. So that's kind of how
+I've done it over the years. And I mean,
+still evolving and definitely still
+learning. Don't have it all figured out.
+>> Yeah. One of the things that impressed
+me most in working with you guys was I
+mean, dude, I want to say at the time,
+was it just you and the enablement
+department department when we started
+working together?
+>> Yeah, I was uh yeah, one man crew for
+the first three or four years and then
+we started to, you know, still a small
+team, but we've got a couple different
+folks on the team now, so it has grown.
+Yep. And how many how many reps do you
+guys have?
+>> Just for Yeah. For our Brooks Source
+brand, um we're just south of 200 reps.
+Like 180 right now.
+>> Yeah.
+>> So 180 200 reps. And what I was
+surprised by was like there's so much
+standardization inside of the
+organization already.
+It's like wow. Like people are following
+a very similar like outbound co uh cold
+calling framework. I know that in our
+work together we increased the
+conversion quite a bit of like first
+call you know connect to meeting but it
+was already pretty high. I want to say
+it was like 25% conversion rate on
+connected calls into a qualified
+meeting. Um there was that and then the
+other thing that I was really impressed
+with that I want to get into is and this
+is something that enablement can
+struggle with in some some orgs is there
+was a really good partnership between
+you and the sales leaders.
+>> Yep. And a part of that I imagine was
+that you you've done the job before
+at that company especially.
+>> Yeah, I think that yeah, that definitely
+helps. I also think it's just I'd give a
+lot of credit to just like our culture
+and the people in the org. Like it's
+definitely a culture where
+>> people get a seat at the table and you
+know your opinion and your voice is
+heard. So uh we definitely benefit from
+that from the enablement seat. But I I
+think it goes both ways too. I mean, we
+have that that culture and that
+mentality, but also like we we try
+really hard to make sure we're bringing
+it like we're we're bringing value, you
+know, back to bringing ideas and
+learning from, you know, external
+sources, like, you know, we we see the
+enablement team as an area that can
+bring new ideas to the sales team that
+maybe they haven't thought about and the
+sales leaders. So, if we're bringing
+that value, we've got a seat at the
+table. we just have a good um kind of
+360 feedback loop and and and making
+sure everyone gets their voice heard
+going. So that helps.
+>> Yeah. Love it. Um so we're going to
+unpack like three things here. So I
+thought would be really good to talk
+about first is the enablement approach.
+So, how you do everything from take all
+of the ideas that probably I would
+imagine get thrown your way through
+emails and texts and messages and
+meetings and that sort of stuff and how
+you prioritize that um to how you
+measure it etc. Um, one very unique
+thing too that I still think is uh
+correct me if I'm wrong being done today
+is you know AEES are pretty much
+expected to self-source most of their if
+not all of their pipeline. There isn't
+like this big SDR org that's setting all
+these appointments for them. that was a
+really unique thing coming into the
+business that I saw. Uh and then
+onboarding. Um, so if we were to unpack
+the enablement approach, like if we kind
+of step back, how do you think about and
+feel free to add commentary if you're
+like, "Hey, dude, this is really adapted
+over time, too." And I've had to kind of
+figure out some of this the hard way.
+But
+>> yeah,
+>> how do you approach
+like organizing and prioritizing what to
+even focus on first and then what what
+happens after that when Brooks decides
+that this is a thing or two that we
+really really want the enablement team
+to focus on with our sales work?
+>> Yeah. I mean to your point it has
+evolved quite a bit because when I first
+stepped into the role and I was learning
+enablement I mean
+>> it was like floodgates over you know
+we'd never had anyone doing this. had
+been like, you know, a sales manager
+would be doing this or my, you know,
+person who was probably the happiest is
+our VP of sales who'd been like writing
+sales training and any change that
+needed to be done was doing. So, it was
+definitely like floodgates had opened
+when we started and I didn't think I
+quite had the confidence at that point
+to know what we should be prioritizing.
+Um, I was really just executing a lot of
+the work and you know, hey, you should
+do this next or you should do this. But
+it it quickly became a challenge like
+okay all of a sudden I've got all these
+ideas coming at me from all over the
+organization sales other groups and yeah
+what do I prioritize where do I spend my
+time because I'm one human that became a
+challenge really quickly and it didn't
+it wasn't like a light um light switch
+flip with that by any means but where
+we've gotten really good in the last
+couple years has been our executive team
+and our leadership team has really
+painted a clear picture of what our
+vision is like even for that year, what
+are some of the things we really want to
+focus on? And then that has become my
+northstar to be like, okay, these are
+the things that, you know, we think are
+going to grow the business or be the
+most important things to the business
+this year. These requests that are
+coming in or where I'm deciding to spend
+my time, like what what would be a tier
+one project, it's got to move the needle
+on some of those core objectives of what
+we're trying to accomplish. If it
+doesn't, it's not in that lane at all.
+You know, it's not that it's not a good
+idea or it's not important, but it
+doesn't need to be a priority. And I
+know it's hard because like with
+enablement sometimes some of the things
+that are coming up are like many fires.
+It's like uh that's on fire over there,
+but if it's not something that's like
+one of those core things that we really
+think is going to help us this year, I'm
+going to let it keep burning. Uh which
+took me a while to learn, but I think
+we've gotten a lot better there and
+we've been able to be more focused on
+like what priorities will move the
+needle.
+How do you because I think this would be
+helpful for other enablement leaders
+listening.
+How do you say no to something? And
+and then also be okay with just like
+Yeah, there's always stuff. There's a
+million things that aren't working
+right. Um and just like being okay with
+kind of letting that go. How do you say
+no to that? And how do you what advice
+would you have for someone that's like,
+"Well, there's so many things we could
+fix. Like this thing's not perfect and
+this thing needs to be fixed, etc.,
+etc." Yeah.
+>> What advice would you have?
+>> Yeah, it's a great question. You know, I
+for starters, like I I feel like a lot
+of the requests I get or ideas I get are
+from people I know really well because I
+take time. You know, I've been in the
+organization. I'm coming up on 15 years.
+So, I'm a little bit unique there. I've
+just had more time with some of these
+folks. But usually people who are coming
+to me with those types of things that
+maybe I have to tell no, I have a
+relationship built. I understand their
+business and, you know, a lot of times
+what they're trying to accomplish. So
+that helps um that there's you know
+trust there and transparency and just a
+good foundation of a relationship. But I
+the big thing for me I actually use this
+like my whole career sales sales
+management um enablement now like I just
+explain why you know not it's not just a
+no. It's like yeah this is a great idea.
+Well first I like to listen to and take
+it all in. What exactly are we talking
+about? What would it involve? But if it
+if it's clearly something that we're not
+going to be able to give attention to
+immediately just in explaining the why
+and that could be you know we've got
+project AB and C over here or it could
+be you know this doesn't really line up
+with like some of the big objectives
+that we're trying to tackle this year.
+Um, but I mean I always even good ideas
+that don't fit that criteria, I'm still
+going to keep that in mind. Like I'm
+gonna follow up with that person, you
+know, hey, is it still a problem three
+months later, I have a, you know, my
+whole method to my madness of how I
+organize projects and what could be
+future projects. So I have it stored
+somewhere where I can revisit and check
+in with them and make sure that like
+they're still feeling heard and they
+know it hasn't been forgotten, but um,
+you know, we're going to still check in
+even if it's something that's not
+accomplished yet.
+>> Yeah. Yeah, and I think you mentioned
+something else I noticed in really great
+enablement leaders is they they have
+these really key relationships that
+they've spent time building. So, there's
+trust there. Um,
+curious for you like because a big part
+of it is showing up as a partner.
+What do you do with with you and your
+department now to stay engaged with like
+what's actually going on in the field
+and being able to come in and actually
+offer strategic value or guidance? Like
+what do you what do you do to stay on
+top of that stuff? What what does that
+look like practically speaking?
+>> Yeah, I mean some of it's been done for
+me. like we just we have a a couple
+different like SWAT teams, if you will,
+like groups who report up through sales
+leadership that are talking regularly.
+So like my boss has has prioritized that
+and created that system over the last
+few years and gotten the right people
+involved. So I just feel like I mean we
+have that one of the calls is weekly,
+one is bi-weekly. So, we're constantly
+talking like if something is feeling off
+or like there's something that's on fire
+that's really needs attention, everyone
+knows about it and then can plug the
+right people in um to fix it. So, that
+that helps tremendously. And then, you
+know, as we've grown the team too, I
+because that helps. those are sales
+leaders. So that that captures a lot of
+the big picture stuff, but we try to be
+really intentional with making sure we
+spend a lot of time with the people in
+the field, you know, because what can
+happen is we've got lots of ideas of
+what we think is going to move the
+needle or how impactful this project or
+this new technology could be from our
+lens, from the enablement lens. It
+doesn't matter if the field doesn't see
+it that way. So spending a lot of time
+with sales managers, our AES in the
+field, like we you can never do too much
+of that. And I I always feel like we
+could do more and I want to do more, but
+I do think we've done a good job of
+prioritizing that so that we have a
+pretty good pulse of like what you know
+what the field thinks about what we're
+putting out there.
+>> What are the what are the SWAT teams?
+>> Yeah. Yeah, I mean it's just I mean we
+have like weekly calls you know so it
+would be anyone from like people who are
+our specialists who are running um
+different vertical organizations or the
+folks who are running some of our
+services and solution orgs um regional
+sales directors. So, it's it's a you
+know, it's all folks who report up
+through um you know, like our our sales
+executives um and they're the right size
+where there's enough people where you're
+getting perspective from a lot of
+different areas and a lot of different
+things can come up, but they're also
+small enough where like we can we can
+get things done when we talk weekly,
+bi-weekly and accomplish a lot. So I
+would definitely recommend that if you,
+you know, if you're an enablement leader
+who maybe doesn't feel like there's a
+seat at the table or just like in
+general the sales org or even orgs that
+sales is interacting with are just not
+really in sync. Like getting it
+[clears throat] can be as simple as
+having some of those calls and you know
+we rotate. It doesn't always have to be
+one person running it. Like I'll maybe I
+had an idea or something that I read
+that I thought was relevant for us. I'll
+bring it to the call. I'll present on
+it. It's just super collaborative. And I
+mean every call we have, we're
+>> yeah,
+>> we're either identifying something or
+like actually working on something to
+get a solution done. So kind of like
+your get done sessions that I know
+you branded. It's kind of our version of
+that.
+>> Yeah. So just because I think this is an
+interesting insight for everyone. Um,
+are the SWAT teams is it like there's
+like an outbound SWAT team or is it like
+how how are the SWAT teams is it
+organized around a topic or like a
+function or
+>> Yeah, the ones I'm thinking I mean we I
+I guess off that note like I do spin
+those up quite a bit as well. Like for
+example, we're always making tweaks to
+you know one recently was yeah like our
+our cold calls, how are those going?
+Reassessing like our framework or it
+could be anything. um you know how we're
+multi- threading like I'll definitely
+spin up like a smaller group of people
+and figure out like who are some of the
+key stakeholders like maybe I want to
+grab a sales manager a couple AES a
+regional sales director just get
+perspective and use a small team to
+drive that so do a lot of that um this
+team's a little bit more standing just
+like more of the executive leaders in
+sales who are leading a lot of those
+functions so from a high level they kind
+of know what's most important in their
+org and what's going on Um, and that
+kind of helps us all stay in touch with
+each other.
+>> Got it. So, like from a prioritization
+standpoint, it sounds like there's a
+couple components of like you're really
+close to the field, you and your
+department, and like what's going on and
+participating in that stuff. And there's
+also these like kind of dedicated
+smaller teams of the leaders which I
+think is a really big part of like the
+leadership buyin around stuff too where
+it's like you're not just coming in as
+an enablement team and saying here's
+like uh you know we're going to run some
+general enablement sessions on cold
+calling. It's like no we've heard this
+is a problem. Something's not
+resonating. The leaders have brought it
+up. They're bought into this. We're
+going to talk to some of the reps. We're
+going to observe this in action. Um love
+that. So, uh, we've prioritized what we
+want to work on. Um, what sort of comes
+next after that? How do you think about
+because you guys are super data driven,
+too, which I love. Um, how do you think
+about like metrics,
+creating buy in like creating the actual
+enablement content? Like how do you kind
+of think about the rest of the steps?
+>> Yeah. And there's a lot that goes into
+it, but I mean general things like try
+to start with the end in mind. you know,
+if we if we identified something that,
+you know, hey, this is definitely a
+priority. And to the data point,
+we're not exclusively going to say like,
+yes, we have to do this because this
+data says this, but we use that for
+sure. Like if if we have a feel that,
+hey, this is a gap and we're hearing
+that from the field and there's data
+there to support that, like that means,
+you know, we feel like this is a slam
+dunk, something we should prioritize.
+Um, but once we've landed on that, yes,
+we need to take action here. like
+definitely thinking about what the end
+result would be. What would a win look
+like three months, six months, nine
+months from now, whatever the time frame
+is. And we definitely have gotten a lot
+better at trying to figure out like what
+win what would a win look like that
+could be qualitative but also
+quantitatively like can we measure it?
+If we can measure it, that's obviously
+best. So we can see if it was successful
+and and then we learn from that, right?
+So that's become a big piece up front.
+um constantly evolving, but I think
+we've done a lot better job of using
+data to help us make sure we're working
+on the right things and then obviously
+see how successful some of the things we
+roll out are so that we know how we can
+do better next time. Um in terms of like
+the buyin,
+back to leadership, I mean if we're
+going to roll out something new, you
+know, very rarely will we roll out
+something new and important and just
+kind of get it out there to the field.
+like we're going to spend time with
+leadership under making sure we
+understand the true problem, you know,
+hey, here's what we were thinking about
+for this roll out. How do you think that
+would go? What are blind spots that
+we're not thinking of? Making sure that
+the leadership team and and by that I
+mean like the sales managers or maybe
+some of our vertical leaders, we want
+their input. We want them bought in
+before we start trying to get it to the
+field because if they're not bought in
+or they don't understand it, they don't
+understand the why, they don't get it,
+it doesn't have a chance really. We've
+just we've had so many failures there.
+We're just it's simple. Let's just push
+it, you know, out to the field. But if
+if the leaders aren't on board or they
+don't get it, it's just not going to be
+successful. That's what we've found. So,
+for our big ticket things, we're going
+to spend a lot of time up front making
+sure they can roll it out and they're
+not completely dependent on enablement
+because they're the ones in the markets,
+right? They're the ones who are sitting
+down with these folks, running the sales
+meetings. So, that's that's been a big
+learning lesson over the last few years.
+It's probably the most important one,
+honestly.
+>> Yeah.
+H how does it go with um like are you
+then training or creating content in
+collaboration with the leaders at that
+point or is there a phase of this where
+it's like hey we're going to roll out
+this new cold calling approach let's say
+you know we're going to train the
+leaders on it first before we roll it
+out like how what does that part look
+like? Yeah, a lot of times we will do
+that or like a recent example was I mean
+let's just use AI as an example. Um you
+know we we sell technology and
+engineering talent solutions. So like
+we're working with customers and how
+they're leveraging AI. So
+>> um you know we put out content to just
+educate the field at large for what's
+going on in the market. What are we
+hearing from customers? You know what is
+Brooks Sourc's value prop? All the
+things you can imagine that the field
+needs to know to stay up on the latest
+and greatest. So um one thing we did
+recently with that was so we put out we
+we kind of have an internal podcast that
+we do that as it's the main medium we
+put that out through and we released it
+early to the leaders let you know give
+them some time to digest it give it a
+listen host an office hours um you know
+hey come if if you feel like you got it
+and you feel good reinforcing that with
+your market great no issue but if you
+have questions you're a little not
+unsure about it or what would be the
+best way I can actually reinforce this
+you know with my AEES come to the office
+hours, let's talk about it. Um, and then
+and be able to back it up with just like
+the really easy, you know, here's
+everything you need. You know, here's a
+sales meeting you can run. Um, here's
+the sales play, you know, that all the
+resources live. This is what the reps
+will use. So, you know, check this out
+and see if you have questions. So, you
+know, just trying to go above and beyond
+and make sure they have everything they
+need and and then also know on the back
+end if they get lost three months or
+three weeks later or whatever, like they
+can come to us and we can help.
+>> Yeah. Can you talk a little bit more
+about because it sounds like a big part
+of this is one we're getting leadership
+buy in and then you also mentioned like
+we're giving them ways that they can
+talk about this in their meetings and
+like reinforce it and that sort of stuff
+like uh what goes into that like and
+maybe we use cold calling as an example
+because that's like maybe the that was
+the reason why I was brought in was to
+talk a little bit more about that and
+you guys were already adopting that and
+that's a really kind of simple example
+to use. Um, but what would you give
+leaders for, hey, we're going to roll
+out a new cold calling approach? What
+would the leaders expect to have in
+terms of like collateral or enablement
+that would help them outside of the
+training sessions that you guys are
+going to run around it?
+>> Yeah. So, definitely like anything that
+we would eventually be giving as a
+resource to the reps. So, whatever they
+fall back on, which could be like a, you
+know, sales play, a one-pager, talk
+tracks, whatever. Um, but then I think
+the key with with the leaders, at least
+from my perspective, like the leaders
+tend to value more of like the in-person
+time. Yeah. The direct training. They
+want to be able to get on a call and
+just ask their questions, get it figured
+out versus like, you know, take a
+training, you know, in an LMS or like
+read through a bunch of information. So,
+>> I found the best engagement we get is is
+just offering time, you know. Um, so
+that's the main thing. It's nothing
+crazy. You know, there there could in
+some cases like for cold calling be more
+of like how are you coaching it? You
+know, there could be some separate
+resources they can use or maybe a
+coaching sales play, but I find a lot of
+times like you can overthink it and
+provide like too much content. So, a lot
+of time it's just getting them access to
+what the reps are going to see early.
+So, there's just that's the core content
+and then giving them additional time to
+ask questions on it. Um, but we do we
+definitely do train the trainers as
+well. also for like cold calls. There
+was something new we were learning and
+and we did that with you. Um that was
+super effective because while they need
+to know what the reps are going to learn
+as well, like they have a different
+lens. So they're going to want to know
+how can I create a culture around it in
+the market? How can I give feedback
+around it? Um how can I think about like
+our call management strategy and who
+we're calling? So, I think giving them
+time in person is always the highest ROI
+for us. And getting far enough ahead of
+it where they feel like they're not
+rushed to, holy this is coming
+through. It's new and I got to get this
+in front of my reps like next week. That
+doesn't usually work for us either.
+>> Yeah. Love it. And there was like, if I
+remember correctly, there was like a
+four-part framework that you guys were
+using that I think was very very like
+our frameworks were almost identical. It
+was like
+>> teach, practice, inspect, and coach.
+which I think is is ours. What yours you
+guys have some a riff on a variation of
+that.
+>> Yeah, it's pretty much identical. But
+yeah, so like teaching up front,
+>> you know, that might be where you're
+going through the actual training
+material like here's the x's and o's
+like this is the framework.
+>> Um and then I mean the important part is
+just getting into the actual activity
+itself. So let's say yeah, we're a cold
+call like going through how we would
+actually prep to make that call or if
+we're going into a cold call session,
+what kind of prep can we do? So, they
+actually do the prep, you know, with a
+rep. Um, and then like shadowing in the
+moment. So, again, we use this a lot. It
+could be for anything. It doesn't have
+to be cold calls. It could be meetings,
+whatever we're whatever skill we're
+trying to learn. Um, but actually
+getting into the activity with them,
+making calls with them, going on the
+meeting, riding along. Um, and then
+actually after you've actually been
+through the activity, like the coaching
+that comes after that. So kind of the
+review of what happened, how did you
+think that go,
+>> you know, giving feedback, things like
+that. So
+>> it's a good one.
+>> Love that.
+>> Any anything else you would add before
+we kind of shift gears a bit on
+your enablement approach, your
+framework, how you and the team kind of
+think about it.
+>> Yeah. I mean, I guess something that
+we've we've done this year that's helped
+a lot is like we have somebody in the
+organization like enablement is always
+change management. Um but we have
+invested a lot in just because so many
+things are changing and that's just the
+normal state. Um we've invested in in
+just upping our change management game
+as well. So like we have a leader who's
+kind of tasked I call her our change
+management ZAR but like she's
+>> she's gotten some training on it and is
+you know if we're rolling out something
+big um we're going to her to like
+present our plan and just just look at
+it from a different angle like she's not
+in enablement. doesn't roll that stuff
+out every day, but our most recent
+launch we made, it was just like some
+process updates and some different CRM
+things and gave it a whole new
+perspective. So, that's just something
+else that's working is just having
+somebody out else in the organization
+maybe put eyes on some of the stuff
+you're putting out there and be like,
+here's how I was thinking of rolling it
+out. Is there anything else we could do
+to improve this? And in this case, it
+was somebody who worked really closely
+with a lot of those sales managers. Um,
+that was their role. Just gained a lot
+more perspective. So, I think having
+peers and people who are in cross orgs
+help with some of the major lifts and
+change management, that's been a a thing
+we've done this year that's gone really
+well.
+>> Do you have any examples of stuff that
+you've gotten feedback on that was
+helpful?
+>> Yeah, I mean, some of it was um
+you know what we talked about earlier
+like the best way to to roll things out,
+you know, to specific groups like what
+are the what do our market directors
+really like? like different um different
+styles for how people learn and um it
+was even like the launch plan, you know,
+how we were timing it up and you're
+like, "Hey, have you thought about the
+timing of this and how this coincides
+with this other thing that's going on?"
+Just things I wouldn't have thought
+about. Um those are a couple examples
+that come to mind, but there were a lot
+of like aha moments where I felt like
+the we came in with a pretty good plan
+and left with a great plan just for
+having one other set of eyes on it.
+Yeah, I think the timing piece is so
+crucial. It's because it's hard, right?
+Because especially us as being a third
+party, we come in like we don't know
+what the day in in the life looks like
+for a rep. We don't know what they're
+being asked outside of the training they
+participated in with us,
+>> you know? So being conscious of that is
+obviously very crucial if you want
+something to land.
+>> Yeah. Yeah, we kind of see ourselves as
+like the a little bit of the gatekeepers
+to the AE's time because they they get
+so many things from so many different
+areas, not just enablement, but you
+know, from our HQ departments, from um
+from everywhere. So
+>> yeah,
+>> it's really our job to figure out like
+okay like a schedule, you know, of when
+things are going to come out because
+we've definitely had instances where we
+didn't think through that or there's
+something coming from somewhere else in
+the or at the same time and it's and it
+it could be a great roll out, great um
+content or whatever it may be training
+and it just doesn't land because it was
+simply mistimed because there was
+something else going on at the same time
+they had to do that was equally as
+important and they they just could only
+swing one. So, um, that's a lesson
+learned for sure.
+>> Let's, uh, let's shift gears into
+self-sourcing. So,
+this is probably the thing that stuck
+out to me most working with you guys was
+I was like, "Oh, there's okay. There's
+no SDRs." Um, I'm sure there's some
+marketing leads and stuff that come in
+here and there and some channel, you
+know, partnerships and referrals, but
+for the most part, the AE is out there
+like building their own pipeline. Um
+what are what are some of the stuff that
+you've seen work? Um not just like
+tactics wise, but like how do you set
+the tone and the culture around that?
+Because that is just something in SAS
+that is I think that they're learning
+the hard way in SAS right now. These
+last couple years have been pretty hard
+in terms of like the market is not what
+it was and the SDR teams are not as
+inflated as they were and it's like hey
+I got to go out and self-source
+two-thirds of my pipeline when I'm used
+to kind of doing nothing for the most
+part. So it's been it's been a hard
+adjustment for a lot of sales teams. But
+can you speak to like the culture just
+around this and how you guys think about
+you know pipe genen and that kind of
+thing? Yeah,
+I mean we do benefit
+feel like I have to call this out first.
+Like we we never have had a BDR role or
+team. So it's all we have a lot of like
+tenure people who started with the
+company and that that's kind of one of
+the unique parts of our culture is we
+have a lot of people who have just grown
+up through the business and have been
+there a long time. So for a lot of us
+it's just all we've ever known. So that
+helps. But I do think like from my lens,
+I mean, we we prioritize training a lot
+of those skills right out of the gates.
+Um, and we set that expectation early.
+So, if you're if it's a new person
+coming in, maybe they've sold in a
+different role or maybe it's their first
+sales job, like that's that's just a big
+focus. We want to get them doing the
+job. And the first part of the job when
+you start fresh, you know, we don't have
+dozens of qualified leads to just hand
+over to somebody. So like, hey, your the
+first part of your job as an AE is going
+to be to try to figure out how to set
+meetings, learn about your account. Like
+they're starting from the ground up. So
+the training reflects that when we get
+them into training, like we try to get
+them um understanding their accounts,
+starting to become a student of their
+customers business or their prospect
+customer's business, getting on the
+phones, learning how to do LinkedIn,
+learning how to do social. So it does
+start immediately and the tone is set
+and that's, you know, if they want to
+eat, they got to hunt. Um, so I I think
+we set that early, but we also invest a
+lot in the training and giving them like
+setting them up to be successful with
+the tools they have and the support they
+have to do that. So, um, those are a
+couple things that come to mind. And I
+also think we're just, this is in a lot
+of areas of our business, but we've
+always been just a quality over
+quantity. So, I I think one of the
+things that can overwhelm reps maybe
+sometimes with with self-sourcing is
+just, you know, hanging a huge number
+over their head. like we're not asking a
+especially our more tenure reps who are
+who are managing accounts and and
+managing opportunities and business, you
+know, it we're not asking them to make
+300 calls a day. Um, but we want quality
+contacts and um we want consistency. So,
+we, you know, we look at the numbers.
+Our coaches do a good job of
+>> of checking them on that. You know, hey,
+no calls this week. Like, what's going
+on? It's so it's just an expectation.
+It's built into the coaching. It's built
+into the training. And then I think the
+ask is reasonable. Let's make quality um
+quality outreach attempts and and
+understand the importance of how we need
+that. Like if you want to continue
+growing your book of business, you can't
+just sit in this group over here and not
+meet new people and and spread your
+influence. So
+>> yeah, there's a lot to be said for that
+just being the expectation coming in and
+people not knowing any different.
+>> Yeah, it helps,
+>> you know. Um, and then I think the other
+thing too is, and I'm just been really
+big on this messaging lately, is that,
+you know, we, you know, companies spend
+billions of dollars, especially in SAS,
+on sales training and sales methodology
+and sales process. And if there's a big
+deal, Carrie's going to might fly in
+person with a rep to go meet that
+client, right? Um, outbound
+traditionally gets like, "Hey, here
+dude. Here's a talk track and some email
+like templates. Like, go get after it."
+There's like no training. There's no
+methodology, there's no approach,
+there's no onboarding that like nothing,
+you know. Um, so I think that's the
+other big part is you guys invest a lot
+of time training on how to properly do
+this because outbound sucks. If you suck
+at outbound, it's it sucks.
+>> It's really shitty to be an average rep
+that converts 5% of live connected
+conversations into a meeting. That means
+I'm getting rejected 19 times in order
+to book a meeting. That's like that's
+not sustainable in enterprise sales, you
+know. Um, what are some of the things
+that you guys are seeing working? I know
+that there's like this isn't just like
+this isn't like an inside sales team
+>> that you guys have, right? Like reps are
+going out, they're meeting in person and
+getting into local markets and that sort
+of stuff. What are you guys seeing
+working for uh pipeline right now?
+Yeah, you know, it's it sounds really
+simple and basic, but I it's definitely
+the first thing that comes to mind, you
+know, when I think about some of our
+more experienced reps who have been in
+the field. Like a lot of times maybe
+those are the folks if you're out there
+listening like who are the the ones who
+don't want to pick up the phone, you
+know, they've been at it for a while or
+maybe they are used to a BDR doing a lot
+of that for them. Um, but our best reps,
+they don't even have to pick up the
+phone much. Like I think getting more
+out of the relationships you have and
+getting really good at strategic asks
+like we train a lot on you know every
+meeting we go into we're preparing to
+like what referrals are we going to ask
+for or hey these are three people I keep
+hearing their name how can you get me
+introduced so turning that one meeting
+you have into five and getting into a
+new part of the organization for us we
+go very deep into an organization so
+instead of like a couple buyers it might
+be dozens of buyers so like how can you
+get me connected over here but it can be
+your your market that you're in as well.
+You know, you're at this or I see you're
+connected with this person over here.
+So, leveraging the relationships, which
+I mean I mean seems obvious, but our
+best reps are so good at that. And then
+just spending time where their buyers
+are as well. We have a huge, you know,
+we have brick and mortar all over the
+country, so this helps. But, um, I mean,
+our reps are super involved in the
+community. Like, we have a big service
+is one of our core values as an
+organization. So, you know, people are
+out at doing philanthropy, seeing what
+events their customers are into and just
+running into people there and not trying
+to sell anything or, you know, be
+sketchy or anything, but just running
+into people, making new relationships
+that way. So, we do it a ton with that.
+Going to events, getting involved in the
+communities. Like, that's such a great
+way to
+>> build your network. And it I don't know,
+it always amazes me. you go to like a
+couple events and and just meet somebody
+who knows this person and all of a
+sudden you're you're talking to this
+person that maybe has been on your call
+sheet for two years. I mean, how many
+times that happened to you? It's like,
+man, I've called him every day for two
+years. All I had to do is um you know,
+meet this person who was friends with
+them. So,
+>> we put a big emphasis on that and that
+just fits our culture as well and like
+the type of people we hire. They're just
+natural at that.
+>> Can you speak more to because you guys
+have a bunch of offices, right? like how
+do you think about in office and doing
+things in person kind of what's the
+what's the expectation for the
+>> yeah we try to do everything in person
+if we can now obviously pandemic change
+things a lot um I mean pre- pandemic I
+would guess we were around 70 80% of our
+meetings with customers were like on
+site we're either grabbing lunch at a
+coffee shop but like ideally on on
+client site um now you do have a lot of
+leaders now who are remote or maybe not
+sitting in their building or there every
+day. So virtual meetings are just, you
+know, more normal and that that number
+is higher. But anytime we can back to
+the relationship, you know, like let's
+get out and do do lunch. Let's let's get
+to an event together. Um hey, I see
+you're involved in this, you know,
+community organization. Let's let's
+volunteer sometime. So that's something
+that we teach early. And I I think it
+again it just resonates with people,
+too. Like they want to they'd rather be
+in person. I don't think anyone in my
+opinion really loves virtual meetings or
+you're not going to get the same effect
+you would get if you were sitting across
+from this person um obviously from a
+sales seat if you can be in person and
+>> pick up on those cues or see what you
+know they've got in their office and in
+terms of getting in you know referrals
+for people too you're walking through
+the office and hey like I haven't
+actually met you know Debbie over here
+can you introduce me there's just so
+many good things that happen when you're
+actually on site or just in person with
+an individual that you just can't get
+virtual.
+>> Uh I mean this is, you know, with all
+the AI noise that's out there, this is
+the thing that really helps you
+differentiate and stand out is those
+in-person relationships.
+It's it like pipe gen and outbound has
+been this like through the sales
+sequences and sales engagement platform
+era has been this thing that's been
+commoditized down to emails, phone
+calls, and social messages. Mhm.
+>> You know, the inperson component is
+huge.
+>> Yeah. We were at a training last week
+and just talking about, you know, even
+if you're just getting started, maybe
+you're one of these newer reps and you
+don't have much of a, you know, you
+don't have meetings on the books or not
+a ton of relationships, you're new to
+the market, whatever it may be, like
+even just getting on site. So, add to
+your cadence like a drop, you know, a
+creative drop.
+>> Maybe it's, you know, we got March
+Madness wrapping up now. Like, I I saw
+you graduated from here. Like something
+really simple. doesn't have to be like
+an elaborate gift, but just something
+thoughtful, even a handwritten note
+about a topic that maybe would land with
+them. Those sort of things, you know,
+not a lot of people prioritize. So, if
+you are able to get in person or do
+something in the market, I mean, it's
+it's huge. And even your messaging, you
+know, you're you get a cold call
+somebody or you email them and like,
+"Hey, I'm I'm in the area. I'm going to
+be in your building next week. I'm
+coming by to do this." um that that
+warms up a a message so much. You know,
+you don't have to rely so much on maybe
+nailing the top challenge they have or
+any sort of pitch if you can just be
+really human and be somebody who's their
+neighbor.
+>> Yeah, I love that. I love the focus on
+referrals, too. And oftentimes with
+referrals, I mean, if I'm being totally
+candid, this is something that we've
+done an awful job of at Outbound Squad,
+you know, that we're really focused on
+now where it's like a lot of it is just
+asking. Yeah,
+>> it's it's asking and it's preparing in
+advance and and looking through to your
+point, you know, someone's LinkedIn
+sales navigator who's connected with
+Mitch and just being really direct and
+like asking and making it easy for
+someone to tee you up,
+>> you know, for an intro.
+>> Um, let's for this last little bit talk
+about onboarding.
+>> Um, in our last conversation, you had
+talked a lot about kind of things that
+you're shifting in the onboarding
+process and onboarding is obviously a
+very big part of enablement. Um what are
+some of the things that you guys are
+seeing with onboarding and how are you
+uh how have you been adapting? Yeah, I
+mean going way back I think the the big
+mindset shift
+that we've taken is uh skills are such a
+big focus for us whereas I think in the
+past like you know when I was trained in
+the organization there's just if you
+think about like knowledge skills
+behavior there was just such a big
+emphasis on knowledge you know
+>> knowledge about our service lines
+knowledge about our frameworks knowledge
+about our business our customers
+business technology engineering ing so
+many things I need to learn and it um so
+I think the light bulb for us um and
+where we started to make we're starting
+to make bigger strides is just that's
+all great but like the the foundation if
+you're thinking about of a pyramid are
+those sales skills. So just putting more
+emphasis on the things you use
+day-to-day selling like communication,
+active listening, ask being really good
+at asking questions and open-ended
+questions, um telling stories,
+overcoming objections. like those are
+the types of things we've we're starting
+to emphasize more which are making a big
+difference whereas in the past I think
+we were just too hung up on wanting them
+to to know everything about our business
+you know so they could cover all their
+bases and in thinking about it more as a
+it's a marathon like
+>> people can't learn all this information
+and you know this short window so like
+thinking about it truly as a journey and
+trying to identify where in the journey
+do they need to know what but
+understanding that the foundation has to
+be of those skills or nothing else is
+really going to matter matter, right? If
+they don't know how to ask a question,
+what good is a, you know, a cold call
+framework or a meeting framework where
+they they have to ask questions, you
+know?
+>> Yeah. It reminds me of like if you were
+looking up because we just moved to
+Seattle. If you were looking up content
+on how to make friends
+and you didn't have some of the basic
+skills of being able to just socialize
+with people at an event where you don't
+know anyone and being able to say hi and
+ask questions and not just talk about
+yourself the entire it doesn't matter
+what kind of tactics you saw on a
+YouTube video or what script you might
+be provided with. Yet we don't really
+think of sales like that. Yeah,
+>> we think of sales as a series of like
+linear steps that need to be taken when
+no human conversation is ever is ever
+linear, you know? Um,
+>> how do you guys think about like if we
+were
+if let's just say questions, the ability
+to ask great engaging questions, how do
+you teach that during onboarding? Is
+this like simulated through role plays?
+Is there kind of like highlevel
+psychology that you bring into it? And
+then like how how does that actually get
+taught?
+>> Yeah, that's been a journey too. And we
+we've had people come in and out of the
+organization that I mean, you know,
+somebody new in particular I'm thinking
+of who's who's helped us improve in this
+area. Um but yeah, I mean the
+application is huge. I mean I think
+there's definitely strategy to learn
+about it. you know, I mean, even as
+simple as understanding when you're
+using open-ended questions versus
+close-ended questions or you're leading
+people to an answer or you're asking
+them multiple questions, you know, so
+there's a little bit of learning, but I
+think the biggest growth comes from when
+yeah, the application of it, the role
+play, asking them to do that and
+creating a safe environment, you know,
+especially for the newer the new folks
+or maybe new to sales, new to the
+company, um, for them to, you fail there
+and and realize that they have to kind
+of rebuild how they ask questions or how
+they communicate um and and really dig
+in and improve there and continue to do
+it. Like it's not something you can just
+learn in one session, right? So it has
+to be like a cornerstone of the training
+program if you actually
+>> want to expect to see growth in it. So,
+we had we had a in-person training last
+week at our headquarters and I think we
+had three I mean probably across the the
+whole program probably five different
+instances where like questions were a
+big part of it and it's it was amazing
+even just in a couple days to see like
+the first activity we did as a group and
+like how they were asking questions to
+like when you when you leave they're
+like calling themselves out and um you
+know just so much improved so it it
+doesn't take much. I don't think it just
+it has to be prioritized.
+>> Yeah. It's almost like
+the path to getting better at sales and
+the path to having a better sales team
+is
+creating better humans. Really, when you
+think about it, dude.
+>> I mean, yeah, that's sales, right? So, I
+it's it seems so obvious, right? But
+yeah, I think back to some of our like
+previous
+>> programs and I'm like, man, there's
+nothing there's nothing in here that was
+helping these folks become better
+salespeople. let's we were just jamming
+information down their you know into
+their brain and and that's not how
+people learn either. So like
+understanding
+>> how people can actually retain
+information and learn and you know
+that's where like if you can build
+skills the knowledge that comes on top
+of that I think sticks a lot easier
+>> 100%. I think one other thing to mention
+about Brooks source too and I think at
+811 this is sort of a a standard
+practice also is you guys hire a lot of
+folks directly out of college right?
+>> We do. Yep.
+>> So there's obviously I would imagine big
+pros and cons to doing that. A pro is
+like we're not bringing in this jaded
+seller that has all of these really bad
+habits. A con is this person has no
+career experience,
+you know? So, it's like these basic kind
+of skills that honestly a lot of the
+veteran people don't have. Um, it's like
+I I wish in SAS, you know, the that's
+that's the BDR role typically is that
+first role. If a big part of it was like
+these essential
+non-negotiable skills around like how I
+communicate and how I think like
+actually have empathy and think about
+what it's like to be on the receiving
+end of everything that I'm doing.
+[clears throat]
+Yeah. What was interesting was, you
+know, when we obviously focus a lot,
+let's just go back to the questions and
+that skill and active listening, like we
+focus a lot on the new folks with that,
+but what was interesting was we made it
+a big focus at our SKO as well. So, we
+had all levels of sellers in there. And
+I mean, we're pretty floored by Yeah.
+Like even when you really diagnose like
+how one of your top sellers is doing it,
+like there was a lot of light bulbs from
+all levels, leaders high level sellers,
+tenur sellers, new people. So, um
+obviously it's a big focus for an
+onboarding program, but like we're we're
+doing a lot with the foundational skills
+and kind of backtracking a little bit
+for some of the people, myself included,
+like I was never really trained on that.
+So, as we've
+>> started to focus on that, I feel like
+I've learned a lot. Um, and there's a
+lot of our sellers who have been doing
+it for a long time who are going to get
+a lot better at their jobs by learning
+and just practicing some of those basic
+foundational skills. So, we're not
+stopping at just the onboarding. We're
+really looking at as we've gotten better
+and figured out how to do better
+training in those areas. How can we how
+can we get our leaders trained up on
+this and train them to be more effective
+at doing this in the moment, you know,
+at the desk with reps and and also our
+our tenure reps. Really, everybody. Yep.
+Love it, man. Dude, this has been great.
+We talked about the enablement approach.
+We talked about AE self-sourcing
+pipeline. I love the focus on referrals.
+That's something that I being able to
+systemize and standardize that is just
+like it has such a big network effect
+when we can to your point turn one
+meeting into five. Um, and I love some
+of the stuff that you guys are doing
+with onboarding around like skills.
+Dude, we don't need to teach them more
+about our product and what we sell. like
+we need to teach them to be better like
+conversationalists, better humans.
+>> Um, where can people go to connect uh
+with you, learn more about Brooksource?
+Are you guys doing any hiring at 811
+that maybe people should check out?
+>> Um, let us know.
+>> Yeah, we're always hiring, but I mean,
+for me, LinkedIn's the best spot. Um,
+connect. Uh, love to get messages. I'd
+love to hear what people think or again
+back to the beginning of the
+conversation, like I just love to learn
+what other people are doing and get
+different perspectives. So definitely
+hit me up on LinkedIn, connect, send me
+an email, and then um yeah,
+brooksource.com. We're always hiring.
+Got some training c uh programs coming
+up, some training classes. So yeah, if
+you're interested or looking for a new
+career path, definitely look at us there
+as well.

@@ -1,0 +1,1523 @@
+[
+  {
+    "type": "post",
+    "id": "7476288349184434176",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-samsales-samsales-activity-7476288349184434176-rpgx",
+    "content": "Thrilled to be asked back by Revenue Brew, an arm of Morning Brew, for this  event @ Rockefeller Center in NYC! I'll be kicking the morning off with the event's keynote, and will facilitate a chat with my dear friend and four-time client of #samsales, Kenny Scannell, Chief Revenue Officer of Otter.ai.\n\nYou can find the details to join us here and use code SamSales (with caps) for 50% off your ticket - https://lnkd.in/eMNANsWw\n\nNow the second most important question: should #samsales host a happy hour the night before and where in the city should it be?\n\n#samsales",
+    "contentAttributes": [
+      {
+        "start": 29,
+        "length": 12,
+        "type": "COMPANY_NAME",
+        "hyperlink": "https://www.linkedin.com/company/revenue-brew/",
+        "textLink": null,
+        "company": {
+          "id": "107184149",
+          "name": "Revenue Brew",
+          "linkedinUrl": "https://www.linkedin.com/showcase/revenue-brew/"
+        }
+      },
+      {
+        "start": 53,
+        "length": 12,
+        "type": "COMPANY_NAME",
+        "hyperlink": "https://www.linkedin.com/company/the-morning-brew/",
+        "textLink": null,
+        "company": {
+          "id": "9455978",
+          "name": "Morning Brew",
+          "linkedinUrl": "https://www.linkedin.com/company/the-morning-brew/"
+        }
+      },
+      {
+        "start": 252,
+        "length": 14,
+        "type": "PROFILE_MENTION",
+        "hyperlink": "https://www.linkedin.com/in/ACoAAAWY5BUBInGQnCUWcH-wnqLfG5Yd94Q3vRQ",
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAAWY5BUBInGQnCUWcH-wnqLfG5Yd94Q3vRQ",
+          "firstName": "Kenny",
+          "lastName": "Scannell",
+          "linkedinUrl": "https://www.linkedin.com/in/kennyscannell",
+          "publicIdentifier": "kennyscannell"
+        }
+      },
+      {
+        "start": 293,
+        "length": 8,
+        "type": "COMPANY_NAME",
+        "hyperlink": "https://www.linkedin.com/company/otter-ai/",
+        "textLink": null,
+        "company": {
+          "id": "35593855",
+          "name": "Otter.ai",
+          "linkedinUrl": "https://www.linkedin.com/company/otter-ai/"
+        }
+      },
+      {
+        "start": 405,
+        "length": 24,
+        "type": "TEXT_LINK",
+        "hyperlink": null,
+        "textLink": "https://lnkd.in/eMNANsWw"
+      }
+    ],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1782486045166,
+      "date": "2026-06-26T15:00:45.166Z",
+      "postedAgoShort": "3h",
+      "postedAgoText": "3 hours ago • Edited • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQFDfFh2Uo9N8g/feedshare-image-high-res/B4EZ8EcorZJMAU-/0/1782486043662?e=1784160000&v=beta&t=i5N4D4zZOX0XGvUvNfaQBPtmstbE1dLKBFKq0U95A1s",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-samsales-samsales-activity-7476288349184434176-rpgx?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7476288349184434176",
+    "shareUrn": "urn:li:share:7476288347787689984",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7476288347787689984",
+    "engagement": {
+      "id": "7476288349184434176",
+      "likes": 48,
+      "comments": 24,
+      "shares": 3,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 26
+        },
+        {
+          "type": "PRAISE",
+          "count": 15
+        },
+        {
+          "type": "EMPATHY",
+          "count": 7
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7475893665782009856",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7475893665782009856-Csn_",
+    "content": "This week, I was honored to be the keynote for Gusto’s President’s Club in Cancun! A first for me and such a cool idea to give to their top performers.\n\nA few things I loved:\n\n- In addition to the larger Penny’s Club winners, this was their first time celebrating Penny’s Circle winners, who are 4x Club winners or top of their categories for last fiscal. \n\n- They created a market full of local goods and surprised each attendee with $150 to spend. \n\n- We facilitated a discussion with a handful of the winners to share super specific tactics on what made them successful this year. “Maintaining the BDR mindset” was a favorite share. \n\n- We agreed someone would corral those notes and host a webinar for all sellers to learn from what was shared. \n\n- One of their core values is Debate and Commit. Let’s debate change, perspective, etc and then commit to the plan moving forward. Such an awesome way to be heard and then problem solve an action plan. \n\n- The swag, the sweet gifts delivered to the room, and all the thoughtful words shared about their peers, their bosses, and the unseen work the leaders do each day. \n\nThe authentcity and positive culture can really be felt, and not just in this room of gleeful top performers. I am a Gustomer, as is the lingo, and have had such a positive experience with the platform and service - was a full circle moment to be here. \n\nCongrats to all the winners - thanks for making me feel so welcome, and to our planning partners for being impossibly lovely to work with these last few months!\n\n#samsales",
+    "contentAttributes": [
+      {
+        "start": 47,
+        "length": 5,
+        "type": "COMPANY_NAME",
+        "hyperlink": "https://www.linkedin.com/company/gustohq/",
+        "textLink": null,
+        "company": {
+          "id": "2499210",
+          "name": "Gusto",
+          "linkedinUrl": "https://www.linkedin.com/company/gustohq/"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1782391945310,
+      "date": "2026-06-25T12:52:25.310Z",
+      "postedAgoShort": "1d",
+      "postedAgoText": "1 day ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQEXW48l4_kiMQ/feedshare-shrink_1280/B4EZ7.1PgbKwAQ-/0/1782391834114?e=1784160000&v=beta&t=j4xuLJEoSb0Bvs2IWy5bpHnKZXUgpRNFrXQ-FWwy4Hc",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQGpNW2PdkA9sg/feedshare-shrink_1280/B4EZ7.1oU8IkAM-/0/1782391942762?e=1784160000&v=beta&t=kGQKrzar2U-jGC2wB1rRWt7TVSYv7KTvxNSZ5Bmg0hI",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQGJtHnUJ1ixng/feedshare-shrink_1280/B4EZ7.1WV2H8AM-/0/1782391862719?e=1784160000&v=beta&t=UrXmXLlETqdUB1yfGFzC0-4X9TWoRGw9yo35fuXXadM",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQGWbx6wSUrICw/feedshare-image-high-res/B4EZ7.1UyeHAAU-/0/1782391862243?e=1784160000&v=beta&t=z-OqLZneOgTwd1FKfeJMQ9DUPQdZjpc431DX2B23ij8",
+        "width": 2048,
+        "height": 1536
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQGeF-fymmQxfg/feedshare-image-high-res/B4EZ7.1jSfJ0AY-/0/1782391919152?e=1784160000&v=beta&t=JcJmiHSg4dLZRG1egm7Kn75wZSCquklyFEjOWNWSJ_I",
+        "width": 2048,
+        "height": 1536
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQHEMsK3EpqEWA/feedshare-shrink_1280/B4EZ7.1cfOJIAM-/0/1782391893129?e=1784160000&v=beta&t=99JJq7V3WZfFSeZvMKcmLF4oKBl8i744SAPKzkan9hE",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQGhkPOkYuD49w/feedshare-shrink_1280/B4EZ7.1kpMJkAM-/0/1782391926215?e=1784160000&v=beta&t=WqiKtJi_469rKLaLU9fgzPBClrdez45k3zjrpqnkQwA",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQHSDqCvfVl5yw/feedshare-shrink_1280/B4EZ7.1k7zHoAM-/0/1782391922135?e=1784160000&v=beta&t=buDPE4WpSWyTfDs6Ij9mkh12DI-XZFlYwRtcibN4i64",
+        "width": 1280,
+        "height": 1707
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7475893665782009856-Csn_?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7475893665782009856",
+    "shareUrn": "urn:li:ugcPost:7475893663827439617",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7475893663827439617",
+    "engagement": {
+      "id": "7475893663827439617",
+      "likes": 184,
+      "comments": 62,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 128
+        },
+        {
+          "type": "PRAISE",
+          "count": 29
+        },
+        {
+          "type": "EMPATHY",
+          "count": 26
+        },
+        {
+          "type": "INTEREST",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7475640757425565696",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7475640757425565696-w2el",
+    "content": "The easiest way to get promoted isn't by doing good work and hoping you're seen. It's by having this conversation with your boss, their skip-level, and a peer or two:\n\n\"My hope is to be considered for xyz role when another one opens, and I'd be grateful for your feedback. \n\nDo you think I'm ready for the role now, or are their skill set gaps I can be working on over the next year to ensure I have the best shot at it? What can I do today to make sure I'm as strong of a candidate as I can be?\"\n\nSpeak early and loudly about your goals, be open to what you have to work on, and ensure your sponsors and mentors are looped in, too, so they can keep their ears out and advocate for you as well.\n\nBonus: you may not like or even trust the feedback you get from your leader, which is why those mentors and sponsors are key. They can either give you more grounded advice, or reinforce what you received, even if you didn't like it. \n\n#samsales",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1782331647259,
+      "date": "2026-06-24T20:07:27.259Z",
+      "postedAgoShort": "1d",
+      "postedAgoText": "1 day ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7475640757425565696-w2el?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7475640757425565696",
+    "shareUrn": "urn:li:share:7475640754695081984",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7475640754695081984",
+    "engagement": {
+      "id": "7475640757425565696",
+      "likes": 114,
+      "comments": 45,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 90
+        },
+        {
+          "type": "PRAISE",
+          "count": 10
+        },
+        {
+          "type": "INTEREST",
+          "count": 7
+        },
+        {
+          "type": "EMPATHY",
+          "count": 6
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7475209916199235585",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-grammarlypartner-activity-7475209916199235585-XrPa",
+    "content": "Chuck: Sam, you're amazing at demand generation!\nSam: mmm...mmmhmm... (Googles: what...is...demand...generation...)\n\nIn the early days of my career, I heard terms like the above that made no sense to me, as well as:\n\nEBIDTA\nRun rate\nRatable\nACV, NRR, TCV, MRR, you down with OPP? wait...I got distracted\nInfosec\nCancellation for convenience\nSPIF\nTranche deal\nLTV:CAC\nSQL, MQL, SAL, \n\nYou get it.\n\nIf you find yourself in the same spot, and with a ton of that language being specific to how you sell, check out how this small Grammarly tip you can use:\n\nTake the email you have drafted, drop it into Grammarly, and just ask:\n\n\"Does this make sense for the buyer persona or what can I add/recraft?\"\n\n\"I wrote this but want it to resonate with the CMO of this org - can you refine it for me?\"\n\n\"This feels like it was written at a 3rd grade level, can you level up the executive presence of it but without words that are casually used in business?\"\n\nWhat I love about the outcome is that I learn my new terminology, I make sure the content is right for my buyers, and Grammarly refines the text to help me think of how to level up one of my favorite things: writing.\n\n#samsales #GrammarlyPartner",
+    "contentAttributes": [
+      {
+        "start": 525,
+        "length": 9,
+        "type": "COMPANY_NAME",
+        "hyperlink": "https://www.linkedin.com/company/grammarly/",
+        "textLink": null,
+        "company": {
+          "id": "1253671",
+          "name": "Grammarly",
+          "linkedinUrl": "https://www.linkedin.com/company/grammarly/"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1782228926706,
+      "date": "2026-06-23T15:35:26.706Z",
+      "postedAgoShort": "3d",
+      "postedAgoText": "3 days ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-grammarlypartner-activity-7475209916199235585-XrPa?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7475209916199235585",
+    "shareUrn": "urn:li:share:7475209915523895296",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7475209915523895296",
+    "engagement": {
+      "id": "7475209916199235585",
+      "likes": 55,
+      "comments": 34,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 34
+        },
+        {
+          "type": "INTEREST",
+          "count": 10
+        },
+        {
+          "type": "PRAISE",
+          "count": 6
+        },
+        {
+          "type": "EMPATHY",
+          "count": 3
+        },
+        {
+          "type": "ENTERTAINMENT",
+          "count": 1
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7473352808277184513",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-samsales-activity-7473352808277184513-v4R0",
+    "content": "To the left of the Zoom screen I stare into every day are the final touches of my office coming together and full of sentimentality.\n\nPictures of my mom and dad, and some of my favorite humans\nAwards won from over the years\nWine and champagne bottles that were gifts for moments in my career\nBooks I love + an Emily Post one given to me by my dear friend Jenna\nPictures my grandmother painted of old family homes + her modeling for Dior when she was young\nA piece of art I splurged on during a solo trip to London, shortly after launching #samsales in 2019\nMementos of inside jokes like a corn candle (don't ask) and tiaras\nMy Harry and Lloyd pop art figures - may I never grow up\n\nThe grass cloth wallpaper and drapes bring me joy every day, too!\n\nAnd then there's the fluffy pile of mashed potatoes at the bottom left who races into my office every morning with the speed of \"did a hot inbound lead just arrive?!\", and promptly passes out all day.\n\nI love the messy sentimental chaos of it all. A little glimpse into what you can't see just outside the Zoom view. 🥰 \n\n#samsales",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1781786157674,
+      "date": "2026-06-18T12:35:57.674Z",
+      "postedAgoShort": "1w",
+      "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQFdjQ3zckLAPw/feedshare-shrink_1280/B4EZ7auxWMIAAU-/0/1781786157051?e=1784160000&v=beta&t=kckdJF6TyCl-MEQCnOeY_G_jdm2ZGFKBmkvo9AlGxGs",
+        "width": 1280,
+        "height": 1707
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-samsales-activity-7473352808277184513-v4R0?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7473352808277184513",
+    "shareUrn": "urn:li:share:7473352807115337728",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7473352807115337728",
+    "engagement": {
+      "id": "7473352808277184513",
+      "likes": 257,
+      "comments": 76,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 149
+        },
+        {
+          "type": "EMPATHY",
+          "count": 96
+        },
+        {
+          "type": "PRAISE",
+          "count": 9
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 2
+        },
+        {
+          "type": "ENTERTAINMENT",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7473057241894465536",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7473057241894465536-WnYb",
+    "content": "I met my husband's friends for the first time in 2016 at a party. A BOLD choice for a third date, but I digress...\n\nWe left and Ryan said, \"They LOVED you!\" \n\nAs peachy as I occasionally am, I said, \"I know why - it's because I spent the night getting to know them and asking questions about their lives.\"\n\nIt's a super power of mine and while occasionally alarming to some, my love of asking questions has served me in my personal life, but so much so in sales.\n\nNPR did a great bit on the likeability of people who ask questions, but...\n\n...how they are exponentially more likeable if they ask active listening questions. \n\nAnd, Forrester found that the number one thing B2B buyers want from their sellers is: \n\nActive listeners. Someone who asks a question, truly listens, and asks another based on the answer they heard (read: not one that is self-serving or qualifying).\n\nSo, if we know that asking active listening questions makes us more likeable, and that people buy from people they like, more often than not, it's a home run for all our sellers.\n\nBut the question is: where does it stack up on our training priorities? And have you considered the generational changes in how a 23 yr old communicates vs. a 53 yr old? It may come naturally to one and feel invasive to another. \n\nSeller, BDR, accountant, wealth manager, CSM...we can level up every person that engages with our buyers with just one tweak, and by teaching the art of great conversation. \n\n#samsales",
+    "contentAttributes": [
+      {
+        "start": 464,
+        "length": 3,
+        "type": "COMPANY_NAME",
+        "hyperlink": "https://www.linkedin.com/company/npr/",
+        "textLink": null,
+        "company": {
+          "id": "6577",
+          "name": "NPR",
+          "linkedinUrl": "https://www.linkedin.com/company/npr/"
+        }
+      },
+      {
+        "start": 631,
+        "length": 9,
+        "type": "COMPANY_NAME",
+        "hyperlink": "https://www.linkedin.com/company/forrester-research/",
+        "textLink": null,
+        "company": {
+          "id": "4124",
+          "name": "Forrester",
+          "linkedinUrl": "https://www.linkedin.com/company/forrester-research/"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1781715689157,
+      "date": "2026-06-17T17:01:29.157Z",
+      "postedAgoShort": "1w",
+      "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7473057241894465536-WnYb?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7473057241894465536",
+    "shareUrn": "urn:li:share:7473057239117832192",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7473057239117832192",
+    "engagement": {
+      "id": "7473057241894465536",
+      "likes": 199,
+      "comments": 57,
+      "shares": 2,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 138
+        },
+        {
+          "type": "EMPATHY",
+          "count": 30
+        },
+        {
+          "type": "PRAISE",
+          "count": 18
+        },
+        {
+          "type": "INTEREST",
+          "count": 9
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 4
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7472733454447656960",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-lieb-activity-7472733454447656960-qif4",
+    "content": "Why does a post with 50 likes get 10,000 impressions but one with 300 gets 5,000, and what's a critical practice we run for our LI Exec Branding clients with the former?\n\nThe Math:\n\nTake your impressions and divide them by your likes.\n\nThe output = your Dark Social Score.\n\nBaseline benchmark = 40\nOur standard aim = 50\nDark Social optimal traction = 70 (and any nominal increase over that)\n\n10,000 impressions / 50 likes = 200 DSS 🔥 \n5,000 impressions / 300 likes = 16 DSS 😢 \n\nSo, why this disparity? \n\nIt's in the type of post you share.\n\nThe former tends to be pieces of content that shared something tactical, inspiring, actionable.\nThe latter tends to be celebratory.\n\nThe former gets lifted off of LI and shared in texts, Slack, etc. People show up (impression), read, look at your profile, and leave, all without engaging (hence the disparity).\nThe latter is your network celebrating you which is why your engagement is high and impressions are low. \n\n*******************************\n\nWhy Dark Social Matters:\n\nYou show up here for a reason: brand awareness. \n\nMost clients come to us to solve a few challenges:\n\n- Their company or CXOs are relatively unknown\n- Everyone knows their organization exists, but they're a large, faceless brand\n- They're working to be the thought leaders of their categories - the ones turned to each time by journalists and conference organizers.\n\nThey show up to teach and for reach, and when that DSS sky rockets, it tells you that this is what your market is interested in, which is a data point to capitalize on. \n\n********************************\n\nThe CRITICAL step to capitalizing on your posts and DSS:\n\nOperationalizing the GTM motions of your executives' brands.\n\nHere's one of a dozen plays we run: systemize the review of your profile views each week, and connect with bespoke messaging to the 2nd and 3rd degree connections that are in your target ICP.\n\nNot only will you systematically grow your network but you'll remove the gate that stood between them seeing your content the first time, you'll up the chances of them seeing the content again, and you'll create a drip campaign of content that they'll one day engage with, and will be seen by their network, full of people who look just like them.\n\n#samsales #LIEB",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1781638492214,
+      "date": "2026-06-16T19:34:52.214Z",
+      "postedAgoShort": "1w",
+      "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "postVideo": {
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQF4yYI6RAvedA/videocover-high/B4EZ7R7aLAHABM-/0/1781638475834?e=1783105200&v=beta&t=DSK8bG1ghOwuMESPZsuDPT60vEfIFGjSwFzOeshOXgE",
+      "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D4E05AQF4yYI6RAvedA/mp4-720p-30fp-crf28/B4EZ7R7aLAHAB8-/0/1781638481026?e=1783105200&v=beta&t=RUKIBaHSJ68lBExrzPpe8QtPNc-2NBHd3ONgzkFqLJo"
+    },
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-lieb-activity-7472733454447656960-qif4?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7472733454447656960",
+    "shareUrn": "urn:li:ugcPost:7472733284138131457",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7472733284138131457",
+    "engagement": {
+      "id": "7472733284138131457",
+      "likes": 74,
+      "comments": 27,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 49
+        },
+        {
+          "type": "INTEREST",
+          "count": 13
+        },
+        {
+          "type": "EMPATHY",
+          "count": 5
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 4
+        },
+        {
+          "type": "PRAISE",
+          "count": 3
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7472334363393720321",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7472334363393720321-hIrt",
+    "content": "Self-deprecating humor is something we know, but what about the self-deprecating postscript that builds client relationships and might even help you get promoted faster?\n\nHere's what I mean. When I make a mistake, you'll usually find me adding one extra layer that says, \"I know better.\"\n\nSam: Can we meet at 1pm or 2pmET?\nBuyer: Sure, what day though?\nSam: Ah, the date would be helpful, wouldn't it... :) Does Tuesday work?*\n\nBoss: Can you shoot me the deck for tomorrow?\nSam: You bet, attached!\nBoss: It has someone else's logo on it...?\nSam: Ah, thanks for the catch! Let me sweep the slides and make sure it's buttoned up - that would have been impossibly embarrassing.*\n\nThe normal answers I see are:\n\n\"Would Tuesday work?\" without acknowledgement of the missed detail. It's small, but communicates volumes when not acknowledged.\n\nand\n\n\"Fixed!\" without acknowledgement that sending a deck with typos is sloppy or without proactively communicating the extra attention to detail.\n\nWhen we skip that postscript, we communicate the wrong thing about ourselves, which is that we didn't know better, don't respect the person's time, or don't see the problem, none of which is something we want our leader or buyers to think.\n\nOur buyers' trust will erode quickly.\nOur leaders will feel the need to address basic professionalism in our 1:1\n\nInstead, add the extra line, build humor in when you can, and triple check the work in the future. \n\nWe all make 100 mistakes a day - it's what we do and how we proactively communicate afterwards that makes us different.\n\n#samsales",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1781543341492,
+      "date": "2026-06-15T17:09:01.492Z",
+      "postedAgoShort": "1w",
+      "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7472334363393720321-hIrt?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7472334363393720321",
+    "shareUrn": "urn:li:share:7472334360692731904",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7472334360692731904",
+    "engagement": {
+      "id": "7472334363393720321",
+      "likes": 98,
+      "comments": 46,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 69
+        },
+        {
+          "type": "INTEREST",
+          "count": 13
+        },
+        {
+          "type": "EMPATHY",
+          "count": 12
+        },
+        {
+          "type": "PRAISE",
+          "count": 2
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 2
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7471206494529748993",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7471206494529748993-WMW2",
+    "content": "Someone referred us a lead this week, an intro over email to a buyer who could use our services. Here's the exact playbook I use to level up what everyone on that email expects:\n\n1. Urgency - while I can't always do it, I try to reply to the buyer before they reply to me.\n\n2. Two seconds of Show Me You Know Me first - who are they, who do we know, have they worked for clients*, where do they live, what have they posted about, how can I connect with them better in my reply.\n\n*If they know other people who have hired us, I'm prioritizing that for additional creditability \n\n3. My reply structure:\n\nThanks to the introductions\nSome SMYKM notes/connections\nHappy to find time - send me some dates/time (no calendar link, court them)\nThanks again to the referral, say I'm moving referrer to bcc*\n\n*Sometimes reps only reply to the buyer, which leaves your referrer in the dark (and annoyed). I also like to thank them twice in the email vs. just at the top + \"moving you to BCC\" which feels a little rushed/greedy, IMO.\n\n4. BCC myself on the email - not everyone replies and sometimes we need a follow up nudge. I don't want the opp to fall through the cracks, and this isn't an email I send as part of a cadence. \n\n4. Another thank you email to the referral source under separate cover. \"Really appreciate you thinking of us and sticking your neck out for us...\"\n\n5. An update to the referrer as things progress. This can be once mid-way if it's a larger ENT deal that will take time, or only at the end when you win/lose, if a short sales cycle. Closing the loop speaks volumes here.\n\n6. If we win the deal, we're sending a handwritten note to the referrer or a gift that...you guessed it...Show Me You Know Me's them. It doesn't need to cost much - a book goes a long way - but it's one extra touch of gratitude for revenue you wouldn't have had without them.\n\nAll of these steps are important for not only mapping you out as a completely different kind of seller, but of proving to the referrer that they can continue to gamble their reputation on you with more referrals.\n\n#samsales",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1781274436600,
+      "date": "2026-06-12T14:27:16.600Z",
+      "postedAgoShort": "2w",
+      "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7471206494529748993-WMW2?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7471206494529748993",
+    "shareUrn": "urn:li:share:7471206492629753856",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7471206492629753856",
+    "engagement": {
+      "id": "7471206494529748993",
+      "likes": 107,
+      "comments": 40,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 76
+        },
+        {
+          "type": "EMPATHY",
+          "count": 12
+        },
+        {
+          "type": "INTEREST",
+          "count": 10
+        },
+        {
+          "type": "PRAISE",
+          "count": 6
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 3
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7470894373103304704",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7470894373103304704-M-OU",
+    "content": "One of my favorite workshops we run is all around ghosting in the sales cycle. Here are two examples of what we recently uncovered and how you can run your own.\n\nHow To:\n\nLimit the sessions to eight reps\nEach one brings a deal that's stalled\nThey bring the emails they sent, the history, the call notes\n\nWe dissect it all and tell you why they likely ghosted, how to course-correct for next time, and what to do now to at least get a reply. \n\nBonus: run this for your team, but invite two peer leaders to do the dissecting. You'll be amazed what a different perspective can bring.\n\nTwo recent scenarios:\n\n1. A client sent a Show Me You Know Me email. Two weeks later, they followed up to ask for time. The response: No, I'm on PTO these next two weeks.\n\nThe takeaways: \n\n- Email two should never come that late. <48 hours after email one.\n- I asked if they'd noticed the time stamp of the reply. It was about an hour after the second email went out. \n- The rep's leader was recently at an event with the buyer's leader\n\nImagine if we'd caught this sooner. Imagine if email two had gone out 44 hours later, if the buyer had replied in the same time window. We'd potentially have gotten the meeting before PTO, started the process, and have gotten details the leaders could have discussed at the event rather than still working to book time in.\n\n2. A buyer showed interest in a platform. Rep replies, feature-dumps, silence in return. The \"just following up\" emails ensue, and now we're stuck. \n\nThe easiest way to get unstuck here is to simply own the mistake with a script like this: \n\nMark, I fear I didn't do justice to how our platform can help, mostly because I wrote you an email telling you what we do vs. what we solve. For your specific use case, here are three challenges I can help you with... If the window hasn't closed to win your business, I know I can make great use of your time, and would so appreciate the consideration.\n\nThe reply? \"Your self-awareness won me over, and I was candidly stuck because your competition wrote me almost the same first email you did. Happy to make time to talk.\"\n\nSmall incremental catches and changes can impact deals, but the best part is that coaching to this nitty gritty stuff will them impact every other motion that rep, and those listening, will take. \n\n#samsales",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1781200021053,
+      "date": "2026-06-11T17:47:01.053Z",
+      "postedAgoShort": "2w",
+      "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7470894373103304704-M-OU?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7470894373103304704",
+    "shareUrn": "urn:li:share:7470533512585117697",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7470533512585117697",
+    "engagement": {
+      "id": "7470894373103304704",
+      "likes": 84,
+      "comments": 26,
+      "shares": 1,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 53
+        },
+        {
+          "type": "INTEREST",
+          "count": 14
+        },
+        {
+          "type": "EMPATHY",
+          "count": 11
+        },
+        {
+          "type": "PRAISE",
+          "count": 5
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7470804848091893760",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7470804848091893760-u9_A",
+    "content": "You don't have to be a basketball fan to be inspired by what happened last night. For anyone who loves sports, these are the moments we live for - those crazier-things-have-happened moments where an arena, or court, or stadium loses their mind.\n\nWatching the win and seeing so much joy in these ride-or-die fans gives me ALL the feels, but what I love, too, is OG Anunoby's talk track after:\n\n\"It feels cool. \n\nI mean, everyone's pretty excited.\n\nI'm excited, too\"\n\nNo arrogance. No attitude. No ego. Just humility, proud to have done it, and back to focusing on the next game.\n\n#samsales",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1781178676627,
+      "date": "2026-06-11T11:51:16.627Z",
+      "postedAgoShort": "2w",
+      "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQEE1yrIyqIp1A/feedshare-shrink_800/B4EZ62hbLSJYAc-/0/1781178676218?e=1784160000&v=beta&t=Hp2GnATnflaCoObuCZxChuQIHRgbVsz9aIU5TNCXk38",
+        "width": 744,
+        "height": 495
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7470804848091893760-u9_A?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7470804848091893760",
+    "shareUrn": "urn:li:share:7470804846900723712",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7470804846900723712",
+    "engagement": {
+      "id": "7470804848091893760",
+      "likes": 157,
+      "comments": 43,
+      "shares": 2,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 104
+        },
+        {
+          "type": "EMPATHY",
+          "count": 27
+        },
+        {
+          "type": "PRAISE",
+          "count": 25
+        },
+        {
+          "type": "ENTERTAINMENT",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7470516046647599105",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-samsales-activity-7470516046647599105-c-1L",
+    "content": "I credit a lot of my success in sales to something we teach every day: good old fashioned manners. I send thank you notes when we win deals and I send them when I lose them. \n\nI follow up with people who referred me deals, and close the loop.\n\nI send thank you gifts to anyone that helped me win, big or small, deals. Gin, books, champagne, $500 to dinner in Chicago, cupcakes, flowers, you name it.\n\nI follow through and deliver something, even if it's not what I promised, by when I said I'd do it by. I can count the times I've missed this on my hands.\n\nI put my niceties at the bottom of my emails, to be as authentic as I can.\n\nI show empathy when someone is going through something, even if it costs us progress or a deal.\n\nWhen someone goes out of their way to bring value to us, I proactively say thank you and close the loop on the status.\n\nI proactively look for chances to connect others or drive value for them, when it has no impact on us.\n\nI try to reply to every client email within 24 hours, even if it's a \"received, will hit you back by X date\".\n\nWhen we describe #samsales, we always say that everything we teach has a manners-drive, buyer-centric approach, and I love the eyebrow raise it always seems to get.\n\nIn a me-me-me world, I think you'll find that your buyers will take notice when your sellers inject a little Emily Post into their process. \n\nThe status quo is the me-me-me - imagine how we'll stand out when we're exactly the opposite of what they expect.\n\n#samsales",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1781109820997,
+      "date": "2026-06-10T16:43:40.997Z",
+      "postedAgoShort": "2w",
+      "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-samsales-activity-7470516046647599105-c-1L?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7470516046647599105",
+    "shareUrn": "urn:li:share:7470516044529582081",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7470516044529582081",
+    "engagement": {
+      "id": "7470516046647599105",
+      "likes": 309,
+      "comments": 63,
+      "shares": 4,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 195
+        },
+        {
+          "type": "EMPATHY",
+          "count": 59
+        },
+        {
+          "type": "PRAISE",
+          "count": 45
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 6
+        },
+        {
+          "type": "INTEREST",
+          "count": 4
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7470165962462306307",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7470165962462306307-iO63",
+    "content": "\"LinkedIn recommends that we do more video, so we do, and they flop. Why would they recommend something that doesn't seem to work?\"\n\nThat...is a great question.\n\nHere's the thing, video can be effective in three ways:\n\n1. You're a notable exec celeb and people want to hear whatever you share (Jon Gray @ Blackstone) \n\n2. You're not one but built a following and people love hearing you (influencers in general)\n\n3. None of the above, but it humanizes you + warms buyers up to you \n\nWhat the recommendation misses is an understanding of the creators and the audience on LinkedIn specifically. \n\nWe might be in a TikTok + reels era, but those making content here, especially at an executive level, aren't adept with that style, nor does it fit their executive persona. \n\nSo what might stop the scroll on another platform, doesn't here, because it lacks the scroll-stopping words or style.\n\nFurther? A video requires the viewer to learn at the pace of the video, not at theirs or with the ability to skim, learn on their terms; so, they move along.\n\nFurther? 90%+ of video is watched on mute, so if you're not captioning your content, you're losing a lot of your dwell time.\n\nFurther? You may create content without any media training, which can actually damage your brand vs. help it. \n\nVideo CAN work well for specific use cases, and you should have some in your featured section to let buyers/recruiters easily find it, but a stop-the-scroll text hook + an image or infographic will work over video, for the great majority of content creators on this platform.\n\n#samsales",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1781026354423,
+      "date": "2026-06-09T17:32:34.423Z",
+      "postedAgoShort": "2w",
+      "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7470165962462306307-iO63?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7470165962462306307",
+    "shareUrn": "urn:li:share:7470165961606885378",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7470165961606885378",
+    "engagement": {
+      "id": "7470165962462306307",
+      "likes": 75,
+      "comments": 48,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 58
+        },
+        {
+          "type": "INTEREST",
+          "count": 11
+        },
+        {
+          "type": "EMPATHY",
+          "count": 3
+        },
+        {
+          "type": "PRAISE",
+          "count": 3
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7470098227053334528",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-smykm-activity-7470098227053334528-y2Ci",
+    "content": "Should your subject line on an outbound sales email be personalized, relevant to their challenge, or both?\n\nPersonalized only.\n\nThat subject line is a work horse and nothing that you say in the email will matter if your subject line doesn't crush its one job: to pique your reader's curiosity enough that it earns you an open.\n\nWhen we personalize it like: SUB: Five years + Your London Retreat + Maille Cornichons, we show the buyer we made an authentic effort.\n\nWhen we personalize it + make it relevant like: SUB: Five years + scaling your team's AI usage with Claude, we suggest that this is a sales email, and we burn the chance at the open.\n\nCan't find anything to Show Me You Know Me your buyers? Then we go to relevance, but you still make it personalized. \n\nSUB: (CEO's Name)'s recent note about scaling your team's AI usage with Claude\n\n^^pull content from their site, press releases, articles, etc. that suggests they need you, and then tie that into your subject line in some way.\n\n#samsales #SMYKM",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1781010205043,
+      "date": "2026-06-09T13:03:25.043Z",
+      "postedAgoShort": "2w",
+      "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-smykm-activity-7470098227053334528-y2Ci?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7470098227053334528",
+    "shareUrn": "urn:li:share:7470098224226267137",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7470098224226267137",
+    "engagement": {
+      "id": "7470098227053334528",
+      "likes": 73,
+      "comments": 28,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 56
+        },
+        {
+          "type": "INTEREST",
+          "count": 8
+        },
+        {
+          "type": "PRAISE",
+          "count": 5
+        },
+        {
+          "type": "EMPATHY",
+          "count": 3
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7469787218874757120",
+    "linkedinUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7469787218874757120-4jNc",
+    "content": "In 2019, I left LinkedIn and was asked to interview for a VP role out in the Bay Area. \"We've been trying to fill this role for seven months, but haven't found the right candidate.\" \n\nI flew out to SF, finalized my interviews, and got the offer a day or two later.\n\nThe company was 1000+ employees, had just finalized their last Series @ 100M+, and made me an offer that was 15K lower than my last salary as an AE. \n\nI politely declined and offered the note that base salary wasn't in line with market rates, and I suspected they'd have a challenge finding the talent they were looking for. \n\nThey politely said they understood and we moved on.\n\nSeveral weeks later, they came back. \n\n\"We'd like to revisit the offer...\", which came back at 2.3x the initial base salary. \n\n******************************************************************\n\nIt's a tough market right now, but I think that actually gives anyone hiring an edge. \n\nWhile some companies might lower their offers and see this as a chance to save, I think this serves as a competitive advantage.\n\nIf you've been seeking talent for seven months, and you find the one you want, don't lowball them and do court them as you would a client.\n\n- Fly them first class to interview\n- Put them up at a great hotel + have a note/flowers/swag waiting for them when they check in (as Michael Nelson did when I interviewed for an AE role!)\n- Send a car for them the morning of\n- Give them more than they ask for, even if it's nominal, it says something\n\nAnd, if you're the interviewee, and don't know how to handle the, \"What base salary are you seeking?\", swipe my script:\n\n\"It's a hard question the answer as I'd need to know all the components - OTE, equity, signing bonus, 401K match, etc.; I'd love to take a look at the full picture when you've got it!\"\n\nIt's counter to what traditional negotiation will tell you, but it's an honest answer, and also suggests what components make up the other offers you're seeing. To the honest point, I'd take $0 base salary, if I was working for, say, Apple, and knowing I was getting issued 10,000 full vested stock grants annually. ;)\n\n#samsales",
+    "contentAttributes": [
+      {
+        "start": 1332,
+        "length": 14,
+        "type": "PROFILE_MENTION",
+        "hyperlink": "https://www.linkedin.com/in/ACoAAAADKPkBeEXrUQ4RaAZM5QBEfW-GCgIYfhA",
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAAADKPkBeEXrUQ4RaAZM5QBEfW-GCgIYfhA",
+          "firstName": "Michael",
+          "lastName": "Nelson",
+          "linkedinUrl": "https://www.linkedin.com/in/michaelsnelson",
+          "publicIdentifier": "michaelsnelson"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "universalName": null,
+      "publicIdentifier": "samsalesli",
+      "type": "profile",
+      "name": "Samantha McKenna",
+      "linkedinUrl": "https://www.linkedin.com/in/samsalesli?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFey1YBJ_QkaNbi-LS0Q9WGNFg-2j5o2V0",
+      "info": "Founder @ #samsales l Sales + Cadences + Executive Branding on LinkedIn l Ex-LinkedIn l Keynote Speaker l 13 Sales Records l Early Stage Investor l Overly Enthusiastic l Swiss Dual Citizen l Creator, Show Me You Know Me®",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFlBbfoIXywXA/profile-displayphoto-shrink_800_800/B4EZRMjMEWGgAc-/0/1736451081697?e=1784160000&v=beta&t=TzsDtmfnp35iCAbQAVe0KCmcsDsNhf2bHxEuiYp1szM",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "22989654"
+    },
+    "postedAt": {
+      "timestamp": 1780936054915,
+      "date": "2026-06-08T16:27:34.915Z",
+      "postedAgoShort": "2w",
+      "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/samsalesli_samsales-activity-7469787218874757120-4jNc?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7469787218874757120",
+    "shareUrn": "urn:li:share:7469787217402593302",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7469787217402593302",
+    "engagement": {
+      "id": "7469787218874757120",
+      "likes": 439,
+      "comments": 50,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 358
+        },
+        {
+          "type": "EMPATHY",
+          "count": 27
+        },
+        {
+          "type": "INTEREST",
+          "count": 26
+        },
+        {
+          "type": "PRAISE",
+          "count": 20
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 8
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/samsalesli",
+      "sessionId": "99bbb596-34f4-4e22-934f-eda2f4352e60"
+    }
+  }
+]

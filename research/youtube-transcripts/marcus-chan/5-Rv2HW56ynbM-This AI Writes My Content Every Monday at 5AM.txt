@@ -1,0 +1,118 @@
+Metadata:
+{
+  "expert": "Marcus Chan",
+  "channel_name": "Marcus Chan",
+  "video_id": "Rv2HW56ynbM",
+  "title": "This AI Writes My Content Every Monday at 5AM",
+  "video_url": "https://www.youtube.com/watch?v=Rv2HW56ynbM",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 102,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+The automation I've now runs every
+Monday morning at 5:00 a.m. It pulls the
+last 7 days of Fathom transcripts. So,
+it goes into Fathom, pulls the
+transcripts.
+>> Is that through Co-Work?
+>> Yeah, through Co-Work.
+>> Okay.
+>> So, it pulls it up and then it finds the
+ones most like so for like last week I
+had a few personal ones. They're just
+nonsense, but they're not going to be
+good content. It's like you get 11
+calls. Here's eight that are probably
+the best ones. Great. It then goes and
+um
+>> And how does it know to separate those?
+>> I just trained it so many times. So,
+>> based on the prompt that it knows which
+Fathom calls to pull.
+>> Um not even the prompts now. It's
+because of how the task is now
+scheduled. I'll show you really quick in
+inside this so you can kind of see it.
+So, it shows like scheduled. So, I know
+what's going to pull, right? So, this
+happens every single week. And then it
+pulls all the transcripts and then it
+starts to write content through a
+different skill. So, we have what we
+call a content mine. That's a very
+robust prompt that we basically built
+out. And it's creating as many carousels
+as possible and all the body copy for
+all the platforms. And then also do the
+same thing for video scripts. So, write
+scripts based off what I said and all
+the body copy. And then it goes
+and it runs checks against everything
+our rules and creates a Notion card
+called Claude approval. That's the
+status.
+All loaded inside Notion. So, then what
+happens, let me show you this.
+So, it loads right inside here, okay?
+Now, I don't have any as marked as um
+Claude approved um because I already
+went through and I ran the second task.
+>> I see. Hang on. On this page I see
+pre-approval pre-approval
+like Claude approved. Obviously, these
+are different statuses.
+>> Yep.
+>> What is this? Like these are ideas for a
+content library for you to pick what
+you're going to post each week?
+>> Oh, um this is No, this is our actual
+calendar. I'll give you an example.
+Basically, when it gets to pre-approval
+that means hey, that thing is we've
+already checked everything. You're good
+to start producing the content and
+having a content team make the carousel,
+edit the video, do whatever with it,
+right? That's what that means.
+Pre-approval means the agent has written
+the content that agent number one
+>> Claude.
+>> Claude. Correct. Claude has written it.
+And then the second agent within Claude
+then reviews it and double-checks his
+work of agent number one. Yeah, it's cuz
+it makes errors still. It still makes
+errors. So, it double-checks it. And
+then moves into pre-approval so so
+meaning that it's at least two
+double-checks. And then I double-check
+it all at that point. If it's good to
+go, then I'll move to pre-approval.
+>> So, you approve it before and then does
+what?
+>> She takes it to get created. So, for
+example, this is done or this is
+approved of, I should say, by me.
+>> What type of creation does she need to
+do?
+>> What's that? Uh well, so she needs to
+go, I mean, she needs to send this over
+to the um the carousel creator. Carousel
+creator creates all this.
+>> Oh, cuz it's not just text.
+>> Yeah, it's not just text. Yeah, so uh
+creates this um
+>> Okay.
+>> And then we have a scheduler schedules
+all this stuff, right? So, and she also
+will double-check my work before as
+well. So, so I add these extra elements
+in with Claude that she actually make
+her job a little bit easier cuz
+sometimes I'll make errors, too. And
+she'll she'll fix my errors.

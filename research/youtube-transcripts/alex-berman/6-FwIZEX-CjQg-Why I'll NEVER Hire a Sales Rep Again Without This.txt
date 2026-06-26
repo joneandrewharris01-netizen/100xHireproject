@@ -1,0 +1,165 @@
+Metadata:
+{
+  "expert": "Alex Berman",
+  "channel_name": "Alex Berman",
+  "video_id": "FwIZEX-CjQg",
+  "title": "Why I'll NEVER Hire a Sales Rep Again Without This",
+  "video_url": "https://www.youtube.com/watch?v=FwIZEX-CjQg",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 149,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+You hired a sales rep, handed them a
+product deck, and a CRM login, and 3
+months in, they're still asking
+prospects, "So, any questions for me?"
+Your system is broken, and I'm going to
+fix it before you make the next hire.
+So, here is how you hire a sales rep who
+actually closes. Let me walk you through
+exactly how. Three things you're testing
+in a sales interview. First, response
+speed. Before the call even happens, how
+fast they reply to your job application
+tells you how they'll treat prospect
+emails. A rep who lets your email sit
+for 48 hours will let follow-up sit for
+48 hours, too. So, cut them early.
+Second, social awareness. You want
+somebody in the middle of the
+introvert-extrovert spectrum,
+comfortable leading, but willing to hand
+the conversation back, ask the next
+question, and let silence do the work.
+Because if they steamroll you in the
+interview, they'll steamroll prospects
+straight into objections. I've tested
+this across multiple industries. Third,
+the coachability test. Drop a role play
+on them. Tell them you're a prospect
+running a 10-person agency struggling
+with lead gen, and you want them to run
+a short discovery conversation. Let them
+go for a few minutes, then stop and give
+one piece of specific feedback,
+something like, "You went into pitch
+mode before you understood my budget
+situation. Try again, and hold off on
+the solution until I've told you what
+I've already tried." Then watch. A
+candidate who gets defensive is going to
+be a nightmare to manage, but a
+candidate who resets and clearly applies
+what you just told them, extend the
+offer. I've used this exact test on
+every sales hire I've made, and the ones
+who passed it closed deals, but the ones
+I skipped it for cost me months. Once
+they're hired, don't spend the first 2
+weeks on product features. A rep last
+quarter spent 10 days studying every
+SKU, and then blanked when a prospect
+asked what it would actually do for
+them. But if a rep can describe a
+buyer's problem with more clarity than
+the buyer can, the close almost handles
+itself because the prospect thinks,
+"This person gets it." And that trust is
+worth more than any feature sheet. So,
+days 1 through 10, your new rep should
+be watching recorded sales calls all
+day, not skimming, but watching them
+fully. After a big batch of calls, they
+start to feel the rhythm of a strong
+conversation, where the call stalls, how
+a strong close sounds compared to a weak
+one. And if you don't have a call
+library yet, build one before you bring
+anyone on. Get on the phone yourself,
+hit record, and run those calls at a
+high level because you need that asset
+before you need to hire. And that brings
+me to my next point. Days 11 through 14,
+script work and role play. A script is a
+series of prompts lined up so the buyer
+talks their way into the answer you're
+guiding them to. By day 14, the rep
+should run a mock call without notes.
+Put them through the coachability test
+again, give feedback mid-call, and see
+if they adjust on the spot. I had a
+sales hire once who used a Notion doc
+script, talked about his weekend, and
+lost every prospect with let me think
+about it. That rep cost me months before
+I replaced him. After that, I never let
+a rep touch a live call until they could
+run the structure smoothly in a role
+play. All right, that's enough talking,
+let me show you. Here's the C L I P S
+framework. C, confirm the context. Start
+the call by stating the purpose out
+loud. The reason we're on this call is
+you wanted to see whether this fits your
+situation, is that right? L, lay out
+their pain. Say the problem you think
+they have before they tell you. Based on
+your intake, it sounds like you're
+getting leads, but they're not
+converting past the first call, is that
+close? And when you describe their pain
+back to them, something changes because
+they lean in. I, investigate past
+experience. What have you done to fix
+this before, and why didn't it work?
+This surfaces the objections early and
+gets the prospect to say out loud why
+their past attempts failed. P, pitch by
+permission. Based on what you've shared,
+there are a few things we do that would
+hit exactly where you're stuck. Mind if
+I walk you through them? Keep it to two
+or three points tied directly to the
+pains they already mentioned. S, secure
+the decision. Based on everything we've
+talked about, does it make sense to move
+forward today? And then the second S,
+smooth objections using their own
+reasoning. So if they said their last
+solution failed because of weak
+follow-through, and now they're pushing
+back on price, bring it back. You said
+the last thing you tried cost you 3
+months and got you nothing. So what's
+that worth compared to what we're
+talking about here? This right here is
+what it's all about. Once your rep is
+live, listen to their first five calls.
+If they're confirming context at the
+start, naming the problem before they
+pitch, and pushing toward a decision,
+then coaching gets simple. Just
+re-onboard them on the structure. But if
+you don't have a pipeline ready to
+support a hire yet, here's the order.
+Build the lead list, run the outbound
+yourself, record the calls you close,
+then hire. I use Scraper City to pull
+targeted prospect lists by industry,
+title, and company size. And that's the
+starting point before any rep ever picks
+up the phone. And if you need to
+pressure test your script against people
+who've seen it work at scale, that's
+what Galadon Gold is built for. If you
+need leads, check out Skraper City. For
+cold email coaching, check out Galadon
+Gold. And if you want to see my favorite
+tools to grow your business, go to
+alexberman.com/tools.
+The next video is coming up now.

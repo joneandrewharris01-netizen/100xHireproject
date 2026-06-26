@@ -1,0 +1,150 @@
+Metadata:
+{
+  "expert": "Sam McKenna",
+  "channel_name": "Samantha McKenna - #samsales",
+  "video_id": "lyxdgDNlFx4",
+  "title": "Part 6:  The Active Selling Phase - Samantha McKenna with Salesloft",
+  "video_url": "https://www.youtube.com/watch?v=lyxdgDNlFx4",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 134,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+Now that email one is done, the rest of
+the cadence gets a lot easier. Not
+because it's less important, but because
+the heavy lifting is already done. You
+earn the attention, you set the
+challenge, you gave them a reason to
+care so that they didn't delete it or
+unsubscribe.
+Email two is the bump, and it's the
+easiest one to write. Why? Because it
+contains no new information whatsoever.
+It's simply a bump. But you'll notice
+that the bumps you're likely accustomed
+to seeing in your inbox sound like
+someone's scolding you, or it uses
+generic language like, "Just following
+up." Instead, use something like this.
+Sam, wanted to see if you had a chance
+to review my below note. But appreciate
+the opportunity to connect on how we
+help with value proposition in a few
+words.
+If you have some time over the next
+coming week or two, let me know what
+days and times work best, and I'll
+gladly send along an invite. Now, one
+thing that might stand out about the
+language I just used in the follow-up is
+that you didn't hear me say, "I'd love
+to."
+Most sales emails say exactly that. "I'd
+love to meet with you. I'd love to find
+time. I'd love to schedule a meeting."
+But consider how a quick change in
+semantics to appreciate or grateful can
+make a difference. Rather than the
+reader saying, "I'd love to," they now
+see, "I'd be appreciative of the chance
+to chat," or "I'd be grateful for some
+of your time." And it's a small
+psychological change that can make the
+buyer more likely to respond.
+One more note on email two. This is the
+only email in the cadence where I will
+tell you to be strict on timing. Send it
+within 48 hours of email one.
+If your buyers are the kind of execs who
+disappear Monday through Friday, and
+then catch up on email over the weekend,
+a very strategic play you can run is to
+do your research earlier in the week,
+send email one on Thursday or Friday,
+and then you're bump plans over the
+weekend.
+Final note, be sure that these emails
+stay threaded. Same subject line and all
+the emails that have been sent along
+with this cadence fall below. You want
+the familiarity of the subject line
+paired with buyers being able to see how
+hard the sender has been working to get
+their attention.
+Email three is your second shot at the
+same bull's-eye. Sometimes you did the
+research and the email still missed the
+mark. Sometimes the buyer was simply too
+busy. Sometimes the angle you chose was
+not the one that matters most to them
+right now, and that's exactly why email
+three exists.
+In email three, you're still in the same
+thread, same subject line, and you're
+going to use the same structure as email
+one, but with a different angle.
+That could mean a different challenge
+your persona is dealing with. It could
+also mean a different consequence of the
+problem, or it could mean a different
+way their current solution breaks down.
+Point is you're not rewriting a brand
+new email. You're reframing the value so
+it lands. You still lead with the
+challenge, you still call out the cost
+of an action, but then you remind them
+of who you are, what you do at a high
+level, and why it matters to them. And
+you still close in the same way by
+asking for interest. You can skip the
+forthcoming objection here if it's the
+same as email one. If the objection
+changes with the new angle, then yes,
+include a short pre-battle.
+Now, email four is where you prove out
+everything you just said in emails one
+and three. This is the email where you
+bring in a customer story or a case
+study. If you have a public case study,
+great. Now that we're no longer crossing
+the high spam bar in email one, you can
+even link it. If you do not have a
+public case study, use a customer story
+you're allowed to reference. And if you
+cannot name the customer, anonymize it.
+One important rule, the story has to
+match the buyer persona.
+If you're emailing a small manufacturing
+company, don't send a story about a
+massive hospital system. Show me you
+know me still applies here.
+Now, format-wise, don't take the lazy
+version of this email. We helped company
+do X and Y. Here's the link. That's not
+adding value.
+Instead, your job is to tell the story
+in the email and let the link be
+optional. A simple story structure is
+company had this problem. Here's what
+was going on. They pulled us in to fix
+it. Here's what we did and here was the
+result. And then, a link if they want to
+dig in deeper.
+And yet again, the close is with a soft
+ask for interest.
+This is also where you can stop
+threading if you'd like. Email four can
+be a brand new subject line and it can
+use the same mindset we taught for email
+one. Hook plus value tied to the story.
+If you genuinely do not have a customer
+story you can use, then don't force it.
+In that case, you can skip ahead and
+make email four more like the nurture
+format you'll see in emails five through
+nine.

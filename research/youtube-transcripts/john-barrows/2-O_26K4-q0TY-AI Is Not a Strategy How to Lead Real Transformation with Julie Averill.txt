@@ -1,0 +1,1777 @@
+Metadata:
+{
+  "expert": "John Barrows",
+  "channel_name": "John Barrows",
+  "video_id": "O_26K4-q0TY",
+  "title": "AI Is Not a Strategy: How to Lead Real Transformation with Julie Averill",
+  "video_url": "https://www.youtube.com/watch?v=O_26K4-q0TY",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 1761,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+[music]
+>> Hey everyone, welcome back to Make It
+Happen Mondays where we talk about
+sales, business, entrepreneurship,
+personal growth, mental health, and
+everything in between with guests who I
+truly respect and I think make a
+positive impact on the world around us.
+Today I sat down with Julie Averill.
+Julie was the global CIO at Lululemon
+where she helped [music] scale the
+company from 2 billion to over 10
+billion in revenue. Before that, she was
+the first ever CIO at REI and spent a
+decade at Nordstrom's running the omni
+channel transformation that
+accidentally drove a quarter of a
+billion dollars in revenue in 3 [music]
+months.
+She's now the founder and CEO of Gold
+Thread and has a new book coming out on
+June 16th called Chief Impact Officer.
+Real transformation comes from humans,
+not just artificial intelligence.
+Now, I got to be honest, I was expecting
+a polished CIO playbook conversation and
+this was way more than that. We started
+with her mom who was put in an orphanage
+as a kid and protested by refusing to
+speak for an entire year, which [music]
+is awesome. And her dad, a major league
+catcher, who taught her system thinking
+from behind home plate.
+Then we got into Lululemon story
+everybody's heard in headlines, but
+nobody's heard the way she tells it.
+She was talking about how she was
+sitting on her couch 2 days before her
+first
+her first day and clicked on a product
+page and saw a yoga pose error message
+[music] and realized the entire site was
+down. Turns out the data center had been
+sold and nobody knew it. And nobody
+owned it, and that was the problem with
+the culture [music] there from an IT
+perspective. Uh 20 hours of outage, her
+first email to her new team came from
+her Gmail account, which is brutal for a
+new CIO to come in that way. But, lot to
+fix and she did. Then we got into some
+stuff that I've been truly obsessing
+over recently. Stuff like why legacy
+SaaS should be genuinely scared right
+now. Why AI is a magnifying glass, not a
+solve-all.
+Why if you try to automate a broken
+process that takes 30 people in a room
+to make a decision, AI is going to
+expose that dysfunction faster than fix
+it. And we talked about how radical
+honesty and trust are the only way to
+unlock real innovation in a team because
+without trust people will hide how
+brittle the systems really are, which is
+an absolute fact. If you're in tech,
+retail, SaaS, or you're a leader trying
+to figure out where AI actually fits
+inside your business instead of bolting
+it on as a shiny dashboard, this one's
+for you. I hope you enjoy the
+conversation as much as I did. Let's
+make it happen.
+Julie Averill, welcome to the Make It
+Happen Monday podcast. How you doing
+today?
+>> I'm great. Thanks, John. I'm happy to be
+here.
+>> Yeah, I'm excited. I mean, we have You
+got a very interesting career and a lot
+going on these days and we're going to
+get to all of that. Specifically, you
+know, transformation, technology, CIO,
+and all the advisory work that you're
+doing with the world of AI right now,
+which is just bananas.
+Uh
+personally, never seen things move as
+fast as I've seen right now. So, I think
+a lot of your advice is going to be
+pretty
+timely for a lot of people. But before
+we did it get into that, I always love
+to get a little bit of background on
+you. Like where, you know, the stuff
+that we can't find on LinkedIn. You
+know, where did you come from? How How
+did you become you? You know, parents,
+your upbringing, those type of fun
+things. And
+love to hear I You know, skimming
+through your book, I saw some stuff
+about your dad and how he taught you a
+few things, your mom too, pushed you a
+little bit. So, give us some little
+perspective there and then we'll get
+into the rest of it.
+>> Sure.
+I'll start with my mom. So, my mom came
+from a pretty tough background where she
+was
+um
+your parents were divorced when a time
+when parents didn't get divorced and she
+was put in a
+an orphanage because her stepfather
+didn't want kids anymore. So, she and
+her brother
+>> Man.
+>> were put in a an orphanage. But my mom,
+being my mom, her form of protest was
+she didn't speak for an entire year.
+They thought that she was mute. She
+wasn't. She was just extremely stubborn
+and being rebellious. So, that's the
+thing you need to know about my mom is
+that she came across as really quiet and
+but there was a steel underneath her and
+>> that.
+>> So, she married my dad with her parents
+pushed her into marrying him when you
+know, she was 16 years old. He his
+She got married at 18, but she met him
+at 16. His father was in um was a
+baseball player. So,
+famous man around town. Her parents saw
+him coming a mile away was like, this is
+the guy. Like this is your ticket out.
+And luckily luckily for her, it was a
+match made in heaven. They were just so
+in love married for 60 years.
+And uh it was you know, it was a
+beautiful story. My dad everyone thought
+that my dad was the tough guy. He played
+baseball uh in the majors for seven or
+eight years.
+Um but the two of them together were
+quite a combo and so I grew up from my
+dad
+who's was a catcher in the majors.
+>> Mhm.
+>> [clears throat]
+>> And catchers have a unique position,
+right? They're the one person that is
+looking out at the entire field while
+everyone else is looking at the batter
+and what they're going to do. But my dad
+was keenly observant and he could tell
+you back on his career who he hit
+against, who threw what, who you know,
+he just knew the ins and outs of
+baseball.
+>> Mhm.
+>> And so his like I describe what the way
+he looked at the world in terms of a
+systems thinker.
+>> Yeah, so it's what he saw.
+>> Yeah, he saw what was coming ahead of
+time. You go to a Mariners game with him
+and he would say, "Okay, look, they're
+going to pitch this guy inside and watch
+what's going to happen. He's going to
+pop it up. Or he's going to hit it he's
+going to hit it uh you know, home run
+down the left field line." And it just
+amazed me how often he was right because
+he knew the people.
+Right, he knew their behaviors. He
+understood the psychology.
+>> Mhm.
+>> Right, of the individuals. And so
+uh
+it's really interesting.
+>> Quick quick question for you on that
+one. When did you realize in your career
+that that's what it was? Right? I mean,
+I as a kid, right? We all like, "Oh
+yeah, wow, Dad, you're crazy. Like how
+do you know that?" Right? Whatever, but
+you don't see that how that really
+influences your decisions and your stuff
+as a as a professional as you grow. So,
+was there a moment in your kind of CIO
+career where you were like, "Wait a
+minute. Like I'm
+I'm thinking like that. I'm treating the
+boardroom almost like a, you know, like
+a bullpen here, and I'm starting to see
+the pitches before they come." Was there
+Was there an aha moment where you were
+like, "Oh my god, Dad, you know, this is
+where it came from."
+>> Yeah, I actually think it happened when
+I was writing in the book.
+>> Okay.
+>> Um
+that I actually realized what that was.
+>> Okay.
+>> Some something about putting it down on
+paper makes you put up connect all the
+dots. And now as I look at it, that's
+absolutely what he taught me because I'm
+observing people, right? I try to
+understand what motivates them. I try to
+understand what happens next. And I
+think that that is that's something that
+just is ingrained in me.
+>> Love it.
+>> My mom on the other hand, you know, that
+silent
+stubbornness. I I tell a story in the
+book about how she went to work at an
+upholstery shop. She was a seamstress,
+and so when they decided that I wasn't
+thriving in a public school, and I had
+asked to go to a private school, she
+needed to go to work.
+So, she went to work for an upholstery
+shop in Tacoma, Washington.
+>> [sighs and gasps]
+>> And she was doing everything. She did
+all the sewing, managed all the
+customers, answered all the phones, did
+all the ordering, managed all the books.
+And yet she was paid less than every
+single man that walked in the door, even
+even those who were still drunk from the
+night before coming in for some day day
+labor work. And she knew because
+she, you know, she did the payroll. And
+she took it until one day she asked him
+for a raise. He gave her a 25 cent an
+hour raise, which still didn't make her
+paid what anyone anyone walking off the
+street was paid.
+And she asked him
+she said
+you know, why is this?
+And he said, "Pat, that's just the way
+the world works."
+And it probably would have been okay
+except he followed it with, "And Julie
+better get used to it, too."
+>> Ooh.
+>> And so that was the day that she quit.
+Because she just she was like, "You
+can't bring my daughter into this." She
+laughed. She went She started her own
+business, ended up hiring my dad into
+it.
+>> Yes.
+>> Got to
+all the designers that worked for him or
+his high-end clients, they wanted to
+follow her.
+>> Yeah.
+>> So she built a successful business.
+>> She sounds like a total badass. I love
+her already.
+>> Yeah. [laughter]
+Yeah.
+>> Um so, okay, so I totally see where you
+get your grit and and your perspective
+on things. Um college, you was it
+computer science that you went?
+>> Yeah. Yeah.
+>> What What was that for? Like What was
+that itch? Why Why did you scratch that
+one?
+>> So I always had a
+In the fifth grade my dad put me in a
+computer training class. He was working
+at RadioShack.
+>> Nice.
+>> And this was when, you know, what are
+computers? What are these things? And
+now they can actually sit on a desk, not
+take up a whole room, you know, a long
+time ago.
+But I like I felt like I found I I found
+something that really
+I connected with. It was logical. Uh
+what I coded either worked or it didn't.
+I could solve I loved puzzles. I could
+solve hard things.
+So, that ignited something in me and you
+know, I kept with computers all through
+high school.
+Got a job.
+Kind of talked my way into a job as a
+trainer of
+um desktop technologies
+in when I was I don't know, 17, maybe
+16.
+>> Yeah.
+>> And when I wanted to go to college, the
+first thing I thought was business, of
+course.
+Because I didn't know any careers that
+you know, that sounded good to me. The
+idea of computer scientist was someone,
+you know, with a microphone like we have
+right now. Not a microphone, but with
+like a you know, an individual setup.
+>> Yeah.
+>> That you're just working you know, maybe
+a dimly lit light bulb hanging over your
+desk and
+>> [snorts]
+>> and uh doing things all by yourself and
+that didn't sound like me. But when I
+started down the you know, the business
+path, I just didn't have the passion. It
+wasn't enough.
+So, I finally made a deal with myself
+cuz my heart said I wanted to study
+computer science. I said, "Okay, I'll
+study computer science, but I'm going to
+get an MBA right afterwards." So, to me
+that was the balance and a deal with
+myself that let me feel good about
+studying computer science. I had no idea
+where that was going to take me.
+>> Well, it's obviously, you know, the
+thread there is is pretty real with
+where you you took your career. But you
+said like
+you got into retail early out of
+college, right? And one of the things I
+saw you said you didn't pick retail. You
+kind of lucked into it through early
+e-commerce consulting.
+But you spent like your whole career in
+retail now. So, what was it about retail
+that that
+uh got you interested and kept you
+interested? Cuz it's a I mean, talk
+about a volatile I mean, I've I've spent
+a vast majority of my career in tech and
+SaaS, which is obviously volatile and
+all over the place, but retail,
+same thing. I mean, there it's seasonal,
+it's, you know, you're you're great one
+minute, you're terrible the next. You
+know, these days if you get one bad
+press release, you could all of a
+sudden, you know, potentially go out of
+business. So, what was it about retail
+that really got you fired up?
+>> What I love about retail is that you can
+see the entire system from a product
+being designed to it to it being
+manufactured,
+the supply chain that it takes to get
+that into the right places, the planning
+that it takes,
+to the point of selling to the customer,
+right? The choices that you make
+online or in store affect whether a
+customer wants to buy that or not. And
+then all the way through
+you know, fulfillment, the whole life
+cycle is something that
+I can just, you know, wrap my head
+around. And particularly when we think
+about technology, technology is involved
+in every stage of that.
+And so the, [clears throat]
+you know, the seat that someone has in
+technology in retail in particular gives
+you a bird's-eye view to the entire
+organization.
+>> Yeah, I think that's So, from I forget,
+what was your I I didn't see it what at
+Nordstrom cuz you spent about a decade
+there. What was your What was your What
+were your roles there? Cuz I want to get
+to REI when you were the first ever CIO,
+which I find really interesting. But
+what were the roles that you played at
+Nordstrom cuz I I forgot to write those
+notes down.
+>> Yeah, I came in to Nordstrom after
+spending time in the early dot com boom.
+And I came into Nordstrom and I was
+hired to help integrate this
+100-year-old brick-and-mortar retailer
+with a shiny Nordstrom.com that they had
+just purchased back from investors.
+>> Okay.
+>> And so they they purchased it, they they
+merged it with their catalog business.
+>> Okay.
+>> And so my job was to help bring, you
+know, technically bring those two
+together. And so one of the things you
+obviously want to bring together was
+inventory systems. What we didn't
+realize was really the power of a
+combined inventory until we went live
+with store fulfill in in the end of
+2013. And what that did was it turned
+every Nordstrom store into a fulfillment
+center. So all the merchandise that was
+available in the store all of a sudden
+became available online.
+>> Nice.
+>> And that in that year, the last three
+months of the year, we accidentally
+drove a quarter of a billion dollars in
+revenue.
+>> Ooh. Accidentally.
+>> We accidentally did through, you know,
+through the shared inventory and turning
+the stores into fulfillment center. So
+um
+I ended up leading what we now know the
+omni-channel
+initiatives and particular the the store
+fulfillment then store technologies. We
+did a lot of innovative things like
+mobile POS,
+things that were really exploratory in
+that time. You know, how does RFID fit
+into this picture? Just innovations both
+online in stores, marketing, everything
+about the customer. So
+it was a really fun time cuz we were,
+you know, we were figuring it out. Now
+it's like, oh you did omni-channel.
+Okay, everybody does omni-channel.
+>> [snorts]
+>> Well, and that's actually so a lot
+there's a lot of
+similarities with what's going on right
+now with the AI boom, right? So the
+dot-com boom, none of us knew what was
+going on. It was we were all figuring it
+out. And you know, and and people were
+slow to change quite frankly because you
+I remember even back then people thought
+it was a fad. The internet was not a
+thing, it's going to go away. And so,
+what were I guess looking back, what
+were some of the takeaways that you
+think are still applicable today in that
+transformation in such a flux
+environment that we're all in? What were
+some of the specifics that you took away
+from the Nordstrom experience that you
+think either you or others in your
+position could apply in in this
+fast-paced like 10x times, you know, it
+feels like that we're moving a thousand
+times faster than we did back then, even
+though back then it felt like we were
+moving a thousand miles an hour.
+>> Yeah. Yeah. Well, if you remember back
+to that time, you could slap dot com on
+the end of a company name and instantly
+be worth millions, at least on paper.
+>> Sure.
+>> And that was because there was a, you
+know,
+everybody knew that it was something
+big, but they didn't necessarily know
+what it meant to their business. And so,
+through that, right, through the dot com
+bust,
+the market sorted itself out and said,
+"Okay, it's really not about
+having a just having a website or
+e-commerce, but how does your business
+transform
+through this new technology, right? So,
+you know, Amazon emerged, for example,
+right? So, the the market changed once
+people understood how this new
+technology actually fit into their
+business. And I think we're seeing the
+same thing right now. Like, how many
+companies do you know that end in dot
+AI?
+>> Uh-huh. Yeah.
+>> Right. It's not about the technology.
+So, it's about, and I I see this a ton
+right now of companies trying to just do
+AI.
+>> Uh-huh.
+>> Right. What's your [clears throat]
+What's your AI strategy? How many pilots
+are you doing? What's, you know,
+um
+and they're focusing on the technology.
+And I think the focus really needs to be
+on the business.
+>> Uh-huh.
+>> Right. Understanding, where do you want
+your business to go, and how can AI help
+you get there faster or in a different
+way?
+So, I think that's a big lesson that I
+just Yeah, it feels like we're déjà
+vu-ing all over again in that that it's
+you know, there's a lot of um I mean,
+don't get me wrong. AI is amazing. It's
+transformational to our lives, our
+industry, etc. But, when you look at it
+in a company, what is it still that that
+company does
+that makes them unique, and how does how
+does technology help them accelerate
+their their goals there?
+>> [snorts]
+>> Yeah, and I think that's one of the
+things I'm struggling with right now,
+you know, just even from a sales
+perspective, right? Because
+>> [sighs]
+>> I think in in
+tech sales at least, I you know, the
+SaaS boom, if you will, you know, 2010
+to 2020, give or take, or 2020-2022,
+we got away from a lot of the
+fundamentals because it was just quite
+frankly, it was pretty easy, right? We
+could send out sequences, and you know,
+whatever, anybody with a pulse was
+taking a demo call, and all that other
+stuff. So, what I'm looking at here is,
+okay, how do we get back to fundamentals
+so that we can have that foundation to
+build from? But, my question that I'm
+struggling with is, what are the
+fundamentals anymore?
+So, as that relates to business,
+what are the same fundamentals back then
+that you still think are still relevant
+today in business, and which ones do you
+think have changed?
+>> The fundamentals are different, right,
+for every company, but
+what's your company's strategy? And what
+are the capabilities that you need to be
+able to execute on that strategy? So,
+I'll use Lululemon for as an example,
+right? So, when I started, the company
+was 2 billion. When I left, it was 10
+billion. Uh so, 5x in 8 years.
+What got us there was great product,
+uh you know, great relationships with
+the customers, with the guests,
+um
+solid supply chain, you know,
+functioning organizations that were all
+working together and doing that part.
+Now, technology enabled all of that,
+right? So, it couldn't have happened
+without technology, but technology was
+not the point. Like, my job was to serve
+the strategy of the company. And so, I
+think when companies today are thinking
+about how does AI change them, you got
+to look at what are your fundamentals.
+>> Mhm.
+>> And and how and how does the technology
+help you get to where you want to get
+to, to your strategy in a different way.
+>> Mhm.
+What's changed? So, like if if some of
+the core fund you know,
+customer success, having a good product,
+supply chain, you know, uh alignment,
+and all that stuff. It has there
+anything Have you Have you seen any
+anything fundamentally change about how
+businesses need to look at things
+different now than they ever did?
+>> I think I'll I'll start with retail.
+>> Okay.
+>> Um so, top of the funnel,
+>> Right.
+>> So, we it used to be predictable. And
+I'll go back in time, right? Used before
+e-commerce, predictable.
+>> Mhm.
+>> Customers would walk into the stores,
+they would look at what you had, they
+made a decision to buy or not, they
+paid, they walked out.
+>> Mhm.
+>> E-commerce comes in, now they have a
+choice to research online, then go into
+a store, buy all online, or still go
+into a store.
+Right? But, you controlled
+that top of the funnel. You controlled
+as a retailer how you presented your
+products to the customers, whichever
+avenue they came in.
+And now what's changed is with AI,
+there's channels that people are coming
+from, like
+conversational AI, for example, where
+you can't control.
+Right? You don't know how Claude or Chat
+GPT is going to present your products in
+in what order. And so, we just don't
+know that yet.
+>> Mhm.
+>> Right.
+And so,
+the
+the companies, I think, that are going
+to survive this are the ones that really
+understand
+how they are truly different. So,
+you know, what is it that makes your
+your company special? If you're just
+selling a widget that 10 other people
+are selling, then you better have the
+best price. You better have the best
+widget, and you better have it at the
+best price. But, if there's if you're a
+brand that has uh
+you know, has loyalty
+to your brand, that that people are in
+community with your brand, um
+how do you hold on to those things? So,
+when people are conversing with their
+favorite AI engine, they're asking
+specifically for your brand. And then,
+you're able to take it from there.
+>> So, from that perspective, is
+brands,
+community, and kind of your that the the
+marketing side of the house
+as if not more important? Cuz I've
+always said like, from a sales
+standpoint, right?
+>> [snorts]
+>> Um you have the best product in the
+world, but if you can't sell it, it
+doesn't matter. And so, I I've always
+said, you know, you your product has to
+do what it's expected to do, okay? Like,
+you can't these days you can't show up
+to the table without it doing
+functionally what it's supposed to do.
+Um but, is do you have to be the best
+product right now and have the best
+brand? Or, if you create that loyalty,
+that brand, that thing that that your
+you know, your audience will
+accept something that isn't the best?
+>> I think it depends where you put
+yourself on the commodity scale.
+>> Okay.
+>> Right? So, if you if you are
+hot in a high commodity competitive
+environment, right? Then it's it's
+quality and price.
+>> Yeah.
+>> Right? But if you're differentiated, if
+you have you know, you're one of a kind,
+right? Then know really well what makes
+you unique
+>> Mhm.
+>> and hold on to that.
+>> See, I feel like that's going to be so
+much harder moving forward here. Be
+hard.
+But I mean it's always been hard, but
+now I can replicate it in a second. You
+know what I mean? Like now I can say,
+"Ooh, I love Lululemon's
+uh website. So replicate the website and
+just put a little bit of a different
+vibe. Oh, go find their, you know, uh
+their manufacturer in China, wherever it
+is, and I want to get the same clothes
+and put a different logo on it." And so
+it's like, you know, now Lululemon has
+built a brand and they have the
+reputation, but it's like the copycats
+right now are rampant. And so
+how do you how have you helped Let's
+Let's talk about um
+Let's talk about Lu I'm going to skip
+over REI and come back to it for a
+minute, but let's talk about Lululemon
+because you came in and like I think it
+was like their like couple days before
+you started their website crashed. And
+you said first of all that that's told
+told you everything you needed to know
+about what you were walking yourself
+into.
+Um so walk me through that ex- like what
+did it tell you, A, and B,
+you know, what was unique about
+Lululemon and what can other brands pull
+from that to say like how did you go
+through your process of what makes us
+unique? We're selling yoga pants. I
+mean, I'm obviously from a generic
+consumer standpoint. You know, I was
+like, "Whatever, these things are
+stretchy pants and they're nice clothes
+and there's a million of them. I can go
+to Nordstrom's. I can go all these all
+all these places." So what was How did
+you identify what was unique about
+Lululemon
+uh so that you could lean in on that?
+>> Um and you know, I was a tech person, so
+I don't get full credit for this, but
+I'll tell you I'll tell you my story
+about before I started there. So 2 days
+before I started, I'm sitting on my
+couch at home. I'm
+you know, shopping, pull up
+lululemon.com, click on a product page
+and get a an error message of a
+yoga figure it like
+in Savasana saying, "Temporary Savasana,
+we're usually awesome at this."
+>> [laughter]
+>> And um
+so I thought, "Well, that doesn't that
+doesn't sound good." I clicked on
+another one, same thing. Turns out the
+entire website was down. I was the one
+that discovered it. My team's very first
+email to me
+was from a Gmail account
+reporting the website outage.
+>> Woah.
+>> Turns out that the site had been fully
+hosted, fully outsourced to another
+company. That company had sold it to
+another company. So sold the data
+center. So there was a data center,
+entire data center that had gone down
+and nobody who owned it knew that was
+hosting the Lululemon website.
+So the site was down for 20 hours.
+>> What? Just for context here, um how how
+many years in business was Lululemon and
+what were their revenues at this point?
+Just to get a good
+>> Revenue revenue was a little bit under
+um a little bit under 2 billion.
+>> Okay.
+>> And um
+uh
+20 years.
+>> Ooh. So this isn't like, "Oh, we just
+started and it we had a glitch here."
+This is like established.
+>> No.
+>> Been in business for
+>> countries.
+>> 2 billion. Okay.
+>> Um yeah.
+But why I say that it was super
+revealing, I knew everything that I
+needed to know
+um was because there was no culture of
+ownership.
+Right? The team had no ability to
+monitor.
+They had no escalation path. They they
+didn't Yeah, they didn't know who to
+call.
+Um
+and what that revealed, the lack of
+ownership, was that there was a
+fear-based culture. So
+nobody really wanted to talk about how
+brittle the systems were for fear of
+being blamed for it.
+And so when you ask what was special
+about Lululemon, um you know, the
+technology team was in a a state of
+needing a lot of repair. But the thing
+that drew me to Lululemon was the
+culture
+of we can do anything.
+Like I never I had never seen a company
+that just had this
+um this desire to keep going
+collectively. Everybody I talked to had
+this curiosity and this um
+it's almost no fear, right? Well, of
+course we can do that. We're Lululemon.
+Uh now, the technology team had had paid
+the price for a lot of that because they
+were trying to put everything together
+and you know, we could talk all about
+what that transformation looked like.
+But really I think what made it special
+was this DNA of innovation and curiosity
+that was super magnetic. Right? That's
+that's why I joined because I could tell
+that it was a special company to be a
+part of.
+>> So [snorts] was it different so because
+that culture of innovation and we can do
+anything conflicts a little bit with
+this the no ownership, right? Like I
+don't I'm scared. So was was IT was the
+was the culture of IT different than the
+culture of Lululemon because you said
+they kind of they were the ones who you
+know, had to deal with all this stuff.
+So were they somewhat insulated when you
+came on board? Like why was there that
+that difference?
+>> Yeah, and I think this happens in a lot
+of retail companies. Um I remember one
+time I asked um
+one of the executives at Nordstrom for
+career advice. I said, "Look, I'm I
+really love this company and I want to
+know what my opportunities are." And,
+uh, he said, "Julie, we think of IT like
+we think of, um,
+of, uh,
+like the broom closet. So, when
+something's broken, we go in there, we
+rattle things around until it starts
+working again, then we turn the lights
+off,
+and, uh, and we we go back to work. So,
+if you want if you want a career in a
+retail company, you've got to get into
+either merchandising or stores."
+So, that was my pep talk and I thought
+this is where I'm going to make my
+career.
+>> There you go. Let's go. [laughter]
+>> But, uh, you know, a lot of This is how
+it was in retail, right? That
+before we understood or before we were
+able to really articulate how important
+technology is to unlocking the strategy.
+And at Nordstrom, what happened,
+obviously, I told you about already, but
+when we went live with store fulfill,
+all of a sudden the executive teams were
+highly interested in this technology
+thing. The vocabulary changed. They
+started asking about, "What are our fill
+rates? What are our cancel rates? How do
+we, you know, like
+it changed from being a back office
+function to a strategic enabler. And so,
+at Lululemon, it hadn't gone through
+that that yet. It was still seen as
+really,
+you know, that broom closet of, "Here,
+we need some stuff. We're going to tell
+them what we need. We're going to get
+some stuff out, and then we're going to
+go do the real work of the company."
+>> Yeah. That's how I So, I spent about a
+large portion of my early career in IT
+services. So, I was one sales guy within
+50 engineers, and so I know the I know
+the how clients looked at it, and it was
+almost it was it was so it was so tough
+because
+you never got praised. I mean, it the
+the expectation was the system worked,
+right? Like the expectation was I got my
+emails when I got my emails that I could
+access the folders when I could access
+the folders. So, the only time at their
+name ever our name ever came up was when
+something went wrong.
+And you know, that was a thing that that
+the engineers I think obviously knew
+getting into the profession, but it was
+always something from my standpoint,
+from a sales standpoint being like,
+"Wait a minute. Like after a while, I'm
+like, you got to throw an attaboy every
+once in a while at them for for
+[laughter] the fact that we've had no
+outages here in a in a couple of months
+with your system. Like, can't you,
+right?" Or like find some way of
+reminding the client that the reason
+that there are no issues is because
+we're doing our job. So, that [snorts]
+that's always I I think I could see that
+being a tough uh
+mentality to have, quite frankly. Or or
+or
+yeah, just being in that environment,
+not getting the kudos and always getting
+the blame.
+>> Yeah, especially if you are, you know,
+like what we call behind the drywall.
+>> Yeah. Yeah.
+>> Right. So, I think it's changed since,
+you know, like if you look at the
+technology that we put in place in those
+eight years that I was there, it was
+remarkable and I built
+team in China to, you know, like all the
+unique technology and needs of the
+customer in China. Um
+you know, all of the global
+infrastructure, the websites, the
+merchandising systems, the retail
+systems, the personalization and the
+websites, right? All of that enabled the
+growth. And so,
+um you know, we were lucky to have
+really good business partners who
+understood how important the technology
+was to um you know, to to for them to
+reach their goals. And so, it was a
+partnership. And I think the, you know,
+the kudos came particularly to the teams
+that were building new functionality.
+But yeah, the network team, um
+you know, they're still
+>> It's happening. Yeah, the phone lights
+up when something doesn't doesn't work
+well.
+>> So, you know, staying with Lululemon,
+you talked about this culture of radical
+honesty, right? Where So, you know, and
+I I actually did a little bit of a stint
+with Jack Welch back in the day when
+when he started his online MBA program.
+So, I worked with him and Suzy for a
+little bit just to get that off the
+ground. And he's got, you know, in his
+book Radical Candor, right? And I And
+that's actually what drew me to Jack.
+Now, we can all talk about Jack and
+capitalism and, you know, people hate
+him these days, but I, you know, back
+then his whole mentality of radical
+candor was was music to my ears because
+me, as somebody who just couldn't fit in
+corporate because I I have zero filter,
+right? And And And I And I don't want a
+filter. And I actually don't want people
+around me to have a filter because I
+don't think with a filter I don't think
+you can get anything done. But
+everybody's got, you know, sensitivity
+and all that other stuff. So,
+how did you shift specifically the IT
+culture that was scared to talk, limited
+ownership, in a organization that was
+running like, "Hey, we can do anything
+and sorry, IT, you're going to have to
+figure this out." Was it Was it
+deliberate on your end to to to address
+that issue coming in?
+And how did you make that shift of
+I'm scared to own anything to radical
+honesty, let's go.
+>> Mhm. Trust.
+>> Trust, okay.
+>> Right. Yeah.
+>> I love that.
+>> So, the most important thing I did was
+hire leaders who
+who believed the same thing, right? And
+wanted to build teams that could trust
+each other because I've seen it.
+Innovation happens when you get teams of
+people that trust each other enough to
+take risks, to admit when they fail, to
+try again, to speak up,
+right? So, that every person can speak
+up and say their ideas, what's on their
+mind, what's not working. Um that's
+where I believe innovation really
+happens is when you can build teams that
+are so highly performant that the you
+know, that there's no politics, right?
+We're just here to climb that mountain
+in front of us together.
+>> Was there a moment or an example where
+you saw that shift of and so there's the
+hiring of new people that fit the
+profile. So great, right? So this is new
+people that you're hiring builds the
+trust up front. But then there's the
+existing staff that you're taking over
+here that is still probably
+shell-shocked and was there a moment in
+a meeting or in a you know, that that
+you noticed where that staff loosened up
+a little bit and was
+candid, was direct where they weren't
+before and and how it was received or
+how it was presented or how it even was
+it was was approached?
+>> Yeah, very I'll give you a very very
+early on example that is is the one that
+comes out in my mind. So I had asked my
+head of infrastructure, what's your
+cloud strategy? Cuz we were 100% on prem
+at that time.
+>> Mhm.
+>> [clears throat]
+>> And didn't hear from him and I kept
+saying, I need to see your cloud
+strategy. Like I'm trying to figure out
+is this the person that's going to take
+us into the future? Does he understand
+it?
+>> [snorts]
+>> And
+whenever I would ask that the room would
+just go quiet.
+And you know, and I'm new and I've just
+taken one company into the cloud. Like,
+okay, let's get going, right? All the
+reasons why.
+>> [snorts]
+>> And he finally said to me, Julie,
+your predecessor was a bare metals
+person.
+And when he said that,
+it's everything just made sense to me.
+I'm like, okay, now I understand the
+starting point.
+>> Okay.
+>> Right?
+>> And explain for those people who are
+listening might not really understand
+the bare metals person. You know, could
+you clarify
+>> Yeah. Everything Yeah, I realize I'm I'm
+going a little deep here to the
+technical side. Everything
+Every everything needed to be on prem
+where he could he could build from the
+servers at Whereas in the cloud, right?
+You give up a layer of control, but you
+get uh you get a lot of other things,
+resilience, redundancy, scalability,
+etc.
+>> Cool.
+So, that was the whole philosophy was he
+was kind of old school, wanted
+everything on prem, control it all. I'm
+guessing his risk profile was not high.
+Uh cuz the cloud was scary back in the
+day, you know what I mean? Like I'm
+going to put my information up there.
+Like what is the cloud, all right?
+Um
+but to your point, like infrastructure.
+I remember going from IT services to,
+you know, when I left that uh and sold
+it to Staples, and then went to the
+world of Salesforce, right? And
+Salesforce was my biggest customer, and
+I saw all this cloud, and I'm like
+looking at
+my old companies being like, why in the
+world would any small business under 10
+employee under 50 employees have
+infrastructure? Like it doesn't make any
+sense to me. It's all up there. I can
+access it anywhere. And so, like they're
+but you look back on it, and people are
+risk averse, people are like security
+factors. So, was that mentality from a
+top-down standpoint hard to hard to
+break
+with that person gone, but with the
+legacy there?
+>> curious. Right, they were curious, and
+uh that's the part of the Lululemon
+culture that extended into technology.
+>> Cool.
+>> Right, it wasn't that they didn't want
+to. It's that there was uh
+there was no trust, there was fear. So,
+they had to know that it was safe.
+>> Mhm.
+>> Um and yeah, I mean, I think about a
+similar thing happening right now in AI,
+right? Like as you described the cloud,
+that's what's happening right now. Like
+I know I need to do it.
+>> Yep.
+>> Um
+and what what's it going to do for me or
+to me?
+And the the companies that are building
+from scratch, these are AI companies.
+But then you've got companies that have
+been around and they're trying to figure
+how do I transform from what I am right
+now to this world that maybe I don't
+quite yet understand.
+>> Yeah, and I think that's the scary part
+right now. At least for me with where I
+sit in in SaaS, right? So there's
+retail,
+you know, the world of SaaS. I've lived,
+you know, I've trained this
+the vast majority of the fastest, you
+know, Salesforce, LinkedIn, all these
+all these companies. And you know, then
+2010 to 2023 it was it was a great ride.
+It was a rocket ship.
+But now I'm looking at this the entire
+SaaS industry and saying, oh no.
+Because now
+like I can spin up a whatever I want.
+Now there's obviously legacy and there's
+people and integrated systems and it's
+not nearly as easy as anybody ever says
+it is. Oh, I can just build an app that
+does that. It's like no you can't. You
+know, and transitioning I I get that,
+but I'm genuinely worried. So so as you
+go out there and advise
+companies,
+have you gotten kind of to advise or or
+talk through some of the SaaS companies
+and what their transition looks like?
+Cuz a lot of them are are quite frankly
+putting lipstick on a pig. You know what
+I mean? They're they're they're doing a
+dashboard that says they do AI, but it's
+really not AI. It's not truly integrated
+in their systems. It's just and I'm I'm
+looking at it and I'm going
+how fast are you going to be able to
+pivot here? Or what do what can you do
+to stay relevant in this world where
+seats are going to go down, layoffs
+happen, you know, you know what I mean?
+All these different things. So what's
+your advice to these legacy, and I say
+legacy of SaaS, which is a weird thing
+to say.
+>> Three years old, yeah.
+>> Right, exactly. These legacy SaaS
+companies. And and quite frankly who are
+listening to this, the sales reps who
+are working at them. Because if I'm a
+sales rep working at a SaaS company
+right now, I'm looking at it going, I
+need some indicators that this company
+is still going to be relevant because my
+client is throwing all sorts of
+questions at me of like, why would I pay
+for this? Why can't I just do it myself?
+And obviously there's sales skills
+there. But what are the successful
+companies going to do coming out of this
+right now as opposed to just get run
+over by this AI wave? For the AI native
+companies coming up.
+>> Yeah.
+I think it's a great question. And I
+know that that's what
+every SaaS provider is asking themselves
+right now. If I was advising, I would
+say be real.
+>> Right.
+>> Right. Understand, do you offer
+something that is competitive advantage?
+Understand exactly what that is,
+understand why your customers need it.
+And focus on that, but also understand
+what your competition is, which is, you
+know, uh
+an AI engineer
+with a bunch of tokens.
+>> Mhm.
+>> So, [clears throat]
+um
+you know, you have to understand that
+and then price accordingly.
+>> Mhm.
+>> Because if you have a pricing model that
+you know, that gets you a piece of the
+revenue of
+you know, of every transactions and you
+know, you can hire
+10 engineers to build it yourself,
+right? It it's it's a pretty easy
+decision to make.
+>> Yeah.
+>> So, I really I think that the whole
+model needs to be looked at through the
+lens of the customer.
+Right? Like what is the the person
+buying it? You know, if you're trying to
+sell to you know, to me for example,
+I'm looking to say, do you really
+understand
+what you have that I need and are you
+really solving and you know, the
+specific pain point that I have?
+>> Mhm.
+>> Um and do you understand that the world
+has changed? So, you can't price price
+me like you're holding me hostage like
+you used to be able to do.
+>> So, how do you make decisions with with
+things that are moving so
+so rapidly right now.
+>> Yeah.
+>> How do you There's There's I talk a lot
+about this book called JOLT Effect,
+right? Which is the Challenger Sale,
+Challenger Customer, and and then the
+third one is JOLT Effect, and it talks
+about the the problem that we're all
+faced with right now, which is you know,
+every sales rep says, "Oh, you know, no
+decision is our biggest, you know,
+competitor, right?" People not making a
+decision. But what JOLT Effect
+highlights is it's not no decision, it's
+indecision. And the reason is is that
+things are moving so fast right now, and
+there there's just so many other options
+that people are scared to make
+decisions. They're They're Very few
+people get fired for making bad
+decisions. Oh, I'm sorry, very few few
+people get fired for not making
+decisions. They get fired for making bad
+decisions. So people are just kind of in
+a like, "Ah." That's why sales cycles
+are taking too long. And And so how do
+you
+like
+from an innovation still steering you
+back to innovation,
+>> [sighs]
+>> how do you know what to invest in? If
+you're a CEO right now, if you're a CIO
+right now, knowing that I mean, just in
+my little world, I'm like, "Oh, cool,
+I'm going to do this." And then
+literally
+3 weeks later Anthropic releases some
+new thing, ChatGPT creates whatever it
+is, and whatever I was just about to
+create or do is now irrelevant because I
+can do it in GPT or in in AI. So how are
+How is decision-making
+changing right now? And what is the lens
+you have to look at right now to
+green-light anything at this point?
+>> Yeah. I'll give an example I have a
+real-life example of a company that I'm
+advising right now, right? So they have
+a really old legacy stack.
+>> Mhm.
+>> And uh their choice is
+go to a SaaS provider or
+you know, build it through AI. Like, you
+know, put some AI on top of the legacy
+stack, decipher the business rules,
+right?
+>> Mhm.
+>> Um
+the the things that you have to weigh in
+that is like
+can you really
+like is it as easy as you think it is?
+>> Right.
+>> Cuz there is advantage to going to a
+SaaS provider that has it all figured
+out. They've got the maintenance figured
+out. They've got the upgrades figured
+out. And, you know, if you're a a
+company that is, you know, let's say
+under a billion dollars,
+you can't get the talent
+>> Right.
+>> that you need to be able to create your
+own custom stack of everything that you
+need to as a business grows. So, there
+is still a need for these
+really flexible um SaaS solutions that
+allow companies to go fast and then have
+their team focus on, you know, instead
+of the core functionalities of like
+commerce, take payments, etc. Like,
+that's all figured out. And now all they
+need to do is figure out like what are
+those things that are unique to my
+company and then I have my my tech team
+do those really, really well.
+>> Yeah.
+>> So, I think, you know, the the the
+decisions are still the same. It's just
+that there's another option and this
+option of
+doing it yourself.
+>> Mhm.
+>> Um
+But but but but it's not
+>> Right.
+>> Yeah, it's not it's not a magic pill.
+>> No. I mean, that's it's funny. When I
+was again, going back to Thrive, in my
+these IT services, we did infrastructure
+and we would always bump into engineers,
+you know, software engineers, who were
+really smart. And they could absolutely
+manage the infrastructure. But that's
+not what they got paid for. That's not
+what they what their specialty was.
+Their specialty was creating the
+software that the company could make
+money on, right? And the infrastructure
+got in their way. So, it was always an
+interesting dynamic of talk of having
+that conversation to be like, yeah, I
+know you could, but is this the best use
+of your time, right? The build versus
+buy has always been around. And I think
+now it's just more challenging because
+the perception is it's so much easier to
+build. So, it's not just the the IT
+nerds, if you will, that are like, oh, I
+could do that. And, you know, as a sales
+guy here, I'm like, yeah, you You do
+that. Do don't know. I don't know if you
+can or can't. Like, cuz I don't know
+what the skills are to But now some
+idiot like me can be like, "Wait a
+minute. I just built a crazy app that
+does this, and it took me 2 minutes of,
+you know, half an hour of AI coding
+here, and it came out pretty damn good.
+It does everything that I wanted to. So,
+can I just do this?" Obviously not
+knowing the details of the integrations
+and all the stuff that it should do in
+the security and all that fun stuff. But
+I think right now it's it's it's the
+same question. Build versus buy is just
+now it's a little bit more clouded
+because you have non-technical people
+seeing what the possibilities are and
+and playing with it at home in a lot of
+ways, like me.
+>> Yeah.
+>> So.
+>> It got
+>> [clears throat]
+>> It got more tangible.
+>> Yeah.
+>> Right. Whereas engineering has been a
+little bit of a mystery.
+>> Mhm.
+>> I remember when I when I first told um
+the someone that I wanted to be a CIO,
+uh this was the former CIO of Nordstrom.
+He He took me out to lunch, and he said,
+"I want you to really understand I want
+to understand why you want to do this,
+and I want you to understand some
+things." And one of the things he said
+is, "This is a lonely job. Nobody
+understands what you do,
+and everybody needs you.
+And if anything breaks, they're mad at
+you."
+>> Yeah.
+>> So,
+you know, I think with AI, people like
+they they get to see into that box a
+little bit. Like, "Oh, I can see. Look,
+I just, you know, look what I just made,
+and I made my own website in, you know,
+in very little time."
+But it doesn't take away the complexity
+under the under the hood, if you will,
+right? You still need senior engineers
+who know what they're doing and are
+building for the future, not just, you
+know, built putting out some code,
+building on top of it, building on top
+of it, and then you have something
+that's unsustainable.
+>> Yeah, I think you had said something
+that AI is a magnifying glass, not a
+solve-all. And I And that's true. Like,
+I I thought AI was going to cure the
+garbage in, garbage out problem. Like,
+ah, whatever. Just throw it in there.
+It'll make it a clean it all up, right?"
+And I couldn't have been s- Further That
+couldn't be further from the truth. If
+you have garbage in,
+it's going to build on garbage, and it's
+just going to make it exponentially
+worse, as a matter of fact. So, it's I
+see that with messaging and I and
+everything else, and I can't imagine
+what it looks like from an actual
+infrastructure and development
+standpoint.
+>> Well, the other part of that is that
+what AI reveals
+is the dysfunction in the company.
+>> Mhm.
+>> So, if you're you know, you're trying to
+automate a process, and yet it takes 30
+people in a room to make a decision,
+those is it you can't automate that.
+>> Yeah.
+>> Uh um you know, the hoarding of data,
+right? Where data is power, I'm going to
+hold on to it. You lose that power as
+soon as you know, you make that avail-
+data available to everyone else. So,
+that That's part of the reason why I say
+AI reveals your company.
+Because it doesn't it doesn't just come
+in and
+spread some magic pixel dust around it,
+and everything's all of a sudden
+perfect.
+>> Yeah.
+>> As a matter of fact, it it exposes the
+the things about your company faster.
+>> Yeah.
+And I It's the same parallel in a sales
+process. It do It just exposes the the
+process, the bad parts of it. It also
+exposes the bad parts of sales reps,
+because it it it gets it all, you know,
+so many reps are are jumping towards the
+answer, and not like, you know, they're
+putting I say all the time, we've gone
+from a search engine to an answer
+engine, and that's a dangerous thing.
+Because the search engine at least gave
+us a perception of choice, and we had to
+have some critical thinking to read
+through a few articles, and maybe pick
+something that was our source of truth.
+Now, it just gives us the answer.
+And if you're curious, which you
+mentioned a couple of times, which I
+think is the superpower of the future
+here, it is a superpower. Hey, tell me
+more about that. Where'd you learn that?
+I don't know. Give me a different
+perspective here. Source check that,
+please, whatever. But, unfortunately,
+the vast majority of people are just
+lazy, and they're going to take that
+answer, copy, paste it, and go. And I I
+think like all that grind that I did
+over the years and everything else,
+that perspective, that context is so
+critical cuz now that I'm playing with
+it, I call BS on it all the time. I'm
+like,
+"Uh
+I don't think that's right." Oh, oh,
+sorry, John, you're right. And it's
+like, "Wait a minute." Like, you know,
+somebody without the experience would
+just accept that. Sounds good.
+>> Yeah.
+>> And that's the danger I think we're in
+here with with this. Wow, it made it It
+sounds really smart. It looks like it
+did the research, but if I don't have
+the critical thinking, if I don't have
+the curiosity, if I don't have the
+context,
+>> it gets off all the time. I mean, I love
+to say um cite your sources.
+>> Yes.
+>> Then I go, "Oh,
+uh hold on a second."
+>> ChatGPT
+is my source.
+>> Yeah.
+>> [laughter]
+>> But no, even telling even telling um the
+LLM
+>> Oh, yeah. Yeah, oh, that's what I'm
+saying. Like, when you ask a human,
+they'll say, "Cite your sources." It'll
+be like, "Oh, uh ChatGPT." What you
+know, ask ChatGPT to source it. And a
+lot Even when it does, by the way, I'll
+click on a link, it'll 404 will show up.
+I'm like,
+Did you just take the title of this and
+tell me? So, it's
+>> I wanted to make you feel like you got
+good information.
+>> I I mean, it does it does have this
+weird
+uh
+you know, some some Whoever wrote the
+first code in there is there's some
+weird like makes you feel good button in
+there that tries to make us humans feel
+like we're smart. And I don't know if
+it's doing it on purpose or if it's just
+embedded in the code somewhere, but um
+>> [clears throat]
+>> So, let's let's finish up on the book
+here. It comes out June 16th, right? And
+it's called Chief Impact Officer, right?
+>> Right.
+Right.
+>> A,
+why'd you write it?
+Because books are are uh
+an interesting process to go through,
+right? Nobody ever, you know, got Well,
+few people got rich on making books,
+right? Writing books. And they're a
+labor of love in a lot of ways. And
+then, if there was one concept of of the
+book, cuz I read through a few chapters,
+and like hiding there was something one
+in there about hiding that I thought was
+really cool,
+and how it doesn't help you. But, if
+there was one concept that you that you
+could pull out today to to give the
+advice of, you know, CEOs or CIOs making
+decisions in this world, you know, what
+what would that be? So, why did you
+write it first though?
+>> Yeah, I
+I wrote the book
+um
+because people I trusted told me that I
+needed to write a book.
+>> Mhm.
+>> And it planted the seed.
+>> Mhm.
+>> And I first I thought, well, you know,
+what am I going to write a book about?
+And I've got, you know, I got stuff to
+do. I don't have time to write a book.
+>> But, I just started writing. Probably 5
+years ago I started writing down
+stories. And then, I um you know, I
+stood back and I like, what do these
+say?
+It was a really
+uh interesting process to go through and
+like, what do all my stories say? What
+is that through line
+>> Mhm.
+>> that um you know, that communicates the
+things that I believe.
+So, the the byline of the book is real
+transformation requires human, not just
+artificial intelligence.
+>> Mhm.
+>> [clears throat]
+>> And so, it's it's my view on
+transformation
+on a on a human level, on a global
+level, on a company level. And really
+what it takes to influence and to lead.
+So, um if I were something I would say
+for the one-liner that I would say to
+CIOs right now is that
+transformations
+require like, technology is the easy
+part. It's the humans
+uh that you need to lead through it
+and help in that change. So,
+it's um I'm really excited for it to
+come out.
+>> Yeah.
+>> Uh,
+and I called it Chief Impact Officer
+because that's what I desire in the
+world, right? I I want to have impact.
+>> Mhm.
+>> That's what and that's what the book is
+about.
+>> Love it.
+Uh, what's your opti- last question for
+you? I always try to end on an
+optimistic note, especially in this
+crazy world of AI. What is kind of what
+are you most optimistic about,
+specifically related to AI? Because
+there's a lot of doomsday Terminator
+conversations about this thing's going
+to wake up and take over everything.
+Jobs are going to be gone and we can
+leave that to other other conversations.
+But, what what are you most optimistic
+about um, with AI and how it's impacting
+us as a society, as business, and
+everything else?
+>> Yeah.
+I'm teaching a class right now at the
+University of Washington, a master's
+seminar, and it's just so much fun
+>> Yeah.
+>> to be in with the students and to have
+dialogue and conversation. And it's a
+scary time for them, for sure.
+>> Yep.
+That's what it is.
+>> But,
+the human skills,
+like we are still humans
+>> Yep.
+>> that are still controlling the planet.
+And the skills that make us unique,
+right? The
+um,
+the strategic
+thinking, the relationship building, the
+the communities,
+right? Those are the things that are
+still going to exist and actually, you
+know, we get to spend time leading,
+leading where we're going and not be
+victim to it. I think there's so much
+uncertainty right now and so many
+headlines are around the layoffs that
+are from AI. I question how many are
+really from AI or are they pressures
+from these company to
+to cut expenses?
+Um, if you look at how much efficiency
+really is gained by AI right now, it's
+It's not a huge number. Now, is it
+transforming everything? Absolutely,
+yes.
+So,
+how do we transform our, you know,
+ourselves and stay, you know, stay
+relevant? I think it is the human
+things. It's leadership and you know,
+it's understanding what makes our
+companies really special
+and and leaning into that.
+>> Yeah.
+Yeah, I think it's
+if used right, you know, this is this is
+that's why I say for creators right now,
+for people who have ideas, this is
+almost a golden age of of creativity at
+this point because you can build and
+create and do anything. My That's my
+optimism. My My pessimism is for the not
+like the kind of the
+like I don't want to cause any waves.
+Like I'm just doing my job. You know
+what I mean? Like the the people who
+aren't willing to change and and for no
+fault of their own, right? They're just
+either that's their situation in life or
+they just need that job because they
+need to pay bills for whatever reason.
+Like not every That's why I I kind of
+roll my eyes in the Silicon Valley and
+say, "It's all like it's going to be
+great. It's going to be euphoric. All
+these people you're Everybody's going to
+just like No, most people don't They
+just want to have do their job. And and
+so I'm I'm hoping that those creators
+keep that in mind that we're all not
+creators and we have to create for the
+rest of people so that everybody can
+have purpose. Everybody can make a
+difference. Everybody can have that
+impact.
+>> Yeah.
+>> Um because when that happens, then some
+special things can happen for for a lot
+of different uh verticals and reasons
+across the board, so.
+>> Yeah. Yeah.
+>> Awesome. Well, Julie, it's been a
+pleasure talking to you. This is a fun
+conversation. I really appreciate it.
+Where um
+>> Thank you, John. It was fun for me, too.
+>> Yeah, where can people find out more
+about you, about what you're working on,
+and obviously again, the book is going
+to come out on again, what is it? June
+2nd?
+>> June 16th.
+Yeah.
+I'm easy to find on LinkedIn to
+/julieaverill
+and my website goldthreadllc.com.
+both of those quick way to find me.
+Thank you so much.
+>> Fantastic. We'll put that on the show
+notes and all the details and links for
+everybody to check out. So again Julie,
+thank you so much for coming. I
+appreciate it.
+>> Thank you John.
+>> And everybody, I hope you enjoyed the
+conversation as much as I did and like I
+always say at the end of all these
+podcasts,
+go out there and make somebody smile
+today cuz no matter how bad your day is
+going or how bad you think it went, if
+you make somebody smile today, you know
+you had a good day and the world needs a
+lot more of that right now. So thank you
+all very much and I will see you on the
+other side.
+>> [music]
+>> Hey, thanks again for listening to the
+show and for all your support throughout
+the years. This is one last reminder to
+check out my training programs at
+jbarrows.com or leave a five-star review
+on your favorite podcast platform or G2
+if you've already gone through my
+training or sign up for my newsletter.
+Any of those will help ensure I can
+continue to bring you free content and
+great conversations like the ones you
+just heard [music] without having to
+annoy you with sponsors.
+Again, let's make it happen in 2026
+together.

@@ -1,0 +1,214 @@
+Metadata:
+{
+  "expert": "Sam McKenna",
+  "channel_name": "Samantha McKenna - #samsales",
+  "video_id": "1oSzdP5ey30",
+  "title": "Part 8:  The Breakup Email - Samantha McKenna with Salesloft",
+  "video_url": "https://www.youtube.com/watch?v=1oSzdP5ey30",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 198,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+All right, we made it to the end of the
+cadence and the infamous breakup email
+is here.
+Though unfairly criticized because of
+poor breakup [music] emails of the past,
+provided it's done correctly, the
+breakup email is still one of the most
+useful [music] tools you have. If your
+breakup email sounds like a cringey
+comedy routine, anyone remember [music]
+those emails that asked you if you got
+eaten by an alligator? Or if your email
+[music] aggressively calls out your
+buyer for not returning your emails, we
+want to make some adjustments. The
+breakup email is really [music] how you
+close the loop with respect while
+preserving your domain health and
+leaving the buyer [music] thinking that
+the content was helpful even when they
+didn't respond. So, here's the framework
+I want [music] you to use. First, a
+helpful reset. Acknowledge that you've
+sent a few notes, then make [music] the
+lowest friction assumption you possibly
+can make, which is timing. Not that they
+are ignoring you, not that they are
+busy,
+>> [music]
+>> not that they don't care, but timing.
+That one line matters more than you
+think because it does not poke at the
+buyer's behavior. It simply acknowledges
+reality.
+>> [music]
+>> The timing may not be right.
+Second, continue to add value. This is
+where you include a couple of resources
+that match [music] the persona,
+something that helps them do their job
+better. A quick read, a link [music] to
+a resource, or even a newsletter sign up
+link. You do not need to go into the
+level of detail here that you did in the
+previous [music] standalone nurture
+emails. Just tell them why you think
+they might be interested in each one of
+the resources [music] in one sentence
+per resource. Think about two or four
+resources here to leave them with.
+And third, tell them what [music]
+happens next. You, meaning the person
+sending the email, are going to get in
+touch later down the road and if they
+need anything else in the meantime,
+you're here.
+And sign off. Subject line wise, keep it
+simple and useful. Something like a few
+resources you might find helpful.
+Now, let's talk about social touches
+because this is [music] where cadences
+move from a sales reps greatest ally to
+sales reps greatest headache.
+As I mentioned before, [music] there is
+a lot that goes into social selling
+properly, which is well beyond the scope
+of this video [music] series. But what I
+want you to do is shift the focus of the
+social touches away from ones that are
+just checking a box. For example, we
+might tell reps to like or [music]
+comment on a post when that may not in
+fact be useful. Instead, here are two
+strategies I can offer. First, if your
+cadences still have view the buyer's
+profile as a step, [music] I'd recommend
+you remove it and save the rep the
+hassle. Most buyers aren't on the edge
+of their seat, sadly, to see who looked
+at their profile. And in fact, without
+premium LinkedIn [music] subscriptions,
+they'll only be able to see the last
+five people who looked at their profile.
+So, let's say your seller looks at
+[music] 8:00 a.m. and then the buyer
+does check their views, but not until
+5:00 p.m. where [music] 12 other people
+have looked at their profiles. Not
+helpful, right? As for the second tip,
+I'd recommend adding a social touch as
+the fourth [music] touch in your
+cadence. Encourage your rep to send a
+connection request and [music] write
+something that sounds like this.
+Hi Leah, my name might look familiar as
+I've [music] sent a few emails your way.
+I'd be grateful for the chance to tell
+you about how Sam Sales can be of
+support to SalesLoft. If you're ever up
+[music] for a chat, please let me know
+and I'll send a calendar invite along
+accordingly. Not only does this up the
+chances that someone will go back to
+read your emails, [music]
+but the custom note will stand out in
+their connection request inbox amongst
+[music] a sea of blank connection
+requests from other volume game sellers.
+Again,
+>> [music]
+>> if you're a follower of mine or of Sam
+Sales, you'll know that I'm not a big
+advocate of cold calls, but I do accept
+[music] that in some buyer personas,
+calls still work very well.
+And hopefully, [music] after this, so do
+your emails. Now, let's briefly again
+revisit cold calls cuz they may be an
+important part of your cadence. If you
+believe cold calls are effective for
+you, I would again first [music]
+encourage you to examine the data behind
+the volume of calls. Things like how
+many calls does it take to book a
+meeting? What are the [music] percentage
+of calls that are converting to
+meetings? How often do those calls show
+up? How often do those calls reschedule?
+And then [music] look at the pipeline
+volume and velocity from there. If
+you're in an industry where you already
+know that cold calls are effective,
+[music]
+one of the best times to do a cold call
+is right after your first email.
+For any of you who are out there and who
+have already been working the phones,
+[music] you know that most often you're
+spending a lot of the day reaching
+voicemails. This actually isn't a loss.
+Leaving a voicemail that is a pitch is
+unlikely to result in a callback.
+[music] Leaving a voicemail instead that
+points to the first email you just wrote
+can be a great way to bring attention to
+your email and get a response in that
+channel instead of the phone.
+Try a script like this. Hi Katie, this
+is Sam McKenna calling from #samsales. I
+sent you an email titled Where in the
+World Is Carmen Sandiego and Tesla, but
+also wanted to reach out here in case
+the phone is easier. Excited to share
+some ideas about how we can help Tesla
+with this specific value prop.
+Looking forward to talking more. Thanks.
+If you find that more calls are the way
+forward based on your data, then feel
+free to [music] add more calls
+throughout the cadence, making sure that
+you leave no more than two voicemails.
+Your second voicemail should sound
+something like this. Hey Katie, my name
+might sound familiar as I've emailed you
+a few times, [music]
+but this is Sam McKenna again and I'm
+part of the team at #samsales. I would
+so appreciate the opportunity to talk
+with [music] you about how we can help
+with specific value proposition. If
+you'd be up for finding some time to
+chat in the future, [music] let me know.
+A few last thoughts before we wrap up
+the series. First, grammar counts. If
+writing isn't your strength, get a peer
+[music] or a leader to review your
+emails. In fact, this is one of the best
+ways you can use AI to your advantage by
+having it proofread your emails. Second,
+keep building your nurture library.
+Every time marketing [music] ships a new
+asset, turn that into a nurture email
+your reps can actually use. That is how
+you scale and continue to provide
+[music] your reps with valuable
+materials written in the sales force.
+And finally,
+>> [music]
+>> remember the point of the entire
+cadence. You are selling interest in a
+conversation, not trying to sell your
+full [music] product suite over email.
+And if you adopt the same mentality once
+you've booked a meeting, which is to
+help your buyers solve challenges rather
+than simply pitch your products, [music]
+I suspect you'll see a significant
+uptick in your results.

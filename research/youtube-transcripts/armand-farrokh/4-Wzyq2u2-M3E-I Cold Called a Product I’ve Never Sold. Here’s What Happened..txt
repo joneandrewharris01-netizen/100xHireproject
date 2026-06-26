@@ -1,0 +1,603 @@
+Metadata:
+{
+  "expert": "Armand Farrokh",
+  "channel_name": "30 Minutes to President's Club",
+  "video_id": "Wzyq2u2-M3E",
+  "title": "I Cold Called a Product I’ve Never Sold. Here’s What Happened.",
+  "video_url": "https://www.youtube.com/watch?v=Wzyq2u2-M3E",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 587,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+In this envelope is a product I've never
+sold, but you know what? I'm going to
+make cold calls for it. Here's how today
+is going to work. I'm going to get 5
+minutes to build a script on the fly,
+and then I'm going to get five connects
+to see if I can book a meeting. My name
+is Jason Bay. I run Outbound Squad. We
+train sales reps at companies like
+Shopify, Zoom, Gong, Rippling, and more
+on how to land meetings through the
+phone. I'm going to put our training to
+the test today. We're going to see if I
+can land a few meetings, and hopefully
+you get a few techniques that you can
+use to land meetings yourself through
+the phone. All right, it's time to open
+the envelope. Let's see what's inside.
+The Chinese side of me wants to see some
+money in here.
+J Bay from Titan X. Okay, cool. Let's
+go, dude. So, Titan X, I'm actually
+barely familiar with this company.
+Essentially, their value prop is you
+want your reps to make a lot of phone
+calls, and people rarely pick up the
+phone these days. They're going to help
+us find people that have a 25, 30% plus
+pick up rate, which is like six or seven
+times the average. So, uh I get 5
+minutes. The average cold call lasts
+only 80 seconds. So, what I'm thinking
+about is how am I going to make a good
+first impression in the first 30?
+I'm a really big fan of permission-based
+openers, and I really like this idea of
+a reverse pitch. So, this is the
+problems. I don't really know who I'm
+going to be calling yet, but I would
+assume it's going to be a sales leader,
+and probably someone fairly senior. So,
+what I want to leverage in my PBO,
+there's going to be a time ask, and
+there's going to be a social proof ask.
+All right, so your social proof drop,
+rather. Okay, so problems. Let's just
+kind of I call this chunking, chunking
+up, rather. So, essentially what we want
+to do is take the surface level problem
+of prospects don't pick up the phone.
+Um that is not a problem that an
+executive cares about. That is a problem
+that a rep cares about, right? So,
+prospect doesn't pick up the phone,
+can't land meetings,
+wastes a ton of time calling
+people. Okay, so if we were to chunk
+this up, I'm going to assume that I'm
+probably calling a director VP,
+CRO
+of sales, and then probably one of sales
+development, I would assume. To reverse
+engineer what I'm doing, I always think
+about priorities. So, when you sell a
+solution, one of the most common
+mistakes that you can make is not
+aligning to an existing priority. So,
+this is something that's maybe part of
+an OKR for that executive. It could be
+something that they're thinking about on
+a quarterly basis that there's a project
+around and stuff related to pick up
+rates is going to be related to pipeline
+and specifically there's a couple of
+trends. So, AE self-sourcing.
+Um sometimes they call it AE pipe gen.
+I don't know how much research I'm going
+to do on the companies that I reach out
+to, but there's also a moving up market.
+There's also a shifting the outbound
+culture.
+So, it would be shifting from inbound to
+outbound.
+There's a whole narrative there that I
+could talk about. Going to be very
+similar for sales development outside of
+self-sourcing. Okay, so I just like to
+have some talking points. In terms of
+story,
+I think there's an efficiency play here
+where people think about this wrong. So,
+efficiency often times they think about
+reduction
+in head count or taking away things.
+What they don't think about is how to
+increase
+the individual rep efficiency.
+So, how to cut without cutting?
+All right, that's my 5 minutes. So,
+I'm ready to dial. Let's uh
+let's get the list, dude. So, basically
+what I'm going to do is I'm going to
+kind of wing the opener a bit, but to
+kind of share what's on my mind, I I'm
+probably going to do something like uh
+"Hey Araminta, Jason. We work with a lot
+of sales teams that really struggle to
+get prospects to pick up the phone like
+you did just now. I'd love to share more
+about how we're helping companies like
+Vanta and DocuSign fix the cold calling
+problem. Do you got a minute to hear
+me?" And then what I'm going to do is go
+in with a reverse pitch. So, I'm going
+to really dig into the problem
+statement. So, if it's a senior sales
+leader, I'm going to say I you know, we
+work with a ton of senior sales leaders
+that you know, want their AEs to rely
+less on SDRs and marketing for pipeline
+and they need to self-source and they're
+asking them to do prospecting days and
+pick up the phone and dial a ton and
+people just aren't doing that. I'm
+curious, how does that compare to what
+you guys are doing right now? What are
+you seeing? And then I'll probably weave
+in a customer story of some sort around
+how a lot of sales leaders are thinking
+about efficiency and AI and how we're
+helping a lot of them you know, two to
+three X the output per individual rep
+without adding another tool to their
+tech stack. All right, we've got the
+list. Let's uh start the call counter
+and let's get dialing.
+>> Hello, this is
+>> Uh Jason
+with Titan X. I was uh giving you a
+call. It's a cold call. I was uh going
+to talk to you about the cold calling
+problem that we're seeing across sales
+teams with folks like yourself not
+picking up the phone. You got 60 seconds
+to hear me out real quick?
+>> Sure.
+>> Cool. So, we work with, you know, a ton
+of sales leaders, and I'm not sure if
+you're seeing this, but they want their
+team to pick up the phone and do exactly
+what I'm doing right now, but the pick
+up rates are often 3, 4, 5%, and it's
+just really unproductive to use the
+phones, and I'm curious at Are you
+having your reps do any kind of outbound
+at all? What are you What are you
+seeing?
+>> We do like to be totally honest, and
+maybe maybe you hear this all the time.
+We don't like
+I don't really have a connection rate
+problem. We work in insurance. Most of
+our our customers are insurance agents
+who
+like we know and we work with or or know
+of us. So,
+connection rates and callback rates are
+pretty good.
+>> Gotcha.
+I'm curious, are there any Cuz sometimes
+we hear this. Are there any more
+executive type folks or senior leaders
+that you want your reps to be calling
+that are a little bit tougher that
+you know, hey, if you could get in
+contact with them maybe a third of the
+time
+that your reps called, that might be
+worth
+like looking into?
+>> Nah, I honestly I handle most of those.
+>> Yeah.
+>> And my my flow is pretty creative. I
+have good uh
+connection rate on those, too. Well,
+well, Clay magic gets you there pretty
+quick.
+>> Yeah.
+Love Clay.
+>> It was a dude, it was a good cold call,
+though. I was about to hang up, and I
+was like, oh, this is like weird. This
+is a good cold call. So, I For for sales
+karma, I don't hang up on these.
+>> Yeah. I uh I I appreciate that, dude. I
+am I am curious, like what is uh what's
+the connect rate on your cold calls?
+>> Yeah, I mean, dude, even like my
+offshore team has like a 32% connection
+rate.
+>> Holy on the top of funnel. Okay.
+You really don't have a cold call
+problem.
+>> Like we like we wholesale restaurant
+insurance
+to insurance agents. So, we hit them
+with a couple of drips.
+Like tech guy set something up. We're
+like, I don't know. Like if I'm have
+them cold calling an agent in St. Louis
+where I live.
+>> Uh-huh.
+>> Like it'll automatically like scrub some
+cool local restaurants.
+Uh
+find like a popular dish at one and be
+like, "Hey, I like was in your area and
+I ate at this place and had this so it
+was really good." And then they like
+call them the next day and the people
+like, "You've been to St. Louis before?"
+So, we have I feel like we get creative
+about it. I also don't think like
+>> Yeah.
+>> we weren't so nichey and targeted uh we
+probably wouldn't have the connection
+rates we do.
+>> Yeah. If if every sales team could have
+a 32% connection rate
+like we wouldn't have a business.
+You know what I mean? Like that's
+awesome, dude.
+>> If you're selling what you're doing, I'm
+sure you're doing well.
+>> Yeah. No, totally. So, I
+I appreciate the time.
+Sounds like you guys are crushing it
+over there.
+>> Yeah, dude. Well, listen. Kill it and uh
+connect with me on LinkedIn, okay?
+>> Cool. Yep. See you.
+>> Cheers. Bye.
+>> Got the jitters out of the way on that
+one. Guy was super receptive. I kind of
+winged the intro a little bit there.
+From that call, what I want to do is
+really lean into the fact that I am a
+sales person selling a product to sales
+people.
+So, I think I really want to lean into
+um you know, "Hey, it's Jason with
+TitanX. I'm talking to a lot of sales
+leaders that have reps making tons of
+calls exactly like this one, but no one
+picks up. You did. Obviously, I'd like
+to tell you a little bit more about how
+we're helping them. Do you got 60
+seconds for me to talk about cold
+calling?" Yeah, something like that. Uh
+I thought that went really well. So, he
+said I don't have a connect rate problem
+and I pivoted the conversation in in a
+couple ways. One, I wanted to know what
+the connect rate actually was. And And
+two, I wanted to know if they were
+trying to get a hold of executives, cuz
+typically the more senior the buyer, the
+larger the company, the harder they are
+to get a hold of. And these are the
+people that we want our reps engaging
+with. So, I really wanted to see, hey,
+when someone says they don't have a
+problem, that doesn't mean that they
+don't necessarily have a problem. This
+guy's got a 30 seconds of context into
+what we do. So, I really wanted to pivot
+and see if there was a gap there that we
+could possibly attach a reason for a
+meeting to. Okay, so I'm going to make a
+couple quick adjustments to my script
+real quick. Here's what I'm going to
+lean into on this next call. I think I'm
+going to open with something like, um,
+hey, it's Jason with Titan X. I'm giving
+you a call because a lot of sales
+leaders that we speak with want the reps
+to make more cold calls exactly like
+this one, but no one picks up like you
+just did.
+We have some really unique ways that
+we're solving this problem for some of
+the fastest growing sales teams out
+there. Do you got a minute to hear more?
+I'm going to roll with something like
+that. I think that
+in the first initial 30 seconds, what I
+want to convey is that you are
+experiencing the product right now. I
+also want to let them know that we're
+solving this in a unique way. And uh,
+that'll be my kind of permission-based
+opener. Do you got a minute to hear
+more? Something like that.
+Uh, hey, it's Jason with Titan X. I was
+just giving you a call because a lot of
+the sales leaders I talked to you want
+the reps to make cold calls exactly like
+this one, but no one picks up the phone,
+and we have a really unique way that
+we're solving that problem for some
+sales teams right now. Do you got a
+minute to hear more?
+>> No, I'm I'm not interested. I I I know
+Joey, so if I decide I need to do
+something, I'll call him directly. Thank
+you.
+>> Awesome. Cool. Thank you.
+>> All right. Bye.
+>> So, this person already knew the CEO of
+Titan X. Nor did he seem very receptive
+to talking. For me, personally, if
+someone really does not sound like they
+are interested in talking, like at all,
+and it's like a very negative vibe, I
+don't really try to try to do much in
+those situations, so.
+Uh, it's Jason, uh, with Titan X. The
+reason for my call is, you know, I work
+with a lot of sales leaders and founders
+like yourself that want the reps to make
+more calls like this.
+That mother hung up on me. So, where I
+kind of go back and forth on this is
+getting an opt-in real quick, like
+getting a yes within the first 10
+seconds versus just going straight into
+the reason for my call. So, I'm
+wondering if I should open up with
+something a little bit more about them.
+All right, we're three connects down. We
+got two more to go. I'll be pretty happy
+if I land at least one meeting. That'll
+be a 20% conversion rate.
+>> Hi, it's
+>> Uh it's Jason. I noticed you're running
+a sales team over there at that I'm
+assuming is making calls exactly like
+this one to to land meetings with dev
+teams.
+>> Yes, sir.
+>> Awesome. So, the reason I was giving you
+a call, again, my name is Jason
+from Titan X. We work with a lot of
+sales leaders like yourself that want
+their reps making more cold calls like
+this, but no one picks up the phone like
+you did just now. We have a pretty
+unique way that we're solving that
+problem. Do you got maybe 60 seconds I
+could tell you more about it?
+>> Yeah, definitely.
+>> Perfect. By the way, totally random
+question. Are you Do you live in Hawaii?
+I saw that you have a a Hawaii number.
+>> long, long time ago. So, I got a cell
+phone when I was over there. So, that's
+why I still have the number.
+>> Love it. Love it. I was just in Oahu.
+So,
+great, great place. So, yeah, I was I
+was curious. It's a little tough to tell
+on LinkedIn. I was looking at your
+profile, doing some research on
+Do you have like account executives that
+are doing any type of self-sourcing? We
+see that quite a bit with, you know,
+hey, we're reducing reliance on SDRs,
+marketing, etc. Like what what kind of
+outbound are you requiring your AEs?
+>> We have an SDR team that supports us,
+but also the AEs are doing
+self-sourcing. So.
+>> Got it. And a lot of the sales teams
+that that I'm working with, I noticed,
+you know, they're being asked to do like
+cold call blocks, prospecting power
+hours. Like are you guys doing anything
+like that? And what kind of success are
+you guys seeing over the phone? Are you
+seeing connect rate challenges as well?
+>> Some of that, but we're probably not as
+we're we're kind of trying to revamp it
+right now. I I the thing that we would
+we would have dedicated pipe gen
+Wednesdays and different things like
+that.
+>> Yeah.
+>> We were struggling with uh I think the
+actual call blocks. Some reps were
+better at it, but I think we're we're
+going to start to try and do a little
+bit more power hour type thing starting
+in April.
+>> I love that. It's uh I'm all about group
+workout classes, you know, and like you
+got to do the group workout class, you
+know, for the reps. One thing that we
+could talk about because I know with
+those, you know, dedicated pipe gen
+uh power hours, you know, it can be, you
+know, kind of demoralizing when a rep
+maybe makes contact with one prospect,
+you know, in an hour. Um the way Titan X
+works is it's super simple.
+It's a technology the reps don't even
+have to interact with. It just helps
+prioritize, I'm assuming it's is is it
+dev leaders primarily? Like CIOs? Like
+those types of folks that you're trying
+to get a hold of or
+>> Um yeah, I mean different personas,
+directors of devops, VP of engineering.
+>> Yeah.
+>> You know, some some there's some new
+emerging kind of AI personas that we're
+trying to talk to.
+>> Yeah, like literally in my experience
+the hardest buyers, you know, to get a
+hold of especially over the phone. I
+know I'm catching the middle of your day
+here. If I could show you how we're
+helping, you know, sales teams with very
+technical buyers like yourself get a
+hold of, you know, senior prospects with
+a, you know, 25% 30% connect rate over
+the phone, would that be, you know,
+worth 15 20 minutes of your time?
+>> Yeah, possibly. Can you send me a
+breakdown of exactly what you guys do?
+And you have you been reached out to
+>> No, I haven't. Who's
+>> He's our head of our SDR team, and so
+all this kind of tech will go through
+him first. If you send me a breakdown of
+what you do,
+um
+with with me and him copied, it's
+Uh let me sync with him for a minute,
+and if he's if he if he sees value in
+it, too, you'll probably get some time
+with both of us.
+>> Awesome. Cool. So, totally happy to send
+that email. Could we do this?
+>> Probably not going to schedule me and
+you and him me now until until we at
+least go through that first pass cuz
+he's got a couple other things in
+flight, too.
+>> Yeah.
+>> But if he can if you're willing to do
+that, I'm not going to blow you off on
+this one, but
+>> Yeah, totally. So, I'll send that email
+over. If I put a hold maybe on the
+calendar for next Tuesday, let's say,
+sometime in the afternoon, maybe around
+this like same time, and you just cancel
+it if you guys don't like what you see.
+At least that that way we have you on
+the calendar. Would that be cool?
+>> Sure, that works.
+>> I'll get that email over to you.
+Appreciate the time.
+>> Thank you.
+>> Yeah, talk to you soon.
+Cool.
+>> Let's go!
+>> Got it. I don't feel super great about
+how that that ended. I would have loved
+to get like a little bit more of a
+commitment on the time, but I did not
+want to leave that call with without
+telling him that I'm going to send over
+a hold. So, okay, so just quick debrief
+on that one. I'm loving this opener
+with, you know, "Hey, so-and-so, it's
+Jason.
+It looks like you're running a sales
+team over there at" I'm inserting the
+company name. I'm doing something that's
+actually very easy for me to do at
+scale,
+but I'm also showing them within the
+first 20 seconds that I'm reaching out
+to them on purpose. So, it looks like
+you're running a team over there at
+company,
+and I'm assuming they're being asked to
+make calls exactly like this one into
+their buyer persona.
+I pause, get a yes within the first 20
+seconds.
+I give the short pitch. Got a minute to
+hear more.
+And then really where I went in
+and you guys, I sell to this buyer for
+like every day.
+So, I knew that they were probably
+running some sort of prospecting block
+or power hour. I asked him about that.
+He said, "Yeah, you know, we do
+dedicated pipe gen Wednesdays. It's not
+really going that well. It doesn't have
+a lot of momentum." And it's like, "Hey,
+imagine" this is what I should have
+said, "if every rep could connect with
+five, six, seven
+of your senior buyers in those calls,
+how productive would those pipe gen
+Wednesdays look?"
+Cool. Boom. If I can show you how other
+teams are solving this, would that be
+worth your time? Four connects, one
+meeting. Let's see if we can get one
+more meeting.
+>> Hi, if you record your name and reason
+for calling, I'll see if this person is
+available.
+>> Jason
+enablement
+at
+>> Hello, this is
+>> Hi, it's Jason. I I noticed that you're
+leading enablement over there at Is it
+safe for me to assume that you have reps
+making calls exactly like this one into
+facilities and maintenance managers and
+that sort of thing?
+>> I'm not interested in buying anything.
+Take me off your list, okay?
+>> Okay.
+You know what's really funny
+is
+I need to come up with a much wittier
+response when people sales leaders
+especially
+She has a post on LinkedIn that says
+I love sales. I love the energy, the
+pressure, the scoreboard, the
+accountability, but you know what I love
+most? Working with sellers. From brand
+new BDRs learning how to open their
+first cold call. Blah blah blah blah
+blah. It's like such like
+bad karma, I think, to like to not be
+open to like listening to like the first
+30 seconds of a call when someone is
+doing exactly what your reps are asking
+for. So, she wasn't about it. So, we
+ended one for five, 20% conversion rate.
+That meeting that we booked is with a
+really really solid buyer. The ICP fit
+is great. Again, I wish I would have
+secured that meeting just a little
+tighter at the end. Uh but we got we got
+uh one meeting on the books. All right,
+I want to give a quick shout out to
+Titan X. I was able to connect with one
+out of five, let's say 20% connection
+rate because of their tool. It's
+absolutely badass. They're doing a
+special right now where if you buy 5,000
+credits, you get 5,000 for free. So,
+make sure to check that out in the
+description below. Make sure to check
+out the 30 MPC outbound bundle. There's
+a cold calling course that's really
+badass that you can check out and
+there's a cold email course. We
+partnered together with 30 MPC
+to analyze 85 million cold emails,
+what's working right now, what's not
+working, etc. Go check that out. Make
+sure to like, sub, and hit the bell. And
+if you liked this video, I think you'll
+really dig my prospecting masterclass
+which you can check out here.

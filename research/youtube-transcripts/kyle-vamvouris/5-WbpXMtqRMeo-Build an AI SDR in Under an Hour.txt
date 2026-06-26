@@ -1,0 +1,1149 @@
+Metadata:
+{
+  "expert": "Kyle Vamvouris",
+  "channel_name": "Vouris",
+  "video_id": "WbpXMtqRMeo",
+  "title": "Build an AI SDR in Under an Hour",
+  "video_url": "https://www.youtube.com/watch?v=WbpXMtqRMeo",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 1133,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+First, let's walk through a little bit
+about what you're in for.
+Um
+>> [clears throat]
+>> I want to give you an overview of what
+we are building here. So,
+everybody here has leads. Actually, if
+you can That's not how you spell leads.
+If you could type into the chat how many
+sales people do you have at your
+organization? That would be great.
+How many sales people do you have at
+your organization? By the way, the
+recording of this will be available.
+It'll be on salesthread.ai in the learn
+tab, um probably in a couple of days.
+Okay, so Stephen has 17, Chris 1, 3, 1,
+2, 2, 2, 20 to 35. Okay, great. We have
+it all around the spectrum. Okay, well,
+here's what's nice. Even if you don't
+have very many sales people, this is
+going to be very helpful for you to
+understand. If you have a lot of sales
+people, this may already be just a good
+starting place for you to build out an
+AI agent that does this, but you might
+have a big unlock of like, "Oh, there's
+other workflows that we can do." And
+actually, before I talk about the lead
+stuff, let me just explain something to
+you.
+When it comes to using AI,
+I do not think, "Hey, let me give
+everyone a license to ChatGPT, Claude,
+or whatever the current hotness is, and
+just hope that they do it well." That is
+not what I'm thinking of at all. I'm
+thinking in workflows, okay? So,
+how I do this is I go, "What is a
+workflow that we're already doing today
+that I can use AI to make happen
+faster?" So, that's one question to ask
+yourself. And here's the other question
+to ask yourself. What is
+um the What is something that we would
+do a lot more of if we could,
+but we can't because it takes a lot of
+effort, that with AI I can remove the
+effort and then we can do way more of
+it?" So, an example of that would be a
+lot of um
+uh like a lot of folks, they'll sell
+like $30,000 deals. Okay, let's say
+that's the average deal size for you.
+And then you get a million dollar deal
+that comes through and you're like,
+"Holy crap. I'm going to create this
+customized material that I'm going to
+send them in between the meeting. I'm
+going to do whatever I can to try to win
+this deal."
+You can deliver that quality of an
+experience that you would only do for a
+really large deal to every deal. And it
+puts you in a way better position to be
+able to win win that deal, right? These
+are the types of things that I want you
+to think about. And there's a couple of
+things There's a couple of ways to to do
+this, but one of the ways I like to do
+is I like to look at the frequency,
+the vibrational frequency. No, the the
+frequency that a task comes up. And then
+I also like to look at
+the time it takes.
+How long does a task take?
+>> [clears throat]
+>> And how frequent does it come up?
+And what you might find is
+that you have tasks that fit into this
+quadrant here. Where it's like, "Hey, so
+let's for our purposes, lead research
+will be one of those tasks."
+I did not plan that through with the
+size of the text, but you get the idea.
+So, what I recommend is write out all of
+the tasks that you do and you plot them
+based on how long they take you to do
+and how frequently they come up. And
+what ends up happening is you'll you
+might have a task like lead research
+here that comes up fairly frequently
+and takes a decent amount of time when
+you do it. So, when I used to build
+organizations, I just a little bit on my
+background real quick.
+My name is Kavin Moore and I've been
+doing this a long time. I've built over
+87 sales teams. Um,
+I've worked with thousands of sales
+reps. I speak all over the country. I've
+coached hundreds of founders. I've been
+really deep in building and scaling
+early stage companies and I've even
+worked with really large, you know,
+multi
+100 million, billion dollar
+organizations building out their sales
+orgs.
+And what I have found over
+[clears throat] that experience is that
+we have a bunch of things that we expect
+reps to do
+and they don't necessarily do them the
+same way every time or they just don't
+do them well or it's slow so they don't
+do it sometimes and and other times we
+split up the role, right? So you had
+sales people that did the full selling
+and then we split that role into SDRs
+and AEs and then some folks have even
+split up the SDR role to have a lead
+research team that does lead research.
+Actually comment if you have a person
+whose only role it is is to research
+leads. Just type in yes if that's you.
+Um this isn't this is not uncommon but I
+wouldn't be surprised if no one here has
+it. Um where the person's role and I've
+hired these before is just to do lead
+research, make sure it's all cleaned up
+in the in the CRM. Some folks are
+somewhat having a revenue operations do
+this without the manual research
+component but lead research is a task
+that comes up. Sometimes we expect our
+sales reps to do it, sometimes you're at
+such a scale where it makes sense to
+break that up. Uh so nobody in here um
+in here uh does it. How do I get that
+research job? You might not want it
+Michelle. It's uh unless you just love
+Googling companies. Um okay, so lead
+research.
+And then that's what we're talking about
+today. So I just want to first give you
+the context of like, hey, write out all
+of the tasks that you expect reps to do.
+Those tasks have a workflow in order to
+get them completed which is what I'm
+going to break down here in a minute.
+And figure out where it lands. Is it low
+time, high frequency, medium time, high
+high frequency, low frequency, however
+it comes up here, wherever it falls and
+then map out the workflow. So let's talk
+about leads real quick. When you're
+doing lead research, generally a lead
+comes in, right? And then there's a very
+very important component of this which
+is
+does it fit our ICP?
+Our ideal customer profile, right? And
+two outcomes of this
+and this is not going to be very um
+uh groundbreaking. You're going to
+predict what they are right now. Two
+outcomes of this, either yes they do,
+which in that case,
+you want to identify signals, which are
+reasons to reach out,
+or no,
+they don't. And if that's the case, we
+want to remove them from the list, okay?
+And the reason why I think it's
+important for you to understand this
+workflow is cuz we need to figure out
+where AI can help within this workflow.
+I chose lead research cuz it's something
+that will improve everybody's sales
+efforts. Having more information on a
+lead is useful. Um it's very easy to
+plug in and get AI to do a lot of the
+the task. So, what we would do is we
+would hire out a lead researcher. Leads
+would come in, however that happens for
+them. They might be inbound leads, they
+might be leads from a list buy, whatever
+it is. They would go through and they
+would say, "Hey, is this part of our
+ideal customer profile?" And if not,
+they would make sure that that lead
+never got routed to a salesperson. And
+if it was, this is no.
+And if it was, which is yes here,
+they would do research to figure out,
+"Are there any signals?"
+And based on those signals,
+and sometimes whether they found them or
+not, just depends on your process, but
+you would
+find the signals, and then outreach
+would begin. And that outreach might be
+a marketing campaign, [clears throat]
+it might be um
+uh sending to our SDR or an AE, whatever
+it might be for you.
+Okay. So, this is the workflow of doing
+lead research under the example I'm
+giving you. Now, here's the beauty.
+Whatever your workflow is, you build it
+out, and you have AI do parts of it, and
+that's what I'm going to be showing you
+today. In order to show that, first I
+want to give you the structure of the AI
+agent, and you could call this an AI
+automation, you can call it an AI agent,
+whatever you want to call it, I don't
+care. Um I'm just going to use the term
+AI agent because I think it basically
+falls under that category. Um okay.
+>> [clears throat]
+>> Let's go into make.com. Actually, can
+you comment Are you Yes or no, have you
+used make.com?
+Yes or no. If you've never heard of it
+before,
+feel free to say, "What are you talking
+about, you lunatic?" That's also
+appropriate.
+Let's just get a couple yes or nos here.
+Okay, no, per- perfect. Okay, people
+have not used it. Okay, think of this as
+Zapier, except a little bit more
+AI-friendly. And by the way, you can do
+all this stuff in Zapier, but that's
+where they first blew up. Okay, cool. We
+have one person who's used it.
+Great. So, what you're looking at here
+is a really simple automation. And as
+well as well as my commitment to you,
+right, to make this as simple as
+possible. There's a bunch of stuff in
+spreadsheets here that are important.
+I'm going to walk through uh the
+spreadsheet in a minute. And then, we
+send things to AI. Okay? In this case,
+we have um a prompt that is going to
+review the website of the company
+and determine if it's a clear match
+to the ICP, ideal customer profile, if
+it's a possible match, or if it's not a
+fit at all. And then it's going to
+return a response.
+Okay? Now, a big part of this is the
+criteria, which is sits right here, of
+what an ICP is. Guess what? You do not
+need to edit this in the prompt. This is
+going to be dynamic based on the sheet
+that I'm going to show you in a minute.
+Okay, again, I'm giving you the
+overview.
+I have step-by-step instructions I will
+also give you to be able to copy and
+paste all of this stuff over, but I made
+it as copy and pasteable as possible.
+Okay, so that's the first step here. So,
+this little node,
+this is just researching the website of
+the company to determine if it's fits
+your ideal customer profile.
+Then we do some technical stuff
+that everybody loves. And then the next
+thing is researching signals.
+So, what we have here are a set of
+signals that you're going to select in
+the spreadsheet. Again, it's all built
+out on the spreadsheet. I'm going to
+walk you through in a minute. You select
+those those signals and it's going to
+search for those signals. Super simple,
+okay? Then we do some more technical
+stuff, something else here with updating
+the Google Sheet, and then finally we
+are writing a cold email to this person.
+Now, I'm going to pause here. Everyone
+likes
+different stuff.
+I made a really simple prompt to write
+cold emails. I'm not telling you this is
+the greatest cold email prompt. It
+writes pretty good cold emails, I think.
+I'm not the biggest fan of cold email
+right now in general, but for some
+people it works really well. Whatever
+you're doing that works,
+do that. So, if you have a cold email
+structure that works well, update this
+prompt
+to make sure that it is writing cold
+emails that fit your structure.
+If you have certain signals that you
+want or there's a specific way for it to
+look for a signal that isn't default
+here, you're going to build that in. And
+luckily, it's going to be pretty simple
+for you to do that because
+with everything I've given you, you
+could literally just copy and paste
+stuff into any AI tool and just say
+like, "Hey, how would I add this to it?"
+And it'll give you step-by-steps on how
+to do it. You don't even need to ask me,
+which is wonderful for me.
+So, anyway, you can customize all of
+these in any way that you want, okay?
+Same with this. If you want to make it a
+little bit more robust on how it rates
+the ICP, you can do that.
+Okay. So, that's the back end here.
+Fairly simple structure of the back end
+and what's nice is this all you have to
+do is copy and paste it into make.com
+and it will build this whole thing out
+for you and all you need to do is make
+sure that you connect your own AI
+In my case, I'm using Gemini here,
+especially for this kind of task. I
+think Gemini's probably the best, but
+you can use any one that you want. You
+just need to make a couple of tweaks to
+it. Again, you can ask AI how to do
+certain things cuz this stuff is all
+readily available on the internet.
+Now, I want to show you the spreadsheet
+itself.
+So, this is the tool that I built for
+you. This is kind of the
+home base that stores everything.
+And what you do is you write in your
+ideal customer profile. So, for the
+example we have here today, a good fit
+company is a B2B business that has a
+dedicated sales team, not a founder
+doing all the selling themselves. The
+website should mention sales reps,
+account executives, SDRs, or a sales org
+of some kind. They sell a real product
+or service,
+SaaS, tech, or physical product, not an
+agency, consultancy, or freelance
+operations, blah blah blah blah blah,
+okay? And this is not my actual ICP.
+This is just one that I put together for
+this.
+Um recent funding announcement. Uh this
+is for signals to look for. So, you type
+you can type in what signals you want um
+them to look for. That's more of an
+overview of the signals that you want.
+This is not being used by AI. It's just
+in here so you can have a sense of like
+what those look like for you. And I
+wanted to give you one field here in
+case you wanted to use signals this way,
+but checkboxes is primarily how you're
+using this. These checkboxes are all the
+basic signals uh that I would expect.
+Uh you can see here recent funding
+announcement, UVP of sales, open job
+posting, whatever it is, okay? These are
+all signals for me. This is your name
+and then what you offer, okay? I can
+even actually change this to my name.
+Kent is on my team. Uh he works for
+Sales Thread and he built this out.
+>> [snorts]
+>> Uh okay, your name here, boom. And then
+what you offer.
+This is what we offer, okay? This is
+Sales Thread here.
+Now,
+one to three sentences is a limit to
+this. Your job, when you build this out
+yourself, is to put all of this
+information in here. Again, you can skip
+this part, but I think it's nice to have
+a little overview of what stuff you're
+looking for. And then these changes you
+can make yourself. You have to check the
+boxes of the ones that you want.
+All right. Now, let's go to the leads.
+So, as you can see, here this is where
+you'll see the leads that you can put in
+and that and queue for research. That's
+what this is doing. So, right here it
+has what their company does.
+Everything from here on is done by the
+AI. All you're doing
+is providing first name, last name,
+title, company website, Chad, boom boom
+boom boom, company website, right? And
+I've put one here.
+Oops.
+I'm going to their company. Uh I put one
+here for our testing that I'm going to
+I'm going to trigger right now uh and
+then I'm going to walk through what the
+AI actually does.
+So, right here we have a lead. You'll
+notice this lead
+is marked as ready.
+When it's in progress, it gets marked as
+in progress, and when it's done, it gets
+marked as done, as you can see here. So,
+I'm going to trigger this. I'm going to
+show you how to do it. You copy and
+paste all of your leads in this section
+here. Again, you totally customize this
+any way you want. Add more details if
+you'd like. And all you do is you click
+run once.
+You can trigger this to happen
+automatically.
+Um or you can go manually trigger it
+yourself like I'm just doing. And as you
+can see, this got moved to in progress.
+So, this lead's being processed right
+now. What is it being processed for?
+Well, we're getting an understanding of
+what their company does.
+We are marking if it fits our ICP. One,
+remember, fits. Two is somewhat fits.
+Three is it doesn't really fit.
+Mhm. And then it'll give you
+Let me zoom up. The reason for the fit.
+And also a count of signals. How many
+signals did it find?
+And then gives you a score
+betw- based on the signals and how good
+of a fit, a one to five score, five
+being the best, of how
+good of a fit this lead is based on the
+fit that it's scoring one to three, one
+being good fit, two somewhat, three not
+a fit, and then how many signals we
+have.
+It'll score this
+and then
+it'll write the cold email.
+Right here.
+With the recent news about home business
+run by
+and then I didn't I I don't put this
+here. You can the AI's not doing this.
+This is where the email goes. If you
+want to put the email address and I
+didn't really do that cuz I didn't think
+it was necessary. Also, I don't want to
+like show the person's email.
+Um okay. So then it writes the cold
+email. I like really short cold emails
+by the way. So this is one that I would
+like.
+Um so you can see all of this is
+happening. Now, let's go back to our
+automation.
+You can see it's still going on. It just
+finished actually right there, right?
+You saw that just trigger. So now that
+thing's completely done. So here's the
+lead.
+It says what it does. This one's not a
+fit.
+It explains why.
+Or sorry, it is a fit. Sorry, one is is
+it is a fit. It explains why it is a
+fit.
+It tells you which signals it found. It
+scores it in this case a four, marks it
+done, and writes an email that I can
+send. Or I can have automatically sent.
+That is the lead research agent. All you
+do is you load it up with a bunch of
+leads that you want.
+And then you go here and you click run
+once. Now, I am going to First of all,
+let me get a little touch point with
+everybody here.
+Any
+um
+uh how are you liking this so far? Is
+this helpful? Am I explaining this clear
+enough? Are you with me? Um have I
+completely lost you? Have your eyes
+glazed over? I try to make this as
+simple as possible. Um
+>> [clears throat]
+>> Okay. So uh while you're you're doing
+that, I just want to touch a little bit
+more on this. The reason it's built this
+way with the spreadsheet and with this
+is I wanted to have a simple way for you
+to build your own agent
+or make a little tweak to this to have
+something totally customized
+for you. Like I I I you to actually use
+this if this is useful for you. But,
+beyond that, I want to take you through
+the process of building your own agent,
+so you'll start to figure out how you
+can be using AI to get real work done.
+Cuz AI is fine,
+but I don't know about you, sometimes it
+feels like
+I'm just getting inundated with all of
+this material. It's like how I need it
+like people are sending me 50-page
+documents that are all made by Claude.
+I'm like, "Dude, this could have been a
+really short email." Um [snorts] so, I
+what what I want here is I want to give
+you the tools to be able to create your
+own AI agents to, like I said, get
+actual work done. That's the goal. Now,
+this is module. So, it looks like most
+people are saying good here. Okay,
+great. I'm glad we're on on the right
+track. And then we're going to go to Q&A
+in a few minutes here. Um and I'm going
+to show you the guide and then give you
+the guide. I'll I'll give you the guide
+and and the Q&A will be in a few
+minutes. I just want to wrap up this,
+show you one more thing, and then we'll
+jump to Q&A, and I'll give you the
+guide. Uh
+>> [snorts]
+>> okay. So, why did I build it out this
+way? One is what I just described, but
+the other reason, which is a really
+important one, is it serves as a good
+foundation that you can plug things
+into. You can automatically populate
+leads into the spreadsheet. You can also
+replace the spreadsheet for your CRM.
+You can replace the spreadsheet with
+Airtable.
+You can have this kind of workflow
+happen from any starting point, which is
+why I like it. You can go to make.com,
+pick your starting point, and then do
+and build it that way. So, you can
+automate the entire workflow. I built it
+manual for you as a starting point,
+right? To just get you get get your
+gears turning a little bit. Well, can we
+automatically populate the spreadsheet?
+And then you might go, "Can we just do
+this whenever a lead gets entered into
+the CRM that has a certain status or
+something?" You can do that, too. Also,
+can I just send these emails to
+instantly and have them go out
+automatically? Yeah, you can.
+And you can build that out.
+Um you can do a lot here.
+Can we create different email copy? Can
+this be marketing email? Can these be
+text messages? Yes, yes, yes, yes, and
+yes.
+It's nice to have a good baseline of
+building your first workflow to
+understand how these things kind of work
+and connect and then go how do I bake
+these in? And I think there's a gap
+between people who use AI a lot. There's
+There's like the people who use AI a lot
+in the
+in the chat interface where they're
+going back and forth with Claude or
+ChatGPT or whatever. And then there's
+people who build out workflows that are
+business-centered workflows. And this is
+actually going to transition me into
+something that I think is really
+important. When I say business-centered
+centric workflows, what I mean is as a
+company, as a department, like take the
+sales department for example.
+As a sales department, we have a lot of
+stuff that goes on, right? There's a lot
+of things that we that that we do.
+And
+so much of it becomes tribal knowledge.
+Where as sales people we learn like oh
+this kind of works in this situation,
+this works in this other situation, and
+we build this tribal knowledge and it
+leaves when the sales rep leaves. So
+what do we do? A company of a certain
+size, actually if you could comment
+here, comment if you have a sales
+operations team and or a sales
+enablement team. Just say like yes to
+both or which which one that you have.
+And I'm asking [clears throat] this
+because this is what happens as you as
+you grow, right? So what happens is you
+hire your first sales rep and you're
+trying to get all of your tribal
+knowledge into that person. You're like
+please download my brain. And then you
+kind of get them up to speed a little
+bit and you're like all right, this
+person is working pretty well, they're
+starting to figure it out, and then it
+starts getting built built a little bit
+more a little bit more. You hire another
+person doesn't really translate very
+well. Then you hire another person and
+you're like okay, that translated good
+with this person person. At a certain
+point a company gets to a size
+where they're like okay, we need to
+systematize our best practices. We need
+to build stronger playbooks. We need to
+have a sales operations that kind of are
+the glue that make sure that all of the
+processes are being followed and that
+kind of thing.
+And when you're building that, I don't
+need to keep sharing here, but I'm going
+to come back to this in a minute. Um and
+when you are going through that process,
+you go, all right, well, let's start
+really building out a sales process. You
+hire sales enablement, you hire revenue
+operations. It doesn't look like anybody
+here has those departments, but that's
+what happens as you scale. You hire
+humans to help make sure that we're
+keeping up with the best practices.
+Well, what AI gives you the ability to
+do is it gives you the ability to own
+that best practice.
+Because it no longer has to live in the
+head of the sales people. We can take it
+out of the head of the sales people and
+we can put it into a company brain. So,
+let me walk you through a little bit
+about what um
+about this concept of this company
+brain.
+Um
+and really the way that I think about
+this is what if your company could
+remember everything it's ever learned
+about selling?
+Very, very important cuz here's what's
+interesting about sales. We have sales
+calls with prospects, right? We have all
+of these sales calls. And a lot of
+things come up. Like I was saying, we
+calibrate sales people. And by the way,
+half of what a sales person knows who
+works for you, half of what they know
+about how to sell your product or
+service is conscious and the other half
+is just unconscious. They just calibrate
+it cuz they're, you know, emotionally
+intelligent people and they kind of
+figure things out. Um well, things are
+happening on calls. Objections are
+coming up. Our reps are responding to
+the objections. They're having deep
+discovery with folks. They're
+quantifying their pain points. All of
+these things come up on these calls.
+And one of the things at Sales Right
+that we're really focused on is
+extracting
+everything that happens on a sales call
+and putting that on the deal level. And
+here's why that's important. I want you
+guys to be thinking about this. Uh this
+directly relates to how you end up
+building AI agents. You'll see how this
+all comes together in a minute.
+Um you have the deals, right? So, all
+these things are happening on calls. You
+extract the best practices on the calls.
+Like, how should we respond to this
+objection? What seemed to work? What
+seemed to not work? That kind of stuff.
+And what's nice about sales is there's a
+clear one or lost
+for every single deal.
+We either won the deal or we lost the
+deal.
+So, all of these things you extract from
+the calls that live in the deal level,
+ultimately we get to a place where that
+deal is either closed one or closed
+lost.
+And that allows us to find patterns.
+Hey, when we encounter this kind of
+objection, if we overcome it like this,
+it seems to work and lead us to winning.
+Hey, when we do deeper discovery, it
+seems that we're more likely to win a
+deal.
+Hey, when a customer
+um
+has budget established and the sales rep
+did a good job uncovering the budget and
+the timeline, we're more likely to win a
+deal. We identify these patterns. They
+could look like having over four
+stakeholders involved in a deal
+increases the chance of it closing by
+80%. Manufacturing vertical deals go
+better when IT is brought in early. When
+mid mid-level managers are brought into
+a demo, we need to position the product
+from their perspective as well. These
+are patterns that show you, "Hey, we are
+more likely to win it win when we do
+this and less likely to win when we do
+that." Right? These are the best
+practices that you used to build an
+enablement team around to capture and
+then roll out to other people. Um a big
+thing that we're building, the vision
+that we have, is taking all of these
+patterns and building it into a company
+brain. I call this the sales execution
+memory layer. Some of this memory, these
+best practices, are deal specific. Hey,
+for this deal we have to do this thing.
+In this vertical we have to do this
+thing. Some of them are rep oriented,
+right? Like, "Oh, there's a certain way
+they like things structured. They like
+they like sending emails like this. They
+like doing these types of things." At a
+certain point, it probably gets bumped
+up to a company level best practice.
+Hey, we just know like I'll give you a
+real example. We had a customer of ours
+where if you looked at all of their
+deals,
+close one deals, had double the amount
+of objections per deal than close lost
+deals.
+And funny enough, the close lost deals
+um or excuse me, the close won deals had
+a higher um
+res- uh percent chance of or not percent
+chance, sorry. The average rep handling
+of an objection
+was higher. So, not only did close won
+deals get more objections, they were
+also objections that got handled better.
+But, then it gets even more interesting.
+If you look at the per rep we do all of
+this in Sales Thread. If you look at it
+per rep, what you find is that their top
+performing sales reps have the highest
+concern surfacing. So, they surface
+cons- concerns out of the prospects
+more, which gets more objections out on
+the table, which gives them the
+opportunity to handle those objections
+well, which results in more deals
+closing. So, all of a sudden the focus
+for the team becomes, "Hey, how do we
+make sure all of our sales reps are
+surfacing concerns from the prospect?"
+And we can see these patterns. And we
+used to have to do this by listening to
+a bunch of calls. So, if anyone's a
+sales manager here, you know, like I
+would have to uh listen to so many sales
+calls
+in order to understand some of these
+patterns. And sometimes you just listen
+to one and you're like, "Okay, I'm you
+know, I'm just going to say that the rep
+probably struggles in this area." We're
+not quite sure. Sometimes our instincts
+are good there, sometimes they're not.
+The idea here is let's just get 100%
+coverage of AI analyzing every single
+call that our sales rep does, pulling
+out the best practices,
+and then figuring out what seems to be
+more correlated to close won, what's
+more correlated to close lost. So, that
+way we have this company brain that not
+only can we use when we're onboarding
+new reps or when we're working with with
+existing reps so that it's more clear to
+them what the best practices are, but
+also we can use with AI agents. And
+that's what I want to tie this back into
+here.
+As you have a workflow that works for
+you, this is an example one that I've
+built out. I'm going to give you the
+guide in a minute. But, we have this
+workflow here that's built for you.
+Right?
+As this gets better and you start
+understanding your workflow flow more,
+the next step becomes building this
+company brain. And Sales Thread is
+building this for the sales department,
+the sales execution memory layer, the
+brain of how you sell. And as that
+builds up over time, you plug agents
+into it. So, we have a suite of AI
+agents that we built on top of the Sales
+Thread's brain to be able to do work
+alongside the sales reps. This is today
+how it works. The vision is you can plug
+in any agentic system into your brain
+because you can use that information to
+do work. And I'm trying to show you,
+"Hey, this is how we use AI to do work."
+Sure, we can all just chat in threads
+back and forth, but once you start
+building out workflows, once you start
+extracting best practices, that's when
+things get really, really interesting.
+Okay, so I'm going to transition here.
+If you want to learn more about Sales
+Thread, what I'm going to do is I'm
+going to throw a meeting
+link
+in the chat here. No pressure, this is a
+very low-pressure sale, by the way.
+You'll talk to me personally. I'll also
+I I have a bunch of courses that I give
+you
+for four booking a meeting. So, if you'd
+like to book a meeting, here it is.
+Go ahead and click that link. I'll walk
+you through
+parts of Sales Thread, but mostly I want
+to learn how you guys are selling now
+and see if it's a good time for you even
+to be building a company brain. This is
+very like AI forward-thinking.
+A lot of the benefits you get from it
+now is coaching, like you can get a
+really good sense of where a rep is
+struggling, where the rep is good, and
+you can track their improvements in
+certain things that you could only track
+before by listening to calls. Like,
+that's it's killer for that kind of
+stuff. Also, for forecasting, it's
+killer today because you have a good
+sense of how likely a deal is to close
+because we have a sense of how this deal
+is going across all of the sales calls.
+If you'd like a walk through that, book
+a calendar link there. The last thing
+I'm going to show you here, and I'll
+give you the link to this, and then
+we'll jump into Q&A. This is a guide we
+put together for you,
+which is um um about how to build this
+out. You can follow this guide. It's
+written in words and everyone here
+reads, that's great.
+But you can also copy and paste this
+into AI and it'll give it to you
+step-by-step. If you have any questions
+around it, uh you can email me, but it's
+probably better just to ask AI. Um you
+can do this with a free make.com
+account, and you can use There's like a
+free like testing API key you can use. I
+think you get a certain amount of usage
+every day, or you just going to pay
+pennies. Like we're talking nothing to
+do each one of these. Uh start with a
+few, right? And but build this out. You
+You have the download for the JSON file,
+this thing here. Oops. Where is that?
+This thing here
+um is literally you copy and paste this.
+Let me make sure. Yeah, yeah. You copy
+and paste this into make.com and it just
+builds this whole thing out for you, and
+then you just have to change some of the
+connectors. We made it as simple as
+possible. I'm going to change this link
+cuz I'd rather this be
+the actual document. Okay. So, let me
+grab this. I'm going to give this to you
+as well.
+And then we're going to jump right into
+Q&A.
+Cool. And if you can't just make sure
+you can open and everything is working
+out. Oh, Danny RC. I see an anonymous
+pumpkin in here, so we should be okay.
+Um all right, let's go to the Q&A here.
+Let's go back to me. Too too too too.
+And I'm just going to go from the top.
+By the way, it doesn't have to be AI
+related. It's great if it is. It can
+also be sales related. I'm happy to
+answer any questions that come through.
+Um
+What are you using to make this chart?
+Oh, that's Excalidraw.
+Um something to know about me is I'm
+like not the most organized person on
+the planet. Um and what's nice about
+Excalidraw is I can literally just open
+a new tab and just start a new little
+mind map thing very quickly. Uh [snorts]
+so, I like it a lot.
+Okay, let's see. Too too too too.
+Right now I haven't used it. Yeah, a A
+of people haven't used um
+uh
+make.com. It's interesting.
+Can this be given access through login
+or API to services we use to research
+companies? Uh
+is it Jay or is it Kent?
+Jay Kent.
+Tell me what services you're referring
+to specifically. Anything with an API
+can be plugged in. And that's another
+thing, too. One of the Here's a little
+AI tip that you might like. Um one of
+the things I tell people to do is
+whenever they are using AI to get to a
+certain output, whether it be an email
+or like a
+like a promotional email that you want
+to send or something like this, just ask
+at the very end like, "Hey,
+what would it take to get an AI agent to
+finish this task for me?" And actually
+like publish this email or whatever. And
+through APIs, you can probably build
+something out. So, anyway, depends on
+what you're using for research.
+Um [snorts]
+all right. Do any of the sales in a
+engagement tools like SalesLoft include
+this type of workflow already or will
+this be additive to their tools? I don't
+know, actually. I haven't checked out
+SalesLoft in a long time. Um
+and even like I haven't had that many
+cust like clients on the I used to run a
+consulting company of for a while. I've
+I've shut almost completely shut that
+business down. It's uh
+I have a couple of prior clients that I
+keep. So, and none of them currently use
+SalesLoft, so I'm not sure. Uh this
+could be a um additive. The SalesLoft,
+from what I understand, has an API, so
+you could trigger this whenever
+something happens in in SalesLoft. That
+might be worth doing.
+Um
+do do do
+Also, any feedback would be great. Like,
+was this helpful for everybody? I would
+just love a little "Hey, this was
+helpful or not helpful. Do you want more
+of this type of stuff?" Uh we have every
+week we're doing a live class. Um
+I forget what we're doing next week. I
+think I'm doing something with Sell
+Better next week. The week after that
+I'm doing AI sales coaching. That'll be
+a killer one. I have a really cool
+framework I'm teaching for that. You can
+see them all on salesthread. um
+AI.
+Uh
+Oh, cool. Anthony, I'm looking forward
+to chatting with you. Anthony booked a
+meeting. Smart man. Um you creating with
+N8N. Oh, okay. So, actually this is a
+good point. You can use N8N to do this
+stuff, too. We don't like our uh sales
+thread I have a developer. We build
+everything out ourselves. We used to use
+N8N on the back end cuz you can locally
+host it for free.
+Um but we ended up building our own
+connectors for everything.
+Uh but you can do this with N8N. And you
+can do this with Zapier, too. Um Sylvie,
+I'm looking forward to talking to you.
+This could be fun. Um do do do Sales off
+equal dinosaur spam cannon. Interesting.
+Uh love the fundamentals. It's helpful.
+Okay, great.
+So, sign up for the Oh, for the classes.
+Yeah, let's go over the classes real
+quick. Uh then I'll answer this other
+question. If you have questions, just um
+let me know. So, salesthread.ai if you
+want to learn actually a couple of hacks
+about salesthread.data.ai.
+This calculator growth system course is
+killer. I highly recommend I used to
+sell this for 5 grand and then I stopped
+doing that and stopped using it. Um it's
+free on the website. It's nuts. It's 6
+and 1/2 hours of me walking through all
+of our methodology to building out sales
+organizations. It's really good. Um
+that's not what you asked for, but I'm
+just showing it cuz it is killer. Um
+right here. So,
+here's uh some of the classes that we
+have coming up. So, this one
+Oh, wait. No, these are the recordings.
+Oh, oh, duh. Live classes. It's it's has
+its own tab because it's a very
+important part of what I do. So, uh deal
+sales coaching system. That's the one
+that's coming up uh May 14th here. And
+then I'm doing one with sale sell
+better. But anyway, you get the idea.
+So, they're all right here.
+salesthread.ai/liveclasses.
+I need to make some tweaks to this
+website. Oh, am I not sharing anything?
+My bad. My bad.
+Boom. Beauty.
+Um okay, sorry. The uh this is where the
+classes are. It's
+salesthread.ai/liveclasses.
+Sign up for whichever ones you want. I
+do them every week. Uh next week I'm
+doing one with Sales Better. It's not on
+here, but it's um
+uh I should just grab the link to it.
+I'll grab the link to it in a minute.
+Calculated Growth System. This course,
+it's 6 and 1/2 hours of content of me
+walking through methodology our
+methodology for building
+uh sales organizations. I'm very
+data-driven and nerdy about building
+sales teams by the way, so I cover a lot
+of that in here. Highly recommend this.
+It's also free. Uh it's really really
+good.
+Uh okay, and then you want to see a
+little bit about the platform. Uh one
+thing I will mention on the website if
+you guys are curious about Sales Hacker,
+you can watch a demo by opting in here
+if you want to see a demo first. It's a
+little bit of a dated demo um and very
+much Sales Hacker on the surface is
+about these AI agents. So, this is our
+little suite of AI agents. I'm Greek and
+if I don't add Greek mythology into
+my stuff, then my ancestors hate me.
+>> [laughter]
+>> So, there are these little Greek AI
+agents that help sales reps do work.
+It's very oriented towards that. The
+foundation of that is this this company
+brain. It's just most people aren't like
+plugged into AI enough to know how
+important this is, so I talk mostly with
+Sales Hacker about the AI agents that
+work alongside sales reps. Anyways, so
+you can check that out there. You can
+watch a demo if you want to um or you
+can just book a book a call with me.
+I'll throw that link in there.
+>> [snorts]
+>> And I think I saw another question come
+through, so let me answer that. But
+here's the link if you guys want to book
+a meeting and see.
+Okay, yes.
+Oh oh, I need to post. Yeah, let me um
+on the link on LinkedIn I need to post
+this stuff. So, give me 1 second here.
+Okay, cool. Looks like everybody is um
+getting what they need to get.
+Um [clears throat] oh, I'm glad somebody
+studied Greek here. That's great. I
+actually have a good friend of mine who
+like studied the classics and um
+him and I always have really good
+conversations. He honestly owns me a
+lot, too. Uh okay, LinkedIn. Let me send
+you the link to the guide. and if you
+have any questions, we're winding down
+here. So, if I don't get any other
+questions after I share this guide in to
+LinkedIn, then I will exit stage right.
+And it again, it can be about doesn't
+have to be about
+So, I got to like talking about that,
+too.
+Here's the guide.
+And then, I'll also
+plug my little demo.
+Okay, cool.
+Good, good, good. I think we're in good
+shape. Let's see if I have any other
+questions here. No. All right, well, I'm
+glad this was helpful. I will be doing a
+lot more content like this in in the
+future. If there any questions you have
+around AI, never hesitate to reach out.
+Look, there's a lot you can do it on
+Thursday. You're spending it with me. I
+really appreciate that. Thank you so
+much, and I will talk to you all soon.
+Bye.

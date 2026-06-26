@@ -1,0 +1,110 @@
+Metadata:
+{
+  "expert": "Collin Stewart",
+  "channel_name": "Predictable Revenue",
+  "video_id": "PoMWVC7a67I",
+  "title": "Understanding PMF in Data Security | Predictable Revenue Founder Tips",
+  "video_url": "https://www.youtube.com/watch?v=PoMWVC7a67I",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 94,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+Describe the moment when you realized
+you might have product market fit.
+>> Um I would say that that's um that start
+to see when when you start to close the
+first deals and you see why really the
+customers why they really buy. And again
+by the way there are different segments
+of customers and the reason the why
+might be different to different
+segments, right? Depends on the product.
+Think about the when you somebody when
+Microsoft is selling Excel, there's the
+very very different why if you are a
+financial analyst versus someone
+completely different, right? Same tool.
+And for us, right? We knew from day one
+that we were the building a a data
+security platform. We're not building it
+tool for a very specific attack vector.
+Nothing bad in that, but that's not what
+we what we're doing because part of what
+we believed that AI is going to touch
+data in so many different ways. And
+again, one of the I would say second
+chronic disease in the space, maybe in
+general in cyber not just data security,
+is you don't solve one problem, you need
+so many different tools. It just kind of
+feels unattainable, right? Not
+budget-wise, not attention-wise, et
+cetera.
+And it's true for the data data security
+space as well. But beyond that, we
+believe that AI is going to touch data
+in so many different ways. Input from
+the user, output to the user,
+third-party system, reading data
+repositories. Now, talking to MC P
+servers, right? So it's kind of like a
+four-directional type of communication
+of data
+that we want to provide a solution that
+can deal with all of that. So to we're
+actually really provide a real platform
+that can cover all of those directions
+of communication for data in rest at
+rest, in use, in transit in one in one
+swoop. So you can imagine that once you
+have that, actually there you can do a
+lot with it. Maybe too much. So to find
+right what is the right circumstance why
+customers would buy, why us. So as I
+would say the first time you say, "Ah,
+it's maybe early signs." But now I
+understand that we can find a lot of
+more like that because we know what to
+say, where we are positioned such that
+we can have a very unique value
+proposition compared to other to
+compared to incumbents, compared to
+maybe to more traditional but bigger
+data security players or other startups
+as well.
+>> Interesting. And so to you, it started
+to feel more repeatable, more like you
+were the product market fit was
+strengthening when you were able to
+understand why customers really bought
+and then understand understand what was
+really driving the sale. And And you
+>> Yeah. Yeah, exactly. So So it's almost
+understanding, right? You always have a
+thesis when you're building a product of
+how you're going to win, right?
+>> Mhm.
+>> You know, the thing you know, we have
+differentiated technology, better
+pricing, better integration, better
+whatever, better UX, all of the above.
+But then when you see this thesis, and
+of course it takes it moves along the
+way, right? But when you see this thesis
+come to fruition say, you know, that's
+why we won. That's how we designed it.
+That's what the customers appreciated.
+This is what other vendors could not
+provide. And that's why we were selected
+at the end. And when you see that few
+times already with the same type of,
+let's say, thesis of the
+capabilities, very prop differentiate
+tools, and acceptance by the customers
+say, you know, we're seeing something
+here that we're going to repeat.

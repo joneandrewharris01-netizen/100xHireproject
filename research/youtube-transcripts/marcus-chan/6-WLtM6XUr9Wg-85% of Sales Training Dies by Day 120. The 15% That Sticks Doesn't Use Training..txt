@@ -1,0 +1,185 @@
+Metadata:
+{
+  "expert": "Marcus Chan",
+  "channel_name": "Marcus Chan",
+  "video_id": "WLtM6XUr9Wg",
+  "title": "85% of Sales Training Dies by Day 120. The 15% That Sticks Doesn't Use Training.",
+  "video_url": "https://www.youtube.com/watch?v=WLtM6XUr9Wg",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 169,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+I'm about to save you $50,000
+or maybe more than that. Now, 85% of
+sales training fails in 120 days. Not
+because the trainer was bad, not because
+your reps slacked off, it's that the
+whole model is built to fail. Like
+training is an event, behavior change is
+a system. And you cannot fix a system
+problem with an event. Now, I have
+installed over 700 sales team and I'm
+going to show you the four things that
+actually work. And none of them are what
+your last vendor sold you. First, why
+85% fails, then the three reasons, and
+the system you install instead. So,
+here's what actually happens. You bring
+in a trainer. Maybe it's Sandler,
+MEDDIC, the big name doesn't really
+matter. Day one, all hands. Two-hour
+workshop, reps love it. This is our
+mythology now, everybody nods. And week
+one, they try it. Works okay.
+Week two, a weird deal shows up. They
+wing it. By week three, they've already
+forgotten what the acronym means. By
+week four, they're back to old habits.
+Why does this happen every single time?
+[music]
+It's because training teaches knowledge
+and knowledge alone does not change
+behavior.
+It just feels good. You walk out
+smarter, not different. If it was just
+easy to have knowledge and the people
+would get better at getting results,
+then every rep would be hitting their
+number, they'll be super ripped and have
+a six-pack. That gap is where money
+dies. Now, I've watched this with a
+fintech client. Their new reps ramped in
+14 months. They had bought training
+twice, same fate both times. We replaced
+the event with a system and ramped up to
+6 months. Same reps, same product,
+different model. When I think about even
+my own career, I led 110% sales or doing
+195 million a year. I ran every training
+playbook there is. The events never
+stuck. The systems always did. Now
+across over 950 million client revenue,
+that pattern has never changed. [music]
+So burn this into your brain. Training
+is an event. Behavior change is a
+system. [music]
+So there are three reasons it fails. You
+fix these and it sticks. Reason number
+one, it's too generic. The trainer
+doesn't know your product, your deal
+size, your buyer. So reps learn theory,
+they can't use it following Monday
+morning. They think, "Hey, that's cool,
+but how does this fit my 150k deal?"
+[music]
+A 40 million dollar a year HR tech
+client said the exact same thing to me.
+They said their old training was smart
+and useless at the same time. Now reason
+two is the one nobody admits. Your
+managers were never trained to coach it.
+The trainer teaches the reps. The
+managers sit in the same room. So a
+stuck rep asks a manager who knows the
+same nothing. Behavior change needs
+manager coaching on real deals every
+week. Your managers must learn it first,
+deeper in how to coach it. That HR tech
+client I mentioned trained managers
+first. Win rate climbed to 47%. Again,
+same market, same product, coach
+behavior. Reason number three, there's
+no reinforcement.
+Training happens maybe once, maybe
+refresher in 3 months. In between,
+silence. No weekly reps, no check-ins.
+Knowledge fades, behavior reverts, every
+time. Now, I earned 12 promotions in 8
+years on reinforcement, [music] not
+workshops.
+The reps who win get coached
+daily [music] and weekly, not trained
+annually. So, if training failed at your
+org, I can almost guarantee you one of
+those three was missing. In fact,
+probably all three. So, replace the
+events with a system, and there are four
+components. So, component one is a
+discovery framework built for your
+deals, [music] not generic, specific.
+Your deal size, your buying process.
+Now,
+we use powerful with clients. 10 minutes
+a call, right? That's pain, opportunity
+costs, wants, needs, desires, executive
+level influence and process, resources,
+fear failure, unequivocal trust, and the
+little things. [music] It's built for
+50K to 500K deals. Now, your framework
+can differ. It just has to [music] fit
+your world. Now, here's a component that
+does a heavy lifting, component number
+two, a manager coaching cadence.
+30 minutes per rep at the very minimum,
+every single week on real deals. [music]
+The manager coaches the rep through the
+framework on that deal, not a feelings
+chat. Real coaching on real deals. This
+is what took a fintech AE from 14 months
+to six.
+And then we have component three, stage
+exit criteria. Every stage has
+checkpoints. No checkpoints,
+no advancing. Discovery, for instance,
+three stakeholders, economic buyer,
+timeline confirmed. Proposal, value
+quantified, decision process mapped,
+competition handled. Without these,
+deals move on hope. With these, deals
+move on facts. Component number four, a
+real-time dashboard. Your managers see
+the pipeline daily. They see which
+[music] deals hit checkpoints. That
+visibility makes a weekly coaching
+sharper. Put all four together and you
+have a system. A 40 million HR tech team
+installed this, deal velocity jumped
+65%.
+These four components carry 950 million
+plus in client results. So, remember,
+[music]
+systems drive behavior, events drive
+entertainment.
+>> [music]
+>> So, when you install all four, here's
+what moves. Win rates climb 5 to 15%,
+your sales cycle compresses, forecast go
+from a guess to a number you trust, and
+it sticks because it's a system, not an
+event. Now, remember that 85%? That's
+the cost of training without a system.
+But, here's what ignoring this actually
+costs you. Another year reps reverting,
+another vendor invoice, another flat
+quarter. So, you don't have a training
+problem, you have a system gap. Now, to
+help you out, I built a free tool that
+shows which of the four is broken on
+your team. It's a Revenue Leak
+Diagnostic Playbook. You plug in your
+team size, deal size, close rate, a few
+other stats. It shows you where the
+revenue is leaking at what stages. 10
+minutes, link is in the description
+below. So, that's it. So, now go build a
+system, not events. So, if you found
+this helpful, make sure you hit
+subscribe or follow wherever you're
+watching or listening to this, and make
+sure you send it to a fellow leader as
+well. I'll see you in the next one.

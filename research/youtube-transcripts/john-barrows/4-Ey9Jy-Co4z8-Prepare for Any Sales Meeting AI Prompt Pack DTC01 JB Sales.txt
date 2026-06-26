@@ -1,0 +1,98 @@
+Metadata:
+{
+  "expert": "John Barrows",
+  "channel_name": "John Barrows",
+  "video_id": "Ey9Jy-Co4z8",
+  "title": "Prepare for Any Sales Meeting | AI Prompt Pack DTC01 | JB Sales",
+  "video_url": "https://www.youtube.com/watch?v=Ey9Jy-Co4z8",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 82,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+Hey, John Barros here, CEO of JB Sales.
+This prompt pack is part of the Driving
+to Close training program, which is the
+complete operating system for managing
+and closing deals.
+Each module in the program has a prompt
+pack that goes with it. If you've gone
+through the training and done the
+exercise, the prompt pack helps you take
+what you build, sharpen it using AI, and
+start building your complete deal
+execution operating system.
+Every prompt pack feeds into the next
+one, and when you put them all together,
+you have a full AI-powered system for
+managing deals from first meeting all
+the way through to close.
+Now, if you haven't gone through the
+training yet, the prompt pack walks you
+through the process from scratch and
+gives you a solid output that you can
+start using immediately.
+Either way, the prompt pack gives you
+the what, the training gives you the
+why, and the full membership gives you
+the system.
+This one is about preparing for the
+meeting. Most reps show up completely
+unprepared. They ask generic questions
+or say dumb things like, "Tell me about
+your business." or "What keeps you up at
+night?" which at this point are some of
+the most insulting things you can say to
+any buyer.
+Real preparation means understanding
+everything about the client's industry,
+their business, the persona, and the
+person you're sitting across from before
+you even walk in the door.
+It means coming up with a perspective on
+how you might be able to help them so
+that you can lead with insights, not
+questions.
+This prompt pack researches all of that
+for you, but it doesn't just hand you a
+document and send you on your way.
+It walks you through the process so you
+learn along the way.
+You learn about industry trends that are
+relevant to what you sell, how the
+company makes money, what the person
+you're meeting with actually cares about
+based on their role and their
+priorities. Then, it builds a hypothesis
+based on that research and helps you
+develop impact questions for each one.
+The output is a two- to three-page prep
+doc that you can review right before you
+walk into the meeting.
+It gives you a plan, and it
+differentiates you from every other rep
+who shows up asking the same lazy
+questions.
+Now, if you've done the training
+workbook, you can just upload it and the
+AI builds on your existing framework,
+and it should take you about half the
+time. Download the prompt pack using the
+link below. Open a fresh chat in
+whatever AI platform you're using,
+whether it's Claude, ChatGPT, Gemini,
+Copilot, or any of the other ones.
+Upload the PDF and type "Walk me through
+this step-by-step." And the AI handles
+the rest.
+If you want the full program with all
+the modules, the live sessions, and the
+complete prompt pack library, the JB
+Sales Pro membership is where that all
+lives, and you can find that in the
+description below, as well.
+Let's make it happen.

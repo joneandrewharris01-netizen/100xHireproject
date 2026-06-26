@@ -1,0 +1,972 @@
+Metadata:
+{
+  "expert": "Armand Farrokh",
+  "channel_name": "30 Minutes to President's Club",
+  "video_id": "LbcfLsCYPuM",
+  "title": "Negotiation Masterclass: 32 Minutes of Proven Negotiation Tactics (B2B Sales)",
+  "video_url": "https://www.youtube.com/watch?v=LbcfLsCYPuM",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 956,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+So, you're working a deal. You get right
+down to the goal line and the customer
+is asking for a discount. They're asking
+for a concession.
+Suddenly, what do we do? Well, we change
+personalities from what it took to sell
+the deal
+>> [music]
+>> to now negotiating it, which many cases
+involves us both lying to each other.
+What if I told you there was an
+opportunity to execute a negotiation
+where you're discounting less, speeding
+up your sales cycles, building trust
+instead of eroding it, and making
+[music] that feeling of anxiety that you
+get during a negotiation go away. That's
+what we're going to be doing here.
+>> Well, this is Todd Caponi. He is a
+former Chief Revenue Officer who has
+negotiated over $100 million in software
+sales and wrote the best-selling books
+on negotiation. And today, he is going
+to give you the exact talk tracks to
+handle any price or commercial objection
+you could possibly get in a B2B sales
+cycle. If you want to go deeper, Todd
+built a full course on negotiation with
+us at 30 minutes to President's Club.
+The link's below, but now, let's get
+into it. And so, we're going to go
+through five different pricing
+objections, some of the ones that can
+shrink your deal the most or slow it
+down or kill it entirely. We're going to
+start with the biggest, most common one,
+which is, "I want a discount." And in
+this case, "I want a massive discount."
+We'll call it maybe a 35% discount or a
+50% discount.
+>> So, [music] a couple of weeks earlier, I
+happened to be at my headquarters
+talking to my CFO. And we were just
+having a conversation [music] about the
+drivers that drive our business. They
+also happen to be the things that drive
+our pricing model. Turns out, these four
+things are the four things that [music]
+drive your business model, and likely in
+some former fashion, they also drive
+your pricing model, too. So, in this
+room, anxiety was high. I was not a good
+traditional negotiator. And I'm sitting
+in a room with a group of individuals
+who are basically professional
+negotiators. I looked up, behind them
+was a whiteboard. So, I said, "Listen,
+do you mind before we get started if I
+share the four things that drive our
+business model and our pricing model?"
+They looked at me and they're like,
+"Yeah, sure. Go ahead." Everybody was
+just getting settled in the room anyway.
+So, I wrote down four things.
+These are the four things, like I said,
+that drive your business model. They've
+drove ours, every for-profit business
+model in the world, and they also drive
+your pricing model. So, number one
+is volume.
+Meaning the first thing that drives your
+business is how much stuff people buy
+from you.
+Products, services, licenses, locations.
+The more stuff that people commit to
+buying from you, that's better than
+committing to less. The second one,
+it turns out we all like money. Business
+models and pricing models, for the most
+part, are driven by how fast the
+customers pay. So, the timing of cash.
+Customers that pay faster, that's better
+than customers that pay slower. Okay?
+Number three is
+how long they commit to your stuff, your
+volume. So, the length of commitment,
+which means the longer they commit to
+your products, technology, and services,
+the better. Longer commitment's better
+than shorter. Who knew?
+And then number four
+is predictability or the timing of the
+deal.
+So, being able to align around when the
+customer will sign is valuable as well.
+I go sit down. They look at them
+fascinated, right? Oh, that's great,
+Todd. Good for you. You've got great
+penmanship. That was about the extent of
+their interest in what I had just
+written on the whiteboard.
+They immediately go into this
+conversation. They said, "Todd, hey, the
+reason that we wanted you to come down
+here is we've got this division that's
+ready to go,
+and we've got your proposal, but
+unfortunately,
+here's the grenade throw, the big
+discount ask,
+it's quite a
+reach, too high for our budget. We need
+to get 35% off of this in order to move
+forward. So, what do you do?
+They're asking for a 35% discount.
+Well, I'm telling you there's three
+things you can do, two of which I would
+not recommend.
+The first one I would not recommend is
+going into the value argument, right?
+That's a lot of what I was taught
+growing up in sales is compared to what?
+And we go into this we believe the ROI
+of our solution justifies the price.
+Shut up. Stop it, right? That ship has
+sailed. If we're talking about value and
+ROI and trying to make that logical case
+at the goal line,
+that ship has sailed. Nobody in that
+room cares about the value or the ROI.
+Option number two, which I also do not
+recommend,
+is the way that most organizations do
+their negotiating and I see it today and
+I used to do this too. I refer to it as
+the ping-pong approach, right? The
+ping-pong approach is they've asked for
+a 35% discount. Our response is
+Hey, I I can give you 10% off. I don't
+even have to ask my manager for
+approval. Would that work? And we start
+the bidding. They ask for 35, we respond
+with 10. We keep going back and forth.
+Like, "Oh, no, it's going to have to be
+lower than that. We're going to have to
+get down to 25% at least." "Oh, okay.
+Well, uh I think I can get to 15." "No,
+we got to go a little further." We end
+up at 18. We basically end up half.
+They've asked for 35, we end up in the
+middle. If they would have asked for
+30%, we probably would have ended at 15,
+right? And basically what we've done in
+that situation is we have blown up the
+integrity of our pricing model and we
+have contributed 18% of this deal, this
+one, two and a half million dollars a
+year for 3 years. We have contributed
+18% of that in the form of charity to
+their bottom line. I would not recommend
+doing that either. Option number three
+is
+these four things that I wrote on the
+board. These are the four levers of
+negotiating.
+It sounded like this. There are three
+steps to handling any concession request
+that you are ever asked for. They're
+simple.
+Step number one
+is to be human.
+Be human. Meaning
+they've asked for 35% off. Aren't you at
+least a little curious?
+Why 35%? Why not 50%? Why not 20%? Where
+is this coming from?
+Number two
+is to review all four levers, which we
+are going to do.
+So, all
+four
+levers.
+And then number three is to walk through
+them together.
+So, be a human being. They've asked for
+35% off. The first question is, "Hey,
+tell me about that. What Why 35%?
+Is it a budget issue? Is it a the value
+equation issue where they don't believe
+that the value is worth that? Are they
+just asking just to ask?"
+So, we asked that question. "Hey, you've
+asked for 35%. Where did that come from?
+Why that number?"
+We have a human to human conversation.
+But then step two is where the magic
+happened. I walked up to the whiteboard
+again and said, "Hey, remember these
+four things that I wrote on the
+whiteboard?
+Maybe we can use this as a guide to help
+us get a little bit closer to what
+you're looking for."
+They looked at me confused. They didn't
+know what the heck I was talking about,
+which is cool.
+So, like, I'll take you through them.
+So, we started with number one. Number
+one was volume. So, I explained to them,
+"Hey, these are the four things that
+drive our business model.
+They also happen to be the four things
+that drive their business model, too,
+which just creates that empathy, why
+it's so important to use these four.
+But, I talked them through each one
+individually. So, we start with volume.
+I started by explaining them to the core
+driver of the pricing model
+is volume, meaning how much stuff you
+buy. Now, in this case, they were buying
+seats licenses.
+Their price was determined by the number
+of seats or licenses that they were
+committing to.
+I explained to them that listen, based
+on the volume
+of seats that you are committing to for
+this first division at your
+organization, you have earned a tiered
+discount. You probably have tiered
+pricing, too.
+That is based on that volume commitment.
+I explained to them this, that in this
+organization, they had multiple
+divisions. There was a second division
+that had been looking at us. They
+weren't quite there yet.
+But I explained to them this, that hey
+listen, if you are willing to commit to
+more volume in this initial purchase,
+meaning accelerate division two into
+this one, that additional volume
+commitment is valuable to us.
+It's something we are willing to pay you
+for in the form of a discount. That's a
+phrase that I use a lot. Now, make it
+your own, but pay you for in the form of
+a discount. We are establishing this
+idea that we've got a price that's
+structured, but
+we are paying for something. Well, we're
+giving a concession. We're giving a
+discount. We're paying for something
+that we should be getting in return. In
+this case, commit to more volume, we
+will pay you for that in the form of a
+discount. In this case, if they would
+have accelerated division two into this
+deal,
+that would have earned them a 5%
+discount on the entire pie. They looked
+at that and thought, all right, that's
+interesting. Unfortunately, if we try to
+accelerate that second division into
+this deal, they're not quite ready yet
+and it'll slow down the whole thing.
+First division wants to get going. So,
+good to know, appreciate it,
+but let's put an X through that. Like,
+okay, cool. Let's keep going.
+We go to the second one, timing of cash.
+Think I made the joke, like we like
+money, who knows, who knew, but I
+explained to them that listen,
+right now, this is a three-year deal,
+two and a half million dollars a year,
+and the payment, the timing of cash,
+when you pay,
+at the time was based on upfront annual
+net 30 billing terms.
+Meaning they're going to pay at the
+beginning of each of the three years.
+Net 30 means 30 days from the time of
+receipt of invoice. Explain to them that
+there's tremendous value in our ability
+to get paid faster. It sounded like
+this. Your proposal is based on upfront
+annual net 30 billing terms.
+As it turns out, because you're making a
+commitment to a three-year deal,
+if there's an opportunity for you to
+accelerate the out years of this
+agreement,
+that's valuable to us. It's something
+we're willing to pay you for in the form
+of a discount. Hear that phrase again?
+So, I explained to them that if they pay
+for year two now, we would pay them in
+the form of a 5% discount. Pay year two
+and year three now, we would pay you in
+the form of 5% plus 5% is a 10% discount
+for accelerating
+the out years payment and pay for all
+three years now. This is an oil services
+company. This was like 2008. They were
+flush with cash. I think they had 17, 18
+billion dollars of cash on their balance
+sheet.
+They looked at each other and they're
+like,
+plus I've never heard of that one
+before. That's interesting. Hey, who do
+you know in finance that you can go ping
+and see if they might be willing to do
+this.
+And the funny thing was, they started
+doing it and they're like, hey, put a
+big star by that one. Ding, ding, ding,
+let's go.
+We have an opportunity to pay for all
+three years upfront and what we're going
+to pay them for that is 10% discount. We
+are already halfway through this
+negotiation. Big negotiation, they've
+asked for 35% off.
+We have given them a path to 15% to that
+35.
+They have said no to adding volume.
+They've said yes to accelerating cash.
+But the funny thing is this,
+in that room, it was no longer customer
+versus vendor.
+It was a bunch of us sitting across the
+table,
+cards face up, collaborating around the
+four drivers that drive both of our
+businesses.
+There was empathy. There was
+understanding. They want to see us be
+successful, too. We're giving them the
+cards to negotiate their own deal. That
+woman that was negotiating by the door,
+she was no longer She was like, "Tell us
+about the next one. Tell us about the
+next one." Like all excited. Like let's
+keep going.
+This was like a fun situation for them,
+too. So, we kept going. We go to number
+three.
+Length of commitment. Now, I explained
+to them that this deal, their pricing in
+the proposal is based on a 3-year
+commitment to our stuff, our products,
+our technology, our services, the
+licenses.
+And their pricing is based on that.
+But,
+like before,
+there is value in
+extending that length of commitment. The
+longer the length of commitment, the
+better it is for us, the more we're
+willing to pay them in the form of a
+discount. So, that 3-year commitment, if
+they were willing to extend that out to
+4 years or 5 years, we would pay them 5%
+for each additional year up to 5 years.
+I explained to them, take your 3-year
+out to a 5-year, and we would pay them
+in the form of a 10% discount to do
+that. They looked at that and thought,
+"You know, 3 years is a stretch already.
+We're in the oil services business, it's
+unpredictable. That's going to be tough.
+5 years is going to be really, really
+hard, but we get it. We understand. We
+will check."
+Let's put a question mark by that. We'll
+come back to it. Well,
+we came back to it. Turned out to be an
+X. They're not able to extend that
+beyond 3 years. We get to the fourth
+one. Fourth one's my favorite. I want
+you to perk up your ears cuz this one is
+really, really important. And it sounds
+different than I bet you you're doing
+today.
+Timing of the deal.
+We explained to them that there is
+tremendous value in our ability to
+predict our business. We've got
+investors that having accurate forecasts
+means they've got more confidence, they
+make better investments in our
+organization, which will affect them as
+a customer.
+But, at the same time, remember when
+they signed this deal
+we need to have a team ready to go
+implement. Now these resources aren't
+just sitting around going, "Hey,
+whenever they sign, we'll be here."
+Right? That's really, really expensive.
+Our ability to predict when we will
+deploy those resources is tremendously
+valuable to us and if
+you, Mr. or Mrs. Customers in this room,
+are willing to help us with that
+prediction by Here's the word, mutually
+mutually aligning to when they think
+they're going to sign and be ready to
+go, that's something that's tremendously
+valuable to us and something we were
+willing to pay them for
+in the form of a discount. What ended up
+happening? I explained to them, "Hey,
+given where we are, I know you said
+you're in a hurry with this division
+what's left? Like what does that rest of
+that process look like?" Well, they kind
+of looked at each other a little bit
+confused like they didn't quite know the
+answer.
+But they explained
+that this could take 2 weeks, it could
+take 6 weeks. They're a big
+organization. Who knows? I'm like, "All
+right, I did the math. Mid-July 6 weeks
+to take us to the end of August,
+beginning of September. Does that sound
+about right?" And they're like, "Yeah."
+I said this.
+Listen.
+There's value in our ability to predict
+this for September from a resource
+perspective, from an investor
+perspective.
+If you are willing to align around that
+mutually
+and get this done in September, we are
+willing to pay you in the form of a 5%
+discount to do that.
+They looked up at that and they're like
+"Sign us up. That's awesome. If we're
+still talking about this at the end of
+September, something has gone wrong.
+Absolutely big star by that." Cuz that
+was basically the conversation.
+All right? They had asked for a 35%
+discount. I immediately took them
+through the structure by which our
+business is driven our pricing model is
+driven and their business is driven and
+I'm telling you, it's the way your
+business is driven as well.
+We walked through a path to get to 30 of
+the 35%.
+Funny thing is 35% never even came up
+again.
+We left that room as friends having a
+mutual understanding, cards face up.
+I'll go Pulp Fiction here style. We'll
+go to the end.
+They ended up signing
+by the end of September
+wiring us a check for a little over 6
+and a half million dollars within 30
+days. We had quite the party. We left as
+friends. They used these four levers for
+every upsell, every renewal, and when
+individuals went to other companies,
+they took that structure with them. Now,
+gosh, that sounds so easy, doesn't it?
+There was no anxiety. I felt so great
+about it. I was like, we got to do this
+forever. Couple of things happened that
+we're going to get to here in a second,
+but at its core, those levers changed
+the conversation, created a sound basis
+to our pricing, and gave them confidence
+that what we had presented to them was
+the truth.
+Confidence breeds confidence.
+Like I said, you now have a structure to
+where you're not eroding trust, you're
+not eroding your deal values, and when
+we played that last one right, our
+forecast became more accurate, too.
+>> So, we handled overall price or can I
+get a discount? So, let's put that one
+on the board, and then there are a
+series of other up objections that we
+need to go through next.
+>> Now, that sounded so easy, right? Well,
+it was not quite that easy. A couple of
+things came up as we went through this
+process. Number one is we sent them over
+our agreements, and sure enough, they
+added something to the language, which
+you're probably familiar with. If you're
+not, at some point your career, you're
+probably going to run up against it.
+They added a paragraph called
+termination for convenience. And what
+termination for convenience means is the
+customer reserves the right at any time
+for any reason to get out of the
+contract. That's not very attractive
+language for any vendor. As a matter of
+fact, you got to get it out of there. It
+hurts your ability to recognize revenue.
+So, what did we do? Well, we redlined it
+out, sent it back to them, they put it
+back in, sent it back. We played that
+whole cat and mouse game until we got on
+a call and we had the lawyers on the
+call to go through all the open items in
+the contract. What did we do when we
+came to the termination for convenience
+language?
+Remember the three steps to handling any
+concession? You are going to use those
+three steps to handle every concession
+request. Well, again, aren't you
+curious? Be a human being. Why do they
+need termination for convenience? Why do
+they keep putting it in there? That's
+all we're doing. This is a large oil
+services company, so they explained
+that, hey,
+it's an unpredictable market, we need to
+have the ultimate flexibility.
+And then number two is they said, we
+have it in all of our vendor contracts.
+Probably isn't true, but okay. Step two,
+review all four levers. You need to
+review all four levers over
+over and over again. Why? Because you're
+giving them the cards to negotiate all
+of their own concession requests without
+you even being in the room. This is not
+only for your new business, this is for
+your upsell, cross-sell. This is for
+your renewals. Your renewal team, if
+you're on the new business team, they're
+going to love you if you set that
+foundation for you. And when you think
+about long-term deal values, your
+leadership's going to love you, too,
+because your deals are going to be more
+valuable than everybody else's. But, I
+digress. Let's go back. We've been a
+human being. Why are you asking for
+this? Oh, flexibility. Oh, you have it
+in all your vendor contracts. Now, step
+three is the walk-through. They have
+asked, again, for termination for
+convenience. We go back here and I
+explain to them that hey, the pricing's
+based on those four things. A core
+tenant to the pricing model is length of
+commitment. Paying you in the form of
+your pricing based on a three-year
+commitment.
+Now, unfortunately, termination for
+convenience represents no commitment.
+And so, you can have it, but you're
+probably not going to like it because
+the pricing would have to go from a
+3-year to what's essentially
+month-to-month.
+And I believe, and I'll have the sales
+rep put together the numbers, that's as
+much as 30 to 35% more expensive.
+So, if termination for convenience is
+something you really want,
+let's look at it and see whether or not
+the price equals the value for you. I'm
+happy to have my rep put together that
+pricing. And then I explain to them
+this, that hey, before you freak out,
+remember
+you have language in the contract that
+protects you if the solution doesn't do
+what we say it'll do. Warranty,
+termination for cause, or in many cases,
+you might have something called service
+level agreements. Again, silence.
+They're professional negotiators. Got to
+let them talk next. That's the one
+psychological element of this. They
+finally come off of mute and they say
+this,
+"Hey, let's take a look at what that
+pricing would look like with termination
+for convenience and no commitment. We
+get it. But while we've got the lawyers
+on the phone, let's look at the
+warranty, termination for cause, SLA
+language and make sure we're comfortable
+with that." Guess what? Termination for
+convenience, poof, went away.
+All right. So, you can think about this
+one
+when we talked earlier about hey, we
+only want to make a 3-month commitment
+instead of an annual commitment. We want
+to do a pilot or a proof of concept.
+Thinking through
+being a human being, understanding where
+that request is coming from, walking
+them through all four levers, and
+termination for convenience, short-term
+commitment, a pilot, they're all the
+same things in the eyes of hey, your
+pricing is based on an annual
+commitment, a 2-year, 3-year. If they
+want to do a short-term commitment, they
+can,
+but the pricing would have to be
+adjusted to make up for it, and they
+have protections in the contract that
+protect them if the solution does not do
+what is expected.
+>> All right. So, we went through I want a
+discount, I want termination for
+convenience. Now I'm going to ask you
+the dreaded deal slip, which is will you
+hold the price to next month? Okay, so
+length of commitment is done.
+That wasn't everything that happened.
+Let's go to the timing of the deal. Now
+remember in our conversations, we had
+mutually aligned around the timing. We
+had told them that there's value in our
+ability to predict. They got excited
+when we told them we got in September.
+They said if we're still talking about
+this at the end of September, something
+has gone off the rails. Well, guess what
+happened?
+September 23rd, my sales rep receives a
+call as it's going through its final
+approvals that sounded like this. The
+sponsor calls him and says, "Hey, we had
+no idea that this is going to be the
+case. It's gone through the whole
+approvals. It got to the CFO's desk. He
+is the final approver and the signer.
+Turns out he's on vacation through the
+end of the month. So, can you just
+confirm that you can hold the price
+until October? And I swear, as soon as
+he comes in, I will be there Monday
+morning. I will click the mouse on the
+DocuSign for him. We'll make sure, but
+can you just confirm that you can hold
+the price to next month?"
+What do you do?
+Three steps on all of these. All right,
+so step one is be a human being. Take a
+step back. Like, what do you want to
+know? But then step two, review all four
+levers again. Remind them of what we had
+talked about and what we were paying
+them for. Hey, as you recall, your
+pricing is based on how much you buy,
+how fast you pay, how long you commit,
+and that mutual alignment around timing.
+We were paying you in the form of a
+discount to help us forecast around
+September.
+So, here's your answer. This might sound
+weird, but it's only three words.
+It's I don't know.
+Right? I don't know. I don't know if we
+can hold the price to next month. Let's
+talk about next month next month.
+What I do know is if we can still get
+get done this month, that 5% is there.
+Remember, uncertainty drives us a little
+crazy. If you need a reminder of when
+that happened last,
+go back to March of 2020 when the world
+shut down for COVID. We weren't sure
+where we were going to get our toilet
+paper from. Everybody started hoarding
+toilet paper cuz we need certainty in an
+uncertain time.
+That's exactly what we're doing here.
+So, create uncertainty around the ask,
+create certainty around your alignment
+and what you were paying them for.
+So, guess what happened in this
+instance? Two things. Number one, guess
+who got the next call?
+That sponsor called me. Hey, I just
+talked to the rep. He said he wasn't
+sure. I thought maybe you know might
+know the answer. The signer is on
+vacation through the end of the month.
+I'll make sure he signs on October 1st,
+but can you hold the price? Guess what
+my answer was?
+Ding ding ding.
+I don't know. What I do know is if you
+get it done right now or get it done
+here in September, we're paying you for
+that. Let's talk about next month next
+month. And guess what happened?
+September 26th,
+they found somebody else to sign it. We
+got our signed agreement. And like I
+said earlier, we got wired this massive
+amount about 21 days later. But again,
+going back to the why,
+and when your customers
+A, understand what you are paying them
+for, and B, have skin in the game
+instead of the fake expiring discount
+that's basically all selfish for you,
+now they're getting something of value
+in return for that, you're going to find
+that so much more often they align and
+adhere to that timing, and your forecast
+is going to become infinitely more
+accurate, just like it did in this
+instance.
+>> All right, so that was I want a
+discount, I want termination for
+convenience, will you hold the price?
+And now let's do one related to billing
+terms, which is um I want to pay
+monthly.
+>> Perfect. So, we have nailed, hey, will
+you hold the price? So, that one's
+behind us. Let's talk about those types
+of requests. Well, this happens all the
+time, especially even in my business,
+what I do today. So, I teach, I speak, I
+do workshops for companies. In my
+billing, my terms are based on upfront
+annual net 30 payment terms, right? You
+pay the whole amount net 30 from time of
+invoice. Now, as I'm working with some
+large companies,
+oftentimes they'll come to me and say,
+"Hey, um our standard billing terms are
+net 60. So, we need to update the
+invoice to reflect that." What do you
+do? Now, let's talk about what Armand
+asked me, which was monthly billing
+terms. So, you're asking for upfront
+annual net 30, and they say, "Hey,
+we want to pay monthly." It's the exact
+same thing. What drives that?
+Be a human being, take them through all
+four levers, and walk them through it.
+Now, this had happened to me in one of
+my roles a number of years ago, where my
+rep had run up against a customer that
+wanted monthly billing, and was angry
+about the fact that we were asking them
+to pay annually. To the point where the
+rep said, "Hey, Todd, can you take this
+call? She's pretty upset." I get on the
+phone with her, and she starts yelling
+at us saying that I am out of touch with
+the marketing industry, and that every
+company in the space bills monthly, and
+here we come along. I believe she said,
+"And la-di-da, here comes you with
+annual billing." Right? The be human
+kind of went in the toilet. That was
+going to be hard, but I walked her
+through all four levers. Like, "Hey, I
+understand. You're right. The other
+vendors do charge monthly. We base our
+pricing on these four things. How much
+you buy, how fast you pay, how long you
+commit, and that mutual alignment around
+timing. Your pricing is based on annual.
+If you want monthly, you can, but
+something needs to be adjusted to walk
+through it. Let's walk through those
+together, and see if we can get you
+there." She completely disarmed. We had
+a collaborative conversation, and guess
+what? They decided and determined that
+it's actually easier for them to pay one
+bill every year instead of chasing down
+multiple POs and invoices every year,
+they were happy about the annual.
+Remember, so often customers are asking
+for things because they've been told to
+ask for it or it's the way they've
+always done something, for you to walk
+through a structure with confidence and
+a sound basis,
+you'd be surprised how easy it is to
+make those things not only go away, but
+to build their confidence in the
+integrity of your pricing model.
+>> All right. So, lastly, we went through I
+want a discount, I want term for
+convenience, will you hold the price,
+can we pay monthly, and lastly,
+a brutal one that has actually happened
+to me semi recently, which is can I
+start with half of the organization
+instead of the full organization?
+>> Exactly. So, we have nailed the I want
+to pay a little bit slower. Let's go on
+to that last one, which is volume. I'll
+take you into a story that it happened
+to me a few years ago. I had a sales rep
+that was working on a significant deal
+with a customer, and if the deal came in
+at its full volume, he was going to
+President's Club, and it was contingent
+on them signing the next day based on
+our mutual alignment around timing.
+Here's what happened. The sponsor of the
+deal was running it through, getting all
+of the approvals and signatures. The
+last signer, the CFO.
+CFO had not been privy to any of the
+conversations throughout this entire
+process. Brand new to this. We got word
+from the sponsor that the CFO had it on
+his desk and wanted to talk to us.
+So, they had reached out to the rep. The
+rep called me and said, "Todd, please be
+on this call." And to give you a little
+bit of a background,
+what this customer was buying was 36,000
+licenses. They had agents in the field.
+We were going to be arming them with our
+technology.
+So, it was based on a 36,000 user
+commitment.
+We get on the phone with him and he
+starts in saying that he is reviewing
+the contract and wants to start by
+having that 36,000 commitment, meaning
+we want to start by committing to 18,000
+users instead of 36,000, and then we'll
+add the additional 18,000 later.
+Now, I look down at my DMs, and my rep
+is freaking out, right? The President's
+Club is on the line. We got to make sure
+that we've got this, but we ended up
+walking through it. Step one was be a
+human being. He asked, "Instead of
+36,000 users, wanted to start with
+18,000. Why? What was driving that
+determination? We have been working with
+the team. We've scoped this thing out.
+Why now? Why half?" And he explained
+that 36,000 is a lot to roll out at one
+time, and they want to feel comfortable
+that this is working before they make
+that entire commitment. So, they want to
+start with 18, and then they'll add the
+additional 18,000 later. Step two,
+review all four levers. Step three, walk
+through.
+So, if you do want to have that 36,000
+user commitment, you can, but that
+changes your price. Price is based on
+36,000, and you've earned a tier
+discount based on that. If you want to
+cut that in half, you can, but the price
+per user goes up quite a bit.
+And then when you go to add the
+additional 18,000, your overall
+investment is going to be quite a bit
+bigger. I can have the rep write up what
+that pricing looks like. But before you
+freak out, remember that you have
+protections in the contract in case this
+doesn't work out. We've got warranties,
+we've got termination for cause, we've
+got service level agreements that
+protect you in case this doesn't work
+out the way you think, but your pricing
+is based on 36,000.
+So,
+I then stopped talking. Phone went
+silent. This is a professional
+negotiator. It felt like it was an hour
+of him not talking. It was probably like
+10 seconds, but he then pipes in, "Yes,
+I would like to take a look at that
+pricing. Show me what it looks like, the
+18 plus the 18, and I'll take a look."
+I think he may have just hung up. I
+don't remember him saying thanks or I'll
+get back to you. He just click.
+And so my sales rep freaks out. But we
+put together that pricing showing what
+18 + 18 looks like versus making the
+36,000 that's in the contract that he's
+about to sign.
+Sent it over to him. Guess what
+happened?
+Next morning, we received a contract
+signed for the full 36,000 users. So,
+the point there being always go back to
+those. All right? In this case the
+expectation was, "Hey, if I just cut
+down my commitment in half, it's still
+going to cost the same. I just get to
+spread it out." Sure. He's trying to
+lower his risk. But your pricing is
+based on these four things. That main
+one there being volume. Commit to more,
+better. Commit to less, not as good.
+That needs to be reflected and
+communicated clearly.
+>> So folks, those are all five objections.
+I want to discount term for convenience,
+will you hold the price, can we pay
+monthly, and can we start with half the
+team? And guess what? Todd is actually
+the most generous negotiator of all time
+because for free we have broken down
+your top five pricing objection talk
+tracks that you can use in any of your
+sales cycles. If you want the exact
+scripts of what you say in each of these
+scenarios, go check it out down below.
+It's completely free. And if you like
+this, you will certainly love what's
+inside of his course.
+>> Check out the course where in it I'm not
+only going to take you through this in
+excruciating detail, but we're going to
+teach you how to tee it up so that the
+event of the negotiation becomes a lot
+easier in the way that [music] you
+position and the way that you propose
+your pricing. We're then going to take
+you through a number of additional
+iterations of the things that you
+obviously run into all the time in your
+negotiations to not only build trust to
+the goal line instead of eroding it.
+You're going to discount less. You're
+going to speed your close. And in the
+end everybody in your organization is
+going to love you because your forecast
+going to become more accurate, too.
+That's a wrap, folks. We'll see you on
+the next one.

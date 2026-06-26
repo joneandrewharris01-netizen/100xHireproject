@@ -1,0 +1,197 @@
+Metadata:
+{
+  "expert": "Sam McKenna",
+  "channel_name": "Samantha McKenna - #samsales",
+  "video_id": "GdFKRDQup0Q",
+  "title": "Part 5: Email One - Samantha McKenna with Salesloft",
+  "video_url": "https://www.youtube.com/watch?v=GdFKRDQup0Q",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 181,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+As we start writing email one, there are
+a few non-negotiables you need to think
+about before you even touch the copy.
+First, no links and certainly no
+attachments in email one. Yes, even in
+the signature. Those are common spam
+triggers and we're not risking
+deliverability on the most important
+email in the entire cadence. Second,
+skip bullets as they not only suggest
+that this is a sales email, but that it
+was written for the masses versus an
+audience of one. Third, this email is
+allowed to be a bit longer than what
+you've probably been told. The goal is
+not the shortest, the goal is value.
+Consider for a moment if you wrote a
+super short email. We can't pack the
+elements we're about to teach you in
+less than 50 words. So, you end up with
+something that sounds like this.
+Hi John, I noticed you were hiring.
+We've helped organizations lessen their
+recruitment fees while also accelerating
+ramp time. Interested in how we can help
+you?
+Now, in isolation, that might capture
+the buyer's attention. But consider that
+they get five emails just like that
+every week or even every day.
+Will the buyer say yes to all five? No.
+Will they cherry-pick one? No.
+Will they open and reply to the longer
+one that proves value around their
+process? Potentially.
+And that's exactly why length positively
+impacts you here.
+We're not writing a novel, though, so
+think about two thumb swipes max on a
+phone. Okay, let's move on and get into
+the structure of the email.
+Most sellers start with a solution.
+Great copy does not. It starts with the
+problem. Think about a dish soap
+commercial. It doesn't open on sparkling
+clean plates. It opens on the pan with
+burnt gunk and red sauce welded onto it,
+right? Because if you show me clean
+dishes, I go cute and I keep scrolling.
+But if you show me the dirty pan, you
+put me right back into the hour of
+cleaning up dinner last night and I want
+the fix.
+Buyers behave the exact same way unless
+they're already actively shopping. An
+email that jumps right into your
+solution gives them no emotional reason
+to care. A challenge does. A challenge
+creates urgency.
+So, your job is to name the challenge in
+a way that feels specific to that
+persona. What keeps them up at night?
+What are they trying to accomplish? What
+are they doing today to solve it? And
+where is their current approach breaking
+down? A simple way to write it is one or
+two sentences to create a baseline
+concept and then build your story and
+writing style or personality around it.
+Something like, "I suspect you're
+dealing with this specific problem as
+you try current solution to try and
+accomplish this bigger goal."
+Then, you move into the cost of
+inaction. This is where you make it feel
+real.
+It's important to know that loss is a
+powerful motivator. In fact, the idea of
+loss is about twice as powerful as a
+motivator as the idea of gain.
+For example, write something like this.
+"If you keep doing this, here is what it
+could cost you."
+Conversely, you can use a challenge
+statement to teach the reader something
+and to create FUD, fear, uncertainty, or
+doubt.
+FUD shines a light on a process they may
+have overlooked and teaching that will
+hopefully get the buyer to say, "Huh,
+I never thought of that."
+Now, your buyer is emotionally primed to
+listen to you and you can move to the
+pitch.
+Your value proposition is not a list of
+features and benefits. I know, I know.
+But, rather, it's why you matter to that
+buyer. It's the so what of those
+features and benefits.
+Most sales copy starts at what we call
+the 30,000-ft view. It's vague, it's
+unspecific, it doesn't actually
+articulate what you do. For example, we
+can help accelerate pipeline by 33%.
+Now, you've definitely heard that line
+before, but tell me what the company
+does.
+We don't know, right? Because it could
+be any number of things that help move
+pipeline faster.
+Instead, start by telling them what you
+do at a 300-ft level.
+That way, their brain can categorize you
+correctly.
+Software that helps you do X. A
+consultancy that supports teams with Y.
+Now, you want to connect the dots. How
+does what you do fix the exact problem
+you just described? Tangibly.
+Again, not our software makes your life
+easier, but rather we do this exact
+tangible thing to solve the problem.
+And now for the hard part. You have to
+answer the question every buyer is
+silently asking, which is so what?
+Why do they care? What changes are on
+the other side for them specifically if
+you solve it?
+This is the part that almost nobody
+does, and it is the most effective
+addition you can make to your content.
+Consider this. We write a compelling
+email and maybe even hook the buyer on a
+need they have. But what happens next?
+They're immediately thinking of reasons
+not to change or the objection of why
+they don't need you.
+For example, I teach an inordinate
+amount of content on how to use LinkedIn
+Sales Navigator effectively.
+Now, perhaps I email a team my
+credentials, why I can make a difference
+to their pipeline and adoption, etc.
+They're sold now, right?
+Not quite.
+Instead, they're objecting mentally with
+something like, "We have a customer
+success manager at LinkedIn. We don't
+need you."
+And then they delete my email. So, you
+have to address the objection before
+they have to. They're not going to
+respond to us with the objection, So, we
+have to get ahead of it. You write the
+rebuttal right into email one. Something
+like, "You might be thinking this
+obvious concern. And here is the
+difference in how we handle it and how
+this can specifically impact you."
+Let's first examine what normal sales
+emails do when they close. They close by
+being generic and asking for 15 to 20
+minutes or by regrettably sending a
+calendar link even in cold outbound or
+specifically asking if the buyer is
+available on a specific day at a
+specific time. Instead, we want to close
+by asking for interest, not time.
+We're changing our semantics here to
+stand out from what they see every day.
+We're asking a question that is
+hopefully impossibly easy for the buyer
+to answer. A simple close you can use
+is, "Interested in learning more?"
+The whole point is to keep the door
+open. Maybe they want a meeting. Maybe
+they have a question. Maybe they want a
+reference. But if you corner them into a
+calendar decision on the first email,
+many will simply opt out on the first
+blush.

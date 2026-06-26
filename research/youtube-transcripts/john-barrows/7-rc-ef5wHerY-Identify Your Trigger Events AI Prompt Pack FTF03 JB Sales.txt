@@ -1,0 +1,75 @@
+Metadata:
+{
+  "expert": "John Barrows",
+  "channel_name": "John Barrows",
+  "video_id": "rc-ef5wHerY",
+  "title": "Identify Your Trigger Events | AI Prompt Pack FTF03 | JB Sales",
+  "video_url": "https://www.youtube.com/watch?v=rc-ef5wHerY",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 59,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+Hey, John Barros here, CEO of JB Sales.
+This AI Prompt Pack is part of the
+Filling the Funnel training program,
+which is the complete operating system
+for your prospecting efforts. Each
+module in the program has a prompt pack
+that goes with it. Now, if you've gone
+through the training and done the
+exercises, the prompt pack helps you
+take what you built, sharpen it using
+AI, and start building your complete
+prospecting operating system.
+Every prompt pack feeds to the next one,
+and when you put them all together, you
+have a full AI-powered system for
+prospecting from start to finish. Now,
+if you haven't gone through the training
+yet, the prompt pack walks you through
+the process from scratch and gives you a
+solid output you can use right away.
+Either way, the prompt pack gives you
+the what, the training gives you the
+why, and the full membership gives you
+the entire system. Now, this one is for
+trigger events. Knowing who to target is
+one thing. Knowing when to reach out and
+why is what separates good prospecting
+from the noise.
+Trigger events are the moments when a
+prospect's status quo breaks and they
+become open to the conversation
+potentially. They give you a reason to
+reach out so you never have to touch
+base or check in ever again.
+This prompt pack identifies the five
+trigger events most relevant to your
+specific situation, explains why each
+one creates an opening, and gives you a
+system for tracking them using tools
+like Sales Navigator, Google Alerts, and
+some of the AI tools that are out there.
+Every trigger comes with an outreach
+angle, so you know exactly what to say
+when one fires. And if you've done the
+training, upload the workbook and the AI
+builds on your existing work. So,
+download the prompt pack using the link
+below. Open a fresh chat in whatever AI
+platform you're using, whether it's
+Claude, ChatGPT, Gemini, Copilot, or any
+of the other ones. Upload the PDF and
+type walk me through this step-by-step,
+and the AI handles the rest. Now, if you
+want the full program with all the
+modules, live sessions, and the complete
+prompt pack library, the JB Sales Pro
+membership is where that lives, and you
+can check that out in the link below as
+well. Let's make it happen.

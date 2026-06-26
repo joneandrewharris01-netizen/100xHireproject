@@ -1,0 +1,1217 @@
+Metadata:
+{
+  "expert": "Morgan J Ingram",
+  "channel_name": "Morgan J Ingram",
+  "video_id": "l5rC2EDw1pU",
+  "title": "How to Use Sales Navigator Like a Pro to Book an Extra Meeting",
+  "video_url": "https://www.youtube.com/watch?v=l5rC2EDw1pU",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 1201,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+What's going on everybody? Welcome back
+to another Muffins with Morgan. This is
+our 10th episode of the season that we
+have and this is our last episode of our
+season and then we're going into break.
+I'm going into break. Uh there's some I
+guess in the next couple weeks I'm
+actually at home but going to go for
+some travel doing some stuff and taking
+some time to come back with even better
+content. But again, taking the time to
+chill out. But welcome everybody to the
+show. As you're coming in if you have
+not been in here before, let us know
+where are you tuning in from. Would love
+to hear where everyone's at in the world
+and what's going on. We'll give it a
+minute as people trickle in. Um but
+yeah, y'all, I got a I got a pretty good
+muffin today. It's a blueberry
+lemon muffin.
+Blueberry lemon muffin. So, I'm actually
+very excited about this. Uh, but yeah,
+we'll let people trickle in. Let us know
+where they're tuning in from um here on
+this Friday. Hope you all are having a
+really blessed Friday and really
+enjoying it.
+I am so far. I got my pickle ball lesson
+in the morning, so I was I'm I'm
+absolutely buzzing about it. So,
+[laughter] I cannot complain. Uh I'm
+doing great. But we're gonna dig in. So,
+as we got people coming in again, let us
+know where you're tuning in from. What
+are we talking about today? So today we
+are talking about sales navigator. Uh
+this has been a topic that people have
+been asking for. So we're going to take
+the time to just go through some things
+that I've seen to be very very helpful
+for the people that I work with across
+the board. And this also will help you
+all out as well. So you know what I'm
+going to do is real quick I want to make
+sure that we're speaking to everybody in
+the room. Uh I just launched up a poll.
+What's your role? Uh where you're at
+today. Obviously, we want to speak
+directly to you uh across the board as
+you're in this room. So, if y'all can
+fill that out, that'd be great. But
+yeah, we're really just going to drill
+into how can you think about Sales
+Navigator, how can you go about it, how
+can you make sure you can take action on
+those things. Uh there is a lot that
+I've learned along the way around what
+is Sales Navigator and obviously what it
+is not, right, at the end of the day.
+So, that's what we're really going to
+drill into. That's what we're going to
+talk about today. So again, appreciate
+everybody tuning in and hopping on. So
+with that being said, let's dive into
+what we're going to be talking about.
+I'll share my screen real quick.
+How to use Sales Navigator to book an
+extra meeting. That's what we're talk
+about. So it's just me today holding it
+down. Uh if you've not interacted with
+my content before, if you don't know who
+I am, my name is Morgan Ingram. I've
+been in the top offunnel outbound game
+for the past decade. I started off as an
+SDR. I've been an SDR manager. I've been
+a full sales cycle rep. So, I've seen
+all different paths and access points in
+how to book meetings and generate
+quality pipeline. And throughout that
+journey, I was able to work with John
+Barrows. I was on his team for about
+three and a half years. And then I took
+all the things that I learned from him
+to start my own business called AMP
+Social. And our focus at AMPocial is to
+make sellers magnetic, intuitive, and
+consistent in what they do so that
+they're able to be more human in the way
+they approach their outbound, which is
+what you learn if you come to Muffins
+Morgan. That's our goal. And across the
+clients we've worked with, we've been
+able to generate over around $30 million
+in pipeline and still counting as we
+work with clients. So what we're going
+to talk about today in these next 40
+minutes is what is the component of
+sales navigator that we walk clients
+through so that you can see a component
+of how we go about this. So as we go
+through this if you have questions
+obviously free feel free to drop those
+in the chat. We got a very healthy room
+of BDRs AES and managers and directors
+in the room and founders. So this is a
+really healthy mix we have across the
+board. I'm gonna go through these
+filters and then I'm obviously going to
+flip it back to y'all to see, hey, like
+is this helpful? You know, where you're
+at and things of that nature. So, with
+that being said, let's drill into Sales
+Navigator. Now, I'm going to flip it to
+y'all real quick and I got a question,
+which is when it comes to Sales
+Navigator,
+how would you
+rate yourself on a scale to one to five?
+One being you're a novice and you don't
+really know that much about it and five
+being you're absolutely elite like
+you're the greatest sales navigator
+person that is that has walked the
+earth. So one is I'm not good at it at
+all. I literally just got the tool
+yesterday.
+And then five is I'm phenomenal and I'm
+elite. So we got 2.5 got 2.5s threes. We
+got 2.75s. We got twos twos. Okay. So,
+you know, within this, as we go about
+this today, I'm going to show three main
+filters that I believe that will help
+you be successful. And then I'll show
+some bonus things that clients have been
+leveraging to get a lot of good results
+across the board, right? So, and again,
+if you have anything that you have
+questions on, drop it in the chat,
+right, and let us know. So, the first
+thing I want to talk about is this one
+[clears throat] has been a I'd say a fan
+favorite, and I'll explain why here in a
+minute. So for those of you in this room
+that are probably targeting
+enterprise or maybe strategic accounts,
+this is a really good angle to take. So
+you go to the lead filters, you have the
+company, you have buyer intent, you have
+best path in recent updates, roll.
+You're going to go to roll and you're
+going to go down to
+years in current position
+and you're going to click less than one
+year. Now, why is that beneficial? So,
+let's say that I was going after
+we'll use we'll use Amazon because
+they're pretty big. So, Amazon
+and I was like, hey, I want to go after
+people, you know, like we sell a
+coaching program, so I want to go after
+sales leaders and I want to narrow this
+down to this.
+So, you'll see right here, it's pretty
+based on what I just did, right?
+Amazon's a massive company. They have
+over 56,000 employees. And what I'm
+looking for is how can I find people who
+have been in their role less than one
+year, but I'm finding people who maybe
+been at the company for longer. So
+here's a really good example. If we
+drill into Jess, she's been at this
+company for four years, right? So that
+means that she probably has really good
+relationships. She probably knows
+people.
+However, we want to lean on the
+psychology of people. And so, you look
+right here, nine months into the role.
+Now, what we can do
+is based on it being nine months in the
+role,
+they there probably is a layer or a
+level of
+psychological excitement,
+right,
+to actually do something different.
+So, that's like what's happening there.
+So, when you're looking at these
+accounts for everybody here, depending
+on what you're doing, you want to drill
+into, all right, I got all this stuff
+going on, all these people I can go
+after in a massive Amazon account, but
+what I'm looking to do is effectively
+find people that are in this sweet spot
+of like 6 months, uh, what do you got? 6
+months, you got nine months, you got
+three months here. This is a good one
+out of seven years. Now again, these
+jobs and titles might not be the right
+people, but I'm just showing you the
+premise point. So this is how you can
+find people that are effectively
+lowhanging fruit to go out and prospect
+and engage with. I I will tell you this
+is heavily underrated and this is a
+great way to stand out and
+[clears throat] reach out to those
+people. So again, if you're not already
+tapping into this, like this is
+something 100% I would tap into because
+ultimately this is how you're going to
+be able to
+this is how you're going to be able to
+stand out, right? You really want to
+focus on
+can we look at years and less than one
+can we look at years in current position
+less than one year. Can we look at the
+seniority level? Can we look at the
+functions and then now we're able to tap
+in. So again we do it for Amazon. If we
+pick another big one like a Salesforce,
+if I could type. Oh, there we go.
+Salesforce.
+Boom. So, I can then tap in, see what's
+going on. All right, cool. This is a
+good example. Evan,
+three months enroll, six years at the
+company, right? I can tap in, reach out
+if that makes sense. So, this is
+something. This is something I want
+y'all to think about is yeah, we got to
+go after these massive accounts and
+things that nature, but there's
+lowhanging fruit
+in these accounts that we can go after
+and get in front of them, right? And
+see, okay, is there an opportunity to
+get a layer or a level of a meeting,
+right? So, that's like an example of how
+you could go about it, right? So, that's
+like filter number one that we're going
+to dive into, right? So, just keep that
+in mind as we go through this. Like,
+there's different ones. I think that
+one's a massive one that people sleep
+on. Uh, here's another one.
+Referrals. How many of you all ask for
+referrals? Like, yes or no in the chat?
+Like, how many of you are asking for
+referrals on a consistent basis? Not
+like you do it once a day, but like on a
+consistent basis, you are asking for
+referrals.
+And then we're going to go into yes.
+Okay. Some people we got the yes trains
+maybe not. This is a this is another
+angle that I think a lot of people are
+not taking advantage of.
+And so we're going to talk about it.
+So
+when we think about
+how we go about
+messaging people and things of that
+nature,
+if you're working
+in a company,
+these are three paths you can take to
+get referrals. So number one is your
+execs can help you get referrals, your
+customers can help you get referrals,
+and your partners can help you get
+referrals. Right? So, exe external
+execs,
+customers, and partners. So, as you see
+right here with connections of I'm just
+going to use an example of how you can
+do this. So, let's say right now again,
+you're an STR AE or you're a sales
+leader on on this call today and you're
+like, okay, we're doing cold outbound,
+but we're it's not hitting like we're
+not getting the results that we're
+looking for. Well, okay. Here's an angle
+that you can take to get in front of
+those people. So, what I would do here
+is we'll use
+we use Bobby as an example. So, let's
+say Bobby is your exec. So, your VP of
+sales, your CMO, your VP of marketing,
+whatever it is.
+take this example, this connections of
+and let's go find people to get
+referrals for. So you could you can do
+this actually two ways. So one is when
+you ask for referral, most of the time
+y'all know this is like you ask for
+someone referral and like
+they don't do anything. [clears throat]
+They're like, "Yeah, I don't know these
+people. It's it's overwhelming, right?"
+And then they don't know where to go.
+And so based on that, right, what you
+could do is this. So I have this
+connections of again, you have to be
+connected to the person in order to do
+this. So you're here and we're going to
+look up where Bobby used to work. So I'm
+just going to pull up another window
+real quick and I'll show you why you
+want to think about it this way. So
+we'll go to Bobby. Cool. All right. So
+you got he worked at Bandwidth. He
+worked at Pendo. He worked at Dude
+Solutions. So what I'm going to do is
+bandwidth.
+Dude Solutions
+and Pendo. So this is like a surefire
+way to get in front of someone you're
+looking for. I just put in all the past
+companies that
+he used to work at, which means that
+these people also used to maybe work
+with him. So there's a tighter
+connection to ask for the referral. So
+again, you can do this with customers
+you're connected with, partners you're
+connected with, and internal executives
+you're connected with. So you kind of
+see how this all pans out. So now that I
+have these things in play,
+I then can narrow down by sales and make
+this easy. And I might be like, all
+right, let me do it by
+let me draw this down. So okay, I got
+35. So these people,
+right, used to work at the company that
+Bobb's at. So there's a high likelihood
+when I ask for, "Hey, do you know this
+person?" It's going to be again very
+likely that they're going to be willing
+to be like, "Yeah, sure. I'm I'm willing
+to intro you." So again, I'm looking
+through these individuals. I'm looking
+through these people to see who I could
+ask for a level of a referral based on
+the connection. This is something that
+people miss out a ton. So, if you're not
+t if you're not tapping into this, you
+should definitely be tapping into this
+because this is a this is like the best
+way to address lowhanging fruit, right?
+Because if I have somebody that I'm
+connected with and I can see that they
+are connected people that previously
+used to work somewhere and I can reach
+out to them, I'm going to have a way
+better time, right, to get meetings and
+conversations going above anything else,
+right? So, this is just something to
+take advantage of if you're not. I've
+had a lot of people be like, you know
+what, at the end of the day, if they
+really focus and they really lock in on
+doing this exercise, they end up
+building more overall pipeline in the
+long term. This is just this is just
+what I've seen. So again, you all can in
+here could also let me know what you've
+seen on your side, but this is a this is
+a massive way to break through accounts.
+I cannot stress this enough because a
+lot of people don't do this. Go connect
+with all your executives. Again, STE
+doesn't really matter. Connect with
+every single executive you have. Build
+that connection with them
+and you progress from there.
+So that's what you want to think about
+which is
+we have these executives,
+we have different customers.
+Are we consistently asking for the
+referrals and do we have a system to do
+so? This system you can build
+yourself because if we dive into this
+even deeper, you'll see I could actually
+save the search, right?
+So you'll see here and I could be like
+uh
+referrals from Bobby and now it's saved.
+And so I can always go back here, right?
+I can always tap into this.
+So again,
+we had two people say yes, assuming
+other people may you're maybe not using
+referrals. This is the way to do it. Tap
+into your executives, connect with all
+them if you can,
+tap into customers,
+and do this consistently. We had
+someone that I recently worked with,
+they booked
+five meetings just off of this alone
+within 14 days, right? like this is the
+move that they took and they were able
+to take advantage of this and actually
+reach out to the right people overall.
+So this is just something that you could
+pay attention to. You could take access
+on. I again I'm saying this a lot
+because it it does move the needle and
+it is very helpful for people. So take
+advantage of this if you're not and the
+messaging around this
+uh
+Brian, your question is, do you see it
+more advantageous to use your company's
+exact to ask for referral or an existing
+customer's connections for referral? Uh,
+both it all depends on the relationship
+at the end of the day. I don't think
+it's a one is better than the other. Um,
+I probably would say that the customer
+is probably the best because it's coming
+from the customer voice. So, if you can
+do that, that's probably the best.
+Normally in that scenario, you're going
+to want to ask
+customer success if that's okay. Uh at
+the end of the day, like I think most
+AES or sales leaders will be like, "Hey,
+this is what we're looking to do." And
+normally they're cool with that as long
+as you position it the right way. But
+yeah, I would go number one, my main
+focus would be customers, but I know
+that can be hit or miss depending on the
+org. Then we're looking at the exacts
+and then we're looking at partners
+because partners can be hit or miss
+depending on your business and what
+you're looking to do and some people
+don't have partnerships so it kind of
+doesn't pan out.
+So yeah, I would literally create a list
+of those people and go from there. Which
+kind of leads to my next point. I've
+said this a lot and I and I will keep
+saying it because a lot of people don't
+really tap into this. Uh I'm using core
+right now. So, I'm on like the I'm on
+the core license. So, [snorts] the main
+thing here is
+going back to Brian's point and
+something again I'm seeing as a way to
+create a pipeline flywheel of meetings
+that consistently will come your way is
+creating a list of
+clients that you've worked with.
+And so for everybody here, this is the
+best way to break this down. So if
+you're an account executive on the call,
+which we have some people are AES, if
+you have not done this already,
+I would
+tell you to
+build a list of every single person that
+you've worked with
+directly.
+So any director, manager, VP, it doesn't
+really matter.
+I would tap into that. And the reason
+for that is I'll show it in a minute,
+but that's like the step you want to
+take. Then for my SDRs on the call, or
+if you lead an STR team or a team, it
+doesn't really matter. I would create a
+list of every single meeting that you've
+ever booked in your entire career.
+Because this not only helps you right
+now, because if they move companies, you
+could book a meeting. This also helps
+you in the future as you grow and
+advance
+your career,
+right? So, that's what we really want to
+focus on here and why I'm encouraging
+you to build this list.
+We got clients that you've worked with
+and we have
+clients.
+You can even add clients that you've
+lost deals with as well because think
+about it. If you've lost a deal with a
+client, and this is something that I'm
+going to go build now, I'm going to use
+Claude to help me build this, but think
+of every single client that you've lost
+or every single potential client you
+could had. So, all the deals you lost as
+an AE or sales leaders, think of all the
+deals that you your team loses within
+the month. What if you had everybody
+build a list of every single person that
+they lost a deal with and now you can
+see if they move to a new company?
+Sometimes people don't don't want to do
+the offer because the company they're
+currently at. It's it's not, you know,
+it's not a good place for them to bring
+you in.
+So these are these are the reasons for
+these lists that I'm going through this
+because this is very this is lowhanging
+fruit that most people don't do. So
+again, SDRs, you're creating a list of
+every single meeting that you've booked.
+You could also create a meeting a list
+of every single meeting that's ghosted
+you. For AES, create a create a list of
+every single deal that's been closed.
+and you're going to create a list of
+every single
+person that you lost a deal with. And so
+here's why. So if we click into this
+list, there's three core benefits of
+this. Number one is I have everybody in
+one place, right? I have everybody in
+one place. I can tap in, boom, see
+what's going on, right? I can see
+everything that's happening, right? So
+that's like number one. Number two is if
+someone has changed jobs, I can see it.
+So I already have been locked in with
+this because what's going on here? Yeah,
+I reached out to Tony the other day.
+This is an opportunity that I'm about to
+have here. We had a conversation. I
+actually just saw this one. So, I'm
+probably going to reach out. I'm
+probably going to reach out on this one,
+right? I'm going to probably reach out
+here, too. So, there there's a lot of
+movement that's happening and I can
+click in and see, okay, what exactly is
+going on, right? And have these
+conversations
+with these people, right? I'm just
+staying locked in because this is the
+digital rolodex, right? And the third
+thing is if you want to stay top of mind
+with people, it also shows you that
+these people have posted in the last 30
+days. So if what that does is you could
+actually click in here [snorts] and it
+will show you what they actually have
+posted and you can tap in if if if that
+makes sense. Right? So this is the
+benefit of creating this list. And as
+you see, I'm always right trying to make
+sure that I'm tapping in across the
+board and making sure that it's, you
+know, doing doing what I need to do. So,
+that's an example there. Uh, is anyone
+else having an echo voice? Muhammad said
+there is one. So, if that's the case, I
+can fix it. But if it's not, then we can
+figure that out. But that's the play
+there. Let's go into like some other
+questions in here. So, how do you export
+the list for offline use email
+marketing? I think you said you don't do
+cold email marketing. Um, no, not per
+se, not as much. But what I do, what I
+would recommend is [sighs and gasps]
+uh I mean it's tough, right? There's a
+lot of
+there's a lot of APIs within LinkedIn,
+so you can't do as much exporting unless
+you have like a certain license. It's
+like if you had like an advanced one or
+super advance or whatever it's called,
+then you would be able technically to
+export things out and then go from
+there. So that would be your main angle
+I guess you would take in this scenario.
+So I don't really have a good answer on
+like how to export the list for offline
+use
+per se. Uh, the only thing that I'd
+recommend you to do is you can export
+your connections
+and you could enrich that list to find
+emails.
+But for people that are like second
+degree,
+there really isn't a great workaround
+for that unless someone in the chat has
+something. I haven't seen anything that
+can do that to that level. So, that'd be
+my case. Um,
+yeah. Yeah. I would say I I don't think
+that's even possible. like your only
+your only you literally your only
+workaround is you have to pull first
+degree connections which you can do.
+Okay. Curious about curious how folks
+are using claude in tain with sales
+navigator. Um
+I mean again not much you can do with
+the with the APIs. There's no connector.
+So you're you're pretty you're pretty
+overall limited. Uh, I really just using
+sales nav to find these filters and then
+I'll use Claude to be like,
+can you create messaging off these
+filters? Like that's probably the
+closest example I have cuz I can't I
+can't connect it, right? So there's not
+much I can really do at the end of the
+day. The only thing I can do really is
+base it off of can I create messaging
+off the filters that I have, right? like
+that's probably the that's probably the
+extent of where I would probably take in
+tandem with it. Um, but I'm using Yeah,
+I'm I'm using
+Granola.
+Uh,
+I'm using Granola
+Google Drive.
+I'm actually look right now. I'll tell
+you. It's Granola,
+Google Drive,
+Gmail.
+I have a I have an app called Skill
+Refinery, Slack, ASA. So, those are my
+main ones that I use for cloud, but hard
+to do it in tandem with sales nav
+because
+you really can't pull anything. So,
+you're just you're just kind of like
+there. But I use it more so for if I
+have these filters, then how would I
+create ongoing messaging from there? So
+like I'll I'll just show y'all an
+example. This is not something I
+finished, but this is like again I'm
+just showing you how to think about it.
+I'm not saying this is completed copy,
+so don't be like Morgan, I don't like
+this email. Like no, that's not the
+point. I'm just showing you like an
+example. So what I'm doing is every
+single filter has a purpose. So for
+example, if we go here and look at less
+than one year and we look at someone who
+let's go back to Salesforce, right? And
+we look at 4 months and 3 years in the
+company. So I'm having Claude be like,
+what would that look like if they were
+at this mark? Now again, this needs to
+be adjusted, but the goal is is that I'm
+creating an email like this. But the
+reason I create an email like this is
+this email has already been successful
+based on another practice that I did
+with another client here for an example.
+So this kind of brings it together
+actually. So how do you use claude? Like
+the best way I think use cla is to find
+things that work and then leverage the
+things that work inside of cloud and
+then claude will be able to replicate
+that to reach out to more people. So
+this is this is what I coach people on.
+It's like it's not about going into AI
+and telling it to create something new
+because it will give you something
+pretty bad. You want it to base it off
+of something that already potentially
+and can be successful and then you go
+from there. Right? So this email is
+every single person that has used the
+product of this company and this example
+is churn zero. every comp every single
+person who has been at a comp who's been
+at the who's been at a previous company
+that is a current customer, a former
+champion and has moved to a new company.
+So this rep created this template of an
+email and this booked like a large
+percentage of his meetings, right? And
+so based on that, all I did was copy
+this example and then I put it inside of
+Claude and I was like, "Hey Claude, like
+this already works, right?" I basically
+took this email, it broke down the exact
+reasons on why this email is successful
+and I said, "What's the reusable
+structure?" We found the new things it
+can use it for. And then now here it's
+creating new templates. So you have
+template number one and then it's
+created this template. Template number
+two, it's created this template. And
+then template number Oh yeah, I told it
+to ask different questions. So now it
+created a different one. So this is like
+the new one. So if they're hiring a new
+SDR, I add in the STRs that's there. I
+I'm basically saying that means that
+you're building this. I'm not assuming.
+Here's what's being said. Here's the
+ramp time.
+So I'm just I'm playing
+a different game based on this.
+So this is this is the this is like the
+way I'm thinking about it.
+Exactly what you're saying. Like I'm
+taking all the insights that I would
+find in sales nav and I'm creating
+campaign based messaging on this and
+being like can I do relevancy based
+messaging at scale which is what
+everyone's trying to find. My belief is
+that there isn't like personalization at
+scale
+cuz that's an oxymoron to a degree but
+you can be relevant at scale and I
+believe we're in a we're in a world more
+of relevance because nobody like
+believes in anything anymore. So, like
+what I'm doing is I'm just saying, hey,
+how do I
+how do I take every single thing that I
+know to be true inside of sales nav and
+then correlate that to actual legitimate
+messaging that I can use it for?
+And this is what I did as an SDR.
+This is what I even do today. I find
+that the emails where it's just like I
+know this is a problem on a consistent
+basis. I have a higher chance of winning
+than
+trying to I don't know
+Mosart. It's probably Picasso and email.
+[laughter]
+I'd rather do that. So that's what uh I
+would say here across the board. Uh,
+Jesse, a couple things. I use
+Apollo, but then I also use
+Claude
+because I can validate emails
+based on the public emails that are out
+there for other people at the company
+and then it can do a cross reference and
+match and then create a potential email.
+So basically every single email at the
+end of the day, right, h has a certain
+framework about it. It's either first
+name, last name, uh first letter, last
+name, whatever it is. So I can claude
+can go find emails that are similar to
+that and then give you a guess if you
+cannot find it in your data source. So
+that that's how I do it. I just make it
+make it pretty pretty straightforward. I
+try not to try to make complicated. Um,
+so yeah, that's what again as y'all see
+what you're what I'm doing here is I'm
+finding for each insight and data and
+data, oh my gosh, uh, data and ada, I
+can't say data, data and insights from
+LinkedIn sales, I'm creating that and
+then I'm creating a template off of
+this. So now I can have better messaging
+in what I do. So every single person
+here, if you were to ask yourself, what
+are the main three to five things that
+like if I were to email someone or I
+know these are trigger points, they're
+relevant, you need to create an email
+for it.
+This will make your life easier. So
+because if we go here, right,
+I know if someone is hiring SDRs,
+it's going to hit. I know if they
+brought in a new enabled person or
+leader, it's going to hit. I know if
+they're hiring a lot of AES and they
+have the sales source prospect, I know
+it's going to hit. I I know these things
+are going to hit because that's what
+people bring me in for. So, you need to
+have at least three to five of these,
+but have Claude just like create it for
+you. And that's what I did here. I don't
+know. I haven't tested this out at the
+scale of scales, but what I do know is
+that like if I do this, boom, we're good
+to go.
+So this is just the way to think about
+it and why sales navigator is so
+critical and so important.
+And
+my last filter I'll share here as well
+because cuz we talked about a lot of
+different things is
+I think this one is
+underrated to a degree but I think it's
+something you need to tap into. Posted
+on LinkedIn last 30 days. Now for
+everybody here, the thing that everybody
+needs to you definitely want to focus on
+more of um is okay question. How do you
+find the intent on looking for execs who
+are hiring ages? Uh yeah, basically
+there's two components here. You can
+literally just go into change jobs and
+let's just pick a company. I think they
+are I looked at this the other day and
+then I'll go here.
+Yeah. Okay, cool. So uh wait that's not
+right but yeah okay out this actually a
+good example. So outbound SDR SDR
+manager outbound account executive
+outbound. Okay. So what does this mean?
+That means that they're my assumption is
+I'll tell you right now if I talk this
+company they probably have 70% inbound
+coming in right now across their entire
+organization. But now what's happening
+is board and everyone else is like they
+need to go up market. They need to do
+more prospecting. And then also as well
+that means that they are now being
+tasked to a number. If they're hiring an
+SER manager it means they're going to
+scale up their team. If they're hiring
+outbound account executives, that means
+that they're either full sales cycle or
+they need to own 20% of the number. I
+know this stuff already and you can
+cross reference this. So, if I were to
+go inside of Job Nimbus
+and have this do its thing,
+I can look
+and see.
+I can check here. I can see everyone who
+started positions here. So, I could do
+that. I could also look at account
+growth. Okay, nothing's there. But
+really, at the end of the day, if you
+really just want to do a further look,
+I'll just like just go look at the site.
+I mean, it'll pull up the site. I'll
+scroll down,
+go to careers, and they probably have
+openings for sales roles. Yep. SDR
+as well. They're hiring more SDRs, which
+means they're trying to build pipelines.
+So, that's how I do it. I know if you're
+hiring these people, I know what's
+basically going on because the goal is
+like to connect the dots. And so with
+sales nav is like I can just connect the
+dots pretty quickly because I've gone
+through these cycles. Like I know what
+people are looking for. I know what
+they're trying to do. I know what
+they're trying to take advantage of. So
+to answer your question, that's how you
+find intent is knowing that I know these
+execs are hiring these people because
+they have more pipeline to hit and these
+people are going to have to ramp
+appropriately. And you could do that
+with every account too. It's going to
+tell you. And
+my last point is this also can tell you.
+So this is 0% so it's not that high but
+some people I know I think they have a
+high one.
+If you go to Vanta
+um
+Yeah. Okay. But in the last 6 months,
+they've their job openings were 76% up
+for
+sales. But what's happening, I'll tell
+you right now, without even having to
+talk to anybody, they've decreased job
+openings by 10% in the sales company.
+Okay, that means that they probably
+overhired a little bit and they need to
+scale it back, which means that they
+need to update product. They hired,
+they're looking for 50% increase in
+engineering in the past 3 months, and
+they're also looking 257% increase in
+IT. It means that they're focused on
+product. They're focused on
+infrastructure and they reduce the sales
+team down so that they can increase the
+product and then they'll probably hire
+more people in the next 3 months. I'll
+just tell you right now if we came back
+in 3 months, they're going to hire more
+people. This is the point. The point is
+sales now just tells you what the
+business is doing and so then you can
+make assumptions. I'm not sure, but I'm
+probably pretty close. So that's why
+again if we go back to my messaging
+here, it it's it's just the way you have
+to phrase it. Hey, I'm not assuming
+there's a gap.
+I'm making an observation of something.
+I think there's a gap here.
+And then what are you doing?
+This messaging is how I think about
+things and getting people to reply or
+engage, whatever it is. I I think this
+is happening. I don't I don't know.
+And then based on that, I make a move.
+So, let me show you like a live example
+cuz if you're like, oh, like where does
+this play in the messaging? So,
+uh,
+this is a good example.
+So, here
+we were connected. I don't know why I
+got connected, but that's not the point.
+If you look at my, if you look at my
+message here, I said, "Browsing on sales
+nav, stalked a little bit, hired seven
+regional directors, their AES in the
+last 3 months. Is sales sourcing for
+those reps a big priority right now?"
+And then he didn't reply. Then I
+followed back and asked for feedback. He
+said it is. I don't have budget. I said
+cool. We can follow up later. And then
+it led into um you know reach back in
+October, November. Cool. Like this is
+like this is why I use sales now. I
+browse on sales now. I found this thing.
+I just said is this something you're
+doing? It is no budget. Cool. Whatever.
+Now we have a conversation moving
+forward. This is how you have to think
+about sales now. It's like it just gives
+you all the insights you need and then
+you can fire off you can fire from
+there. So that that's the way that I
+think about these things and how you all
+can think about the same thing too,
+right? That that's the main thing. So in
+this conversation today, those are the
+main highlights I wanted to share,
+right? Change jobs.
+We showed that example. That's kind of a
+bonus. Post it on LinkedIn. definitely
+be using this because this is how you
+build your network. Send people blank
+connection requests in the evening time
+frame. You'll see a higher acceptance
+rate. And because you'll see a higher
+acceptance rate, right, at the end of
+the day, you're going to right get more
+people
+more people to engage with you. And when
+you have more people engage with you and
+build your network, you're going to get
+higher acceptance rates from the mutual
+connections.
+And then we talked about connections of
+if you're not running that play 100%
+[snorts] do that.
+And then as well you're going to
+build this lead list we talked about and
+then also the past job. So if I were
+coming out of this call today and then
+we'll wrap up and then we'll see if any
+questions. I saw some questions so I'll
+answer them. I would I would tap into
+post on LinkedIn last 30 days. I would
+send out more blank invitations to get
+higher acceptance rates to increase your
+network. Then I would focus on if I'm
+going after big companies who has been
+in the position less than one year, let
+me prospect into those people. Let me
+start conversations. And I would build a
+lead list of people that you have closed
+and worked with and also people as well
+that you
+have closed the like lost a deal with so
+that you can keep tabs on them. Those
+are the three things I would do coming
+out of this conversation when it comes
+to sales nav. Now to answer the question
+as well, uh
+the reason for the blank connection
+request is because it's ambiguous. If
+you psychologically think about the
+platform itself, most people will send a
+note in the connection request and
+because most people when they send a
+note, it ends up being
+let's say cringe to a degree
+or let's say cr let's say cringe. Cringe
+is a good word because it's like cringe
+because like if you send someone a note
+normally they get followed up
+immediately and get pitched. So that's
+uncomfortable. That's annoying. Nobody
+wants that, right? Like I don't I don't
+think you want that either. So that's
+why people accept it more. That's my
+reasoning. But in doing these workshops,
+every time that I say do the blank
+connection request, it's increased the
+acceptance rate. So that's why I've been
+kind of beating the drum on it, saying
+like, hey, like do this now [laughter]
+uh before it's too late. Um not too
+late, like people are still going to do
+it, but this is the way you want to
+think about it, right? So
+then to follow up on that uh posting
+I would say it's truly an AB test. I
+don't think there is even a right or
+wrong time to post at this point. the
+the LinkedIn algorithm is so
+helter skelter I think is the best way
+to put it that I would just encourage
+you at the end of the day to focus on
+three posts a week
+being extremely quality
+and locked in on that
+and I would post between 8 to 11 local
+time but if you were to post in the
+afternoons I would do like 3:30 to 4:30
+local time.
+How are you?
+Uh yes, I would focus your headline on
+keeping it super simple and super
+straightforward. Uh let me show you
+somebody who has gone through our
+training before. Oh, actually this is
+actually a great example. Okay, so Josh
+Josh has booked books 80% of his
+meetings on LinkedIn. Now he's he's
+switched up his branding because he's
+doing more um consulting, but
+he is an account executive
+and he books 80% of his meetings from
+LinkedIn, right? And he hit his annual
+number
+last year by June and I think he's going
+to hit his number again, his whole
+annual number I think in the next month.
+So he's a good example that we can point
+to. So to answer your question, it's
+pretty clear what he's doing, right?
+This isn't confusing.
+Now,
+you can add your your job title to
+internet or internet. I don't I just
+don't think it's necessary, but
+you being an STRE is not going to book
+you more meetings. That's not going to
+move people. Respectfully, of course.
+Right. So,
+what I would recommend you do is
+really lock into
+and focus on
+how to make it super clear.
+I'm helping Australia and New Zealand
+teams find the optimal answer with
+mathematical optimization. Cool. We know
+exactly what he's up to. So, Vicram,
+that's what I'd focus on there.
+Okay, cool. Anyone have any lasting
+questions? I'll go into what we got
+going on over here.
+But lasting questions, now is the time.
+Okay.
+You're welcome. All right, y'all. So, I
+got something I got something cool to
+announce y'all cuz I'm actually fired
+about this cuz I've been working on this
+since like late Feb,
+early March. So, as of yesterday, we got
+we got a new site. I'm actually I'm
+actually really excited about this. We
+got a new site. I've been building this
+for a while. I'm actually really excited
+about it. So,
+in this new site, what what are we
+talking about? So everything that I've
+walked you all through today, well a
+component of it is what we do for sales
+teams. Now if you're an individual
+contributor,
+uh you obviously can bring this up to
+your leadership, but we mainly work with
+B2B sales teams and organizations. And
+so the cool thing is, you know, we've
+been able to see some incredible
+opportunities with our program called
+Sales Team 6. and and with one of our
+clients, as you can see right here, uh
+45 days after, $21 million pipeline
+attributed to them in within that 45
+days, walking through this sales
+navigator portion, we go through cold
+calling, we go through social selling,
+we go through video prospecting, we go
+through being more creative, how to
+sound like a human, not a robot. Uh and
+then this is the results that we bring.
+Obviously, you can read what's going on
+here. So, this has been awesome to do.
+Uh it's a fourmonth program which we're
+diving into right now and we are just
+obviously cranking. So you can see
+obviously everything that we've been
+working on. I'm just really excited to
+share of this website and as you see
+right here, it's a 4month program we
+have here. We're doing a diagnostic.
+We're teaching people exactly, hey, this
+is how you get better at prospecting.
+Again, a snippet of what you learned
+today. And then we go into the coaching
+side of like actually getting people
+better at what they do. So yeah, I've
+been really buzzing to create this
+website. We're live. We're here now. Uh
+and then AC across the board, uh you can
+come check out the site. So I'll drop
+the site in here. Uh it has all the
+breakdown of what the program is, what
+the investment is, uh starting at 30
+grand as you see here. But yeah, if
+you're a sales leader and you're like,
+man, I need my outbound to be better.
+like, I don't know what my team is
+doing. I need some help. Uh, this is
+what we're focusing on. Getting people
+to get more responses, getting them to
+be more magnetic, intuitive, and
+consistent, and ultimately getting more
+meaningful pipeline across the board.
+So, if you are a leader and you're like,
+man, I I need to figure this out. Come
+check out the site. We can talk. If
+you're an individual contributor and
+you're like, man, I need my team to get
+on this. Like, this is good info. We can
+talk and we can go from there. So, for
+everybody else, if you have any further
+questions, now is the time. Uh, but
+that's what we're working on there.
+Again, we're excited to to get this
+rolling even more off of this site we
+built cuz we got some pretty cool
+developments that are happening and uh
+we're staying we're staying locked in.
+We're staying locked in. So, anybody
+have any lasting questions before we get
+out of here? If not, uh I will this is
+rapid fire, so this is the last chance.
+If not, uh, this is our last episode of
+the season for everybody that has come
+to these. Appreciate you hanging around,
+coming through saying what's up. And
+also as well for everybody, we'll come
+back, you know, maybe and sometime soon
+with with season two, we're going to
+make some tweaks to bring even better
+guests and brighter content across the
+board. So, we appreciate everybody uh
+along the way. And then, yeah, Jeff,
+that was someone that I worked with.
+Bobby was someone that I worked with.
+So, you're only going to put people in
+there that you've worked that you've
+worked with.
+Cool. All right. Well, hope everyone has
+a blessed Friday and also Memorial Day
+weekend. Hope you have a good weekend as
+well and we'll see you all on the next
+one. We come back for season two.
+Cheers, everybody.

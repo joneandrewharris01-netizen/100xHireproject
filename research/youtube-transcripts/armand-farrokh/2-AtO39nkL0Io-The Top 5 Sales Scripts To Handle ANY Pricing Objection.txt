@@ -1,0 +1,934 @@
+Metadata:
+{
+  "expert": "Armand Farrokh",
+  "channel_name": "30 Minutes to President's Club",
+  "video_id": "AtO39nkL0Io",
+  "title": "The Top 5 Sales Scripts To Handle ANY Pricing Objection",
+  "video_url": "https://www.youtube.com/watch?v=AtO39nkL0Io",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 918,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+Let me just get this straight. So,
+you're telling me that every single
+customer in this situation gets no more
+than a 15% discount.
+>> Yes.
+>> Really?
+>> Yes.
+>> How do you [laughter] close business?
+>> This is Todd Capone. He's negotiated
+over $100 million in deals as a top
+[music] rep and chief revenue officer.
+And he's also written the top-selling
+books on B2B negotiation in existence.
+[music] And today I am putting him to
+the test in a live negotiation roleplay.
+I'm going to be a grueling prospect and
+throw every single pricing objection I
+can think at him from massive discounts
+to payment terms to shorter commitments
+to even the end of quarter deal slip.
+And by the end you will know how to
+handle literally any B2B negotiation
+scenario that you run into. And Todd
+claims that he can do this without
+eroding any trust or hiding anything in
+his negotiation. And if you want to go
+deeper on this, Todd built an entire
+course on B2B negotiations in partner
+with us called Four Levels Negotiating.
+The link's down below. Todd, welcome to
+the show.
+>> Good to see you.
+>> All right, so what's the tale of the
+tape?
+>> Okay, in this scenario I'm playing an
+account executive, so I'm the one doing
+the selling. I'm having a conversation
+with a chief marketing officer of a
+large retailer called Banana Republic.
+You may have heard of them. And we are
+now going to have the initial
+conversation where we are talking
+through the pricing model.
+>> And we give 40% discounts all the time,
+so I figured you would give a 40%
+discount.
+>> I bought this sweater on a 40% discount.
+This is a Banana Republic sweater that
+I'm wearing right now.
+>> over clothing here, okay? So, you got to
+give me the
+>> the same.
+>> Exactly.
+>> Okay, so before we dig into the
+roleplay, a couple of things that just
+to keep in mind. In this circumstance,
+we're talking about a CMO that is likely
+helicoptering into this conversation.
+Meaning there's been or there should be
+conversations that have happened before
+with other individuals around what the
+pricing model is and we've probably
+already introduced the four levers to
+them.
+Now, in this case we've got a CMO that's
+helicoptering in. I'm having the initial
+conversation with them just like I would
+do in a proposal, which is laying out
+the first three of the four levers. And
+then as the conversation goes on is when
+I get firm about that fourth lever
+because again,
+this is a goal-line conversation. This
+is a conversation where they're asking
+for things and there is an opportunity
+to mutually align around the timing.
+>> All right, folks. So, let's jump into
+the first pricing conversation. At the
+end of each key riff, we're going to
+pause and break it down. 3 2 1, let's
+roll.
+>> All right. So, Armond,
+great having this conversation with you.
+Appreciate the alignment around the
+recommendation. Let's talk about the
+price and the pricing model. So, as
+we've talked about with the rest of your
+team, the price is really primarily
+driven by four things.
+The first one is volume. So, your price
+is based on a CPM, cost per mille.
+You're familiar with that term. It's
+cost per thousand emails sent.
+So, this is email marketing software.
+So, you are making a commitment to a
+certain number of sends over the next 12
+months and your price is based on that.
+And you've earned tier discounts based
+on that volume commitment. The other
+levers are number two is your price is
+based on the timing of payment or timing
+of cash.
+The payment terms in this contract are
+upfront annual net 30 payment terms. And
+it is also reliant on a length of
+commitment commitment. In this instance,
+this is based on a minimum of a one-year
+commitment. The fourth lever we will
+talk about here in a minute, but it is
+in alignment around timing or the timing
+of the deal as there's value in our
+ability to predict, but we can talk
+about that in a little bit, but at its
+core, your price is based on the volume
+primarily and that is a CPM based on
+your volume commitment over the next 12
+months.
+>> Got it. Okay, cool. Um so, what is the
+price?
+>> Okay, so based on your anticipated send
+of 3 million emails per year, you have
+earned a tier discount which takes you
+to a CPM of $20 per thousand or CPM,
+which takes you to a total of $600,000
+per year.
+>> Holy cow. Okay. Um
+that is that is very expensive.
+That is a lot more than I thought it was
+going to be. Okay.
+>> More than you were expecting. Okay. Um
+tell me about that. What kind of level
+were you anticipating for a solution
+like this?
+>> Yeah. Um with our with our existing
+provider, we've been there with them for
+a while, and so we're down in like the
+10 to 15 CPM range, and so we've been
+grandfathered in, and this is literally
+like almost doubling the investment, and
+I I think you guys are great, but I
+don't I don't I don't know if it's
+double the value.
+>> Okay. So, he has asked for a discount
+without actually asking by indicating
+that the price is almost 2x not only
+what he was anticipating, but their
+current vendor. Now, couple of things.
+Here's why this is probably unlikely to
+be a real reaction.
+We have set a expectation all through
+this process. This is a client that is
+looking to upgrade their solution
+from what they're currently using to a
+more premium solution. We have already
+set that basis. So, what Arman's likely
+doing here is trying to just be a jerk
+and see what he can get, see if he can
+fluster the deal, see if that he can get
+a discount in a massive way by just
+acting like he is willing to walk away
+right away based on the fact that he
+feels that our pricing is ridiculous.
+>> Yeah, so one of the things in Todd's
+four levers pricing framework is the
+fact that early on in the sales cycle,
+he has laid that talk track out with
+every single person involved in the
+sales cycle. So, as the deal goes up,
+every single person who gets added to
+the deal already knows this pricing, and
+so at this point, I'm kind of just
+trying to blow the deal up and see if I
+can strong-arm him into giving me a
+discount, which honestly, usually as a
+buyer in the past, I have been able to
+do that when I was VP of sales. So,
+let's jump back in knowing that anyways.
+>> Yeah, so I might have a conversation
+with the CMO at this point about a
+willingness to walk away. All right?
+Confidence is contagious. If you are a
+startup and you don't have any clients,
+then this could be a valid thing that
+he's asking for, that maybe
+where you're trying to value your
+solution is not what the market will
+bear. But, we're a company that's got
+10,000 clients, right? And they're
+paying the market rate for this. So,
+given we've already had the human
+conversation, I might address it this
+way. So, he has told me that we are
+probably 2x what he's currently paying.
+All right? So, Armando, I understand
+you're right. Like, we are a premium
+solution, which is part of where all the
+excitement from the rest of your team's
+been coming from through this, is your
+organization's been looking for an
+opportunity to inject a premium solution
+since marketing is such a core element
+of how you drive your revenue. So, if
+there is a concern about the price, we
+can talk through that together. As I
+mentioned, our price is based on four
+things.
+If you'd like, we can have a
+conversation and walk through it and see
+if we can get to a little closer to
+where you need to be.
+>> Yeah, I mean, I at Banana Republic, we
+give our customers discounts all the
+time. And so, normally, I'll be honest,
+normally, I am able to get at least a
+40% discount out of these conversations.
+And so, that's my expectation is like,
+look, you you and I were both in the
+world of uh
+SaaS purchasing or whatnot. And I know
+that nine times out of 10, the price is
+not the price. So, let's let's talk
+through what you have.
+>> Okay, cool. So,
+what we've done with our pricing model
+is create a structure that
+establishes a consistency, because we'd
+hate for you to be paying more than one
+of our other customers. Right? So, we're
+trying to create a consistency within
+the confines of hey, you're investing
+more than another client, so you should
+be getting a better CPM, which is how
+the pricing is structured. So, let's
+walk through these together. The volume
+component, I think what you guys have
+estimated is right on. And so, if you
+want to make a larger commitment, you
+can, and that would earn you a lower
+CPM, but I don't think that's
+appropriate given the circumstance.
+>> Yeah, I don't see us sending more emails
+than that. I mean, we could and we're
+not sending less emails for the sake of
+fitting into a software. So, I think the
+volume is the volume. Um I think just
+the overall CPM needs to come down.
+>> Okay. All right. Well, the way we can do
+that is to look at these other three
+levers then. So, the second one is the
+timing of cash. Now, the way that we've
+structured this agreement is an upfront
+annual net 30 payment. Not really a
+whole lot we can do there. So, let's
+move on to the third one, which might be
+the opportunity. You've been working
+with your current provider for a number
+of years, and we anticipate that we're
+going to have a great relationship, and
+this is going to go swimmingly. And
+given that, if there's an opportunity
+for us to make a longer commitment,
+that's something we would pay you for in
+the form of a discount. So, the price is
+based on a 1-year commitment. If there's
+an opportunity to take that out to a
+second year or even a third year, we
+would pay you in the form of a 5%
+discount per additional year up to 3
+years.
+So, if you take that 1-year, make it a
+3-year, we can lower that CPM by 10%.
+>> Yeah, so we've done
+a 3-year deal
+before,
+but usually that has included a
+termination for convenience clause or
+some sort of pilot period where we can
+make sure that it actually works for the
+first 6 months because I can't commit to
+36 months of software for something that
+demoed great, but I still don't know if
+it's actually going to work. I'm willing
+to explore longer term commitment, but
+not unless I can have something that
+de-risks this for me, so that I know it
+doesn't break in the first 6 months.
+>> Absolutely. All right, cool.
+Out of character for a second. Let's put
+a little context on that one. A lot of
+times people will ask for a concession
+and they will give no context to it all.
+He's done a really, really good job of
+explaining, "Hey,
+I'll make a longer commitment, but I'm
+worried about the risk. What if this
+doesn't work?" We have termination for
+convenience in contracts like that. I
+can go right into the re-explanation.
+Okay? So, it sounds like this.
+So, totally understand that and I align
+with it. You know, making a long-term
+commitment can be risky, certainly.
+However, the way that the pricing is
+structured, as we talked about, it's
+based on those four things. How much you
+buy, how fast you pay, how long you
+commit, and that mutual alignment around
+timing.
+Termination for convenience or doing
+pilots,
+that actually represents no commitment.
+And so, if you want to go down that
+path, you can. I'm not sure you're going
+to like it, because it would actually
+change the pricing model and reduce the
+commitment that you're making, which
+would be reflected in the pricing. But,
+before you freak out, remember, you've
+got protections in the contract if the
+technology does not do as promised. As a
+matter of fact, there's a clause here
+around warranty, which again, we have
+stated what the outcomes should be, and
+if they do not align, you've got an
+opportunity to get out of the contract
+there. There's also termination for
+cause. So, if there's certain things
+that happen during the agreement period
+that conflicts with anticipated
+environment, anticipated relationship,
+you've got the opportunity to get out
+there. And we actually have service
+level agreements in the agreement, too,
+which talks about uptime. So, again,
+you're protected in multiple ways if the
+technology does not do what's
+anticipated
+Under the assumption that it will do
+what's anticipated, your price is based
+on a commitment. So, you can have those
+things, but you're probably not going to
+like it, but you're protected anyway.
+>> Yeah, I just know that there's the
+there's the
+in theory in a demo environment we can
+support an enterprise customer, and then
+there's the
+reality of what happens when I get a CSM
+who has no idea what's going on, and
+then next thing you know, the product
+breaks when I do too much email volume,
+and it's not as customizable as it was
+made out to be and all that stuff. I
+don't think that stuff would be covering
+covered in like the standard warranties
+and stuff like that. It's It's so it's
+hard to commit to a 3-year deal knowing
+that.
+>> Right, so I can send over what that
+pricing would look like with a
+termination for convenience clause, with
+a pilot period as well. I We're We're
+happy to do that. I I think, you know,
+during the conversations with the rest
+of your team, we've gotten them to a
+level of comfort, which has actually led
+to us having this conversation. So,
+we're happy to explore those things if
+that would help. I will tell you this.
+Um
+when we think about
+creating a great outcome for you,
+our
+goal always is to create outcomes that
+you never even thought possible. And I
+know that sounds cheesy, but where I'm
+getting at here is we take our best
+resources and put them on our most
+committed customers. And so, in a
+circumstance like this, it's part of the
+reason we don't do the pilots
+is that we don't want to take our best
+resources and put it on our least
+committed customers. So, maybe it
+warrants having another conversation
+with the team just to get you to another
+level of confidence that the solution is
+actually what it says it's going to do.
+And I would recommend having a
+conversation with the lawyers, and make
+sure that they feel comfortable that in
+the circumstance you just explained,
+that the language around warranty,
+termination for cause, and service level
+agreements
+aligns to the things that you're
+concerned about.
+>> So, to break character quickly, Todd,
+you probably see what I'm doing right
+now, but I'm a CMO of Banana Republic
+here.
+At this point in the sales cycle, my
+team has run multiple tests, they've
+probably done a custom config on the
+environment, they've gone through all of
+the testing around the technicalities
+and all that stuff, and they've probably
+already shared that stuff with us and
+with me.
+>> Exactly.
+>> I am kind of just trying to bull rush
+in this negotiation, and this happens a
+lot. And I'm just trying to use an
+overall claim of enterprise
+unreliability, which is a real thing,
+but if Todd has run a good sales cycle,
+he doesn't need to engage with me in
+that confrontation. He just needs to
+direct me back to "Hey, the reason we're
+here in the first place
+is because the decision was probably
+already made with your team, and they
+already wanted to move forward with us,
+which probably included a reasonable
+assessment of risk in the sales cycle."
+>> Exactly. And I'll add one other thing
+that I hear a lot that you got to be
+careful of is that kind of conversation
+leads most sales people to go, "Hey,
+let's get you some more references to
+talk to." And all of a sudden, now
+you've slowed down your close. What
+you're doing here is telling the client,
+"Hey, you're protected
+legally.
+You've got a team that has already done
+all of this homework that hopefully you
+have confidence in." And remember,
+the technology or whatever it is that
+you're selling, if you've got clients
+that are doing this in you know, with a
+level of success,
+it should be pretty easy for that CMO to
+be able to do a little bit of homework
+on their own versus trying to punch you
+into creating an environment where
+there's all of these termination
+provisions that do not allow you to
+recognize any revenue.
+>> All right, Todd. So, send send me the
+the proposal for what it would look like
+to do a 3-year deal. I think that gives
+me 10% off, so if it's 600k, that's that
+gets us down to 540, but the reality is
+like I need this to be closer to like
+400k. So, let's let's keep going through
+the other stuff you had. You said timing
+of the deal matters for you. So,
+does that get me closer to my number?
+>> Well, yeah. So, let's think about this
+for a second. So, the way that your
+pricing is structured and here are the
+cards, right? That you either can
+commit to more volume,
+um you can pay us faster, which really
+doesn't provide much of an opportunity
+here.
+There's long longer commitment, which
+we've laid out. So, the pricing
+originally was based on a one-year. What
+we're doing is we're paying you in the
+form of a discount for a longer
+commitment. So, that's the additional
+two years. And then the last one is the
+timing of the deal. So, before we go
+there, can I just take a step back for a
+second? The the timing of cash that we
+talked about in the first one, there's
+an opportunity there if you really look
+at it. That if you're willing to
+actually accelerate out your payment,
+turns out we like money, who knew? And
+the faster you're willing to pay us, so
+we've talked about upfront annual net 30
+payment terms, but if you want to pay us
+for year two and/or year three upfront,
+we would pay you in the form of a 5%
+discount for each additional year that
+you accelerate. So, you make the
+three-year commitment, pay us for all
+three years, and now we've got you down
+20% instead of just 10%.
+>> Are there people that pay 1.8 million
+dollars all upfront?
+>> It doesn't happen very often, but there
+are certain circumstances where
+companies love that idea of just getting
+that off of the books. In many cases,
+they're
+when they sign the contract, they're
+allocating the budget. If they've got a
+five-year budget, the dollars are
+already allocated. So, it happens, but
+I'm just giving you the option so that
+you understand how the pricing is
+structured.
+>> I think my CFO would slap me in the face
+if I asked him to pay 1.8 million
+dollars upfront.
+>> You know, it's worth a conversation. I
+know that sounds crazy, but we have had
+customers that have accelerated that.
+And again, tremendously valuable for an
+organization like us. And so, we want to
+be able to share in the value of that.
+We'd pay you in the form of a discount
+to do it. Again,
+you can say no, it's cool. And that's up
+to you. Have that conversation.
+>> Our shirts are $20, so I I predict we
+will have a cash flow issue if we did
+that, but I I can ask.
+>> All right, perfect. And then let's talk
+about that fourth one again. So, timing
+of the deal, we haven't really talked
+much about this one before, but as you
+can imagine, and your business probably
+experiences this as well,
+there's tremendous value in a business
+like ours in being able to predict.
+We've got investors that we set
+expectations with, so an accurate
+forecast really valuable. But then a
+solution like this, it requires
+resources that we're going to have to
+allocate and make sure that we're ready
+to roll.
+Our ability to predict when those
+resources are going to be needed is
+really, really valuable for both of us.
+But if you're willing to align around
+the timing of when you think, assuming
+we come to an agreement on the
+commercial terms here, if you're willing
+to align with me around how much time's
+left and when you think you'd be willing
+to execute this and get started, that's
+tremendously valuable to us and
+something we would be willing to pay you
+for in the form of a 5% discount. So,
+with that in mind, 5% discount, assuming
+we can come to some kind of agreement
+around the commercial terms here,
+let's walk through this a little bit.
+Like, what's your anticipated timeline
+around when you would like to get
+started?
+>> Yeah, so right now it's May. And the
+reality is we have to do a wind down in
+a process with our existing provider
+that takes a couple of months, um but we
+would probably run them in parallel a
+little bit.
+Because you're going to have customer
+data, the legal and IT review's going to
+be extensive.
+At a company the size of Banana
+Republic, I would expect that to take at
+least 6 weeks at a minimum, and that
+would be quick.
+>> Okay.
+>> And so, you're looking at best case, end
+of June if today's early May.
+>> Okay, cool. Perfect. Well, happy to lay
+that out for you, too. I know from your
+current provider to moving to us,
+you know, there's steps that we've been
+working with your team on to just help
+anticipate what that rollout's going to
+look like. That timing actually it
+sounds right on.
+Um you know, based on that, there's
+value in our ability to predict our
+business, like I said, and something
+we're willing to pay you for in the form
+of a discount. Assuming
+that we kind of go a little bit longer
+and a little bit of a buffer, there's
+value in our ability to predict this for
+July.
+So, you're saying end of June, this
+gives us an extra few weeks in case
+things slow down, in case this
+conversation takes longer. Um if you're
+willing to align with us around getting
+this thing done by the end of July,
+that's something we'd be willing to pay
+you for in the form of a 5% discount, as
+well.
+>> Yeah, so doing this in July would would
+be totally fine. So, I could get this
+down. So, now we've gone from 600, I got
+my 10% discount for committing for
+longer years if my team signs off on
+that. And then I've got the 5% discount
+for
+signing by July. So, that gets me down
+to a 15% discount total. So, we've gone
+from 600 to 510, which is still a lot
+more than what I'm paying right now. So,
+how do I get this closer to four in this
+case?
+>> Well,
+again, what we've done here is we've
+provided you the way to do that. Um
+I mean,
+maybe we have to start a little smaller.
+Our pricing is based on those four
+components. Uh based on how many email
+sends you expect to send, your pricing
+is based on that CPM, which is aligned
+to that amount.
+Upfront annual payments, have a
+conversation with your CFO about that.
+You might be surprised about the
+accelerating of the out year payments.
+The longer commitment and the mutual
+alignment around timing. And so,
+that's where we are.
+>> Let's actually go back to the timing
+timing of the cash piece. You said this
+is upfront annual.
+We're talking about a $600,000
+agreement. I should be asking for
+net 90 quarterly as the starting point,
+which would be pretty standard for a a
+massive contract like this.
+>> Okay. So, is that something that you've
+done in the past?
+>> The the vast majority of our contracts
+are between net 60 and net 90 of this
+size.
+And then typically we are getting
+quarterly payments and the fastest we
+tend to pay is semi-annual.
+>> Okay. All right. Well,
+as we talked about, the pricing is based
+on those four components. How much you
+buy, how fast you pay, how long you
+commit, and then that mutual alignment
+around timing. Our pricing is based on
+net 30 payment terms. If you want to
+adjust that, you can, but we would need
+to adjust something else. That's not
+going to actually help you get any
+closer to your goal of getting this down
+this dollar amount down into the 400s,
+but um
+we can talk through these different
+elements.
+>> Let me just get this straight. So,
+in in the world of SaaS,
+20% discount is where things usually
+start.
+>> Mhm.
+>> I am at a 15% discount and in return
+what I have done is I have now committed
+for 3 years
+and told you I'm going to sign
+by July
+and I'm paying upfront annual on top of
+that. You're telling me that
+every single customer in this situation
+gets no more than a 15% discount.
+>> Yes.
+>> Really?
+>> Yes.
+>> How do you close business?
+>> [laughter]
+>> Well, yeah. I mean,
+I I know gosh, it sounds hilarious, but
+um
+literally
+yes, we've built our business around
+creating a structure that allows us to
+be an ongoing concern and I'm assuming
+you would like to see us continue to be
+able to invest and to enhance the
+solutions and have that kind of a
+relationship with our customers. So,
+yeah. We've established a model where
+we've created a consistent amount. We
+have priced this not in order to see how
+much we can get out of you. We have
+priced it for the market. So, yes, you
+are paying exactly the same amount as
+every other client of ours that would be
+making a similar investment and getting
+the a similar solution.
+>> So, what you're telling me is this deal
+was up in the air between you and
+SurveyMonkey and we wanted to move
+forward with you all.
+If I went to SurveyMonkey and it was a
+close evaluation and they were willing
+to offer me the price at 360K, you would
+not come down $1.
+>> I we would come down based on the levers
+and what our pricing is structured
+around.
+>> all the 3 years up front,
+>> Exactly. Well, yes, if you wanted to get
+down to that level, absolutely. And if
+you feel comfortable that the
+price-value equation isn't working out,
+then
+I wish you the best of luck. I mean, go.
+SurveyMonkey is obviously a strong
+organization. They've they're around for
+a reason. They've got a pretty extensive
+customer list for a reason. So, I I
+would hate to see you go, but if it
+economically is not equating for you, I
+get it.
+>> Okay, so I know these are the rules that
+the sales team abides by. Uh there have
+been and I've seen this inside of our
+org, there are exceptions to the rules.
+I know we would be a marquee logo for
+you all as well.
+Um my request would be that
+we escalate this up to the CFO level
+because they are usually the ones who
+can make the exception here and I I
+respect that you are holding true to
+the commercial terms that you have
+latitude to pull on, but nine times out
+of 10, if I get in front of a senior
+financial buyer, they are able to make
+things work because of the size of
+customer we are.
+>> I understand that. Absolutely. We have
+you know, it's 2026.
+Um we have recognized very quickly that
+how much customers are paying. It's
+talked about.
+AI is exposing pricing models at this
+point. So, we have intentionally created
+a structure where we are giving you a
+price that every customer is paying, but
+giving you the flexibility within those
+for the things that we're willing to pay
+you for in the form of discount. And
+those again are make larger commitments,
+pay us faster, commit longer, help us
+forecast. So, you have the cards for the
+conversation with the CFO, and I'm happy
+to participate in that conversation
+whenever you're ready.
+>> Yeah. So, Tom, my request would be that
+you you discuss this internally and then
+we can come back and and have a
+discussion, but this this pricing is
+just I don't see us being in a position
+to move forward at this level. This this
+seems
+pretty out of out of out of the realm of
+possibility for where for where we are.
+>> I respect that.
+>> All right, pause.
+So, break down what's happening.
+>> Yeah, I mean, we've got a a customer who
+is misaligned around what the pricing
+expectation is going to be. And we've
+done our best here to lay out the levers
+to give them the tools to negotiate
+their own deal, to build confidence that
+our prices are priced. We have not
+gotten scared. If I lose this deal
+because it's a customer that is going to
+pay considerably less than every other
+one of our customers in a similar
+circumstance, that's bad for our
+business. That multiplies by every year
+they renew, by every upsell, by every
+single person the CMO talks to at the
+next e-tail retail conference.
+This multiplies over and over again. For
+the strength of your organization, for
+the strength of your wallet, we've got
+to hold firm around building confidence
+around the four levers, giving them the
+tools to negotiate their own deal. And
+this individual, Armand in this case,
+has gotten to the point where he's
+feeling some frustration because I'm not
+giving in.
+And in normal circumstances, guess what
+happens? They realize there's no more to
+be had, and now they've got a decision
+to make. Is this too expensive
+based on all the time that we spent and
+the objectives we were trying to
+achieve, they've got to come up with
+that answer on their own. It's not up to
+us to buy it.
+>> What I'm trying to do to Todd here is
+clearly I'm running up against stonewall
+after stonewall after stonewall. So, all
+I can try to do is get Todd to sweat a
+little bit in this scenario and get him
+to think about his forecast and the fact
+that this is a critical deal and a
+critical logo and maybe even internally
+this is on the radar of the CFO. And
+that's what I'm trying to do to show him
+that I'm willing to walk because as a
+prospect there is no cost to me walking.
+He's not going to tell me you're not
+allowed to have the deal anymore after I
+walk off this call. And so, I'm going to
+look like I'm walking. And so, that's
+what I've done.
+Funny enough, in the back of my head
+this actually reminded me of a CFO did
+this to me. His name was Ed. We jumped
+on
+seven calls in five days
+because every single time the call ended
+like that. He's like, "Nope, I got to
+think about it. You need to sharpen your
+pencil. Come back." And I came back and
+literally just said the exact same thing
+to him every single time. And by the end
+in the final one I was like,
+"Dude, the contract expires today. You
+got to sign this thing." And he signed.
+Because there is no cost to me posturing
+and walking away from Todd.
+>> Yeah, and there's part of the
+conversation that I had was reminding
+him that hey, it's no longer sustainable
+to have pricing that one customer's
+paying less than others and almost a
+reminder that that CMO is probably going
+to the retail conferences, the retail
+conferences. There's CMOs out there that
+are using our solution that Armand could
+actually probably call and go, "Hey,
+here's what I'm hearing from him.
+What are you guys hearing?" And if the
+answer is exactly the same, guess what
+happens? Your deal gets closed. The
+there's tremendous value in your
+willingness to walk away and that's not
+a gimmick. That's not a trick. You know,
+save your tricks for your junior high
+kids magic shows, right? This is
+you're creating a sound basis for all of
+your pricing, which impacts all of your
+deals. It impacts your wallet, your
+quota attainment, and it impacts the
+reputation of your entire organization's
+pricing structure. So, that confidence
+breeds confidence in your customers.
+They can sense it, and they know there's
+no more to be had. I'm telling you in
+this role play scenario, that CMO is
+likely going to go back and figure out
+how to pay the amount that we talked
+about. Otherwise, he's going to have a
+mutiny on his hands from the rest of the
+organization that is really excited to
+move forward with us.
+>> That was what I wrote down at the
+beginning is my full intention is,
+"Look, you're already vendor of choice
+at this point in the process.
+The reality is there's no way
+on a 150 K discount for this size of
+company that I am willing to change my
+vendor of choice at this point for like
+this importance of a purchase. And that
+is what you have to remember is at this
+point in the negotiation, usually the
+decision has already been made as long
+as you are not egregiously off on price.
+>> Exactly.
+>> So, folks, if you like this, Todd walks
+through literally everything you need to
+do in a negotiation that helps you close
+your deals faster because you end the
+negotiation earlier. It helps you close
+bigger deals like in this one where he
+didn't just give away the 40% discount
+that I was asking for, and also does it
+in a way where I can get as mad as I
+want, but at no point was he hiding or
+lying or anything like that and eroding
+trust. Nine times out of 10, we've
+actually rolled this out at 30MPC, and
+it has made our negotiations so much
+better. His course, Four Levels
+Negotiating, is now available. Go check
+it out down in the show notes. It is the
+best B2B negotiation course you'll find
+in the game. And Todd is actually giving
+you a gift for free, even if you don't
+pick up the course, which is we have
+five negotiation talk tracks that will
+literally help you handle any pricing
+objection you can get from discounts to
+shorter terms to pilots to termination
+for convenience down below in the show
+notes. And if you like that and you like
+this, you will love his course Four
+Levels Negotiating. Go check it out down
+below in the show notes.

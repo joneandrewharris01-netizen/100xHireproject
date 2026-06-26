@@ -1,0 +1,101 @@
+Metadata:
+{
+  "expert": "Alex Berman",
+  "channel_name": "Alex Berman",
+  "video_id": "krkfL2WuO2g",
+  "title": "Saving a $3,500,000 Agency for a Stranger in 51 Mins",
+  "video_url": "https://www.youtube.com/watch?v=krkfL2WuO2g",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 85,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+A stranger DM'd me about his three and a
+half million dollar agency, said it was
+falling apart and he didn't know why. 51
+minutes on a call together and I'd named
+the three structural problems killing
+it. Three problems that have killed
+hundreds of agencies I've worked with
+over 11 years. I've seen these same
+three problems across hundreds of
+agencies over 11 years. I've coached
+thousands of people on this stuff. I
+call it the demand first filter. Three
+questions. First, is your market losing
+money every week this problem goes
+unsolved? If you can't put a dollar
+number on it, you've built around a
+want, not a need. CB Insights studied
+hundreds of startup postmortems and
+found that the number one killer is no
+market need. 42% of all failures came
+down to the market not wanting it badly
+enough. Send this one-line email to 10
+prospects. Quick one, how much is this
+problem costing you per month right now
+roughly? If they don't know the number
+or give you something tiny, you've got
+your answer. Skip this step and you end
+up pouring leads into an offer nobody's
+buying, which just speeds up the proof
+that the offer doesn't work. And
+skipping that one email is more common
+than you'd think. And people still don't
+do this. Second question, is your
+service shaped around the client's pain
+or around your own skills? Because
+there's a supply-led version and a
+demand-led version of every offer.
+Supply-led sounds like we build
+AI-powered outreach sequences using
+custom GPT workflows. But demand-led
+sounds like we book qualified sales
+calls for B2B software companies that
+don't have a full-time SDR. It's the
+same service underneath, but a
+completely different close rate. Stop
+overcomplicating it, just do this
+instead. Third question, do you have a
+person or a system behind every job that
+could sink the business if it fails?
+Almost a quarter of startups die because
+they never filled a critical role. So
+draw a line down a page. On the left
+side, list every function. Lead gen,
+sales, fulfillment, client success,
+finance. And on the right side, write
+who's doing each one. If your name shows
+up more than three times, something's
+about to break. So pick the single
+function that would sink you fastest and
+get coverage there first. Ran out of
+capital shows up at 70% on the failure
+list. The money dried up because clients
+weren't renewing, and that happened
+because the service wasn't solving an
+urgent enough problem. So if you fix
+cash flow without fixing demand, you'll
+be back in the same hole in three months
+with less runway. And there is one thing
+you can stop doing right now that
+changes that. Once you stop doing this,
+everything gets easier. Once you've
+confirmed demand, lead gen becomes your
+biggest lever. Pull targeted lists from
+Scraper City filtered by job title,
+industry, company size, and location and
+start testing your proven offer against
+the right buyers at scale for $149 a
+month. But, the list comes second
+because demand validation comes first.
+If you need leads, check out Scraper
+City. For cold email coaching, check out
+Galen on Gold. And if you want to see my
+favorite tools to grow your business, go
+to alexberman.com/tools.
+The next video is coming up now.

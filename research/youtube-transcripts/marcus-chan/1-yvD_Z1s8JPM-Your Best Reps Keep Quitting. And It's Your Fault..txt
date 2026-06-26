@@ -1,0 +1,1259 @@
+Metadata:
+{
+  "expert": "Marcus Chan",
+  "channel_name": "Marcus Chan",
+  "video_id": "yvD_Z1s8JPM",
+  "title": "Your Best Reps Keep Quitting. And It's Your Fault.",
+  "video_url": "https://www.youtube.com/watch?v=yvD_Z1s8JPM",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 1243,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+I remember thinking that I trusted
+myself more than I trusted the company.
+I trusted my ability to do a good job
+more than I trusted the company would
+always put me in the right role with the
+right pay, etc. It really was just this
+kind of visceral fear like I felt it
+down here that I needed to be in charge
+of my success. Some of my leaders and
+mentors were the folks that built the
+business channel at T-Mobile and one day
+they were just gone. And I'm sure they
+had the reasons. It was part of a bigger
+vision. But to me, I found some of those
+departures shocking. And I didn't want
+to be one of the people that was
+shocked.
+>> Hey, welcome back to the Revenue Vault.
+I'm Marcus Shin, Wall Street Journal
+bestselling author and CEO of Bentley
+Consulting. Now, for about seven years
+now, a friend of mine, Adam Morris, has
+texted me the same question. Hey,
+Marcus, where's my invite? Now, I'm
+embarrassed to say I've known Adam for
+well over a decade, but you know what?
+100 plus episodes in to the revenue
+vault, I finally came. So, here it is,
+Adam. It took me long enough. Now,
+here's the reality. All jokes aside,
+Adam has earned it. Adam was a top 5%
+rep at T-Mobile out of literally
+hundreds and thousands of reps and then
+walked away in 2012 to build sales first
+recruiting. Now, thousands of searches
+later, he places sales talent all the
+way from the rep level all the way to
+the executive level and nothing else.
+So, he sees your hiring problems before
+you do. Now, here's what I love. Adam
+will tell a founder, a CEO, a CRO, a
+head of sales, a VP of sales flat out
+that their bad hires are system problems
+in a costume. Now, by the end, you'll
+know which of the three first hires you
+need, how to spot a people problem
+versus a process problem, and why your
+turnover is probably on you. Let's get
+into it. Hey, Adam, I'm so pumped to
+have you on. Now, here's the thing. I
+know before you started your business,
+you were in the top 5% at T-Mobile as a
+rep. Why walk away from all that in 2012
+to start a recruiting firm? Well, first
+let me say out of respect to the ample
+talent and my peers at T-Mobile, pretty
+often I would get to the top 5%. I was
+always competing, but I was not just
+sitting at the top for seven or eight
+years every minute of the day. We had
+gosh, we had like in mid-market we had
+like 400 reps. I'm guessing in
+enterprise we had like 200 reps or
+something like that. So yes, there was a
+group of us that were always fighting
+for the top, but but there was lots of
+folks that could beat me on any given
+quarter, but to answer your question,
+um, so I was there maybe seven or eight
+years. I had seen all sorts of reorgs
+and mergers. more importantly, failed
+mergers. Um, I've seen layoffs and every
+once in a while you see your senior VP
+walking down the halls and they've got
+two 19-year-old early grads from Harvard
+and they've got pink highlighters and
+um, you just always knew in the back of
+your mind with a big corporation
+like T-Mobile that one day your future
+could be decided by somebody else. Now,
+I had a kid at the time. Uh, my son
+Jackson was probably 2 and a half and my
+wife was pregnant and we had found out
+that she was pregnant with twins.
+And if you combine all those things, I
+started to get worried. I started to
+panic a little bit because I had one and
+two on the way and I think the merger
+with AT&T had just failed. Uh, I it
+could be a little off time-wise, but I
+remember thinking that I trusted myself
+more than I trusted the company. I
+trusted my ability to do a good job more
+than I trusted the company would always
+put me in the right role with the right
+pay, etc. So, one day a really good
+friend of mine who uh Marcus, you know,
+his name was Chris Shadlock.
+>> Um,
+>> yeah, he ran
+>> That's right. He ran West Coast Careers
+up in Seattle and he had been bugging me
+for a long time to franchise his company
+in Portland. And so one day I just said
+yes. And I went up and lived with him
+for about two months. I ordered like a
+$70 bunk bed from Walmart and had it
+shipped to his house. and I lived in his
+home office and left my super supportive
+uh slightly upset wife at home with
+three two infants and a toddler. Chris
+taught me how to run an agency. The work
+was not that much different than being a
+sales rep. It's really just a a grind
+and you apply the same skill set. You
+just change a few things to be a
+recruiter. And then a few uh years later
+uh I bought out of the franchise
+agreement and then I I made it an
+independent agency Salesfirst. But Chris
+Shabbach and I are still really close
+friends.
+>> Wow. I mean I just want to take a step
+back Adam because
+>> yeah was what I think is and actually
+I've never heard this part of the story
+which is actually kind of amazing right.
+I mean so here you are consistently top
+performer right a large organization.
+You're making a great income. me the
+great life. But not only that, not only
+do you have like a young son now, your
+your wife is pregnant.
+Most people at that point, they're like,
+I need to have that more. I need more
+stability. I got like buckle. I need
+those health benefits. I need all those
+things. And then you you said, I'm going
+to do the complete opposite of what most
+people probably do. Hey, it's awesome.
+It's a great life we have. I'm going to
+say goodbye. I'm gonna leave my wife for
+two months, move in with a friend in
+like, you know, up north and learn this
+whole new business while my my my wife's
+at home with like basically three kids.
+>> Yeah.
+>> What gave you that courage to be able to
+draw a line in Santa and make that move?
+>> My wife was wondering the same thing.
+She did not fully see the vision. Uh,
+but she now agrees it was the right
+move. But it really was just this kind
+of visceral fear like I felt it down
+here that
+I needed to be in charge of my success.
+And um now realistically I've had plenty
+of friends who have been there for 20
+plus years now, 25 years some of them.
+And so um could I have stuck around and
+been loyal to that company for decades?
+Probably. They're absolutely amazing
+organization. But there were also folks
+who were shown the door where I was
+legitimately surprised. Some of my
+leaders and mentors were the folks that
+built the business channel at T-Mobile
+and one day they were just gone. And um
+I'm sure they had their reasons and I'm
+sure it was part of a bigger vision, but
+to me I found some of those departures
+shocking and I didn't want to be one of
+the people that was shocked. And no,
+there's other challenges I deal with as
+an agency owner that I didn't have to
+deal with as a a rep insulated by a
+multi-billion dollar organization with
+hundreds of thousands of employees.
+Actually, maybe not hundreds of
+thousands, tens of thousands, a lot,
+>> but it was a good trade-off for me.
+>> Hey, I want to pause on something before
+we keep going here. Everything we have
+been talking about, the leaders I see
+get the biggest breakthroughs are the
+ones who can actually quantify the size
+of the problem before they try to fix
+it. So, I built a free revenue leak
+playbook to help with exactly that. The
+calculator shows you the real dollar
+cost of your current win rate and
+pipeline gaps in a 30-day diagnostic and
+a 30, 60, 90day action plan. So, if
+you're running a B2B sales or with at
+least five to 25 plus reps, go grab it.
+Link is in the description below. Okay,
+where were we? You know, I think it's I
+mean, what's what's what's so cool,
+right, is uh because you and I started
+working together probably a little bit
+after that time, right? Because I was I
+was a sales manager. I needed people on
+my team and you were you were a huge
+part of of our success of being able to
+find the right talent, help me grow the
+team because I I had to do basically
+rebuild and go on from there to other
+roles too. But um it's been really cool
+to see obviously your success, right?
+This is like well over a decade later
+and you have now done thousands of
+searches.
+>> So with that being said, in your
+experience now because you've worked
+with so many different organizations,
+when do companies finally realize they
+need a real sales hire versus like
+shooting from the hip? Sure. So, let me
+set a couple parameters. First, let's
+talk about a founder-led company. Um,
+and let me also say that uh I'll share
+some patterns I've seen, but by no means
+is this every situation,
+>> but I think you might suspect that a
+founder thinks, "We need more revenue. I
+want to hire a sales rep." And that
+happens. But I think more often than
+not, one day a founder realizes that
+they're the vital net. And sometimes
+they're happy when they figure that out
+and then sometimes it they uh they don't
+want to believe that, but then they
+finally come around to it. And it's
+really common for a founder to want
+control of their business because they
+spend the first couple years just trying
+to build systems that they can control
+and they can get this business moving in
+a direction. At a certain point, they're
+going to realize that every deal
+requires their involvement
+and that is stopping them from building
+out another part of the business that is
+in need. could be operations, it could
+be marketing, it could be anything. And
+so if a founder is spending all of their
+time selling, they start to have the
+thoughts that they need somebody to help
+them.
+>> Yeah, you're so spot, right? Cuz I
+remember I think my own business, right,
+when as I started as a a solarreneur,
+started hiring people and then in 2021
+was my realization. I I was a huge B. I
+actually remember the exact moment. I I
+literally remember like because this is
+like
+>> co was kind of starting to wrap up a
+little bit if you will u and you things
+are opening back up and I remember it
+was July 2021 and I basically had been
+running with basically virtual assistant
+just me
+>> and I went to Hawaii uh Maui. It was our
+first vacation like a year and a half
+because of COVID right and I'm excited.
+I'm like, this is the break two weeks.
+>> And I go out there and it's amazing time
+and I said, I'm not going to run any
+sales calls. I'm not going to do any
+business, right? I might just like kind
+of work my team here and there, get some
+stuff done, but I'm not going I'm not
+going to really take any calls. And we
+did half the revenue that month, over
+half the revenue. And I was like, "Oh my
+god, this is horrible. I'm such a I'm
+I'm the bottleneck. I can't have this
+happen. I cannot take vacations." Right?
+So at that it was wild. So then at that
+point then I we you know I I built out a
+BDR team. I built an AE team on my team.
+We we started scaling from there and
+that following in 2022 you know we had a
+banner year but and also like I had more
+bandwidth. I could focus on other
+products. I wrote a book it became a
+Wall Street Journal bestseller. I can
+start scaling other parts of the team.
+It was it was a whole different like
+world. I'm like oh wow. Now
+what we see sometimes right and you kind
+of mentioned this before right cuz you
+had mentioned like that first sales hire
+is so critical and you split them into I
+think the shadow replacement and builder
+right yeah first what is that and then
+which one do leaders get wrong the most
+and what's really the teller of
+determining what's the best type of
+person to hire
+>> so a a shadow rep you might call a sales
+assistant But I I really I slept on
+those terms for about a week because
+there are so many situations
+and um I thought a shadow rep, not that
+they're a shadowy figure, but they're
+essentially there to shadow the owner.
+But really, it's somebody who works
+closely with the founder, who takes
+stuff off of their plate, but doesn't
+fully replace them on the client-f
+facing side. And so, um, so you'll have
+maybe a founder who has a certain way
+they like to do things
+and they don't want to pass that off to
+somebody else. They just want somebody
+to take parts of it off their plate so
+they can continue to be the client-f
+facing representative. So
+>> they're almost like type of rep. Is that
+how you kind of see it?
+>> More often than not, it is
+>> a more green. Yep. Got it. Yeah.
+>> Yep. So that's what I call the shadow
+rep.
+>> A replacement rep is when a founder
+hires somebody with the intent of that
+person fully replacing the founder in a
+sales capacity. And a builder is when a
+founder says, "I actually need somebody
+to do something more than replace me. I
+need somebody to come in and build
+systems, build a team because I need to
+completely get out of sales." And I
+could make probably a hundred
+subcategories, but for the purpose of
+this blog I wrote, those three were
+sufficient. But I would say that leaders
+what they get wrong most often is hiring
+a replacement rep. And the reason for
+that is because most founders actually
+have a sales process, but it's not
+documented.
+And so they assume that that somebody
+can come in and replicate
+years of their own learned instincts.
+And I think that is probably the most
+common reason that the first sales hire
+could fail in a founder business
+>> is because the process falls apart when
+the founder isn't in the room or the
+process actually might go fine when the
+founder isn't in the room but the
+founder views it as failing because it's
+not exactly how they do things.
+>> Yeah.
+>> A system isn't really a system unless
+it's documented. And so,
+uh, I don't I don't know what the
+percentage is. Maybe, um, maybe 15 to
+20% of our business is a founder company
+hiring their first sales rep. It might
+even be less than that. But I'll always
+ask them, is your system documented? And
+more often than not, it isn't. And I'll
+I'll tell them if you really just want
+to hire one person and you want them to
+be an individual contributor, you don't
+want to hand off too much
+responsibility,
+you really need to spend about a month
+or so documenting everything you do, why
+you do it.
+>> And it doesn't need to be perfect, but
+get something to a rep so they can start
+executing the system that you built.
+Because if you're just hoping they're
+going to come in and do it the way
+you've done it, it's just not going to
+happen.
+>> Yeah. You're so spawn, right? And and
+and it's interesting because I think I
+think I I had the benefit of running
+sales teams for so long, right? So, even
+even personally, I think myself in that
+situation once I knew I was going to
+basically bring some people onto my
+team, you know, I literally built out
+>> a 90-day playbook every single day,
+every single exactly what to do, the
+exact process, documents, step by step,
+exactly what to say, who do we go after,
+everything I knew ramp up, right, to
+even what we do even ongoing, right? So
+it was and we actually built out and
+recorded a whole online course and
+modules and systems and checkpoints and
+there was a high level accountability
+but like because we did that right like
+my new hires were producing within a
+couple weeks they were already producing
+booked meetings and we started closing
+deals within the first month right
+because I had that benefit of doing that
+versus I've se I've seen that happen
+with other organizations where it's a
+founder trying to make that transition
+there's no real proven system and the
+new hireer comes in they basically they
+don't perform that same level and the
+founder just basically has to get rid of
+them after a few months, right? Wasting
+all that time and energy, right? So on
+the flip side, let's just say for
+example, I'm sure you see this too,
+right? There are some some orgs where
+maybe it's the CEO or the founder, they
+have kind of scaled up to five or 10
+reps, okay? What type of hire should
+they hire at that point? How do they
+know which hire to hire? cuz I've also
+seen it where they sometimes they could
+they might hire a shadow replacement or
+builder even those or the wrong ones
+potentially even that that stage and
+they've just had really atrocious
+turnover and they they just continue to
+kind of almost like throw people into
+the mix kind of hope that solves the
+problem. So if they're in a situation
+like that what should they do first or
+who should they hire that type of
+situation? Oh man, it's so contextual
+because um let's say you let's say you
+run a services company like CentOS where
+you need uh feet on the street and you
+need to get in front of your people
+>> uh your constituents. Mhm.
+>> I would say a getting a builder, right?
+And it's not it's not that difficult to
+find somebody who has run a team of reps
+who who manage a territory actively. Um
+the but let's say let's say that you
+have a very unique product or service
+where um your service is very valuable
+at a very unique time but it has no
+value at another time. For example, if
+you were a law firm, um let's say that
+there is somebody who gets a du DUI,
+probably
+they're going to call their attorney and
+they're going to call repeatedly until
+they get a call back because they're
+scared and they need help right away.
+But now imagine that your attorney calls
+you and they're like, "Hey, uh gotten
+any dewies lately or
+>> they're be like, "Whoa, whoa, what are
+you talking about?
+So, so, so, so that would be that would
+be a uh type of business with a unique
+need, a unique value. Yeah.
+>> Whereas CentOS to a certain extent
+provides sort of a commodity. It's a
+service that that
+>> that needs to uh
+>> help a customer year round. So, it's
+different in every situation.
+>> How much you want to hire at that stage,
+right? You got five, 10 reps. you're
+like and you just been churning people
+so you don't really know what's wrong
+but you're like I think we're kind of
+doing okay but maybe the average rep
+proivity is not that great
+>> and usually I find they're probably
+hiring the wrong person or maybe have
+the wrong they don't systems in place so
+how do you know which one to actually
+hire
+>> so I talk a lot about yeah so I talk a
+lot about founders being honest with
+themselves
+>> if a founder wants a lifestyle business
+where they want to make a certain amount
+of money and have a business that is
+very manageable to them, that is a
+fantastic goal. As long as they're
+honest about what they want and it's not
+different from what they state, then
+they're good to go and they can they can
+hire any one of those and be fine. And
+so it might be that that the seller says
+or the founder says, you know what, I am
+really really good at selling
+>> and I like selling. I don't want to be
+involved in operations, but I just want
+somebody to handle some of the details
+because I'm not very detail oriented.
+>> Then you can hire a shadow rep or a
+sales assistant and be absolutely good
+to go forever.
+>> And even if there's some turnover, that
+might be okay with them because maybe
+it's not that difficult to
+>> train somebody up and maybe they expect
+somebody to move on to bigger and better
+things and they root for that person
+their whole career. Um,
+but now if they're looking for a
+replacement rep or a builder and you
+start having turnover there,
+that's where you start really having to
+look at the patterns and stop looking at
+the person that that moved on. And
+I think it's also if you hear a founder
+blame a rep for not doing something the
+right way, if you hear that repeatedly,
+uh if you see bunch of bad glass door
+reviews or if your existing team hears
+you badmouth previous employees, that's
+something we pay attention to. There's a
+book that we all read here. It's one of
+my favorite books of all time. It's
+called Extreme Ownership
+>> by Jaco Willick. And um the big message
+of that book is that
+if you are blaming others, you've
+already lost. If everything is your
+fault, then you're going to win.
+>> Y
+>> and so when a rep does something wrong
+or when a rep leaves,
+you should say, "Whoa, what was not
+right here? then I need to adjust so
+that we can improve this company the
+next time we hire somebody. And when a
+rep leaves, if you can get an exit
+interview
+and you can ask them say, "Hey, I am
+totally fine with you leaving. I'm
+legitimately sorry it didn't work out
+for you here. What can I do differently
+to make sure the next person is
+successful?" If you can get that
+meeting, do it and really heed their
+advice because
+and and by the way, the rep may not have
+the perfect answer. Um, but if you can
+spot patterns and fix it, you're just
+going to get better and better and
+better and you can accept the fact that
+this turnover happened for a reason and
+adjust it and move on.
+>> Yeah, I think I see this all the time,
+right? where it's really easy just to
+blame, you know, this is whether it's
+it's a founder high in their first hire
+or if they're their scale on the team,
+but they they see consistently a lot of
+turnover on their team. I think I always
+it's always it's the rep's fault. They
+didn't do this, they didn't do that,
+they weren't a culture fit, right? So
+easy to point the finger, right? And
+you've written in the past that usually
+if they're consistently struggling, they
+have the high turnover, it's usually
+like a systems problem in disguise. What
+do you mean by that exactly?
+A lot of it's going to go back to the
+documentation and sometimes you might
+have a great system and maybe you have a
+really good rep who doesn't actually fit
+that system that well and I think it's
+totally fair game to to exit that
+person, but I think it's also fair game
+to let that person make adjustments that
+fits their style a little better. Um, I
+don't know.
+I didn't really see that at bigger
+corporations like T-Mobile. I don't know
+if you saw that at Cintas. I think
+companies that have invested millions
+into their systems, like these big
+organizations, are probably more likely
+to say, "Look, we got our system for a
+reason, and if you don't fit it, feel
+free to move on. No hard feelings." And
+I think that is totally fair in the
+world of business and sales. But if you
+are a smaller organization and you feel
+like you have some real talent and
+somebody wants to do things just a
+little bit differently, I think it's
+okay to make some exceptions and see how
+it works out. Um,
+but yeah, a lot of it is is
+documentation or maybe just holes that
+you didn't realize exist. Maybe the
+handoff from sales to operations needs
+to be better and more complete. or maybe
+you need to take things off of your
+rep's plate. Um that is one thing I see
+a lot of by the way is um reps are being
+asked to do so much and let's take a
+CRM. Let's take Salesforce for example.
+I think it's smart that a company have a
+CRM and I think reps should do the best
+job they can in there, but man, I also
+see reps be absolutely hindered by
+putting in obscene amounts of data that
+are meant to pad the stats of a of a
+sales leader
+>> um when in fact it doesn't really help
+the rep.
+>> Y
+>> and so if you can take things off of
+your rep's plate and look for holes in
+the process, you might find that sales
+will go up. Maybe you need to get a rev
+ops person. Maybe you need to get a
+sales coordinator to help reps get that
+stuff done. But um if you're constantly
+blaming your reps, it's not the reps.
+>> Yeah, 100%. I see this all the time.
+It's always it's a constant blaming of
+the reps
+>> and sometime it's like either the
+systems are broken, right? And I always
+think back it's usually a systems issue,
+right? For example, we were working with
+a client and they were they wanted to
+fire their whole sales team because they
+weren't they weren't performing, right?
+and they were doing more of like an
+enterprise type of sales. So, it's
+complex, multiple stakeholders, long
+sales cycle and and I took a look at
+their team and they had hired good
+people, right? But majority of the
+background of those people were like
+SDRs.
+So, here you have
+>> Yeah. So, you have these really good
+people and some of them were Yes, they
+were enterprise SDRs, but like they they
+knew how to generate pipeline. That's
+kind of what they were they had already
+proven in their process,
+>> but they didn't know how to run a
+complex sales. So there's like a
+mismatch in like what the talent on the
+team and the requirements of the job and
+when you when you think you take a step
+back there's like many multiple like
+system broke broken system issues like
+number one what's their hiring process
+look like obviously it wasn't designed
+to hire for the right person they need
+that big issue right and then of course
+there was no real onboarding then there
+was real no training and development
+support and then there was no real
+coaching from their leader you know so
+like there's all these issues they kind
+of broke down but the but what they kept
+doing was throwing money and bodies at
+the problem and wondering why what is
+wrong with all these people it's just
+bad is this a bad market out there right
+so I think it's all it's that point that
+you mentioned where that self honesty is
+so vital otherwise you might just
+continue to throw money at a problem
+with a huge you know bunch of leaks you
+know on the bottom right now as we talk
+about like you know even like that
+leadership component right a lot of
+times I find is this the CEO or the
+founder, they're trying to think like,
+hey, when should I hire maybe my first
+sales leader? So maybe they have a
+handful of reps and they're thinking
+about the sales leader or something I've
+also seen where they want the first hire
+to be a sales leader. What do you
+recommend in situations like that? Like
+how do you how do they know when to hire
+their first true sales leader? They have
+to be ready to actually give authority
+to somebody rather than just give tasks
+to somebody.
+Once they feel comfortable with that,
+they're probably ready. But even more
+than being comfortable with that, they
+really have to sit and think through
+what stuff a sales leader is able to
+approve on their own and what stuff
+they're not.
+And I think it would be really smart to
+have their sales leader meet with
+operations leaders and say, "What are my
+parameters?
+If I approve this,
+is it going to hurt what you're doing or
+is it going to help what you're doing?"
+And so if a founder has a sales leader,
+they really should say they really
+should make the commitment. I'm going to
+give it a year or two where I I give
+them the authority to make the decisions
+they need to make, but here are my
+boundaries. And so I want you before you
+make any decision, I want you to get
+sign off of your peer over here. And if
+if you guys believe this is good
+business, go for it. And if you need
+anything additional, you can come to me.
+But the worst thing that could happen is
+that you hamstring your leader by
+continuing to be the bottleneck.
+>> And if you say, "Well, I really just
+want you training the reps." That that
+could be problematic. If so, you should
+just get a sales trainer. But if
+somebody comes on board to your company
+and they believe that they're going to
+have real the real ability to lead a
+team, they should have the real
+authority to lead the team, too.
+>> Sometimes I walk the owner through that
+and ask them what sorts of things need
+approval, right? Like let's take
+manufacturing for example. I could
+completely understand how a sales leader
+could sign some deal that that loses
+money, right? at Cintas. I could totally
+see that happen. Um,
+with us here at Sales First,
+my recruiters and my recruiting managers
+have certain concessions that they are
+allowed to make without ever consulting
+me and it's really clearly written in
+all of our documentation. And then there
+is a threshold that I say before you
+give this concession you really got to
+come to me because we have to look at
+all these different areas. So I would
+say that is when a founder knows they're
+ready when either they already have that
+information in their head. They know
+when they need to be consulted when they
+don't. Or they're comfortable with the
+fact that they need to build something
+like that. But then they need to get out
+of the sales leader way. That's easier
+said than done because
+I would say a lot of founders
+want the control
+more than they want the results. Once
+they can get past that, things open up
+quite a bit for them. Even though
+there's, you know, potentially some risk
+there too. Well, I think that's such a
+great point and I think it it builds on
+the same same principle where it's like
+what you're talking about what you have
+in place right now for your even your
+organization you have rules of engage
+that's part of the system of ensuring
+everyone knows the what the selling
+rules are what's the rules of engagement
+so they know the sandbox right hey
+here's the sandbox
+>> you can play within this right and that
+way they everyone feels good the CEO
+founder feels really good that exec
+feels really good everyone's on the same
+page there's an alignment of
+expectations right Now I think it's I
+think it was great. Now sometimes I see
+when they're hiring their first sales
+leader. There's a big difference between
+hiring say like a VP of sales who is a
+builder. Okay who hasn't built
+everything and is al versus the one
+who's only really maintained.
+So what really separates the difference
+between those two and why is that
+important? When you say maintain, do you
+mean account managers or do you mean
+people who fit into an existing system
+elsewhere? They never actually built the
+system.
+>> Exactly that. Exactly that.
+>> Okay.
+>> I would probably say that a builder is
+wired differently. The titles wouldn't
+matter. History comes into play if
+they've already built something that
+there's a certain safety net there. But
+if you have somebody who is naturally
+good at spotting inefficiencies and
+naturally good at spotting opportunities
+and they're willing to do the grunt work
+while building a strategy,
+I would say those are the three to four
+things that actually define a builder.
+Um, and it's hard because one day you
+might have to really sit and do a SWAT
+analysis and then if the phone rings and
+and now you have to go full steam ahead
+on handling this inbound lead that you
+see as an opportunity or this person
+might go to the founder one day and say,
+"Boy, we have a real issue here. our
+handoffs to operations are terrible and
+we need to fix this. I'm going to have
+this done within the next three weeks.
+So, it's really just wiring. And
+actually, I think that's where a lot of
+these personality assessments come in.
+Personally, we like the CVI over here,
+the core values index. But honestly, I
+think they're all pretty darn good. If
+any of them have been around and have
+been refined, you know, the disc, the
+culture index, there's a million of
+them. If you can find one that you like
+and you can really sit down with
+somebody and start talking about the
+ideal profile in this ecosystem,
+I think that could really help you find
+a builder rather than a maintainer. Like
+how do you know which one you need? Let
+me give you example, right? And I think
+I think this is something a lot of
+people don't think about, right? I mean,
+for example, I got a client very
+successful business, right? All right.
+They, you know, they they do like, you
+know, 20 30 million a year. They have a
+sales team, it's like 15 people. Um, and
+they've kind of just gone through like
+just non-stop BPs of sales run the ORC.
+It's just like just in and out. And even
+their most recent one, you know, like
+they they found they CEO, you know,
+pulled me aside was like, "Hey, what's
+your gauge?" Because once we started
+working, what's your gauge on this VP of
+sales? And uh, can I share there's some
+pink flags that I had saw, right? And
+then he started to tell me other things.
+He's like, "Yeah." He's like, "Turns out
+like this." Like we they actually needed
+a builder is what they needed, right?
+Even though they they looked successful,
+they had already built up, but like
+there was just stuff there like they're
+like just building the plans, they're
+flying it still, right? And they really
+need someone to kind of systemize and
+and just have a really full full-blown
+system put in place for everything from
+hiring, training, development, coaching,
+etc., right? And putting other leaders
+in place. And it turns out this person
+had only been a maintainer. So he's
+already integrated a system. he was able
+to have success doing that because he
+had all these other things, you know? So
+like he almost had like horse blinders
+on if you will of only just like
+maintaining versus they needed really a
+builder, right? So I think about a
+client like that in hindsight, what
+could maybe that CEO or founder looked
+at first to realize who do I need to
+hire as a right person, a builder or
+maintainer? So I think if you have a
+frontline leader, somebody who is
+directly leading the people who are in
+the field dealing with the customers
+directly,
+depending on what you need, you could be
+fine with a builder or a maintainer. If
+you already have a refined process and
+you just need somebody to come in and
+enforce activity and do coaching
+and just hold reps accountable, a
+maintainer is probably fine.
+>> I think where you start
+really having to make sure you need a
+builder is when you have your first
+leader
+and or you have a second line or third
+line leader, a leader who is leading
+other leaders.
+Those folks are going to be behind a
+desk more often than a frontline leader.
+And they have to sit and they have to
+focus on revenue operations. They have
+to work with marketing and operations.
+it's their job to have a vision for the
+sales channel. And so if you have a
+really big organization and let's go
+back to um I'll go back to T-Mobile and
+Satasa. I'm sure those organizations are
+structured similarly where you have
+frontline leaders. They're typically
+called sales managers. Then you have a
+director of sales who oversees a group
+of sales managers. And then you normally
+have as a VP of sales who oversees a
+group of directors. And with each
+movement toward the back, and I believe
+in a backto-front organization, not a
+bottom to top,
+those folks
+have to continue to
+build the channel and make it unique and
+they have to continue to keep it
+relevant.
+And
+I would I hope that answers your
+question. Um
+because if you have a VP of sales and
+they're only concerned about KPIs,
+um I would be concerned. I think the VP
+of sales, their job is to make sure that
+everyone else is fully enabled to kick
+butt in sales.
+>> Yeah, 100%. I mean, I think when you
+take a step back, I mean, really a CEO,
+founder who's listening to this and
+they're trying to scale their org,
+right? If they had the goals, they could
+really scale that or that self honesty
+of exactly where we're at right now and
+what we need to get to the next level is
+so vital because then that really
+determines like who do we actually need
+to hire? Like can we just like
+>> get a maintainer? Cool. That's great. We
+hire a maintainer. They just keep the
+wheels on the bus and make it just they
+basically get improved over time.
+>> But the builder, right, like I would say
+I would argue those are a really good
+builder is actually harder to find,
+right? argue that in a sense of a lot of
+times eventually those builders once
+they realize how good they are they
+start their own business they're like
+what am I doing I mean I was a builder
+right
+>> I get that a lot that's that's what end
+up happening right so I think that self
+honesty is so so key right and speaking
+of self honesty right like when there's
+a leader who keeps hiring you know good
+reps who basically stall out when is it
+not a hiring problem at all let me think
+about this So if a founder
+keeps on having turnover,
+when is it a systems problem or company
+problem
+>> essentially? Yeah.
+>> Yeah. So one failed rep could be the
+rep.
+Multiple failed reps usually indicate a
+business problem. But if I go back to
+extreme ownership, if a good founder
+practices that,
+then those problems will dissipate over
+time. And I also would tell a founder
+not to be too tough on themselves
+if they're having these problems,
+but they're open to fixing it. If
+they're not open to fixing it, I will
+typically take a step back and fade away
+a little bit. We had some clients, we
+had a client, they reached out to us and
+needed a lot of help. The owner was
+highly involved uh and in my opinion was
+a little bit volatile and
+they were always bad mouthing everyone
+on their team. And that was red flag
+number one. We had somebody get an offer
+and they had to go through the
+background check before the offer was
+made. And the background check included
+getting references from their existing
+leaders at their company.
+>> And um I pointed out that is uncommon
+and very risky.
+>> Yeah.
+>> And um and the founder lashed out at me
+and told me that they're not that that
+they've been doing background checks for
+20 plus years and that I'm not going to
+tell them they can't do background
+check. And I said, "No, no, no.
+Absolutely do a background check, but
+give a conditional offer. say, "I'm
+making you an offer, and once you
+accept, we're going to do a background
+check, and if that goes well, then it'll
+be finalized." I was like, "That's
+actually pretty common."
+>> Um,
+>> yeah, but it's not common
+>> to have that background check, reach out
+to your existing leader. That that's
+very risky. And somebody has
+responsibilities in their life, they're
+going to say no to that.
+>> Oh, yeah.
+>> I was shown the door after that
+conversation.
+And to this day, that company still has
+insanely high turnover and has a lot of
+trouble hiring people.
+>> And so that's the kind of founder we
+stay away from.
+>> And that is a founder who does not
+accept responsibility. But if you have a
+founder that says,
+>> "Marcus, I need help because we're doing
+something wrong. All these reps leave
+and I don't want them to leave." And if
+you point out all these things they're
+doing wrong and they say thank you, boy,
+you've got a good business there because
+down the line they're going to be fixed
+>> 100%.
+>> Other problems will pop up, but they fix
+those, too. Like, so if if an owner
+says, "I'm not perfect. My company is
+not perfect, and I'm totally okay with
+that. I just want to get better every
+day." Boy, that is a winning
+organization. And that's how most
+companies actually are. Like we don't do
+everything right, but when we identify a
+problem, we get a little committee
+together and fix it.
+>> Yeah. 100%.
+>> And if Yeah. And if I have an idea and
+people don't like it, I want to hear why
+they don't like it. Sometimes they're
+right and sometimes they're overrule
+them. But that is really important.
+>> If you want to have an organization that
+lasts and if you want to have the kind
+of life you want, if you're just want if
+you just want to face the same problems
+every single day and not change it,
+that's going to be a rough road for you.
+Now you're you're so spot on, right? To
+build a durable organization. And and I
+would even argue you need that up and
+down the chain, right? So it's not just
+like that founder, that CEO. It's like
+every level you're working with, you
+need that level of openness and
+coachability to be able to look in the
+mirror and be okay with that and make
+some pivots, right? It's funny because
+as you're saying that, I'm like I'm
+like, "Yeah, you know what? Like we've
+had some people that we basically turn
+down as clients for that reason, you
+know, because I'm like why are we going
+to work with you guys if you're not
+willing to deploy what we're going to
+recommend? It just becomes a waste of
+resources, right? Or sometimes we say,
+hey, we you shouldn't do this. For
+example, like sometimes they want us to
+come train their team. But I'm like,
+well, you have other systemic issues we
+need to work on first, like your
+leadership is not dialed, your systems
+aren't dialed, we should fix those first
+before we talk to the reps because
+doesn't matter we train the reps.
+Everything around the system is broken.
+It's not going to it's not going to hold
+in place. Now, we've covered a lot of
+ground today. What didn't I ask you that
+we should have talked about?
+>> I'll tell you what I believe is the
+number one issue in recruiting
+here in 2026.
+>> And I don't know if anyone's going to
+care about this, but I still believe
+>> I want to hear because I'm a firm
+believer people who are in your
+industry, you get the front lines of
+seeing how the market is shifting across
+the board. You can see hiring pattern
+what companies are doing. you can you
+see the shift before it shows up in the
+stock market.
+>> Um, ever since 2020
+we have been in a little bit of like a
+rubber band market and every year
+we experience a shift in the market and
+so the rubber band is bouncing and maybe
+it's starting to settle a little bit
+now. It seems like each year the market
+doesn't know what it wants to be. And
+because of that,
+employers are sometimes a little shy of
+pulling the trigger. They don't know if
+they want extra headcount. They're
+afraid it could dilute sales for their
+other team. It could cost them more
+money when not enough revenue is going
+to come in. So, those are legitimate
+fears.
+But the number one issue I see is that
+employers are waiting too long to pull
+the trigger. And I would much rather
+them have a robust tough hiring process
+and then pull the trigger immediately
+when someone makes it through
+>> than him and Haw.
+>> Just last week, we had two employers who
+said, "I think I'm ready to hire this
+candidate." and we say, "Oh, they're
+gone."
+>> Yeah.
+>> And and they find themselves
+upset. Sometimes they're upset with us
+and we tell them, "You have got to be
+decisive."
+>> And if you need a lot of folks in the
+process to bet these people, that's
+totally fine, too. But lay it out ahead
+of time, right?
+>> Let them know it's going to be tough.
+Let them know what it's going to take to
+get the job. But when they're done, you
+got to make that offer, and you got to
+do it fast. Because if you stall the
+momentum, you've just lost it. It's you
+have to keep the momentum in the
+process. There is a certain amount of
+excitement and there's a journey that
+the candidates believe they have to go
+through that feels normal to them and if
+they don't have that, they're going to
+accept at a place where there is one. I
+think that's that is so insightful,
+right? And it's interesting, right?
+Because I I've called it omission bias,
+right? which is it feels safer to not
+make a decision than to make a decision.
+>> Yeah.
+>> And so they get stalled out, right? And
+usually I talk about from a a sales
+perspective, right? Like you know
+customers they want if they want to
+derisk everything, right? And but the
+cost as we see here, especially in the
+world of talent, we're talking about
+human capital management here. We're on
+a war on talent, which really determines
+thems organization. The slower you play
+that move, the longer it takes to
+actually your father my person, right?
+And you also lose great talent in the
+same in the same situation. It's the
+same thing with like putting systems in
+place. If you know you need to hire
+people and you put some systems in place
+so they can stay and be great, it's like
+the longer you take to do these things,
+the more it costs you in the long run
+and in in in the in between. So super
+impactful. Now, um, amazing conversation
+today. Okay, I know a lot of leaders out
+there listening to this, whether they're
+a CEO, a founder, a CRO, sales VP, if
+they want to learn more about you, if
+they want to get some help, find some
+gradea top talent, whether it's at the
+rep level, at the leadership level,
+executive level, where can people find
+more find you and learn more about what
+you do?
+>> The number one place to find us is via
+our website at salesfirstrecruiting.com.
+We are commonly called Salesforce
+recruiting uh which is not us u they're
+slightly bigger um with billions more in
+revenue but not
+>> yeah sales first recruiting we focus
+exclusively on client-f facing talent
+and so sales reps sales leaders and
+sales support
+>> beautiful
+>> and so and Marcus the reason for that is
+Because truthfully, I'm a one-trick pony
+over here. If we were recruiting
+scientists
+and they say, "Yeah, yeah, we we totally
+know how to mix those chemicals," I
+would just have to take their word for
+it. But, but if a candidate tells me
+what their KPIs are, what their activity
+is, and then they tell me what their
+closing percentage and revenue is, I'm
+going to know if something is fishy. And
+my recruiters that stick around 10 years
+at a time now, they know it too. And so
+pretty darn good at recruiting the right
+talent who is honest about their
+strengths and honest about their
+weaknesses and then placing them in the
+right roles for them to succeed. So
+that's a wrap on this episode of the
+Revenue Vault. Now, if you got value,
+here's your next step. One, go to
+venleyconsulting.com/teams
+and get a free performance scan of your
+sales or we'll show you exactly where
+deals are stol and how to fix it. The
+link is also below in the show notes. Or
+if you prefer to first self diagnose,
+download our free revenue link
+diagnostic kit below and pinpoint
+exactly where deals are stalling and
+what to fix. And of course, if this
+episode gave you even one insight worth
+sharing, send it to a sales leader you
+respect. Hey, I'm Marcus Shan and thanks
+so much for joining us in the vault.

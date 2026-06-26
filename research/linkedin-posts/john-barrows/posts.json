@@ -1,0 +1,1623 @@
+[
+  {
+    "type": "post",
+    "id": "7476277069904003072",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_bebetter-aislop-activity-7476277069904003072-zAeZ",
+    "content": "Apparently this is what is considered \"research\" and \"personalize\" using AI these days....\n\nIt's even worse than the find/replace (name/title/industry) approach to \"personalization at scale\" that we had with the cadence tools before AI. \n\nNothing annoys me more than a company who doesn't even practice what they preach in their actual messaging when trying to sell what they do. \n\nDon't get me wrong, I understand and appreciate the use of sequences and AI but if you're going to try to sell me on your \"personalized\" approach to prospecting you better damn well personalize it.\n\nby the way, 4 years working with 30 clients isn't exactly impressive either.....\n\n#bebetter #AIslop",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1782483355976,
+      "date": "2026-06-26T14:15:55.976Z",
+      "postedAgoShort": "4h",
+      "postedAgoText": "4 hours ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4D22AQEyDS7gmJ_Rsg/feedshare-shrink_1280/B4DZ8ESYMUJAAM-/0/1782483354635?e=1784160000&v=beta&t=Eul8Um6x88cX4c8C5sdUnRb7acHgqpUb-VK1KuMSlIQ",
+        "width": 1274,
+        "height": 733
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_bebetter-aislop-activity-7476277069904003072-zAeZ?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7476277069904003072",
+    "shareUrn": "urn:li:share:7476277068549386240",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7476277068549386240",
+    "engagement": {
+      "id": "7476277069904003072",
+      "likes": 35,
+      "comments": 25,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 29
+        },
+        {
+          "type": "ENTERTAINMENT",
+          "count": 3
+        },
+        {
+          "type": "PRAISE",
+          "count": 1
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 1
+        },
+        {
+          "type": "INTEREST",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7475918722575007747",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_apollopartner-apolloanywhere-makeithappen-activity-7475918722575007747-0N_v",
+    "content": "I haven't logged into Apollo.io in over a month.\n\nNot because I stopped using it. Because Apollo's MCP connector lets me run everything through Claude now.\n\nHere's what that actually looks like.\n\nI set up three outbound sequences in Apollo for three completely different audiences. Former Salesforce people I've trained who now lead sales teams at new companies. Manufacturing and industrial companies outside the SaaS world. And dormant customers I've worked with over the past few years. \n\nApollo handles the identification, enrichment, sequencing, and execution for all three.\n\nLast week I asked Claude to pull the analytics on my Tier 2 manufacturing sequence. Within seconds it went into Apollo, grabbed the open rates, reply rates, and engagement data, and came back with specific insights on what messaging was landing and what wasn't.\n\nI then told Claude we needed to update the messaging based on what the data was showing. It went back into Apollo, rewrote the sequence copy, and created a separate Tier 2 sequence so we could start testing the new version against the original. \n\nI didn't open Apollo once. I didn't toggle between tabs. I didn't export a CSV and analyze it in a spreadsheet. The entire loop from analytics to insight to action happened in one conversation.\n\nNow I get a daily recap of open rates, response rates, and what's working across all three tracks. All through Claude. Not Apollo.\n\nThis is what people mean when they say AI changes how you sell. It's not about automating the work. It's about compressing the feedback loop. \n\nWhat used to take me a full morning of pulling reports, reading data, rewriting emails, and rebuilding sequences now happens in a conversation. And I still approve every message before it goes out.\n\nThe tools that win aren't the ones with the most features. They're the ones that show up where you already work and let you act on data without breaking your flow. Apollo figured that out.\n\nLink in the comments.\n\n#ApolloPartner #ApolloAnywhere #MakeItHappen",
+    "contentAttributes": [
+      {
+        "start": 22,
+        "length": 9,
+        "type": "COMPANY_NAME",
+        "hyperlink": null,
+        "textLink": null,
+        "company": {
+          "id": "18511550",
+          "name": "Apollo.io",
+          "linkedinUrl": "https://www.linkedin.com/company/apolloio/"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1782397919315,
+      "date": "2026-06-25T14:31:59.315Z",
+      "postedAgoShort": "1d",
+      "postedAgoText": "1 day ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5622AQFTkcsE5RBjKw/feedshare-image-high-res/B56Z7_Mdh1GoAU-/0/1782397917675?e=1784160000&v=beta&t=kP-DcZy6K3UKVgUun81qSmcrjIQGEc-acVzqXp_7HdQ",
+        "width": 1976,
+        "height": 914
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_apollopartner-apolloanywhere-makeithappen-activity-7475918722575007747-0N_v?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7475918722575007747",
+    "shareUrn": "urn:li:share:7475918719517499392",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7475918719517499392",
+    "engagement": {
+      "id": "7475918722575007747",
+      "likes": 69,
+      "comments": 28,
+      "shares": 1,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 52
+        },
+        {
+          "type": "INTEREST",
+          "count": 7
+        },
+        {
+          "type": "EMPATHY",
+          "count": 6
+        },
+        {
+          "type": "PRAISE",
+          "count": 4
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7475603773999173632",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_most-managers-and-parents-think-theyre-activity-7475603773999173632-yL9g",
+    "content": "Most managers (and parents) think they're disciplining their team so they can help them improve. \n\nApparently, they're actually making them dumber.\n\nI had Bryan Post on Make It Happen Mondays this week. Bryan has spent 30 years working with highly stressed families and children. He's written 22 books. And he said something that completely reframed how I think about leadership.\n\n\"The definition of discipline is to teach, not to punish.\"\n\nhe shared that when you put someone under stress, their thinking becomes confused, distorted, and their short-term memory shuts off. \n\nSo when a manager \"disciplines\" a rep by putting them on blast in a team meeting or managing through fear, they're not teaching anything. They're suppressing that person's ability to learn and retain information.\n\nThink about how that applies to sales too. When a buyer is stressed, overwhelmed, scared to make a decision, piling on more pressure doesn't move them forward. It shuts them down. \n\nBryan actually challenged the entire Challenger Sale model on this point. If a buyer is already afraid, a \"challenging\" them with FUD is adding fear on top of fear which creates a compounding negative effect.\n\nInstead, he suggests to slow down and get  curious. Ask \"what is it about this decision that's stressing you so much?\" That one question changes the whole dynamic because now you're in connection, not confrontation.\n\nThis conversation went deep into stress, cortisol, fight or flight, the science of fear, and how it all shows up in how we lead, parent, and sell. It's a little different than my normal interview but I this one was super interesting for me and should be for you too. \n\nWhen you need to correct someone on your team or help a buyer through a tough decision, are you teaching or punishing?",
+    "contentAttributes": [
+      {
+        "start": 155,
+        "length": 10,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAAMk6sYBlhcyRSQ_Shl3VkXbcl5A9QeG10A",
+          "firstName": "Bryan",
+          "lastName": "Post",
+          "linkedinUrl": "https://www.linkedin.com/in/bryanpost1",
+          "publicIdentifier": "bryanpost1"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1782322829723,
+      "date": "2026-06-24T17:40:29.723Z",
+      "postedAgoShort": "2d",
+      "postedAgoText": "2 days ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "postVideo": {
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D5605AQELJ6_mC62HrA/videocover-high/B56Z76t9nRLABM-/0/1782322817806?e=1783105200&v=beta&t=4DCwSPHGo1ehS5atUU5HeHXfiZ0ARwvLmcpEunqsGsg",
+      "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D5605AQELJ6_mC62HrA/mp4-720p-30fp-crf28/B56Z76t9nRLAB8-/0/1782322821251?e=1783105200&v=beta&t=GGruPB43rd6YCi4t2uPjpch_MwUJKnghIWkyKBNFxI8"
+    },
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_most-managers-and-parents-think-theyre-activity-7475603773999173632-yL9g?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7475603773999173632",
+    "shareUrn": "urn:li:ugcPost:7475603679417356288",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7475603679417356288",
+    "engagement": {
+      "id": "7475603679417356288",
+      "likes": 45,
+      "comments": 23,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 32
+        },
+        {
+          "type": "INTEREST",
+          "count": 5
+        },
+        {
+          "type": "EMPATHY",
+          "count": 4
+        },
+        {
+          "type": "PRAISE",
+          "count": 3
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7475176086696513536",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_makeithappen-activity-7475176086696513536-AO39",
+    "content": "Is curiosity something you're born with, or can you teach it?\n\nI ask almost every podcast guest this question.  Based on their feedback and my observations, my opinion is that genuine curiosity is something you're born with BUT you can develop it by getting someone interested in something first. Interest is the on-ramp to curiosity.\n\nBut, this is only my opinion. So, I got curious and wanted to see if there was any data/science that backed this up and used AI feed my curiosity. Here's what it came up with: \n\n(AI content) George Loewenstein at Carnegie Mellon published the \"information gap\" theory. Curiosity only fires when you notice a gap between what you know and what you want to know. No gap, no curiosity. You need to know enough about something to realize what you don't know. That's why interest has to come first.\n\nA UC Davis neuroscience study found that curious people remember completely unrelated information better. Curiosity improves your memory about everything around you, not one thing. (end of AI content)\n\nThink about what that means on a sales call. Reps who are genuinely curious about helping the client don't just pick up on the client's direct answers, they pick up on side comments, body language and throwaway lines that nobody else catches.\n\nHere's one way I've applied this for 25 years.\n\nWhen reps work with me, we dive into the nuanced details of their ICP so they can tier out their accounts and build a list of top 25 Tier1 accounts to start prospecting into.  \n\nAfter they build the list but before I allow them to start prospecting into them I have them do one more exercise. I want them to go look to find a reason they personally want to work with them, and not just because they fit the ICP.   Is it their leadership? Do their values align? Is it a really cool product/service they could see selling themselves?  \n\nI want them to find a personal connection to the account because one you make that connection, you become more curious which leads to more research which leads to better and more authentic messaging which leads to better and more fulfilling results. \n\nYou don't build or train curiosity by telling reps to \"be more curious.\" You create the conditions for it and AI can either be an accelerator or replacement for it.   \n\nWe went from search engines to answer engines. Search made us dig a little, which created gaps, which created curiosity. Answer engines skip the process entirely.\n\nFor people who aren't curious, that's dangerous. For curious people, AI is the greatest research and curiosity tool ever built. I went from a question I've been asking for years to published neuroscience in minutes. I also didn't take the first answer it gave me. I pushed back and went deeper each time.\n\nThe AI didn't make me curious. My interest in the topic made me curious which made the AI incredibly useful. \n\nStop looking for the answers, get interested and be curious...\n\n#MakeItHappen",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1782220861124,
+      "date": "2026-06-23T13:21:01.124Z",
+      "postedAgoShort": "3d",
+      "postedAgoText": "3 days ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5622AQE871zlBbuh2w/feedshare-shrink_1280/B56Z7xVAqLGgAM-/0/1782165277634?e=1784160000&v=beta&t=JHk_fIYV9uPNGficF9j1Pjj5q1WaKHUZcSRzHElyHFE",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_makeithappen-activity-7475176086696513536-AO39?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7475176086696513536",
+    "shareUrn": "urn:li:share:7474942956597080064",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7474942956597080064",
+    "engagement": {
+      "id": "7475176086696513536",
+      "likes": 27,
+      "comments": 39,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 23
+        },
+        {
+          "type": "INTEREST",
+          "count": 2
+        },
+        {
+          "type": "EMPATHY",
+          "count": 1
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7473007091582984192",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_life-imitates-art-far-more-than-art-imitates-activity-7473007091582984192-DjPQ",
+    "content": "\"Life imitates Art far more than Art imitates Life\" - Oscar Wilde, The Decay of Lying.\n\nI'm starting to believe that Art predicts or even dictates life at this point.\n\nHave you ever seen the movie Idiocracy?  \n\nIf not, set your expectations low if you decide to watch it.  It's not exactly an Oscar winner but unfortunately seems to be where we're heading these days.\n\nLong story short, it's about an idiot in today's world (Luke Wilson) who gets frozen and forgotten about for 500 years. When he wakes up, the US population has gotten progressively dumber and the \"smartest\" person is the president.  Even though he was a moron by today's standards, Luke Wilson is now a genius compared to everyone else in the future.\n\nOne of my favorite aspects of the movie is the story about one of their wardrobe decisions. \n\nIn the movie, the costume department had a shoestring budget and needed cheap, futuristic-looking footwear. \n\nThey found a pair of the foam clogs from a unknown boating startup at the time.\n\nThe producers initially expressed concern, asking what would happen if the shoes became mainstream by the time the film was released. The costume designer reportedly laughed it off, assuring him that no one would ever wear such horrible-looking things. \n\nBecause 20th Century Fox shelved the film for two years, Idiocracy did not hit theaters until September 2006. In that exact window, those \"horrible looking things,\" now known as Crocs, exploded from an obscure boating startup into a massive global fashion phenomenon. \n\nIf you watch the movie, every single person in the future is wearing Crocs. \n\nSo, what was originally intended to be a cheap, futuristic, and intentionally stupid-looking gag ended up accidentally predicting the future of footwear.\n\nYou're welcome :)",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1781703732391,
+      "date": "2026-06-17T13:42:12.391Z",
+      "postedAgoShort": "1w",
+      "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5622AQF2ugsN10rfuA/feedshare-shrink_800/B56Z7V0WaDJAAc-/0/1781703731103?e=1784160000&v=beta&t=d5UB24Ce_9KnMmEuFGJmWby_bo7rB_nf6qZd_POUpTE",
+        "width": 545,
+        "height": 686
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_life-imitates-art-far-more-than-art-imitates-activity-7473007091582984192-DjPQ?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7473007091582984192",
+    "shareUrn": "urn:li:share:7473007090278486016",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7473007090278486016",
+    "engagement": {
+      "id": "7473007091582984192",
+      "likes": 98,
+      "comments": 40,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 66
+        },
+        {
+          "type": "ENTERTAINMENT",
+          "count": 25
+        },
+        {
+          "type": "EMPATHY",
+          "count": 5
+        },
+        {
+          "type": "PRAISE",
+          "count": 1
+        },
+        {
+          "type": "INTEREST",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7472631054193868801",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_leaders-do-you-have-a-fear-based-culture-activity-7472631054193868801-YvU7",
+    "content": "Leaders - do you have a 'fear-based' culture or a culture of ownership?\n\nJulie Averill stepped into the CIO role at Lululemon and before she even started she knew she was walking into a fear-based culture that needed to change immediately. \n\nListen to the clip below and the full podcast wherever you get yours to hear how she was about to turn it around and take them from $2b to $10B in 8 years. \n\nHow do you create a culture of ownership?",
+    "contentAttributes": [
+      {
+        "start": 73,
+        "length": 13,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAABb1uMBmbafTSBcznpYiFk4IAIQwFU07Xw",
+          "firstName": "Julie",
+          "lastName": "Averill",
+          "linkedinUrl": "https://www.linkedin.com/in/julieaverill",
+          "publicIdentifier": "julieaverill"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1781614078091,
+      "date": "2026-06-16T12:47:58.091Z",
+      "postedAgoShort": "1w",
+      "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "postVideo": {
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGapVZBZNIekw/videocover-low/B4DZ7QeQb6IIBI-/0/1781614059312?e=1783105200&v=beta&t=YWXsFY1eMVoZUE6sx07bxuLS2MFLhGvNUcQGleM-9Ig",
+      "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGapVZBZNIekw/mp4-720p-30fp-crf28/B4DZ7QeQb6IIB8-/0/1781614068182?e=1783105200&v=beta&t=y8kM9GeD3IxFSdjfcFCVpEdGnUHiWcUIG2axB048HVw"
+    },
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_leaders-do-you-have-a-fear-based-culture-activity-7472631054193868801-YvU7?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7472631054193868801",
+    "shareUrn": "urn:li:ugcPost:7472630931317506048",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7472630931317506048",
+    "engagement": {
+      "id": "7472630931317506048",
+      "likes": 32,
+      "comments": 14,
+      "shares": 1,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 26
+        },
+        {
+          "type": "INTEREST",
+          "count": 5
+        },
+        {
+          "type": "PRAISE",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7472279008643117059",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_this-weeks-replace-or-rebuild-linkedin-activity-7472279008643117059-yAxB",
+    "content": "This week's 'replace or rebuild\" Linkedin article is out. Let me know what you think.",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1781530143891,
+      "date": "2026-06-15T13:29:03.891Z",
+      "postedAgoShort": "1w",
+      "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "article": {
+      "title": "What Does Restructuring a Sales Team for the AI Era Actually Look Like?",
+      "subtitle": "John Barrows",
+      "link": "https://www.linkedin.com/pulse/what-does-restructuring-sales-team-ai-era-actually-look-john-barrows-s4r4c?trackingId=dKcowe7HT%2Bq5xgK6nQVjsQ%3D%3D",
+      "linkLabel": "Open article: What Does Restructuring a Sales Team for the AI Era Actually Look Like? by John Barrows • 7 min read",
+      "description": "By John Barrows | June 2026Restructuring a sales team for the AI era means redesigning how work gets done, not replacing the people doing it. Most lea",
+      "image": {
+        "url": "https://media.licdn.com/dms/image/v2/D5612AQFJcDtqgytdqg/article-cover_image-shrink_720_1280/B56Z7LeAf.GUAQ-/0/1781530103525?e=1784160000&v=beta&t=HofTquesk_cpnvZzEksDIaivk51_-Px2UnlQtcWZJBE",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "newsletterUrl": "https://www.linkedin.com/newsletters/jbs-linkedin-learning-lab-7360849337423200256",
+    "newsletterTitle": "JBs Linkedin Learning Lab ",
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_this-weeks-replace-or-rebuild-linkedin-activity-7472279008643117059-yAxB?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7472279008643117059",
+    "shareUrn": "urn:li:ugcPost:7472279008274104320",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7472279008274104320",
+    "engagement": {
+      "id": "7472279008274104320",
+      "likes": 32,
+      "comments": 10,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 27
+        },
+        {
+          "type": "INTEREST",
+          "count": 5
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7470490922867392512",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_makeithappen-sales-prospecting-activity-7470490922867392512-YcLJ",
+    "content": "Personalization at scale is an oxymoron.\n\nWhen everyone is using AI to personalize, the noise goes up., not the bar.\n\nI'm seeing it everywhere right now. Inboxes are flooded with AI-generated emails that all sound the same. \"I noticed your company recently...\" followed by a paragraph that could've been written to anyone.\n\nThe reps who are still getting responses aren't personalizing more. They're being more relevant. There's a difference.\n\nPersonalization is finding a common trigger event or commonality to use to reach out to someone. Relevance is knowing what challenges or opportunities that trigger event causes for the person your reaching out to and why your solution matters now. \n\nI'm running a free live workshop next week on executing quality outreach, both email and phone, in a world drowning in AI slop.\n\nI'm going to break down:\n  - What quality outreach actually looks like in 2026\n  - How to structure emails and calls that get responses\n  - How to use AI for research and prep without outsourcing your thinking\n  - The difference between Tier 1, Tier 2, and Tier 3 approaches\n\nI'm also going to be sharing AI Prompt Packs for creating quality email and phone outreach that you can use in whatever AI tool you prefer. You have to show up live to get them though since there will be no recording or replay for now JB Sales Members. \n\nI've partnered up with Insightly CRM by Unbounce on this one as a sponsor because none of this works if your data lives in spreadsheets and your head. You need a system and Insightly's system is one of the best I've seen for teams in the 10-500 range. \n\nRegister here: https://lnkd.in/egz2bVts\n\nIf you're willing to put in the effort, I can show you the approach.\n\n#MakeItHappen #sales #prospecting #AI",
+    "contentAttributes": [
+      {
+        "start": 1377,
+        "length": 25,
+        "type": "COMPANY_NAME",
+        "hyperlink": null,
+        "textLink": null,
+        "company": {
+          "id": "2729320",
+          "name": "Insightly CRM by Unbounce",
+          "linkedinUrl": "https://www.linkedin.com/company/insightly/"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1781103831021,
+      "date": "2026-06-10T15:03:51.021Z",
+      "postedAgoShort": "2w",
+      "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQGYwXKwmHTLXg/feedshare-image-high-res/B4EZ6yD6S.JIAY-/0/1781103830514?e=1784160000&v=beta&t=DbOVIZtlo8T_Ntc0DyiH2EvRrXzRT6I0vaTMAnQyxdQ",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_makeithappen-sales-prospecting-activity-7470490922867392512-YcLJ?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7470490922867392512",
+    "shareUrn": "urn:li:share:7470490921667743744",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7470490921667743744",
+    "engagement": {
+      "id": "7470490922867392512",
+      "likes": 42,
+      "comments": 19,
+      "shares": 1,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 36
+        },
+        {
+          "type": "PRAISE",
+          "count": 3
+        },
+        {
+          "type": "EMPATHY",
+          "count": 2
+        },
+        {
+          "type": "INTEREST",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7468699118647787520",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_incoming-rant-i-recorded-this-2-weeks-ago-activity-7468699118647787520-CPbU",
+    "content": "Incoming rant!\n\nI recorded this 2 weeks ago after I attended RevFest (which was awesome btw) and debated on whether or not to post it but I just watched it again and still feel the same way. \n\nIt’s a little longer than usually and I ramble a bit but it’s exactly what I’m seeing the issues are in today’s GTM orgs. \n\nWhat made me do the video was when one of the presenters asked about how many Enablement people were in the room. Only a few hands went up but I heard a few boooos in the crowd and then the presenter went on to inferred that Enablement wasn’t as necessary with all the AI now. \n\nI wasn’t the only one who heard it either and I had multiple conversation with people after who felt the same way I did about it.\n\nDon’t get me wrong, there is plenty of bad enablement out there but all the tech, insights and processes in the world don’t matter if the Sales rep doesn’t have the skills to leverage them in a conversation. \n\nI see Enablement as the connective tissue of all of it from a human perspective. \n\nThis isn’t a one vs the other issue, it’s an ALL issue. Companies that are still siloed or who think one department is more important than another than the other are going to fail and fail hard. \n\nIf we’re not all working together from a GTM standpoint we’re all going to lose. \n\nThe ones who are aligned and respect what the other brings to the table will be the ones who excel and thrive in this new world we’re all living in.",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1780676631605,
+      "date": "2026-06-05T16:23:51.605Z",
+      "postedAgoShort": "3w",
+      "postedAgoText": "3 weeks ago • Edited • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "postVideo": {
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQEqjri90XJx0A/videocover-low/B4EZ6YlrVHKkBI-/0/1780676572348?e=1783105200&v=beta&t=UP-MkSYdnnGbTXcUInaD5hCrfu5qwcJVPtN216QKGo0",
+      "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D4E05AQEqjri90XJx0A/mp4-720p-30fp-crf28/B4EZ6YlrVHKkB8-/0/1780676623159?e=1783105200&v=beta&t=IXZ5vOxyuRbo7_NX7nRxhao3fWaCOB8z5L6IONbJFJs"
+    },
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_incoming-rant-i-recorded-this-2-weeks-ago-activity-7468699118647787520-CPbU?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7468699118647787520",
+    "shareUrn": "urn:li:ugcPost:7468698459328516096",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7468698459328516096",
+    "engagement": {
+      "id": "7468698459328516096",
+      "likes": 197,
+      "comments": 107,
+      "shares": 6,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 137
+        },
+        {
+          "type": "INTEREST",
+          "count": 22
+        },
+        {
+          "type": "PRAISE",
+          "count": 17
+        },
+        {
+          "type": "EMPATHY",
+          "count": 15
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 5
+        },
+        {
+          "type": "ENTERTAINMENT",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7468633394038517760",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_what-does-mentorship-mean-to-you-i-was-activity-7468633394038517760-jQmS",
+    "content": "What does mentorship mean to you? \n\nI was always a bit uneasy having \"A\" mentor.  I looked/look for different people who had specific traits that I admired and wanted to learn from. \n\nMentorship doesn't have to be a formal thing and you don't have to be in a leadership role to be a mentor.  \n\nAs a matter of fact, most of the people that I would consider mentors don't even know they are one to me. \n\nIf there is one that I would highlight, it's my now good friend, Jeff Hoffman.  \n\nWhen I was 23 years old leading sales for my first start up and kicking the sh-t out of all our competition, I thought I was the best sales rep out there. The I went to a public sales training workshop that Jeff was presenting at and realized I wasn't close.  \n\nWithout him knowing it, he inspired me to be better. Later on I ended up working for him at Basho and continuing to learn from him. I don't think he knew it at the time but I was paying attention to absolutely everything he did.  Now, years later, I still consider him a mentor but now much more of a friend. \n\nI share this story because I was reminded of it after having a fantastic conversation with Colleen Stanley, CEO on this week's episode of the Make it Happen Monday podcast.  \n\nColleen is an expert in emotional intelligence and mentorship in sales and sales leadership.  \n\nWe talked how mentorship is more important now than ever and how companies don't necessarily need to have a formal mentor program but they need to build a culture of mentorship. \n\nWe also talked about EQ and how to train and develop it which I think is more important than ever now that IQ is a commodity.\n\nTake a listen to the clip below and listen to the full podcast wherever you get yours. \n\nWhat does mentorship mean to you and who do you consider a mentor?",
+    "contentAttributes": [
+      {
+        "start": 467,
+        "length": 12,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAAAUEMgBNy90068OLqO85UHCrBqsBZzF64g",
+          "firstName": "Jeff",
+          "lastName": "Hoffman",
+          "linkedinUrl": "https://www.linkedin.com/in/mjhoffman",
+          "publicIdentifier": "mjhoffman"
+        }
+      },
+      {
+        "start": 1148,
+        "length": 20,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAAAAfFnQBpdNayDm1EHwdD8Atmd5_lVtOtTk",
+          "firstName": "Colleen",
+          "lastName": "Stanley, CEO",
+          "linkedinUrl": "https://www.linkedin.com/in/colleenstanleysli",
+          "publicIdentifier": "colleenstanleysli"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1780660961637,
+      "date": "2026-06-05T12:02:41.637Z",
+      "postedAgoShort": "3w",
+      "postedAgoText": "3 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "postVideo": {
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQGIxzkX_lOLZw/videocover-low/B4EZ6Xqav0JgBM-/0/1780660946804?e=1783105200&v=beta&t=9FszKBbJbLg035BlPr7fD-Qmd1wfRe2jvfMkWfRUOlw",
+      "videoUrl": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGIxzkX_lOLZw/mp4-720p-30fp-crf28/B4EZ6Xqav0JgCA-/0/1780660955967?e=1783105200&v=beta&t=yQ03TITJ53CNvZMmNVMlGBlXf7fYNleFMo7ng-WSh6Q"
+    },
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_what-does-mentorship-mean-to-you-i-was-activity-7468633394038517760-jQmS?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7468633394038517760",
+    "shareUrn": "urn:li:ugcPost:7468633283095089153",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7468633283095089153",
+    "engagement": {
+      "id": "7468633283095089153",
+      "likes": 29,
+      "comments": 18,
+      "shares": 1,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 22
+        },
+        {
+          "type": "EMPATHY",
+          "count": 5
+        },
+        {
+          "type": "PRAISE",
+          "count": 1
+        },
+        {
+          "type": "INTEREST",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7468008488825434112",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_35-reduction-in-discounting-doesnt-seem-activity-7468008488825434112-Ph53",
+    "content": "3.5% reduction in discounting doesn't seem like a lot.....but when you add it all up it makes a SIGNIFICANT impact. \n\nThis is what happens when companies invest in training and do the work to implement and reinforce it.  \n\nIf you willing to put in the work and not just \"check the box\" for training to say you've invested in your team, DM me.",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1780511972624,
+      "date": "2026-06-03T18:39:32.624Z",
+      "postedAgoShort": "3w",
+      "postedAgoText": "3 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQGfFAjTtYAJ5A/feedshare-image-high-res/B4EZ6OyJhUIkAY-/0/1780511971648?e=1784160000&v=beta&t=4XM1KfPLuriQP0eWeoq04a2ZWD2FXjLC0qu16Uv9jfM",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_35-reduction-in-discounting-doesnt-seem-activity-7468008488825434112-Ph53?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7468008488825434112",
+    "shareUrn": "urn:li:share:7468008487986282496",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7468008487986282496",
+    "engagement": {
+      "id": "7468008488825434112",
+      "likes": 41,
+      "comments": 18,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 31
+        },
+        {
+          "type": "PRAISE",
+          "count": 5
+        },
+        {
+          "type": "EMPATHY",
+          "count": 4
+        },
+        {
+          "type": "INTEREST",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7467559083819089920",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_last-quarter-the-emea-sdr-team-at-perk-started-activity-7467559083819089920-JumZ",
+    "content": "I know reposting usually kills engagement but I didn't see this post when it originally went out so I'm going to share it regardless. \n\nThe reason I want to share this is to highlight what good looks like from an Enablement standpoint, specifically when working with outside vendors like me.\n\nOne of the more disheartening things I experience as an outside trainer is when I can tell the company is \"checking the box\" with training to show their team they've \"invested in them.\"  \n\nLeadership is rarely involved at any significant level, the managers barely do the prep work or half-ass it, Enablement is stuck in reactive mode, and there is no real discussion about integration, follow up or reinforcement.\n\nThe Enablement team at Perk lead by Alice Cresswell did anything but \"check the box\" when I worked with them recently.  \n\nThey were actively engaged from minute one to ensure executive and management alignment, they coordinated all the managers before the onsite sessions so they knew what to expect and how to help coach towards the content, we discussed integration and reinforcement well before kicking anything off, they were actively engaged in EVERY session and worked tirelessly to make sure the training was reinforced after I left. \n\nThese are the type of partnerships I dream of as an outside trainer/vendor.  \n\nI always say that I live between the world of the \"give-a-sh-t\" factor and unconscious competence. I can't get you to care but when you do I will give you everything I have.  \n\nIt's obvious that Ally and her team give-a-sh-t and are making a real difference for the team at Perk.\n\nThank you!!!",
+    "contentAttributes": [
+      {
+        "start": 732,
+        "length": 4,
+        "type": "COMPANY_NAME",
+        "hyperlink": null,
+        "textLink": null,
+        "company": {
+          "id": "9310632",
+          "name": "Perk",
+          "linkedinUrl": "https://www.linkedin.com/company/perk/"
+        }
+      },
+      {
+        "start": 745,
+        "length": 15,
+        "type": "PROFILE_MENTION",
+        "hyperlink": null,
+        "textLink": null,
+        "profile": {
+          "id": "ACoAABT46nIBMDiX7q18Yj9QChoBc4zwhlw_0dQ",
+          "firstName": "Alice",
+          "lastName": "Cresswell",
+          "linkedinUrl": "https://www.linkedin.com/in/alice-cresswell-12aa0599",
+          "publicIdentifier": "alice-cresswell-12aa0599"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1780404826121,
+      "date": "2026-06-02T12:53:46.121Z",
+      "postedAgoShort": "3w",
+      "postedAgoText": "3 weeks ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "repostId": "7454476023984709633",
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_last-quarter-the-emea-sdr-team-at-perk-started-activity-7467559083819089920-JumZ?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7467559083819089920",
+    "shareUrn": "urn:li:ugcPost:7467559082904854528",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7467559082904854528",
+    "repost": {
+      "id": "7454476023984709633",
+      "linkedinUrl": "https://www.linkedin.com/posts/alice-cresswell-12aa0599_last-quarter-the-emea-sdr-team-at-perk-started-activity-7454476023984709633-Egsb",
+      "content": "Last quarter, the EMEA SDR team at Perk started our partnership with John Barrows to level up our outbound prospecting and build real pipeline.\n\nAcross three interactive workshops, John broke down the science behind effective, persona-driven messaging, grounded in strong business acumen and practical, day-to-day execution.\n\nA few takeaways that stuck with me:\n🧪 Science over art. Context over content. In a world of AI, the human edge matters more than ever.\n🎯 Relevance beats personalisation every time.\n🤝 Actually care about the person on the other end of your outreach, it shows.\n\nWe paired the sessions with hands-on activities, real-life scenarios, and a bit of fun (croissants, custom swag, and networking drinks) to create an environment where the team could lean in, apply the learning, and leave with actionable next steps.\n\nHaving already seen early wins with meetings booked, I'm looking forward to unpacking the data with John Barrows to see where we can double down.\n\nAs part of the Revenue Enablement team at Perk, building high-impact training programmes and accelerating SDR growth is a core focus for me.\n\nIf you’re curious about how we develop our reps or thinking about your next move into sales, feel free to reach out or apply directly: https://lnkd.in/eewrXTzc",
+      "contentAttributes": [
+        {
+          "start": 35,
+          "length": 4,
+          "type": "COMPANY_NAME",
+          "hyperlink": null,
+          "textLink": null,
+          "company": {
+            "id": "9310632",
+            "name": "Perk",
+            "linkedinUrl": "https://www.linkedin.com/company/perk/"
+          }
+        },
+        {
+          "start": 69,
+          "length": 12,
+          "type": "PROFILE_MENTION",
+          "hyperlink": null,
+          "textLink": null,
+          "profile": {
+            "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+            "firstName": "John",
+            "lastName": "Barrows",
+            "linkedinUrl": "https://www.linkedin.com/in/johnbarrows",
+            "publicIdentifier": "johnbarrows"
+          }
+        },
+        {
+          "start": 936,
+          "length": 12,
+          "type": "PROFILE_MENTION",
+          "hyperlink": null,
+          "textLink": null,
+          "profile": {
+            "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+            "firstName": "John",
+            "lastName": "Barrows",
+            "linkedinUrl": "https://www.linkedin.com/in/johnbarrows",
+            "publicIdentifier": "johnbarrows"
+          }
+        }
+      ],
+      "author": {
+        "id": "ACoAABT46nIBMDiX7q18Yj9QChoBc4zwhlw_0dQ",
+        "universalName": null,
+        "publicIdentifier": "alice-cresswell-12aa0599",
+        "type": "profile",
+        "name": "Alice Cresswell",
+        "linkedinUrl": "https://www.linkedin.com/in/alice-cresswell-12aa0599?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABT46nIBMDiX7q18Yj9QChoBc4zwhlw_0dQ",
+        "info": "Senior Revenue Enablement Specialist at Perk I Driving Pipeline, Productivity & GTM Performance Across Sales Teams",
+        "website": null,
+        "websiteLabel": null,
+        "avatar": {
+          "url": "https://media.licdn.com/dms/image/v2/D4D03AQHjsOS6J7oPJg/profile-displayphoto-shrink_800_800/B4DZXrcrF6HIAk-/0/1743411917586?e=1784160000&v=beta&t=JnSWLrzrXZ1xVR7I5QVdh7BnbHNGYftgajGhugVB1Ho",
+          "width": 800,
+          "height": 800
+        },
+        "urn": "351857266"
+      },
+      "postedAt": {
+        "timestamp": 1777285581585,
+        "date": "2026-04-27T10:26:21.585Z",
+        "postedAgoShort": "1mo",
+        "postedAgoText": "1 month ago • Visible to anyone on or off LinkedIn"
+      },
+      "postImages": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGKEulF730mSw/feedshare-image-high-res/B4EZ3OebyWK4AU-/0/1777285579478?e=1784160000&v=beta&t=EqOYSCbfHNTKkDaPwGOGBimlLibZ3v-TXYKKhXaJoOE",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGLqd_cfxDEIQ/feedshare-image-high-res/B4EZ3Oeb1kIgAU-/0/1777285578849?e=1784160000&v=beta&t=-h3fI7_sLd2cJKa861k6-SL3LtMOZ9OuKob3zX71ei0",
+          "width": 1812,
+          "height": 1370
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGWASYZ33gb7Q/feedshare-shrink_1280/B4EZ3Oeb3QK4AM-/0/1777285578720?e=1784160000&v=beta&t=6QYa7vvX3p2UDgnAYB3IxpIpYZRRKq1d0eMjAt6_daQ",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQHYJjCOykS6RQ/feedshare-image-high-res/B4EZ3Oeb3uIoAU-/0/1777285579488?e=1784160000&v=beta&t=IYD7Mz_8ibxPwABmFKdWS-ruFSDzXcaM38hm-bgAw4s",
+          "width": 2048,
+          "height": 1536
+        }
+      ],
+      "socialContent": {
+        "hideCommentsCount": false,
+        "hideReactionsCount": false,
+        "hideSocialActivityCounts": false,
+        "hideShareAction": true,
+        "hideSendAction": true,
+        "hideRepostsCount": false,
+        "hideViewsCount": false,
+        "trustInterventionBanner": null,
+        "hideReactAction": false,
+        "hideCommentAction": false,
+        "shareUrl": "https://www.linkedin.com/posts/alice-cresswell-12aa0599_last-quarter-the-emea-sdr-team-at-perk-started-activity-7454476023984709633-Egsb?",
+        "showContributionExperience": false,
+        "showSocialDetail": true
+      },
+      "comments": [],
+      "header": {
+        "text": null
+      },
+      "entityId": "7454476023984709633",
+      "shareUrn": "urn:li:ugcPost:7454476022416187392",
+      "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7454476022416187392",
+      "engagement": null
+    },
+    "engagement": {
+      "id": "7467559082904854528",
+      "likes": 25,
+      "comments": 9,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 14
+        },
+        {
+          "type": "PRAISE",
+          "count": 7
+        },
+        {
+          "type": "EMPATHY",
+          "count": 3
+        },
+        {
+          "type": "INTEREST",
+          "count": 1
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7467211533253574656",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_i-need-some-help-starting-the-week-off-with-activity-7467211533253574656--llM",
+    "content": "I need some help starting the week off with some positivity.\n\nI spent the weekend with my cousin and his family after his mom (my aunt) passed away unexpectedly last week.  \n\nAdd that to the onslaught of negative news related to what's going on in our country and the world and all the AI doomsday talk and shit is heavy right now. \n\nSometimes you need to force the positivity and that's what I'm hoping to do with this post. \n\nI'd love to hear some good news from people out there.\n\nDo me a favor and comment below about anything positive that has happened to you recently.\n\nDid you get a promotion, close a deal, get a response back from an email? \n\nDid someone hold the door for you at the coffeeshop this morning or smile at you for no reason? \n\nDid you get a text or a call from someone you haven't heard from in a while? \n\nDid you make a green light on your way to work? \n\nWhen things are negative in the world, it's easy for that lens to form so you only see the negative.  Sometimes you need to force the positivity by looking for the small things that happen to us every day and many of us take for granted. Positivity is all around us if we look for it.  \n\nAt the end of all my podcast episodes I always say the same thing:\n\n\"go out there and make someone smile today because no matter how bad you think your day went, if you make someone smile today you know you had a good day and the world needs  A LOT more of that right now.\" \n\nWho or what has made you smile recently?\n\nP.S. PLEASE DO NOT USE AI TO WRITE A COMMENT ON THIS.",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1780321963609,
+      "date": "2026-06-01T13:52:43.609Z",
+      "postedAgoShort": "3w",
+      "postedAgoText": "3 weeks ago • Edited • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_i-need-some-help-starting-the-week-off-with-activity-7467211533253574656--llM?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7467211533253574656",
+    "shareUrn": "urn:li:share:7467211532372770816",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7467211532372770816",
+    "engagement": {
+      "id": "7467211533253574656",
+      "likes": 117,
+      "comments": 150,
+      "shares": 1,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 57
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 43
+        },
+        {
+          "type": "EMPATHY",
+          "count": 17
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7466167902405316608",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_whats-more-important-right-now-in-sales-activity-7466167902405316608-M9lY",
+    "content": "What's more important right now in Sales?\n\nFundamentals or AI fluency?\n\nSales fundamentals are things like communication, curiosity, questioning skills, emotional intelligence. The ability to understand another human being's problem and help them solve it. \n\nAI fluency means knowing how to use tools to research accounts in minutes, learn about industries and buyer personas faster than you ever could on your own, pressure-test your thinking, and get up to speed on complex topics without starting from scratch every time.\n\nBoth matter. But if you had to pick ONE to invest in for your team right now, which would it be?",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1780073142625,
+      "date": "2026-05-29T16:45:42.625Z",
+      "postedAgoShort": "4w",
+      "postedAgoText": "0 months ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [],
+    "poll": {
+      "question": "If you HAD to choose, which one is more important for Sales reps (or any age or level of experience) to focus on right now? ",
+      "visibilityInfo": "The author can see how you vote. Learn more",
+      "showPollSummaryInfo": true,
+      "pollOptions": [
+        {
+          "option": "Sales Fundamentals",
+          "votes": 363
+        },
+        {
+          "option": "AI fluency",
+          "votes": 68
+        }
+      ],
+      "totalVotes": 431,
+      "closed": true,
+      "remainingDuration": "Poll closed"
+    },
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_whats-more-important-right-now-in-sales-activity-7466167902405316608-M9lY?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7466167902405316608",
+    "shareUrn": "urn:li:ugcPost:7466167901528576000",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7466167901528576000",
+    "engagement": {
+      "id": "7466167901528576000",
+      "likes": 44,
+      "comments": 52,
+      "shares": 0,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 38
+        },
+        {
+          "type": "EMPATHY",
+          "count": 3
+        },
+        {
+          "type": "INTEREST",
+          "count": 3
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  },
+  {
+    "type": "post",
+    "id": "7465765578088042496",
+    "linkedinUrl": "https://www.linkedin.com/posts/johnbarrows_makeithappen-activity-7465765578088042496-xq6k",
+    "content": "For 25 years I've taught prospecting. The last few weeks I've been doing it myself, at scale, inside Claude.\n\nI built two outbound motions running entirely on Apollo.io's MCP connector, which puts the whole stack in one place. The data and execution meet me inside the AI I already use every day, and the friction of tab-switching is gone.\n\nTier 1 targets ex-Salesforce VPs of Sales, people I have warm context with from training their old teams.\n\nTier 2 is brand new. It's manufacturing-specific, targeting VPs and Directors of Sales at industrial accounts where I have zero existing relationships. Pure cold outbound.\n\nThe actual numbers, real and current:\n\n   -  TIER 1: 14.3% reply rate across 35 delivered contacts, with one demo booked in the first wave (industry cold-to-meeting average is 0.5-1.5%, mine is closer to 3%)\n   - TIER 2 (eight days in): 20% open rate, 18% click rate, 54 contacts already worked through the sequence.\n\nEvery morning the routine is the same. I open Claude, describe the next prospects I want to work, and Apollo's MCP pulls their data, verified emails, and recent triggers, then pushes them straight into the right sequence. The whole motion takes me about 20 minutes a day.\n\nI am not bringing up Apollo because they're a sponsor. I'm bringing up Apollo because the sequence that built these numbers runs through their MCP into Claude. The tool meets me where I already work instead of asking me to come to it.\n\nThis is what AI as leverage, not a crutch, actually looks like. The framework still matters more than the tool, but when the tool shows up inside the AI you already use, the friction disappears and the numbers start to compound.\n\nPracticing the craft beats teaching the craft. Doing both is even better.\n\n#MakeItHappen",
+    "contentAttributes": [
+      {
+        "start": 159,
+        "length": 9,
+        "type": "COMPANY_NAME",
+        "hyperlink": null,
+        "textLink": null,
+        "company": {
+          "id": "18511550",
+          "name": "Apollo.io",
+          "linkedinUrl": "https://www.linkedin.com/company/apolloio/"
+        }
+      }
+    ],
+    "author": {
+      "id": "ACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "universalName": null,
+      "publicIdentifier": "johnbarrows",
+      "type": "profile",
+      "name": "John Barrows",
+      "linkedinUrl": "https://www.linkedin.com/in/johnbarrows?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjr0BL1RttbvSgEOdFW5McZ6Hbjv1qkQ",
+      "info": "Helping sales leaders replace or rebuild their teams for the AI era | Founder, JB Sales | 3x LinkedIn Top Voice",
+      "website": "https://learn.jbarrows.com/",
+      "websiteLabel": "Visit my website",
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG5ISg8MrSmFA/profile-displayphoto-crop_800_800/B4EZ6FxdFpI0AM-/0/1780360796455?e=1784160000&v=beta&t=LmnrZ4xHkwbiKURQNUaMbVgBDBL_iGEgCAMIJASMiY8",
+        "width": 800,
+        "height": 800
+      },
+      "urn": "36541"
+    },
+    "postedAt": {
+      "timestamp": 1779977221033,
+      "date": "2026-05-28T14:07:01.033Z",
+      "postedAgoShort": "4w",
+      "postedAgoText": "0 months ago • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQFsg7EOZJd2Xw/feedshare-shrink_800/B4EZ5qxwyQIkAc-/0/1779907890651?e=1784160000&v=beta&t=TIncYX122VLfDX2IzMnDBmxkrqdk2AuUvO-Q8mwjPGU",
+        "width": 402,
+        "height": 540
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": true,
+      "hideSendAction": true,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/johnbarrows_makeithappen-activity-7465765578088042496-xq6k?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7465765578088042496",
+    "shareUrn": "urn:li:share:7465474788610985984",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7465474788610985984",
+    "engagement": {
+      "id": "7465765578088042496",
+      "likes": 154,
+      "comments": 28,
+      "shares": 1,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 118
+        },
+        {
+          "type": "INTEREST",
+          "count": 13
+        },
+        {
+          "type": "EMPATHY",
+          "count": 12
+        },
+        {
+          "type": "PRAISE",
+          "count": 11
+        }
+      ]
+    },
+    "reactions": [],
+    "reactionIds": [],
+    "commentIds": [],
+    "query": {
+      "sortBy": "date",
+      "page": "1",
+      "targetUrl": "https://www.linkedin.com/in/johnbarrows/",
+      "sessionId": "614bb1ed-f0cc-4b0b-a15b-7f0bfdbd51d8"
+    }
+  }
+]

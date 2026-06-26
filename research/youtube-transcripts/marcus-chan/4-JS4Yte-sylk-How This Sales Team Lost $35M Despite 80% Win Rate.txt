@@ -1,0 +1,1929 @@
+Metadata:
+{
+  "expert": "Marcus Chan",
+  "channel_name": "Marcus Chan",
+  "video_id": "JS4Yte-sylk",
+  "title": "How This Sales Team Lost $35M Despite 80% Win Rate",
+  "video_url": "https://www.youtube.com/watch?v=JS4Yte-sylk",
+  "language": "English (auto-generated)",
+  "language_code": "en",
+  "is_generated": true,
+  "snippet_count": 1913,
+  "run_id": "eZVGBbY1BZCd0rzC0",
+  "dataset_id": "AT0FahwIYyAH8vquJ"
+}
+
+Transcript:
+one clock conservatively over $35
+million [music] leaking out their
+business. This is a pretty good size
+sales about 100 plus salespeople. This
+exact was very confident in their
+[music] team skills. He was like, "Hey
+Marcus, the team has an 80% plus win
+rate. They're absolutely crushing it."
+When I started to dive into numbers,
+their disco to close rate was about
+[music] 8%.
+Half my managers shouldn't be managers.
+And I realized very quickly I needed to
+have a developmental plan put in place
+long-term wise to develop my future reps
+into that. And so if I just assumed
+walking like, okay, this is the playbook
+I do with my sales team. I can just go
+do the same thing. I would have failed
+horribly. I had 110 reps and I still got
+in the field at least twice a week. So I
+would see at minimum six live sales
+calls in person in the field. Was it
+hard? Absolutely. to make sure that time
+cuz there's so many other competing
+priorities, right? But it was some of
+the most valuable time I spent [music]
+took over that market at a 50% turnover.
+Went from 50% down to 17%.
+>> [music]
+>> Can you hear one?
+>> Hey, welcome back to the Revenue Vault.
+I'm Marcus Shan, Wall Street Journal
+bestselling author and CEO of Venley
+Consulting. Now, today is a different
+kind of episode. Usually I run the
+interviews on this show and today I'm in
+the guest chair. And the guy who grilled
+me is the same guy who first hired me in
+2011, Travis Smith. Now Travis ran a
+nine figure sales work, hit top 1% as a
+rep, manager and a director and a VP.
+He's had 100 people report up through
+him. He's personally had over a thousand
+sales people in his career. So when he
+asked him flip the chair and to grill
+me, I said yes. So here's exactly what
+you're going to walk away with in the
+next hour. The exact diagnostic that
+found over $35 million leaking out of
+one client's pipeline. The two-month
+flip that took me from the worst rep on
+the team to number one 2007. The perfect
+week breakdown a sales manager can
+install literally on Monday. And the one
+move every exec makes when they miss a
+number that almost always makes it
+worse. Let's dive in.
+>> Marcus, you've installed your system
+with over 700 clients. You've seen win
+rates increase by 25% and you've seen
+average deal size up 28%. So take me to
+the most expensive revenue leak that
+you've ever found in a client's
+pipeline.
+>> Yeah. So one client obviously not going
+to name their name. Uh we broke it down
+to at minimum low and conservatively
+over $35 million leaking out of their
+their business. And what's really
+interesting is this is a pretty good
+size sales or work as you can imagine
+about 100 plus salespeople. Now this
+leader this uh this exact was very
+confident in their team skills. I mean
+he was like hey Marcus the team has like
+an 80% plus win rate. They're absolutely
+crushing it. Like we want to build out a
+whole BDR function. We want to hire a
+whole BDR team, put a BDR leader in and
+we want to get more pipeline in and
+really drive that number. And what was
+crazy, I said, "Hold on, before we go
+and do that, because that's going to
+cost or literally millions of dollars to
+go do, let me look at all the numbers."
+And I wrote I wrote some of these
+numbers down because I thought it was
+really really interesting. So, for
+example, when I start to dive into
+numbers, their discovery show up rate
+was about 76%. That's fine.
+>> Disco demo rate was 50%. Okay? Their
+demo show up rate is 80%.
+>> Their demo to proposal rate was 22%. So
+they have a demo
+>> only 22% convert to even proposal
+proposal close was 88%. So that was kind
+of their win rate they were claiming.
+>> So when I took a look at their disco to
+close rate it was about 8%.
+>> 8%. And when we took the overall
+compounding effect is over $35 million.
+Now, what was really wild was I took a
+look at if we could just fix even just
+the disco closed win rate go from like 8
+to 21%. That would increase the rep pro
+from 200k rep to well over double that
+right and this is without hiring people
+without hiring a whole BDR team. This is
+like not even including like helping
+them improve driving their average deal
+size which is about 12 and a halfk
+because they're they sold a whole suite
+of solutions but reps are just selling
+one or two things taking an order right
+>> so it was pretty crazy so if we if I
+took a look at everything in terms of
+like well if we can sell more products
+and services inside give the team better
+skill even just driving the win rate to
+just a conservative 20 22% I mean it
+would drive an additional 70 million
+plus into their business without hiring
+more people.
+>> And it's wild because I think a lot of
+organizations when they look at their
+business, they're often solving for the
+wrong problem. They're solving for
+what's on easy mode, which is let's get
+more pipeline. Let's just throw more
+bodies of the problem, hoping that
+solves the core problem. But you and I
+both know that's like having a bucket
+with big leaks in it.
+>> Yeah.
+>> You pour a ton up top, but so much is
+already leaking out that you're actually
+hurting your margins by just throwing,
+you know, bodies at the problem. Yeah.
+Do you see that a lot? Uh throwing
+bodies uh versus really taking a look at
+what's going on
+>> all the time. I mean, that's that's like
+the the easy mode, which is like we
+throw some bodies out, we hire maybe
+more reps. Like, okay, let's say, for
+example, if they have rep productivity,
+it's called 500k per rep. Well, okay,
+you know what? If we hire 10 reps, you
+know, as an extra, you know, 5 million
+bucks. It seemed like simple math, but
+as you and I both know, then we take in
+consideration ramp time, onboarding time
+to even get them productive to that
+point of even the average baseline, it
+takes a lot longer, right?
+>> Versus understanding, hey, what's
+where's money leaking out? What are the
+core constraints of our business right
+now? And what can we focus on solving
+first that maybe may lead to short-term
+like not the results we want right now,
+but long-term wise, the upside is up,
+you know, is exponential.
+>> Yeah. Yeah. No, that's great. I want to
+back up a little bit and take you back
+to to Marcus, the sales rep.
+>> Yeah. Yes. Yes.
+>> So, let's talk about when you were not a
+good sales rep.
+>> Yes.
+>> I remember those times.
+>> Worst rep on the team for seven weeks.
+Manager calls you in
+>> and we're on a performance improvement
+plan.
+>> So, uh but from that time period in the
+matter of two months,
+>> you became the number one rep. Yeah. So,
+what changed?
+>> Well, um it's simple. I think the first
+thing that changed was I took full
+ownership and that was probably the
+first and hardest step to actually do
+because uh I told myself a lot of
+stories. I said, "Hey, you know, my
+manager wasn't training me. Um I didn't
+get any coaching support. They never in
+the field with me. Uh the market was
+really bad." So this is 2007. So the
+economy is starting to starting to tank.
+So lally business really shutting doors
+and like boarding up windows around me.
+Unemployment was was approaching 10%.
+>> Yeah. I I I was a firm believer I had
+the worst territory. I'm like, "Hey, you
+know what? Like, everyone else has like
+eight zip codes. I have four zip codes.
+I have half the prospects, I believe, in
+the worst part of Portland, Oregon. Uh
+these these are all going against me."
+So, the first step was like I had to
+stop blaming. Like that was the first
+step of really having to take ownership.
+I remember sitting down with my
+girlfriend now wife complaining about
+all those things I mentioned and she
+says okay so now what I'm like I just
+told you all my friends she's like yeah
+but can you really control those things
+I'm like well you know it's like can you
+control those things I'm like yeah I
+guess you're right can't so that was the
+first step really taking full ownership
+and accountability and really admitting
+to myself because I'm not where I need
+to be is Is it possible? I lack the
+skills to get to where I need to go. And
+that's first realization. And that's
+where I started to really delve deeply
+into really look in the mirror and
+realize, you know what, like if it is to
+be, it's up to me. So taking that
+ownership and say, okay, you know what?
+If I'm not going to get trained, I'm
+going to go get training. If I'm get
+coached, I'm going to go get coaching.
+So I started looking for external
+resources. It started simple like
+getting books, then finding sales
+coaches, going to events, and really
+focusing on working on myself and
+improving myself. What I just didn't
+realize at that point was I was simply
+wasn't good enough. And that's a really
+hard pill to swallow, especially where I
+had felt in the past, I've been
+relatively successful in other roles,
+maybe not in corporate jobs, but in
+other roles where I kind of worked hard,
+I thought was pretty good. And to get to
+a point where in sales as you know that
+number looks that zero looks at you
+every single day that goose egg you
+start to lose that self-worth that
+feeling and it's hard to say to look in
+the mirror like it's my fault but that's
+where it starts I take ownership first
+and from there was I able actually start
+to make shifts and improve my game and
+when I started doing that I started
+doing the right things every single day
+targeting properly having better sales
+conversations qualifying better becoming
+better at sales, becoming better at
+presenting, better handling objections.
+It became a realization of like, okay, I
+can optimize this like anything else.
+Optimize my life. But it starts
+realizing I'm not good enough right now.
+Hey, I want to pause on something before
+we keep going here. Everything we have
+been talking about, the leaders I see
+get the biggest breakthroughs are the
+ones who can actually quantify the size
+of the problem before they try to fix
+it. So, I built a free revenue leak
+playbook to help with exactly that. The
+calculator shows you the real dollar
+cost of your current win rate and
+pipeline gaps in a 30-day [music]
+diagnostic and a 30 60 90-day action
+plan. So, if you're running a B2B sales
+or with at least five to 25 plus reps,
+go grab it. [music] Link is in the
+description below. Okay, where were we?
+>> No, that's [snorts] great. I think that
+self-awareness is is one of the things
+that's really hard to instill or help
+help develop into people.
+>> Um I was told early on you can have
+reasons or results but you can't have
+both.
+>> That's right.
+>> And so one of the questions that I
+started asking was you know I guess so I
+understand all those reasons and what
+are the reasons and ways we can be
+successful. So if we're going to say all
+the reasons why it's not working, let's
+talk about the reasons how it can work.
+And I think sounds like you're able to
+develop that.
+>> Yeah. Oh 100%. What's interesting is
+like um I remember coming across a book
+at the time called Awaken the Giant
+Within by Tony Robbins
+>> and he said if you don't like the answer
+ask a better question and what I
+realized was I had subprogramming that
+would kick in when something would
+happen. I would get off a cold call get
+my teeth smashed in and naturally my
+brain goes what's wrong with you Marcus
+and I would say oh that prospect is an
+absolute jerk. that are the absolute
+worst. You know, you know, you're
+horrible at your job, right?
+>> And I learned I need to write different
+questions for myself. So, I start asking
+questions like, what can I learn from
+this? What can I do better?
+>> How can I approach this situation
+differently so I get a better outcome? I
+remember even at that point, Travis, you
+can appreciate this. To train my brain
+to start thinking that way, I had a
+little post-it note that wrote questions
+like that on, taped to my monitor to
+remind myself in my car visor, same
+thing, taped next to my mirror. So that
+way if I had a rough cold call, I got,
+you know, yelled out on a, you know, in
+an in-person cold call or chewed out, I
+go to my car, I flip the visor down, I
+look at the question, I'm like, what can
+I learn from this? Yeah.
+>> And I force myself to train and retrain
+myself so I can look at situations in a
+solutionoriented way versus blaming
+other people and taking zero ownership.
+>> Yeah. And rewiring your thought process
+that takes practice. It takes pra it
+takes practice to to feel the what
+ownership and taking responsibility
+feels like.
+>> Oh yeah.
+>> And so that that's uh those little
+reminders are really important. I want
+to talk about personal development. You
+mentioned a little bit,
+>> but I remember you telling me when I
+interviewed you that you had uh invested
+I believe it was $8,000 on a credit
+card.
+>> Yes.
+>> Uh to go to some personal development
+work. I think it was a Tony Robbins
+event. That's right.
+>> What did you learn from there that you
+wouldn't have learned by reading a book?
+>> Yeah. Proximity is power. Proximity is
+power.
+>> And what's really interesting is um and
+it it sounds so cheesy, right? But when
+you but like when you go to these events
+and I really didn't know what to expect,
+by the way, right? I mean, here I am
+spending $8,000 over multiple credit
+cards. Money I did not have. All right.
+To get some motivation to hopefully be a
+little different and gets fired up,
+whatever, right? Um but it was a
+reaffirmation some of those principles I
+already learned through some of his
+books. But what happens is in the
+proximity of other people you hear their
+stories
+>> and where they came from the challenges
+they they that they've gone through
+>> but also you also hear about their
+excitement in the future and you meet
+other people of like mind like like of
+like mine. It motivates you inspires
+you. Like I think about it's kind of
+like this like if especially in today's
+time like if you want to build a a big
+tech company where most people go
+Silicon Valley why because of proximity
+to people doing the same thing around
+you the big drive and that's why some of
+the biggest companies in the world right
+Uber you know Airbnb and what they're
+right in the heart of Silicon Valley
+>> and that is something I realized over
+time that proximity is power so going to
+that event and being around likeminded
+people who want to become better and
+wanted to grow that it it was a
+reaffirmation to that point that um Jim
+Ro said which is you were the average of
+five people spend the most time with and
+suddenly that was a big shift. It was a
+shift of like being in that environment
+but then you can take that same
+proximity and you take it outside of
+that. So okay, how can I create my own
+proximity now in my own life,
+>> right? And I realized at the time I was
+actually hanging out all the people who
+are not performing
+>> and what did they all talk about? They
+complain. They complain about the
+company, the proms, etc. And it was the
+same thing. And it was this weird cycle.
+And and I started to realize, I'm like,
+man, what would happen if I just talk
+with top performers, right? Like if I if
+I hang out with four people who are
+great at golf, I'll become the fifth
+person. If I hang out with four people
+with six-packs, I'll be the fifth
+person. If I hang out with four people
+who are wealthy, I'll be the fifth
+person. On the flip side, hang out with
+four broke people, I'll be the fifth
+one. Hang out with four people out of
+shape, I'll be the fifth one. And I
+realized that was so key. And even when
+you talk back to proximity, it's like
+it's not just the people, it's like
+everything. And when you go to one of
+these events, as cheesy as sounds, it's
+so curated from the energy, the
+lighting, the music, the flashing, it
+seems a little in your face, but what
+are they doing? They're creating the
+environment for success. And I realized
+when I got when I got home, how I had
+all these little sub things that were
+hurting me from the people I was hanging
+out with at work to my personal life to
+even simple stuff like when I drove in
+the car, what was I listening to? I was
+listening to news. Well, 99.99% of the
+time it's negative. So, here I am about
+to go in a cold call block for two hours
+or four hours and I just listen to how
+the world's falling apart, how the
+economy's falling apart.
+>> Yeah,
+>> I'm conditioning my mind for failure.
+So, how can I change that proximity even
+stuff like that? You listen I listen to
+audiobooks. I listen to positive things.
+So that proximity power is such a
+powerful lesson that I've taken and
+expanded through my whole life
+>> to go from beyond just the people to put
+to every environment.
+For example, you go in my home office,
+it is designed for productivity and
+maximization,
+>> right? If you if you go into like my gym
+bag, it's the same thing, right? Like
+everything's completely optimized. the
+people in my life. If you look at who
+I'm texting, I'm texting people who are
+successful like yourself and other
+friends and peers who are all doing big
+things, right? I'm not hanging out with
+people who, you know, maybe like, you
+know, we were like, you know, drinking
+buddies back in high school and college.
+It's like unless they're doing cool
+things, we're probably not really
+talking that often, right? For a reason.
+Because I want to be around people who
+push me, make me better.
+>> Yeah, that's incredible. I So, let's
+let's talk about when you took over my
+team.
+>> Yes.
+>> So, 2011, I hire you.
+>> Yes.
+>> Six months later, I move on.
+>> Yeah.
+>> Uh, different role, different company,
+and now you get to look under the hood.
+>> Yeah. [laughter]
+>> So, I've never asked you this question
+before,
+>> but what did you find that I hadn't got
+to yet?
+>> Well, I think Well, I think first off,
+um, I was really sad actually when you
+left. I mean, I was like genuinely. I'm
+like, damn, Travis is like a big reason
+why I left like my my prior company who
+knew who I was, my reputation to go to a
+whole new company, start back over. That
+was really scary for me. And um so I was
+really sad for stuff, right? And I would
+say to your credit, 6 months is not a
+lot of time to turn a team around. Like
+as you you sure you saw, there was a lot
+of problems with the team, right?
+There's a lot of systemic issues that
+are going on and there's so many things
+that you had to just over just take just
+>> Yeah.
+>> fix, right? And when I got in there, I
+saw what you you were trying to do,
+right? I saw why you brought me in. You
+brought some new people in because I saw
+some of the people that were on the team
+that I knew should not be on the team.
+And I knew what you were doing, but you
+did like the the pizza in the oven
+didn't have enough time to actually to
+cook. Right. The cake in the oven wasn't
+quite baked all the way through.
+>> Yeah.
+>> Right. So I think the nice thing was
+like you led you left breadcrumbs for me
+to see very quickly, right? So the nice
+thing was like I already kind of knew
+and had suspicions because I was pretty
+close to the team. I could see what they
+were doing already. So going in, you
+know, I realized pretty quickly and the
+nice thing was you had some foundational
+pieces that some of the right people
+were in place. I'm like perfect. That
+makes hiring a little easier and I also
+saw the behavior you you did of you were
+already interviewing people. I'm like
+that's no problem. So I lally ramped up
+and I was just doing like eight to 10
+interviews early on every single week,
+right? Because I knew my number one
+thing was I needed to build the people
+around me now which this would have
+happened to anyone. I knew when you
+brought me in like because we would talk
+privately you're like hey you're going
+to be like a guy in a couple years you
+hopefully my back is kind of the plan. I
+no longer had that person.
+I knew that. I'm like that person's no
+longer there. I need to go find my
+version of my person who's gonna be a
+future back fell. So that was like a
+really key thing because I knew I need
+to find someone who who could they could
+rally around, right? I needed a locker
+room leader that was going to be able to
+do that. And I think I think that the
+people you brought on, I thought they
+were good players, but they weren't
+going to be the locker room leader
+types. They were not going to be that
+person who's going to like like who's
+going to display public accountability
+and have a level of intensity that would
+like lift the people up. And I needed
+someone like that. multiple people. So
+that was like the the first thing I was
+like diving deep into right to be able
+to do that. Right? Now other things that
+um I saw as a result right um as part of
+that deep dive was um it was outside the
+team. So there was like specific things
+operationally that frankly I don't
+believe you had the time you even get to
+right like for example when we would
+sell a deal like at the time for one
+type of account it would take about
+seven weeks to go in and for another
+type of account it would take like three
+four weeks so there's operational things
+that were outside the control of the
+sales sales leader that I knew you had
+not had the opportunity to identify
+those core constraints and I knew if I
+can trim that time from seven weeks to
+three weeks that time from three four
+weeks down to one week or less. We would
+compound the revenue every single week
+with that as well, right? And that also
+instill confidence in the team that they
+knew they would get deals in faster,
+they make money faster and all these
+things.
+>> So, as I was simultaneously putting in
+um more people, the right right players
+in place, finding my key locker room
+leaders um which, you know, it's funny
+because I was actually texting one of
+them today. He's still at the company
+still, you know, having great success.
+you're still crushing it and um find
+those people. I was working the
+operations and fixing the back end so we
+get those deals installed faster, right?
+So, it was a combination of multiple
+things from like the sales team to
+operational things that had we had to
+kind of fix up front to make sure it
+could be, you know, sustainable
+long-term wise, but it still wasn't
+overnight, right? It still wasn't
+overnight because, you know, obviously
+it takes time for people to ramp up,
+have to perform and get to that level.
+So that's why it's like you know even
+our first year you know still end up
+hitting the number hit presence club
+which is great but then years after once
+we had kind of the systems in place it
+was like a compounding effort
+>> and what's actually insane now is like
+and you can appreciate this but like I
+got promoted in 2015
+and even after I left every leader in
+place has hit presence club every single
+year throughout
+>> and they're they're all people from my
+orc still I know all the people it's
+amazing it's 11 years later they're
+still doing Because what I was focused
+on was systemic things that we had to
+fix that have compounding long-term, you
+know, benefits.
+>> Yeah. And those things take a little bit
+more time.
+>> 100%.
+>> And that's where I think having a leader
+that's willing to see what you're doing
+behaviorally and strategically
+>> and to and to, you know, be patient
+through that. But also, I think it
+happens sooner than people think it can
+happen too when you do it the right way.
+>> Oh yeah.
+>> So a CRO listening to this podcast,
+let's say 50 million in revenue, missed
+their number by 20%.
+>> Yeah. uh they had a sales kickoff. Um
+they're ready to go into the new year.
+What are they getting wrong?
+>> Well, I think a lot of times is um they
+focus on eventbased activities to
+hopefully drive long-term results.
+>> So, like for example, they're behind
+their number and they say, "Let me go
+and try to hire someone like a Marcus or
+Travis. Come come do like a speech for
+our organization, right? All right,
+let's pay them a bunch of money, get
+them fired up, and they're going to be
+great, right? Well, what happens 30 days
+later, 60, 90, and so on.
+>> And that becomes an issue, right? And a
+lot of time what I find is that leader
+also has not identified the core
+constraint that's going to solve the
+bigger problem. And what I mean by that
+is at the end of the day you you have so
+many decisions you can make right and
+you want to drive revenue because that's
+a number you want to deliver but what is
+the biggest constraint and I'll give you
+an example right I I was talking to
+organization about similar size of that
+and they were adamant their sales team
+needed more sales training so they said
+it's a new year Marcus can you come in
+can you train your people [snorts]
+and I said well hold on a second how do
+we know that's going to give you the
+best long-term results. And they're
+like, "Well, they're behind their
+number. They're probably just not
+skilled enough. They need better skills
+with, you know, prospecting, closing,
+blah blah blah, whatever." I said,
+"Let's just do a deeper dive first,
+right? So, instead of you spending a
+bunch of money on that, let's first
+uncover the right core constraint." And
+we did a deep dive into it. We took a
+look and yes these reps needed training
+for sure but what I saw was across they
+had like 10 sales VPs. Those 10 sales
+VPs and their sales people were really
+frontline sales leaders that they call
+VPs. They did not know how to be an
+effective leader. They were not
+coaching. They were not leading. They
+were essentially super reps just like
+taking over deals and whatnot. So they
+were not like coaching and developing
+their team at all. Right. and they did
+not have the right operating rhythms as
+a sales leader. So literally I said and
+I talked to this it was a CEO instead of
+CR I said the C I said listen like
+here's like the top three things we
+probably focus on but if we could just
+pick one I would focus on your leaders
+if we could fix your leaders and get
+them develop doing the right things and
+by the way some of them may not do these
+things which is a different decision you
+have to make we can have an exponential
+impact to the team. So, we spent the
+time over the next 3 6 months developing
+the playbooks, helping their leaders
+figure out how to be effective as a
+leader. How do you run effective one-on-
+ones? How do you run effective training
+meets? How do you run effective like
+field rides or call reviews? How do you
+run effective sales team meetings? How
+do you truly develop a rep, right? And
+we didn't even talk to the reps. And
+just by doing that, they started hitting
+their number. And they also realize they
+have many of these VPs who should not be
+in that role. So that that opened up a
+whole new kind of worms like how do you
+properly develop the right people? But
+going back to that that CRO the mistake
+a lot of them make is they start
+throwing money or bodies at the problem
+without identifying the core constraint.
+And that's kind of like a doctor saying,
+"Hey, Travis, you need to have this
+surgery on your body or this, you know,
+this like this crazy procedure, but they
+haven't diagnosed it. They haven't taken
+any tests. They haven't like done any
+blood work or anything else. They're
+just assuming this is going to solve the
+problem. So, there hasn't taken the old
+playbooks from wherever they were,
+throwing it, and hoping it's going to
+solve the problem."
+>> Well, the first solution oftentimes
+isn't the right solution because you're
+solving a problem that's not the real
+problem.
+>> That's right. And so often times when
+when a leader thinks, okay, I have I
+have the solution to this problem, the
+all the all-wise, the all- knowing,
+>> yeah,
+>> we just need a training event.
+>> Yeah.
+>> Uh digging into it and staying curious a
+little bit longer, I think you can find
+out what the real issue is.
+>> But I want to talk about something else
+that you said. A lot of companies fall
+into the trap of saying, "We need
+revenue growth. We need we need revenue
+growth now. Sooner the better."
+>> And so I got a sales VP. They're really
+good at selling, so I'm gonna have them
+sell. Maybe do some coaching on the
+side, but I need revenue, so let's give
+them a territory. Let's give the the the
+leader some accounts so they can go sell
+them.
+>> What's what's your view on that? Is
+there a time where that
+>> is a good idea to help a company
+>> or is there is there a better way
+>> always? Is this a black and white thing
+or is it situational?
+>> I think it's for sure situational,
+right? because it depends on on the on
+the company cash flow situations and
+whatnot like because reality is is like
+if that that leader is basically a
+player coach if you will, right? And
+there's pros and cons to that, right? Um
+but when you think about this, if you if
+you are a player coach and you have a
+compensation plan that pays you on your
+team and also yourself,
+if you have let's say for example, the
+team is a dumpster fire, okay? They're
+just like they're all horrible. Is that
+leader really going to take the time to
+try to coach them or hire and backfill
+those people? Probably not. They're
+like, "Oh, oh god, like I I could
+>> I I got to work on them or I can go run
+these deals myself and I'm going to make
+more money that way, right?" So their
+comp structure now is also incentivized
+for potentially the wrong behavior. So
+that becomes like a really tricky
+situation, right? Because I the ideal
+situation is they're going to be paid
+off the team performance. So, they're
+incentivized to get the team to perform,
+right? And if you could focus on that,
+that's going to be a better long-term
+move. Right? Now, it's not always going
+to be perfect. And I think if you could
+if you had a segment to that, so
+depending on size and organization,
+right? If it's like you have a if you
+have a few reps, like two, three reps,
+and you're also a player coach, that's a
+little more manageable because you're
+kind of in growth mode, if you will.
+>> But once you start having like six,
+seven reps, you then you want them run
+their own deals. they only have so many
+hours in the week. Something is is going
+to fail. Like I actually I was actually
+a player coach for a number of years
+early on my career before we started
+working together. And I remember the
+battle I had to fight every single day.
+>> Yeah.
+>> Which is help my rep or close a deal.
+>> Yeah.
+>> And you know like I'm more ski I'm like
+this rep kind of a bad hire. like you
+naturally without you know the best
+thing to do is help them but you also
+have bills to pay a mortgage to pay so
+you're going to want to go and run those
+deals. Yeah.
+>> So ideal situation is you want to kind
+of phase it out. Now if you were going
+to run a player coach model you're
+almost like hopefully your comp
+structure is incentivizing maybe the
+team performance versus individual. So
+it's it's hopefully going to drive the
+right performance and get them thinking
+that way. But also I think on the flip
+side as a leader that's managing that
+person who has that player coach, you
+have to help guide them in ensuring
+they're doing the right things to
+actually scale the team effectively so
+that you don't get stuck in the churn of
+them being a player coach.
+>> Yeah. Yeah. Well, you mentioned this,
+but following the compensation trail,
+people are going to do what they're
+incentivized to do
+>> 100%.
+>> So if there's an incentive to pay
+commissions
+>> Yeah. and you can control that more than
+other people's out outputs,
+>> then you're follow the compensation
+plan.
+>> I think I like a lot of companies have
+misaligned incentive programs, but they
+don't realize it.
+>> Oh, yeah.
+>> You know, and I think you should be
+constantly looking at it, not changing
+it, but just making sure that it's
+aligned to the objectives.
+>> That's right. Like what's your desired
+outcome, right? like in this it's funny
+like like I remember at one point um you
+know uh we got compensated as as as well
+as director on staffing and headcount.
+>> Mhm.
+>> And that started to really shift my
+behaviors because what I what do I do?
+Make sure we're always overstaffed
+right. Yeah.
+>> You know like when I got compensated on
+bottom line which is I got compensated
+on for maj as a leader majority of my
+career at least half my comp was on
+bottom line of the organization. So what
+did that do? That incentivized me to
+make sure I number one hired people who
+had more of a business mind. Okay, not
+just a not a seller like a business mind
+and then they would sell more profitable
+deals and incentivize better
+conversations, more qualified
+opportunity and more products and
+services inside. So we had greater
+margins across the business. It helps
+ensure we also sold better business as
+well.
+>> Yeah.
+>> So like there's a trickle effect based
+off the comp structure and that comp
+structure is so I think I think it was
+maybe it was Warren Buffett. It's like,
+"Show me the incentive plan, I'll show
+you the behaviors."
+>> Yep.
+>> Get the behaviors, get the incentive
+plan right, behaviors will follow.
+>> You know, I think with incentive plans,
+too, a lot of times they become over
+complicated.
+>> Yes.
+>> And I believe that
+>> well, we know that the average American
+can understand and comprehend at about
+an eighth grade uh reading comprehension
+level. So, when you're writing
+compensation plans, you know, I often
+times will ask the rep to describe the
+compensation plan. And when there's so
+many levers, right, six or seven levers
+and you got to hit this and that's the
+gateway to this plan. It gets so
+convoluted that you you aren't able to
+focus on an objective. That's right.
+>> So I remember developing a compensation
+plan for a company and I just said,
+"What what's the objective? What do you
+want to have happen in the next two to
+three years?"
+>> And it was, well, I want to keep sales
+reps that only that perform longer.
+>> I don't want better retention. I want
+better retention for those that are
+winning. And so we simply made a scale.
+Yeah,
+>> that uh every month the sales manager
+got a point
+>> for the rep that they had on their team
+that hit their that hit their number.
+>> And the longer they stayed, the more
+money we gave them every month.
+>> But they had to hit their number.
+>> Yeah.
+>> It wasn't just about being staffed. It
+was about being staffed with the right
+people, right talent.
+>> And then you just watch the number. What
+you measure improves. And what you
+measure and report improves
+exponentially. So you measure it and and
+it can be very simple, but I think we
+get on our own mind sometimes and and
+companies and owners uh get so and
+leaders get so focused on results today
+that they lose sight of the behavior
+that's going to help them to get the
+result.
+>> Oh, 100%. And because there's always
+trade-offs, right? It's like when you
+build that incentive plan, like what is
+what's the number one KPI we're trying
+to impact based off this comp structure
+and what's the potential trade-off? both
+you can make a better decision for the
+construct you're trying trying to build.
+>> Yeah, love it. Okay, so let's talk about
+Benley.
+>> Who should not hire Benley to come in
+and support their company?
+>> Yeah, that's great. So, um it's funny
+because not everyone's a fit,
+>> right? So, I think a couple number one,
+um leaders who are not willing to
+engage. M
+>> so like you know I think a lot of times
+you know the mistake I made early on as
+as you know as a business owner is I
+would work with some of these companies
+in which is I'm primarily working with
+the reps and not the leaders. So and
+what's interesting is like the leaders
+are the reinforcement component of
+making sure even beyond the engagement
+is over right and you know if the
+leaders are not engaged and they're not
+part of the process and they're not
+bought in that's not a good fit. So
+that's actually why we always require as
+part of our process we're working with
+them as part of the engagement if you're
+working with reps as well because we we
+want them to get long-term results. So
+not just results while we're working
+together but having compounding effects,
+right? So that's for sure one. Um uh so
+they have to have leaders are involved.
+Um you have to have product market fit.
+So sometime we get early stage companies
+that want to work with us but they're
+still trying to figure out does the
+market even want what we sell? And that
+makes it like that's like that's that's
+a whole different problem you have to
+worry about, you know, as part of it,
+right? Um the third is no ego.
+Absolutely no ego, right? Because if
+there is an ego from anyone in the
+leadership team, and I'm not talking
+about being confident. I'm talking about
+like ego where it's like uh you're not
+coachable essentially.
+>> Yeah.
+>> You're like, I don't want to do any of
+those things, right? So, if you go back
+to my early example, right, uh, of that
+company was losing over $35 million. We
+only did a very small engagement with
+them. We actually didn't do the backend
+component of really helping them build
+anything out because even though we
+uncovered with data, their data, we
+literally had their data, their
+information. We had all the call
+recordings. We all the analysis like
+literally here's the data. We look at
+KPIs, people, and process. I'm like, you
+have all these things that are broken.
+We should not your normal priority
+should not be to hire 12 BDRs and hire
+BDR manager and do all that stuff.
+Leader says
+no, I want to do that anyways. I said
+then we should not work together. He's
+he's like because he was so adamant
+because I just knew like I'm like yeah,
+you could hire me. I'll trade, I'll
+develop their people, but long-term
+wise, that's not going to be a good fit
+because you're going to be mad now at me
+that revenue has actually not increased
+and margin and margins actually
+compressed and your revenue has not
+actually increased.
+>> Right now, he was also I would say a
+little he was under a lot of pressure
+from the PE company and the PE company
+was adamant that this is what they need
+to do for more pipeline, right? But I
+was like from an outside perspective
+like I'm I'm going to give you the best
+like whether you work with us or not
+like this is we don't recommend this.
+>> Yeah. Like so like and so he definitely
+had probably a little bit of an ego,
+right? Or maybe the PE company had a
+little bit of an ego in terms of what
+was going to be the true long-term best
+move for the company.
+>> Yeah. So a CRO listening to this episode
+Yeah.
+>> is is going to, you know, on Monday is
+going to wake up and make a decision.
+One, they're going to call you and say,
+"Marcus, I heard what you're talking
+about. Tell me more."
+>> Uh B is going to keep going with what
+they're doing, not change anything, not
+call Marcus. Okay. So what's what's the
+one thing that they should do and why?
+[clears throat]
+>> Okay. So if they're not going to work
+with us, right, and they need to go
+figure out what's going on, if their
+team is not performing, I'll say the
+first thing that you want to go do is go
+see what's happening live on sales
+calls. It's the first thing you go in
+the you you'll see very quickly what
+your team is doing and what they're not
+doing. if they even know what good looks
+like and you'll be able to find some
+pretty key patterns, right? That's the
+first thing I would do. And then the
+second thing I would do is I'll do the
+same thing with see how your leaders run
+their week in the meets they have
+whether it's a team meeting, a sales
+meeting, a training meeting, one-on-one
+calls, uh where I want to debrief with
+the reps, see exactly what how the field
+rides go, because you might become
+pleasantly horrified on what you see
+across the board. But when you do that
+at least you get you get away from the
+armchair quarterback of just looking at
+the dashboards because the data tells
+you just one part of the story and yes
+you should look at the data as well. So
+obviously you can look at the data, you
+can look at you can see all the
+conversions from stage to stage, but
+then you also take a look at what's
+really happening in the field and what's
+actually happening on the calls because
+that'll give you a bigger picture of
+what you can focus on because once you
+do all of that, then you what are the
+top three things I can focus on to start
+moving the needle and the key is is like
+then you can build a system in place to
+solve the problem. And I'll give you
+example uh number years ago I went from,
+you know, a sales master with the
+Portland team. I took over. We had about
+six reps. I grew it to 20 and then I
+split in half, put two sales managers
+back film me. I went to a director role
+overnight like you know nine 10 managers
+and I realized pretty quickly that no
+one developed reps the way I developed.
+So I knew that was a core constraint.
+But I also realized a really big core
+constraint was half my managers
+shouldn't be managers. And I realized
+very quickly I needed to have a
+developmental plan put in place
+long-term wise to develop my future reps
+into that. So that was a core part of my
+strategy going in where I've had to
+build a comprehensive developmental
+program to help improve future put
+basically put reps into a succession
+plan where they can get developed
+through the right skills to go in that
+leadership role. So and I wouldn't have
+known that. So if I just assumed walking
+like okay this is the playbook I got to
+do with my sales team. I can go do the
+same thing. I would have failed horribly
+you know because my playbook was I
+realized was like I need to hire more
+people right. Well here was a different
+constraint. The constraint was my
+leadership team is not the right bench
+that we have or not the right players we
+have in place or half of them was not.
+So I need to develop the ones who were
+coachable other ones we we put probably
+into probably like matrix roles and like
+other types of sales roles and I need to
+have a backful ready to go to up upscale
+the leadership team.
+>> Yeah. You talked about um we've talked
+about why sales teams don't win or why
+they win. If you're going to identify
+the number one uh reason that sales
+teams are winning from your perspective
+and you you get hired to come in and
+they're in the the top cortile of
+performing teams, what do you notice?
+What are the common themes about
+companies that have good sales rhythm
+culture results?
+>> Yeah. So number one, everyone knows what
+good looks like. This is like across the
+board. So they know everything from they
+know what the like what metrics they
+need to hit from like KPIs like you know
+from how many calls etc all all the way
+down to like how many meets they need to
+run they know exactly what to do they
+know what the perfect week looks like so
+from 8 to 5 exactly what the top rep or
+manager does it's crystal clear everyone
+knows what that looks like they know how
+to run the perfect discovery call they
+know how to run the perfect sales motion
+the demo objection they know exactly
+what good looks AC from A to Z everyone
+knows the path to presence club right
+they how to win. Okay, but it's not just
+that. They have number two, they have
+reinforcement patterns in place. So
+rhythms that are done consistently to
+reinforce those behaviors. So it's not
+just like, hey, welcome, welcome to our
+company. You're getting trained all
+these on what good looks like. There's
+reinforcement instilled at different
+levels all throughout at other parts of
+the organization, right? So that means
+like for example, as a sales leader,
+they're helping reinforce like in their
+101's what that looks like. if they're
+in the field or on calls or doing call
+reviews, it's the same thing. They
+they're coaching accordingly back to
+what good looks like. So essentially,
+they there's a really clear benchmark of
+what success looks like across the board
+that people understand, believe they
+know how to get to those numbers and
+then it's reinforced every single level.
+And it's not just at like, you know, the
+rep and the manager level. It's every
+single level all the way down is
+reinforced because it starts from the
+very top. But when you do it
+consistently, you see you're just like
+it's like and by the way, no, no
+organization is perfect, but they're
+pretty freaking consistent. And one of
+the like the biggest companies in the
+world for sure they have their flaws.
+But they have these two things so dialed
+consistently that what happens is like
+even if you hire an accidental C player,
+C's become B's, B's become A's. A's
+become A+es because of those two key
+things.
+>> Yeah. You talked earlier about watching
+>> and so when a president
+>> of a company or CRO
+>> wants to go see what's going on
+>> to get out in the field and watch some
+sales calls.
+>> Yeah.
+>> You know, I'm always I'm always
+sort of like intrigued because if you're
+coaching a team or leading a team but
+you've never watched them play on the
+court.
+>> Yeah.
+>> Right. Imagine you're a head coach
+>> and you go to practice, right? Do your
+sales meetings and then you don't get
+out on the field or the owner doesn't go
+to the games and watch what's going on.
+And I think the field is where the reps
+are performing. That's the stage.
+>> That's right.
+>> And I find how many leaders are not
+watching the reps perform.
+>> And so the culture can be, and I've
+heard this before, Marcus, it's like,
+well, there's three people on a sales
+call, so that would be weird. or um or I
+I don't want the the VP to ride with the
+rep because they may be intimidated.
+>> Right.
+>> So, it's like this culture that's been
+developed where the coach is blind
+>> Yeah.
+>> or the leaders, the ownership is blind
+to what's going on on the court.
+>> And I'm not suggesting that they go ride
+with their people every single day,
+>> but inspecting and going in and seeing
+what's happening at the customer level,
+I think there's some value in that.
+Would you recommend that for for every
+organization? And what would a rhythm or
+a pattern be?
+>> 100%. Right? So, you know, I had 110
+reps. And well, that's why I scaled
+scale the organization too, right? And I
+still got in the field at least twice a
+week. Twice a week. I mean, I travel a
+lot twice a week. So, I would see at
+minimum six live sales calls in person
+in the field. Um, was it hard?
+Absolutely. to make sure I had time
+because there's so many other like
+competing priorities, right? But it was
+some of the most valuable time I spent,
+you know? So, and and by the way, I I I
+knew they would get nervous, right? They
+always get nervous cuz someone's coming
+in town, etc. So, I would always have
+this little like little spiel, even if
+I've been with them together. I would
+say, "Hey, listen. Like, um my Travis
+say my job is just to learn and I just
+want you to just do your normal thing. I
+know it's it's easier said than done,
+but like like even when you introduce me
+where I can introduce myself, just tell
+them I'm a new rep in training that that
+I'm just here to learn. All right? So,
+this is your show and I'm just here to
+learn from you. Does that sound good?
+And if I can help you, I'll help you. Is
+that fair? And they're like, "Okay, all
+right." You kind Okay. All right. But
+then like it was nice was like on on
+sales calls like then it's like I could
+just kind of just chill a little bit,
+right? And if they needed help a little
+bit, I could step in and kind of guide
+them a little bit, right? But what was
+really interesting was is I would see so
+much. You said this before, but I see
+better than I hear. I would see what
+they're really struggling with. All the
+little details from how they organized,
+how they started a call, how they
+prepare to what's going on their
+personal lives, what challenges running
+into, what what's going on in the
+marketplace, what is going on. And I
+knew sometimes that the sales managers
+would prep the reps to try to
+>> right
+>> put a show on, you know, dog and pony
+show. But when you're spending like
+three, four, five hours with someone,
+they start to let the guard down a
+little bit and you start to hear what's
+really going on and I you'd hear about
+like what the manager is doing a great
+job with other obstacles run into or
+maybe some stuff that is not so pleasant
+that you might find out like oh that's a
+that's a pink flag I need to dig into
+with the team or other reps etc. So it
+gave you this level of exposure
+at so many levels from you can see the
+customers, you can see them, you can see
+the managers, but you start to see
+trends across the board. But on the flip
+side, it also allowed me to see what
+they're doing a really good job with. So
+I can reinforce behaviors I wanted them
+to see, right? So, for example, if I saw
+that maybe they just did an amazing job
+with like um certain questions they
+asked and really opened a prospect up,
+now I can say, "Hey, Travis, that was
+really amazing. You know, on our call,
+our group call this coming like
+Thursday, could you can I tap you on a
+show? Can you share how you're running
+your calls?" Because those three
+questions you asked, I think a lot of
+reps can learn from you. So, not only
+would I was able to help like develop
+them a little more, uncover key areas,
+but also it helped me retain people
+better and help them to tap into their
+discretionary effort to be able to
+showcase their skills. So, it's one of
+those things where is it easy to do? No.
+But the ROI is absolutely insane. I
+remember my when I took over the that
+market about a 50% turnover. Now, I did
+a lot of other stuff as well, but I'm a
+firm believer by just literally spending
+time with reps at the field level,
+spending time with the managers at their
+level was the big reason went from 50%
+down to 17%.
+>> Like in year one.
+>> Yeah.
+>> So, it's pretty wild, but like it is
+hard to do and most people avoid doing
+that hard work because they want to
+throw their original playbook at it. But
+once you actually do the inspection and
+you see those things, that may
+completely shift your strategy you have
+for the organization. That's exactly
+what happened to me. My initial 90-day
+plan I I put together to interview
+throughout the window once I saw what
+was really going on.
+>> Yeah. And on the flip side, if if a
+leader goes out with the rep and they
+see that positive things are happening,
+it's reinforcing and we're going to do
+more of what's working as well.
+>> Oh, 100%. 100%.
+>> Yeah. Okay. So let's let's talk about um
+an HR tech client.
+>> 65% jump in deal velocity, 40 47% jump
+in win rate.
+>> So with that client, tell me the one
+move that unlocked that.
+>> Those are big numbers.
+>> Oh yeah. So I think a a really one one
+super easy move was like everyone thinks
+they do a good discovery.
+>> Okay. So like we did work with their
+team with on terms of like you know
+better management all that stuff but
+like the managers themselves the reps
+themselves did not know how to run an
+effective discovery process. So they're
+really good at asking basic questions
+like medics was a process they use very
+transactional right but teaching them
+and showing them how to actually run a a
+discovery process where you uncovering
+quantifiable business pain impact and
+pain at different levels at technical
+level business level personal level and
+going super deep was absolutely vital
+for them. And when we started to do
+that, what ends up happening is like,
+well, the deals get bigger. They have
+more deal momentum and whatnot. And the
+thing is is like the reps had no idea
+how to do effectively. They were kind of
+taking an order, if you will. That was a
+major impact. But also then now the
+managers also had a common language. We
+we teach a frame framework called
+powerful. They all a common language now
+of how to run discovery. So now they can
+all run a similar discovery. The manage
+could coach to it. They can say, "Okay,
+listen. Like, you know, we got pain
+here, but is maybe like a level five.
+What do we miss here to get to level 10?
+What questions could we have asked to
+get to the next level?" Okay. And we
+when you start to have a consistent
+frame across the board of not just how
+you run discovery, but also how your
+manager's coach, you start to see a
+compounding effect. So, for them, that's
+what it was. It was a compounding effect
+over and over because now the team knows
+knows what good looks like. It's a
+reinforcement patterns and that's going
+to drive results long-term wise. Let's
+talk about a perfect week for a sales
+leader.
+>> Yeah. All
+>> right. So, a sales manager Monday
+through Friday
+>> if they're if you if you just look at
+where they're at physically office field
+and then what they're doing. So, where
+they're at and what they're doing. Yeah.
+>> Where where would you say on a high
+functioning high performing team
+>> if we were to zoom in and record that
+sales manager? What's he doing? Where's
+he at? How does it work? What's a
+perfect week look like?
+>> Great. Well, I think I'm boil there's so
+many things you can do, right? As a
+sales leader, you're getting non-stop
+Slack messages or team messages and
+emails. Reps are calling you. You're
+sick and before you know, you're
+basically like, "What happened to my
+week?" Right? At the end of the day, the
+two most important things you do as a
+sales leader is number one, you go and
+you find world-class talent. You're
+recruiting world-class talent. And then
+number two, you keep and retain and make
+that talent better. That's it. Those are
+two biggest things. It's it's a the prao
+principle that's the 20% drives 80% of
+the results. Everything else is just
+noise. That means your week should
+reflect really similar to that, right?
+So from a perfect week perspective,
+let's just assume it's an 40hour work
+week, but like I personally like to
+start off with a sales meeting in the
+morning. I've been stuck I've been stuck
+in a long time. I think it's like it's
+the best thing to do, right? So say for
+example 8 a.m. It's a sales team
+meeting. you know, you're setting the
+vision, you're providing the vision,
+everyone's providing their numbers,
+there's coaching, there's real plays all
+throughout. They're walking away knowing
+exactly what to do for the week, and
+they're developing their skills. Okay?
+Now, there should also should be set
+times when the team is also prospecting
+as well. Firm believer, right? So, some
+teams do it two hours a day, some teams
+do it, you know, four hour blocks. It
+doesn't matter. Let's say, for example,
+you have a set set time and you as as a
+leader, you're with them. So, if you're
+a remote team, everyone's on Zoom or
+Teams, they're on mute and they're doing
+they're doing the work. And for certain
+reps, you're having them unmute so you
+can listen in and see how they do. So,
+you can coach accordingly between the
+calls. So, you're you're coaching live,
+making sure that's that's dialed, right?
+Then you're going to have one-on- ones.
+So, you're having really structured
+one-on- ones, right? And it's that's
+cool because we talk about your
+one-on-one structure. It's very similar,
+which is like, hey, like what's a big
+obstacle in their way? Remove the
+obstacle. What's the action items from
+last week? how we do it against those
+where do they stand from the numbers
+what's the exact next step to progress
+whatever is the highest priority for
+them that week right so you one ones all
+throughout that might might be part of
+the Monday morning right
+>> and then in the afternoon you're on live
+calls with the reps so if you're if
+they're if it's a remote team you have
+certain reps you're on Zoom calls with
+them as well to see what they're doing
+to coach and guide them as well all
+right so typically you're going to have
+probably at least three four half days
+of the rest of a week that you're on
+live calls as a rep so you can coach
+them accordingly. Okay. As part of that
+perfect week, there should be at least
+one time one hour of the week where it's
+dedicated purely training. So I I like I
+like middle of the week because the
+middle of the week is a kind of pulse
+check on the team where you're going
+through you're teaching them something.
+I use what's called edra which is you
+educate them, you demonstrate what
+you're going to what you want them to
+do, then you do real plays with them and
+then there's actions of what they need
+to do next. There's training with that,
+right? That's part of it as well. And
+then in the other times, so let's say
+for other parts of the week where you
+have more time, you might have some
+internal meetings, etc., but depending
+on where your staffing levels are at,
+you should have dedicated blocks for
+literally recruiting, finding
+world-class talent to continue topgrade
+your team. That that means like you have
+time blocks of you're doing outreach on
+LinkedIn, you're going to career fairs,
+you're working maybe external
+recruiters, you're doing interviews. So
+this way you're constantly building your
+bench as part of it, right? And the
+other rest of the time you're doing
+strategic planning. You're making sure
+you're prepared for your training.
+You're prepared for your your sales
+meeting. You're preparing for the
+one-on- ones. You're making sure you
+looking your where your reps stand. So
+you have times as well where you're
+making sure you're looking at the
+numbers too. But if you do these
+consistently, if you do them 20% of
+those action, the 20% of the the 80% of
+the developing people, finding world
+class talent, you will blow your numbers
+out, right? And if you do that
+consistently and you're not you're not
+blowing your numbers out, chances are
+pretty good you're not effective at
+doing those things.
+>> Yeah. It's being it's constantly being
+better at the things that you're doing.
+I think you know you you talked about I
+I always talk about the big three,
+>> which is sales rep. As a sales leader,
+it's sales rep facing activities.
+>> You have one-on- ones,
+>> you have field time, and you have sales
+meetings. Those are the three
+opportunities to interact. Yeah.
+>> And then you have the recruiting and you
+have maybe some admin stuff and some
+operational meetings you need to be a
+part of leadership meetings. So when I
+look at those three, the big three, I
+call it the big three. That's where the
+constant improvement for us lives. Oh
+yeah.
+>> How do we make our sales meetings
+better?
+>> That's right.
+>> How do we make our field time better and
+our coaching ability better? And then
+how do we make our those one-on- ones
+even more impactful, more meaningful,
+and constantly revising? If you haven't
+revised your debrief form in four or
+five years,
+>> oh yeah,
+>> you know, the the problem, you know,
+isn't performance, it's what we're doing
+inside the debrief form.
+>> 100%.
+>> You know, if you haven't worked on your
+coaching and tried different
+methodologies in the field
+>> uh in in a while, then there's an
+opportunity for improvement on the one.
+>> You got to be a bit of a mad scientist,
+right? Like you have to constantly be
+tweaking and twe and adjusting to see
+how can you improve performance, right?
+Like the reality is like if you can get
+1% better at coaching that can compound
+exponentially with your team. So those
+are the key things and I find so many
+leaders they go through the motions.
+They're like, "Oh yeah, I I I I guess I
+guess I do one onone. I guess I do do
+these things." That's why I'm like take
+a look. If you're you're a CRO, you're
+an exec and you're not sure what your
+manager is doing. Have them record the
+one ones. Review the one-on- ones. Take
+a look and see what's actually happening
+on there. I can guarantee you majority
+of the time it is ineffective.
+Ineffective. I've been there. I'll I'll
+fly into into a city. I'll sit down with
+my leader like just do your normal thing
+and you can just suddenly see this whole
+like dog and pony show. I'm like this is
+not what really goes goes on.
+>> Yeah.
+>> Like I can guarantee this is a big
+reason why your team's not performing
+because it's a check the box. It's like
+how was your week? Okay. It was good.
+You need anything from me? You don't?
+Okay. See you later. That rep walks away
+like all right easy day. But they're
+still just as lost as last week still.
+>> Yeah. Yeah. I remember um installing a
+coaching methodology in in uh coaching
+conversations and so we had a process
+and you know about a year into this. I
+rode with the leader and I watched them
+use the process and it was clear to me
+that was the first time he had tried
+because the language was so clunky that
+you knew the implementation wasn't
+there. And so I think as you come in and
+it's like, "Hey, what do you want to
+see?" Well, I want to see how you how
+you run your day. Just do a normal day.
+I'm just here to watch.
+>> Because what you want to see is ground
+truth.
+>> That's right.
+>> You know, if we can get to the ground
+truth of what's happening, not to be
+punitive or to fire somebody on the spot
+or any of that, but to look at ourselves
+as leaders and is our program is it? So
+I I took from that. I'm like, okay, how
+can I tweak my own training and my own
+implementation so that I get the result
+that I want? And it turns from being
+frustrated, you talked about this
+earlier, being frustrated at the
+territory is the same thing as a leader
+being frustrated at their people.
+>> Oh yeah.
+>> Right. So, it's the same thing that we
+carry with us. If if a leader is looking
+at the sales reps and listening to sales
+reps make all these excuses about all
+these external factors they can't
+control,
+>> but then as a leader, they're they're
+doing the same thing about their people.
+>> 100%. It's the same framework. It's the
+same mindset of ownership.
+>> You got to coach them through it. Even
+even the leaders, right? I'll have
+leaders like they know they need to have
+tough conversation and I'll be like,
+"Are you ready for that conversation?"
+>> Like, "Yeah, yeah, yeah, cool. Let's
+role play."
+>> Yeah.
+>> I'm going to be them, you know? Like,
+>> that's a real play.
+>> Now, we're doing a role play. I'm like
+I'm like, "I'm mad about the comp
+change."
+>> Yep.
+>> What's the What are you going to say
+next? You know, get them to do it live.
+It's It's amazing. It's like we need to
+develop our leaders as much as we focus
+on developing reps.
+>> It's a huge miss across the board for a
+lot of companies.
+>> Yeah. I would even say stop focusing on
+developing the reps. You talked about
+this earlier. Focus on developing your
+leaders. This is how duplicatable
+success. This is where it lives.
+>> It's a multiplier effect when you manage
+if you develop the leaders.
+>> Yeah.
+>> Yeah.
+>> We always want to focus on revenue
+generating. So we go to okay, what do we
+need to do with the customer? But I I
+think your point is so
+>> so I've just seen it so many times. It's
+so powerful.
+>> Yeah. 100%.
+>> So if you were looking back at your
+career, super successful um individual
+contributor, sales leader, scaling,
+growing, hundreds of million dollars of
+of revenue of impact, if not more, now
+you've been in in this business
+consulting and helping companies do the
+same process. What's if if what's one
+piece of advice that you would give any
+CRO or any business owner listening to
+this? What would be one piece of advice
+that you would give? M slow down
+and do the hard work of really looking
+at the bigger picture first before you
+start attacking whatever you perceived
+problem that you have
+>> because oftent times
+>> that perceived problem is usually the
+wrong problem that you're tackling
+>> and I'll give you an example a personal
+example it's kind it's kind of like this
+I remember um you know this is probably
+a couple years ago and I'm like my foot
+started started to hurt and I'm like,
+"Huh, that's weird. My feet are are
+starting to hurt. I'm not sure why. I
+think it's come flatfooted." Right? So,
+what do I do? I go and I get um you
+know, I get some insoles. I think it's
+much better. Okay, just get some
+insoles. I'm like, "All right, that's
+like that's probably going to solve my
+problem." It felt a little better, but
+then start having so still have certain
+pains. I'm like,
+>> "This one's hitting close to home."
+>> Oh, yeah. You know, it's like [laughter]
+I'm like, "Okay." So I'm trying I go go
+online and trying to look at all these
+because I'm also like feeling like hip
+pain now. Hip pain and also like lower
+back pain. I'm like this I think this is
+all tied together. I'm looking online.
+I'm like oh okay maybe it's shoes then
+instead. I'm like so I start getting
+better shoes. So I start getting shoes.
+I'm like like okay but still kind of
+having all these core problems right?
+And I'm like, must because of my flat
+feet. This is kind of what it is, right?
+[snorts] And dug in deeper and I
+realized was, yeah, maybe those are all
+part of part of the problem, right? But
+there were really symptoms. And the
+symptoms was was or the the core the
+core root issue was I actually lacked
+mobility. My mobility had gotten worse
+over the years from just not the same
+level of movement as a kid, sitting too
+much, you know, being in front of a
+computer all day. I'm like, "Oh, wow."
+And I realized my had certain muscles in
+my hip, in my lower back, in my feet
+that were not getting developed at the
+right level. And that was actually a
+core root problem. So, I started working
+on mobility across the board. And it's
+amazing like now that pain's all gone
+after like three months because I I
+started to identify what the core root
+problem is. And I think a lot of
+organizations do the same thing where
+they see something a symptom of
+something and they believe that's the
+issue. So they start trying all these
+solutions, right? But they don't really
+take the time to really diagnose
+everything to really see the bigger
+picture to uncover what do we need to do
+to solve this long-term wise. You know,
+I'll give you an example at a company we
+worked with, they kept trying to build
+outbound function to their team and they
+kept failing. They had really successful
+inbound business, but outbound was a
+struggle. They'd hire a rep having crazy
+compl
+was like ridiculous. So, they're like,
+"We're getting the best talent, but they
+kept churning people, not getting the
+results, right?" And we took a look and
+he's and they're like, "I think we're
+just hire not we're not good at hiring."
+And I'm like, "Well, I mean, maybe
+that's part of it, right?" But I took a
+took a deeper look and realized pretty
+quickly, well, number one, when reps
+would walk in, there was no real proper
+onboarding. Okay? No proper onboarding,
+no training, no reinforcement, no
+playbook of what good looks like across
+the board. So there's all these
+components that's already missing,
+right? And then you go even deeper. For
+sure, they also weren't hiring right
+properly. They weren't hiring properly
+either. So even the person they weren't
+clear on who they need to go after.
+Yeah.
+>> So actually the interview was actually
+pretty good, but they they were aiming
+the wrong people.
+>> So now now they had now we fixed all
+that. So now exactly they have ideal
+hiring profile. They have a a high
+alliance to it. They have the proper
+onboarding and they have everything else
+dialed now. And now they're they they
+think they have like 10 people on their
+outbound team now. They're all like
+doing really well. They're blowing their
+number out, right? And a couple years
+ago that wasn't even a thing. And again,
+they did not know what the problem was.
+It's kind of like um you know to a to a
+hammer everyone's a nail, you know, like
+that's what it was. So sometime as a
+sales leader we get stuck in our ways of
+thinking like this is how we solve the
+problem. this is how we always have done
+it. Well, I would I would challenge you
+say take a step back. Have we identified
+what the core root problem is? And if
+you have, cool, then try to solve it.
+But if that solve is not working, are
+you 100% certain
+>> that's the problem.
+>> That's the problem.
+>> Yeah. Yeah. Solutioning early.
+>> Easy thing happens when we you've been
+in business for a long time. We we we
+all do it. I do it. It happens to me
+too. But when sometime when you're when
+you're so close to like you know the the
+trees, you don't see the forest. And
+that's where that external perspective
+is so valuable to help you see what you
+may not be seeing.
+>> Well, my experience of you is that you
+have that ability to go to go deep and
+be willing to go deep. Ask the tough
+questions that may be uncomfortable,
+>> but you know that you're finding the
+root problem so that you can help your
+your clients solve the the right problem
+with solutions that are sustainable and
+that work.
+>> 100%.
+>> Marcus, this has been great. Thank you
+for for the time today and sharing your
+wisdom, experience, knowledge,
+>> and all of you. Thanks, man.
+>> Thanks so much. So, that was Travis
+Smith interviewing me, the leader who
+built the leaders like myself, who built
+the team, a still hidden presence club
+11 years after he handed off. Now, you
+can find Travis on LinkedIn to follow
+what he's putting out next. So, one line
+to sit with you before you close this
+out. If your number is off this quarter,
+do not start with the comp plan, the
+kickoff speech, or the BDR hiring
+spreadsheet. Start with two things. One,
+watch what is happening on live sales
+calls. And two, watch what's happening
+in your manager's 101 ones. Your answer
+is in one of those two rooms, if not
+both, not on the dashboard. Now, if you
+suspect there's a $35 million version of
+this hiding in your own pipeline, we run
+the exact diagnostic and a free 45minute
+executive revenue snapshot. There's no
+deck, there's no pitch. We pull your
+real numbers, look at where your money's
+actually leaking, and tell you what to
+fix first. Link is in the description.
+Now, if you found this valuable, make
+sure to hit subscribe, follow wherever
+you're listening to this, or send to a
+sales leader to give them more value as
+well. I'm Marcus Shim. Thanks for
+spending your time in the revenue vault
+and I'll see you next week.
