@@ -1,0 +1,48 @@
+# Sources: AI-Powered SEO Content Production Experts
+
+Collection date: 2026-06-29
+
+Topic: AI-powered SEO content production for B2B SaaS, including AI search visibility, AEO/GEO, programmatic SEO, AI-assisted content workflows, free-tools SEO, and content distribution that influences Google and AI answer engines.
+
+Selection standard:
+- Publicly teaches through YouTube, LinkedIn, podcast, newsletter, blog, or owned media.
+- Has operator proof: founder, CEO, CMO, product operator, agency operator, or SaaS builder practicing the same SEO/content system they teach.
+- Strong preference for people building or selling an AI SEO/GEO/content product or service, not generic AI commentators.
+- Recent material must be strong enough to support a future playbook.
+
+## Expert List, Strong to Weak
+
+| # | Expert | Strength | LinkedIn collection | YouTube collection | Why chosen | Proof URLs |
+|---:|---|---|---|---|---|---|
+| 1 | Tibo Maker | Strong | Pending authenticated scrape | 1 local Starter Story transcript copied | Built Outrank, which the local transcript says passed $200K/month and started as a blog-post generator before becoming an all-in-one SEO SaaS. Clear product/operator proof. | https://www.outrank.so/; https://www.youtube.com/watch?v=xeUhKuJbeWQ |
+| 2 | John Rush | Strong | Pending authenticated scrape | 1 local Starter Story transcript copied | Builds SEObot, ListingBott, directories, and a portfolio of founder tools; transcript and SEObot site show he uses AI SEO for his own products. | https://johnrush.me/; https://seobotai.com/; https://www.youtube.com/watch?v=En34iY-rQc0 |
+| 3 | Samanyou Garg | Strong | Pending authenticated scrape | 6 recent Writesonic video URLs collected; transcripts unavailable through free method | Founder/CEO of Writesonic. Writesonic says it uses its own AI search workflows to grow the company and sells AI search/GEO/content execution. | https://writesonic.com/about-us; https://writesonic.com/ |
+| 4 | Jacky Chou | Strong | Pending authenticated scrape | 5 recent Indexsy video URLs collected; transcripts unavailable through free method | Runs Indexsy and several SEO/AI search products, including LocalRank, Trackings, Ranktack, LLM Booster, Reddit SOP, SEO audits, and link-building offers. | https://jackychou.com/ |
+| 5 | Ross Hudgens | Strong | Pending authenticated scrape | 5 recent Siege Media video URLs collected; transcripts unavailable through free method | Founder/CEO of Siege Media. Siege sells SaaS content creation, content marketing, GEO, and AI-enhanced content strategy, with AI-search case study proof. | https://www.siegemedia.com/about |
+| 6 | Ross Simmonds | Strong | Pending authenticated scrape | 3 Ross Simmonds appearance URLs collected; transcripts unavailable through free method | Founder/CEO of Foundation. Foundation focuses on B2B SaaS content strategy, AI visibility, GEO/AEO, Reddit/community research, and distribution. | https://foundationinc.co/leadership-team/ |
+| 7 | Bernard Huang | Strong | Pending authenticated scrape | 5 recent Clearscope video URLs collected; transcripts unavailable through free method | Founder of Clearscope, a content optimization and AI-search visibility product for Google, ChatGPT, and future search surfaces. | https://www.clearscope.io/ |
+| 8 | Tim Soulo | Medium-Strong | Pending authenticated scrape | 5 recent Ahrefs transcripts collected | Ahrefs CMO/Product Advisor. Ahrefs now sells SEO plus AI visibility tooling and recent Ahrefs videos include AI SEO/AEO content. Strong operator, but company-led more than personal. | https://ahrefs.com/blog/author/tim-soulo/; https://ahrefs.com/ |
+| 9 | Gael Breton | Medium-Strong | Pending authenticated scrape | 5 recent Authority Hacker transcripts collected | Co-founder of Authority Hacker. Strong AI/SEO systems teacher and operator; less B2B SaaS-specific than the top product/company operators. | https://www.authorityhacker.com/about/ |
+| 10 | Bhanu Teja P | Medium-Strong, narrow | Pending authenticated scrape | 1 local Starter Story transcript copied | Built SiteGPT and used free-tools/engineering-as-marketing SEO to drive traffic. Strong proof of SEO practice, but narrower than AI SEO content automation. | https://sitegpt.ai/; https://www.youtube.com/watch?v=Adl5_lJfkEE |
+
+## Collection Summary
+
+YouTube:
+- Collected or copied transcript files for 13 videos total: 5 Ahrefs, 5 Authority Hacker, and 3 local Starter Story founder/operator transcripts.
+- Collected recent YouTube URLs for Samanyou Garg/Writesonic, Bernard Huang/Clearscope, Ross Hudgens/Siege Media, Jacky Chou/Indexsy, and Ross Simmonds/Foundation appearances, but free transcript extraction returned no English captions for those videos.
+- Manifest: `research/other/ai-seo-youtube-videos-manifest.csv`
+- Channel inventory: `research/other/ai-seo-youtube-channel-inventory.csv`
+
+LinkedIn:
+- Per-author LinkedIn collection files were created under `research/linkedin-posts/<author>/posts.md`.
+- Full recent LinkedIn post text is pending because no `APIFY_TOKEN`/`APIFY_API_TOKEN` is available in this environment, and Kimi WebBridge is not installed, so no authenticated browser scrape could be run.
+- Manifest: `research/linkedin-posts/ai-seo-linkedin-manifest.csv`
+
+## Dropped or Pending Candidates
+
+| Candidate | Decision | Reason |
+|---|---|---|
+| Eugene Zolotarenko | Drop until verified | No clean public source was found tying him directly to current AI SEO teaching/operator proof. |
+| Tanya Van Gastel | Drop until verified | The RankOn.AI source found during verification names Ken Wisnefski as founder; no clean proof was found for Tanya as the practitioner behind the offer. |
+| Elston Baretto | Drop until verified | Tiiny Host may fit SEO/YouTube/free-tools growth, but no strong AI SEO content-production proof was found in the local transcript corpus or public source pass. |
+
