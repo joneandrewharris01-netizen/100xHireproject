@@ -1,0 +1,33 @@
+{
+  "actorId": "kfiWbq3boy3dWKbiL",
+  "actorName": "curious_coder/linkedin-post-search-scraper",
+  "note": "Template only. Do not commit real LinkedIn cookies or API tokens.",
+  "cookie": [
+    {
+      "name": "PASTE_COOKIE_EDITOR_EXPORT_HERE",
+      "value": "Do not commit real values"
+    }
+  ],
+  "userAgent": "PASTE_BROWSER_USER_AGENT_HERE",
+  "urls": [
+    "https://www.linkedin.com/in/tibo-the-maker/",
+    "https://www.linkedin.com/in/johnrushx/",
+    "https://www.linkedin.com/in/samanyougarg/",
+    "https://www.linkedin.com/in/jacky-chou/",
+    "https://www.linkedin.com/in/rosshudgens/",
+    "https://www.linkedin.com/in/rosssimmonds/",
+    "https://www.linkedin.com/in/bernardjhuang/",
+    "https://www.linkedin.com/in/timsoulo/",
+    "https://www.linkedin.com/in/gael-breton/",
+    "https://www.linkedin.com/in/pbteja1998/"
+  ],
+  "limitPerSource": 15,
+  "deepScrape": true,
+  "rawData": false,
+  "minDelay": 2,
+  "maxDelay": 4,
+  "proxy": {
+    "useApifyProxy": true,
+    "apifyProxyCountry": "US"
+  }
+}

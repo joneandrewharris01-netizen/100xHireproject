@@ -25,7 +25,7 @@ What was collected:
 - Recent YouTube video inventory for AI SEO/GEO/content operators.
 - 13 YouTube transcript files where captions or local Starter Story transcripts were available.
 - Recent YouTube URLs for additional strong operators where free transcript extraction found no English captions.
-- Per-author LinkedIn collection files and manifest, with the authenticated-scrape blocker documented.
+- Per-author LinkedIn post files and manifest for all 10 AI SEO experts. Browser collection captured 15 recent visible posts each for Tibo Maker, John Rush, and Samanyou Garg, and 5 visible recent posts each for the other seven experts.
 
 Research structure:
 - `research/sources.md` - expert list, source links, dates, annotations, and why each person was selected.
@@ -49,7 +49,7 @@ Chosen experts, strong to weak:
 Quality control:
 - Removed weak or unverified candidates instead of forcing the list: Eugene Zolotarenko, Tanya Van Gastel, and Elston Baretto remain dropped/pending.
 - Prioritized people with real products, agencies, or SaaS growth systems, not generic AI or SEO commentators.
-- Marked LinkedIn scraping as pending because no Apify token or authenticated browser bridge was available in this environment.
+- Documented the Apify actor path for LinkedIn scraping. The actor `curious_coder/linkedin-post-search-scraper` requires LinkedIn cookies and a user agent, so it cannot be run safely from this repo without a provided cookie export or a logged-in Apify console.
 - Kept failed YouTube transcript attempts in the manifest so source coverage and gaps are visible.
 
 Key manifests:
@@ -57,3 +57,4 @@ Key manifests:
 - `research/other/ai-seo-youtube-channel-inventory.csv`
 - `research/linkedin-posts/ai-seo-linkedin-manifest.csv`
 - `research/other/ai-seo-collection-status.md`
+- `research/other/apify-linkedin-post-scraper-input-template.json`
