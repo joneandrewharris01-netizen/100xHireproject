@@ -22,9 +22,9 @@ Topic: AI-powered SEO content production for B2B SaaS, including AI search visib
 What was collected:
 - 10 practitioner-experts ranked from strong to weak fit.
 - Verification CSV with proof strength and source URLs.
-- Recent YouTube video inventory for AI SEO/GEO/content operators.
-- 13 YouTube transcript files where captions or local Starter Story transcripts were available.
-- Recent YouTube URLs for additional strong operators where free transcript extraction found no English captions.
+- Complete recent YouTube video inventory for the 10 AI SEO/GEO/content operators: 70 videos total, 7 per expert.
+- 26 YouTube transcript files where captions, local transcripts, or local ASR were available.
+- Per-video YouTube manifest showing which recent videos have transcripts and which still need paid API/ASR follow-up.
 - Per-author LinkedIn post files and manifest for all 10 AI SEO experts. Browser collection captured 15 recent visible posts each for Tibo Maker, John Rush, and Samanyou Garg, and 5 visible recent posts each for the other seven experts.
 
 Research structure:
@@ -55,6 +55,8 @@ Quality control:
 Key manifests:
 - `research/other/ai-seo-youtube-videos-manifest.csv`
 - `research/other/ai-seo-youtube-channel-inventory.csv`
+- `research/other/ai-seo-youtube-complete-inventory.csv`
+- `research/other/ai-seo-youtube-complete-transcript-manifest.csv`
 - `research/linkedin-posts/ai-seo-linkedin-manifest.csv`
 - `research/other/ai-seo-collection-status.md`
 - `research/other/apify-linkedin-post-scraper-input-template.json`
